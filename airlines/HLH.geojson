@@ -1,0 +1,18 @@
+{
+"location":
+[
+{"airport1":"HLH","airport2":"TSN","lon1":"122.008598","lat1":"46.194439","lon2":"117.3461","lat2":"39.124352","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1859","fltno":"MU5644"}
+	]},
+{"airport1":"HLH","airport2":"NAY","lon1":"122.008598","lat1":"46.194439","lon2":"116.387779","lat2":"39.782501","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1753","fltno":"KN2958"},
+	{"fltype":"B738","reg":"B-5840","fltno":"KN2960"},
+	{"fltype":"B738","reg":"B-1990","fltno":"KN2958"},
+	{"fltype":"B738","reg":"B-7370","fltno":"KN2288"}
+	]}
+]
+}

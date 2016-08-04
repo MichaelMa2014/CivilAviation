@@ -1,0 +1,11 @@
+{
+"location":
+[
+{"airport1":"JNZ","airport2":"PVG","lon1":"121.276947","lat1":"40.936111","lon2":"121.805199","lat2":"31.14337","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1741","fltno":"FM9828"},
+	{"fltype":"B738","reg":"B-1742","fltno":"FM9190"}
+	]}
+]
+}

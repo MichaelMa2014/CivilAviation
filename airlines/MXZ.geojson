@@ -1,0 +1,27 @@
+{
+"location":
+[
+{"airport1":"MXZ","airport2":"CAN","lon1":"116.103996","lat1":"24.268999","lon2":"113.298698","lat2":"23.392429","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3216","fltno":"CZ3340"},
+	{"fltype":"E190","reg":"B-3138","fltno":"CZ3334"},
+	{"fltype":"E190","reg":"B-3205","fltno":"CZ3338"}
+	]},
+{"airport1":"MXZ","airport2":"HAK","lon1":"116.103996","lat1":"24.268999","lon2":"110.4589","lat2":"19.934851","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6193","fltno":"JD5595"}
+	]},
+{"airport1":"MXZ","airport2":"CSX","lon1":"116.103996","lat1":"24.268999","lon2":"113.220833","lat2":"28.196667","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5596","fltno":"CZ6566"}
+	]},
+{"airport1":"MXZ","airport2":"PEK","lon1":"116.103996","lat1":"24.268999","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6417","fltno":"JD5596"}
+	]}
+]
+}

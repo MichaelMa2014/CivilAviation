@@ -1,0 +1,18 @@
+{
+"location":
+[
+{"airport1":"DIG","airport2":"KMG","lon1":"99.67733","lat1":"27.793333","lon2":"102.929169","lat2":"25.101944","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5242","fltno":"MU5940"},
+	{"fltype":"B737","reg":"B-5231","fltno":"MU5936"},
+	{"fltype":"B737","reg":"B-5097","fltno":"MU5811"},
+	{"fltype":"B737","reg":"B-5276","fltno":"MU5940"}
+	]},
+{"airport1":"DIG","airport2":"CTU","lon1":"99.67733","lat1":"27.793333","lon2":"103.946999","lat2":"30.57852","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5054","fltno":"MU5857"}
+	]}
+]
+}

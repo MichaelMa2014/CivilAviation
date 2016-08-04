@@ -1,0 +1,40 @@
+{
+"location":
+[
+{"airport1":"WEH","airport2":"SHA","lon1":"122.236069","lat1":"37.188141","lon2":"121.336304","lat2":"31.19787","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1678","fltno":"MU5582"},
+	{"fltype":"A320","reg":"B-1678","fltno":"MU2286"},
+	{"fltype":"A320","reg":"B-1678","fltno":"MU5582"}
+	]},
+{"airport1":"WEH","airport2":"PEK","lon1":"122.236069","lat1":"37.188141","lon2":"116.584503","lat2":"40.080109","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5783","fltno":"SC4881"},
+	{"fltype":"B738","reg":"B-1978","fltno":"CA1828"},
+	{"fltype":"B738","reg":"B-5453","fltno":"SC4881"},
+	{"fltype":"B738","reg":"B-2645","fltno":"CA1598"}
+	]},
+{"airport1":"WEH","airport2":"HRB","lon1":"122.236069","lat1":"37.188141","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6745","fltno":"CA1787"}
+	]},
+{"airport1":"WEH","airport2":"NKG","lon1":"122.236069","lat1":"37.188141","lon2":"118.862","lat2":"31.742041","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6408","fltno":"CZ3844"}
+	]},
+{"airport1":"WEH","airport2":"TNA","lon1":"122.236069","lat1":"37.188141","lon2":"117.215897","lat2":"36.857208","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5118","fltno":"SC1189"}
+	]},
+{"airport1":"WEH","airport2":"HGH","lon1":"122.236069","lat1":"37.188141","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6745","fltno":"CA1788"}
+	]}
+]
+}

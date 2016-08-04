@@ -1,0 +1,17 @@
+{
+"location":
+[
+{"airport1":"JUZ","airport2":"NAY","lon1":"118.899002","lat1":"28.965799","lon2":"116.387779","lat2":"39.782501","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5209","fltno":"KN5932"},
+	{"fltype":"B737","reg":"B-5210","fltno":"KN5932"}
+	]},
+{"airport1":"JUZ","airport2":"SZX","lon1":"118.899002","lat1":"28.965799","lon2":"113.8106","lat2":"22.63925","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1516","fltno":"ZH9874"},
+	{"fltype":"B738","reg":"B-5413","fltno":"ZH9874"}
+	]}
+]
+}

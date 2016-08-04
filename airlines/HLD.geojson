@@ -1,0 +1,36 @@
+{
+"location":
+[
+{"airport1":"HLD","airport2":"PEK","lon1":"119.824997","lat1":"49.20499","lon2":"116.584503","lat2":"40.080109","num":[5,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5172","fltno":"CA9622"},
+	{"fltype":"B738","reg":"B-5423","fltno":"CA1132"},
+	{"fltype":"B738","reg":"B-6498","fltno":"CA9622"},
+	{"fltype":"B738","reg":"B-1909","fltno":"CA1132"},
+	{"fltype":"B738","reg":"B-5482","fltno":"CN7102"}
+	]},
+{"airport1":"HLD","airport2":"NAY","lon1":"119.824997","lat1":"49.20499","lon2":"116.387779","lat2":"39.782501","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1750","fltno":"KN2290"}
+	]},
+{"airport1":"HLD","airport2":"HET","lon1":"119.824997","lat1":"49.20499","lon2":"111.824097","lat2":"40.851421","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5343","fltno":"CA1133"},
+	{"fltype":"B738","reg":"B-5549","fltno":"FM9128"},
+	{"fltype":"B738","reg":"B-1510","fltno":"SC8872"}
+	]},
+{"airport1":"HLD","airport2":"TGO","lon1":"119.824997","lat1":"49.20499","lon2":"122.199699","lat2":"43.55666","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6901","fltno":"HO1238"}
+	]},
+{"airport1":"HLD","airport2":"HRB","lon1":"119.824997","lat1":"49.20499","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-6981","fltno":"DZ6254"}
+	]}
+]
+}

@@ -1,0 +1,67 @@
+{
+"location":
+[
+{"airport1":"MFM","airport2":"PEK","lon1":"113.591499","lat1":"22.149549","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-MAQ","fltno":"NX6"}
+	]},
+{"airport1":"MFM","airport2":"TPE","lon1":"113.591499","lat1":"22.149549","lon2":"121.232803","lat2":"25.077730","num":[7,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-50011","fltno":"IT302"},
+	{"fltype":"A321","reg":"B-16210","fltno":"BR812"},
+	{"fltype":"A321","reg":"B-MAG","fltno":"NX620"},
+	{"fltype":"A321","reg":"B-16209","fltno":"BR808"},
+	{"fltype":"A321","reg":"B-MBB","fltno":"NX618"},
+	{"fltype":"A321","reg":"B-MBM","fltno":"NX620"},
+	{"fltype":"A321","reg":"B-MCE","fltno":"NX608"}
+	]},
+{"airport1":"MFM","airport2":"SHA","lon1":"113.591499","lat1":"22.149549","lon2":"121.336304","lat2":"31.19787","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-MCC","fltno":"NX138"},
+	{"fltype":"A321","reg":"B-2419","fltno":"MU2056"}
+	]},
+{"airport1":"MFM","airport2":"NNG","lon1":"113.591499","lat1":"22.149549","lon2":"108.172401","lat2":"22.608259","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-MAK","fltno":"NX196"}
+	]},
+{"airport1":"MFM","airport2":"RMQ","lon1":"113.591499","lat1":"22.149549","lon2":"120.620499","lat2":"24.264660","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-16203","fltno":"BR820"}
+	]},
+{"airport1":"MFM","airport2":"HGH","lon1":"113.591499","lat1":"22.149549","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-MAP","fltno":"NX122"}
+	]},
+{"airport1":"MFM","airport2":"WUX","lon1":"113.591499","lat1":"22.149549","lon2":"120.424377","lat2":"31.492889","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5078","fltno":"ZH9796"}
+	]},
+{"airport1":"MFM","airport2":"JJN","lon1":"113.591499","lat1":"22.149549","lon2":"118.587296","lat2":"24.802809","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5219","fltno":"MF892"}
+	]},
+{"airport1":"MFM","airport2":"PVG","lon1":"113.591499","lat1":"22.149549","lon2":"121.805199","lat2":"31.14337","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-1640","fltno":"MU2008"}
+	]},
+{"airport1":"MFM","airport2":"HAK","lon1":"113.591499","lat1":"22.149549","lon2":"110.4589","lat2":"19.934851","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5427","fltno":"HU7936"}
+	]},
+{"airport1":"MFM","airport2":"WUH","lon1":"113.591499","lat1":"22.149549","lon2":"114.208099","lat2":"30.783751","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5237","fltno":"CZ8306"}
+	]}
+]
+}

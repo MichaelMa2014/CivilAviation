@@ -1,0 +1,33 @@
+{
+"location":
+[
+{"airport1":"WXN","airport2":"XMN","lon1":"108.426949","lat1":"30.799679","lon2":"118.127701","lat2":"24.544029","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5152","fltno":"MF8234"}
+	]},
+{"airport1":"WXN","airport2":"SZX","lon1":"108.426949","lat1":"30.799679","lon2":"113.8106","lat2":"22.63925","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6856","fltno":"ZH9770"},
+	{"fltype":"A320","reg":"B-6720","fltno":"ZH9176"},
+	{"fltype":"A320","reg":"B-6648","fltno":"ZH9770"}
+	]},
+{"airport1":"WXN","airport2":"CAN","lon1":"108.426949","lat1":"30.799679","lon2":"113.298698","lat2":"23.392429","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5214","fltno":"CA4335"},
+	{"fltype":"B737","reg":"B-5297","fltno":"CA4277"}
+	]},
+{"airport1":"WXN","airport2":"KMG","lon1":"108.426949","lat1":"30.799679","lon2":"102.929169","lat2":"25.101944","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1662","fltno":"3U8838"}
+	]},
+{"airport1":"WXN","airport2":"HAK","lon1":"108.426949","lat1":"30.799679","lon2":"110.4589","lat2":"19.934851","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6710","fltno":"JD5786"}
+	]}
+]
+}

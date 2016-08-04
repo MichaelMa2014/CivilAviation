@@ -1,0 +1,28 @@
+{
+"location":
+[
+{"airport1":"TCZ","airport2":"KMG","lon1":"98.482025","lat1":"24.939379","lon2":"102.929169","lat2":"25.101944","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5093","fltno":"MU5956"},
+	{"fltype":"B737","reg":"B-5255","fltno":"MU5707"},
+	{"fltype":"B737","reg":"B-5243","fltno":"MU5813"},
+	{"fltype":"A319","reg":"B-6198","fltno":"8L9858"}
+	]},
+{"airport1":"TCZ","airport2":"SZX","lon1":"98.482025","lat1":"24.939379","lon2":"113.8106","lat2":"22.63925","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6197","fltno":"ZH9922"}
+	]},
+{"airport1":"TCZ","airport2":"CKG","lon1":"98.482025","lat1":"24.939379","lon2":"106.641602","lat2":"29.71921","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6246","fltno":"OQ2370"}
+	]},
+{"airport1":"TCZ","airport2":"PEK","lon1":"98.482025","lat1":"24.939379","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5823","fltno":"8L9981"}
+	]}
+]
+}

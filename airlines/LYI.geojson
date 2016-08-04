@@ -1,0 +1,64 @@
+{
+"location":
+[
+{"airport1":"LYI","airport2":"SZX","lon1":"118.411667","lat1":"35.046112","lon2":"113.8106","lat2":"22.63925","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-8146","fltno":"GJ8762"},
+	{"fltype":"A320","reg":"B-1866","fltno":"GJ8762"}
+	]},
+{"airport1":"LYI","airport2":"CAN","lon1":"118.411667","lat1":"35.046112","lon2":"113.298698","lat2":"23.392429","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6647","fltno":"ZH9616"},
+	{"fltype":"A320","reg":"B-8077","fltno":"ZH9616"}
+	]},
+{"airport1":"LYI","airport2":"SHA","lon1":"118.411667","lat1":"35.046112","lon2":"121.336304","lat2":"31.19787","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6696","fltno":"MU5550"},
+	{"fltype":"B738","reg":"B-5705","fltno":"FM9240"},
+	{"fltype":"A320","reg":"B-6617","fltno":"MU5550"}
+	]},
+{"airport1":"LYI","airport2":"PEK","lon1":"118.411667","lat1":"35.046112","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5258","fltno":"MU2074"}
+	]},
+{"airport1":"LYI","airport2":"NAY","lon1":"118.411667","lat1":"35.046112","lon2":"116.387779","lat2":"39.782501","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1751","fltno":"KN5922"}
+	]},
+{"airport1":"LYI","airport2":"SHE","lon1":"118.411667","lat1":"35.046112","lon2":"123.483398","lat2":"41.639839","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6615","fltno":"ZH9615"}
+	]},
+{"airport1":"LYI","airport2":"WNZ","lon1":"118.411667","lat1":"35.046112","lon2":"120.851898","lat2":"27.91222","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3168","fltno":"GS6425"}
+	]},
+{"airport1":"LYI","airport2":"XIY","lon1":"118.411667","lat1":"35.046112","lon2":"108.751503","lat2":"34.447109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6771","fltno":"3U8556"}
+	]},
+{"airport1":"LYI","airport2":"HRB","lon1":"118.411667","lat1":"35.046112","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-8145","fltno":"GJ8761"}
+	]},
+{"airport1":"LYI","airport2":"HGH","lon1":"118.411667","lat1":"35.046112","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6638","fltno":"MU2668"}
+	]},
+{"airport1":"LYI","airport2":"PVG","lon1":"118.411667","lat1":"35.046112","lon2":"121.805199","lat2":"31.14337","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-8276","fltno":"MU5552"}
+	]}
+]
+}

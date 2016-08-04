@@ -1,0 +1,20 @@
+{
+"location":
+[
+{"airport1":"SYM","airport2":"KMG","lon1":"100.962219","lat1":"22.79657","lon2":"102.929169","lat2":"25.101944","num":[6,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5096","fltno":"MU5894"},
+	{"fltype":"B737","reg":"B-5255","fltno":"MU5900"},
+	{"fltype":"B737","reg":"B-5282","fltno":"MU5892"},
+	{"fltype":"B737","reg":"B-5828","fltno":"MU5719"},
+	{"fltype":"B737","reg":"B-5822","fltno":"MU5898"},
+	{"fltype":"B737","reg":"B-5243","fltno":"MU5900"}
+	]},
+{"airport1":"SYM","airport2":"CTU","lon1":"100.962219","lat1":"22.79657","lon2":"103.946999","lat2":"30.57852","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5806","fltno":"8L9604"}
+	]}
+]
+}

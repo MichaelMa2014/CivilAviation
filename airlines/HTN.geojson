@@ -1,0 +1,16 @@
+{
+"location":
+[
+{"airport1":"HTN","airport2":"URC","lon1":"79.864929","lat1":"37.038521","lon2":"87.474243","lat2":"43.907101","num":[7,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3145","fltno":"CZ6812"},
+	{"fltype":"A320","reg":"B-1658","fltno":"GS7554"},
+	{"fltype":"E190","reg":"B-3146","fltno":"CZ6818"},
+	{"fltype":"A320","reg":"B-6789","fltno":"GS7554"},
+	{"fltype":"E190","reg":"B-3145","fltno":"CZ6812"},
+	{"fltype":"B737","reg":"B-5232","fltno":"CZ6818"},
+	{"fltype":"E190","reg":"B-3146","fltno":"CZ6820"}
+	]}
+]
+}

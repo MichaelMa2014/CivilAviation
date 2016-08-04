@@ -1,0 +1,40 @@
+{
+"location":
+[
+{"airport1":"LZO","airport2":"PEK","lon1":"105.379021","lat1":"28.844757","lon2":"116.584503","lat2":"40.080109","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-2682","fltno":"MU5492"},
+	{"fltype":"B737","reg":"B-5293","fltno":"MU5709"},
+	{"fltype":"B737","reg":"B-5257","fltno":"MU5492"}
+	]},
+{"airport1":"LZO","airport2":"SZX","lon1":"105.379021","lat1":"28.844757","lon2":"113.8106","lat2":"22.63925","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1697","fltno":"CZ6390"}
+	]},
+{"airport1":"LZO","airport2":"CAN","lon1":"105.379021","lat1":"28.844757","lon2":"113.298698","lat2":"23.392429","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5803","fltno":"CA4339"},
+	{"fltype":"B737","reg":"B-5803","fltno":"CA4351"}
+	]},
+{"airport1":"LZO","airport2":"PVG","lon1":"105.379021","lat1":"28.844757","lon2":"121.805199","lat2":"31.14337","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6469","fltno":"MU5446"}
+	]},
+{"airport1":"LZO","airport2":"HGH","lon1":"105.379021","lat1":"28.844757","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5802","fltno":"MU5877"}
+	]},
+{"airport1":"LZO","airport2":"KMG","lon1":"105.379021","lat1":"28.844757","lon2":"102.929169","lat2":"25.101944","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5258","fltno":"MU5491"},
+	{"fltype":"B737","reg":"B-5293","fltno":"MU5710"},
+	{"fltype":"B737","reg":"B-5802","fltno":"MU5878"}
+	]}
+]
+}

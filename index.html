@@ -1,0 +1,639 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Modern Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <script type="application/x-javascript">
+        addEventListener("load", function() {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+    <!-- Graph CSS -->
+    <link href="css/lines.css" rel='stylesheet' type='text/css' />
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!----webfonts--->
+    <link href='http://fonts.useso.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+    <!---//webfonts--->
+    <!-- Nav CSS -->
+    <link href="css/custom.css" rel="stylesheet">
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="js/metisMenu.min.js"></script>
+    <script src="js/custom.js"></script>
+    <!-- Graph JavaScript -->
+    <script src="js/d3.v3.js"></script>
+    <script src="js/rickshaw.js"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false"></script>
+    <script type="text/javascript" src="d3/d3.min.js"></script>
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+</head>
+<style type="text/css">
+    path {
+        fill: #aaa;
+        stroke: #fff;
+    }
+
+    .overlay {
+        fill: none;
+        pointer-events: all;
+    }
+
+    .route {
+        stroke: black;
+        stroke-width: 1px;
+        fill: black;
+    }
+</style>
+
+<body>
+    <div id="wrapper">
+        <!-- Navigation -->
+        <nav class="top1 navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">FlightData Platform</a>
+            </div>
+            <!-- /.navbar-header -->
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-comments-o"></i><span class="badge">4</span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-menu-header">
+                            <strong>Messages</strong>
+                            <div class="progress thin">
+                                <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                                    <span class="sr-only">40% Complete (success)</span>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="avatar">
+                            <a href="#">
+                                <img src="images/1.jpg" alt="" />
+                                <div>New message</div>
+                                <small>1 minute ago</small>
+                                <span class="label label-info">NEW</span>
+                            </a>
+                        </li>
+                        <li class="avatar">
+                            <a href="#">
+                                <img src="images/2.png" alt="" />
+                                <div>New message</div>
+                                <small>1 minute ago</small>
+                                <span class="label label-info">NEW</span>
+                            </a>
+                        </li>
+                        <li class="avatar">
+                            <a href="#">
+                                <img src="images/3.png" alt="" />
+                                <div>New message</div>
+                                <small>1 minute ago</small>
+                            </a>
+                        </li>
+                        <li class="avatar">
+                            <a href="#">
+                                <img src="images/4.png" alt="" />
+                                <div>New message</div>
+                                <small>1 minute ago</small>
+                            </a>
+                        </li>
+                        <li class="avatar">
+                            <a href="#">
+                                <img src="images/5.png" alt="" />
+                                <div>New message</div>
+                                <small>1 minute ago</small>
+                            </a>
+                        </li>
+                        <li class="avatar">
+                            <a href="#">
+                                <img src="images/pic1.png" alt="" />
+                                <div>New message</div>
+                                <small>1 minute ago</small>
+                            </a>
+                        </li>
+                        <li class="dropdown-menu-footer text-center">
+                            <a href="#">View all messages</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle avatar" data-toggle="dropdown"><img src="images/1.jpg"><span class="badge">9</span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-menu-header text-center">
+                            <strong>Account</strong>
+                        </li>
+                        <li class="m_2"><a href="#"><i class="fa fa-bell-o"></i> Updates <span class="label label-info">42</span></a></li>
+                        <li class="m_2"><a href="#"><i class="fa fa-envelope-o"></i> Messages <span class="label label-success">42</span></a></li>
+                        <li class="m_2"><a href="#"><i class="fa fa-tasks"></i> Tasks <span class="label label-danger">42</span></a></li>
+                        <li><a href="#"><i class="fa fa-comments"></i> Comments <span class="label label-warning">42</span></a></li>
+                        <li class="dropdown-menu-header text-center">
+                            <strong>Settings</strong>
+                        </li>
+                        <li class="m_2"><a href="#"><i class="fa fa-user"></i> Profile</a></li>
+                        <li class="m_2"><a href="#"><i class="fa fa-wrench"></i> Settings</a></li>
+                        <li class="m_2"><a href="#"><i class="fa fa-usd"></i> Payments <span class="label label-default">42</span></a></li>
+                        <li class="m_2"><a href="#"><i class="fa fa-file"></i> Projects <span class="label label-primary">42</span></a></li>
+                        <li class="divider"></li>
+                        <li class="m_2"><a href="#"><i class="fa fa-shield"></i> Lock Profile</a></li>
+                        <li class="m_2"><a href="#"><i class="fa fa-lock"></i> Logout</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <form class="navbar-form navbar-right">
+                <input type="text" class="form-control" value="Search..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search...';}">
+            </form>
+            <div class="navbar-default sidebar" role="navigation">
+                <div class="sidebar-nav navbar-collapse">
+                    <ul class="nav" id="side-menu">
+                        <li>
+                            <a href="index.html"><i class="fa fa-dashboard fa-fw nav_icon"></i>Dashboard</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-laptop nav_icon"></i>Layouts<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="grids.html">Grid System</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-indent nav_icon"></i>Menu Levels<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="graphs.html">Graphs</a>
+                                </li>
+                                <li>
+                                    <a href="typography.html">Typography</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-envelope nav_icon"></i>Mailbox<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="inbox.html">Inbox</a>
+                                </li>
+                                <li>
+                                    <a href="compose.html">Compose email</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                        <li>
+                            <a href="widgets.html"><i class="fa fa-flask nav_icon"></i>Widgets</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-check-square-o nav_icon"></i>Forms<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="forms.html">Basic Forms</a>
+                                </li>
+                                <li>
+                                    <a href="validation.html">Validation</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-table nav_icon"></i>Tables<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="basic_tables.html">Basic Tables</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-sitemap fa-fw nav_icon"></i>Css<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="media.html">Media</a>
+                                </li>
+                                <li>
+                                    <a href="login.html">Login</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+        <div class="copyrights">Collect from <a href="http://www.cssmoban.com/">网页模板</a></div>
+        <div id="page-wrapper">
+            <div class="graphs">
+                <!-- 4 Buttons -->
+                <div class="col_3">
+                    <div class="col-md-3 widget widget1">
+                        <div class="r3_counter_box">
+                            <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
+                            <div class="stats">
+                                <h5><strong>机场</strong></h5>
+                                <span>机场分布信息</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 widget widget1">
+                        <div class="r3_counter_box">
+                            <i class="pull-left fa fa-users user1 icon-rounded"></i>
+                            <div class="stats">
+                                <h5><strong>航线</strong></h5>
+                                <span>航线分布信息</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 widget widget1">
+                        <div class="r3_counter_box">
+                            <i class="pull-left fa fa-comment user2 icon-rounded"></i>
+                            <div class="stats">
+                                <h5><strong>航班</strong></h5>
+                                <span>实时航班数据</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 widget">
+                        <div class="r3_counter_box">
+                            <i class="pull-left fa fa-dollar dollar1 icon-rounded"></i>
+                            <div class="stats">
+                                <h5><strong>航区</strong></h5>
+                                <span>航区分布信息</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+                <div class="span_11">
+                    <!--主图-->
+                    <div class="col-md-8 col_4">
+                        <div class="map_container">
+                            <div id="vmap" style="padding: 10px; height: 600px;">
+                                <script type="text/javascript">
+                                    console.log("Drawing main map...");
+
+                                    var airport;
+                                    var airline;
+                                    var feature;
+
+                                    var w = document.getElementById("vmap").scrollWidth - 20;
+                                    var h = document.getElementById("vmap").scrollHeight - 20;
+
+                                    var scale0 = (w - 1) / 2 / Math.PI;
+
+                                    var projection = d3.geo.mercator();
+
+                                    var zoom = d3.behavior.zoom()
+                                        .translate([w / 2, h / 2])
+                                        .scale(scale0)
+                                        .scaleExtent([scale0, 8 * scale0])
+                                        .on("zoom", zoomed);
+
+
+                                    var path = d3.geo.path()
+                                        .projection(projection);
+
+
+                                    var svg = d3.select("#vmap").append("svg")
+                                        .attr("width", w)
+                                        .attr("height", h)
+                                        // .append("g");
+
+                                    feature = svg.append("g");
+
+                                    svg.append("rect")
+                                        .attr("class", "overlay")
+                                        .attr("width", w)
+                                        .attr("height", h);
+
+                                    svg.call(zoom)
+                                        .call(zoom.event);
+
+                                    function zoomed() {
+
+                                        projection.translate(zoom.translate())
+                                            .scale(zoom.scale());
+
+                                        feature.selectAll("path")
+                                            .attr("d", path);
+
+                                        svg.selectAll(".location")
+                                            .attr("transform", function(d) { // 投影到屏幕上地球的对应位置
+                                                var coor = projection([d.lon, d.lat]);
+                                                return "translate(" + coor[0] + "," + coor[1] + ")";
+                                            })
+                                    }
+
+
+
+                                    //    绘制世界地图
+                                    d3.json("worldmap.json", function(maproot) {
+                                        // var maproot = topojson.feature(collection,collection.objects.worldmap);
+                                        feature.selectAll("path")
+                                            .data(maproot.features)
+                                            .enter()
+                                            .append("path")
+                                            .attr("d", path);
+
+                                        feature.selectAll("title")
+                                            .data(maproot.features)
+                                            .enter()
+                                            .append("title")
+                                            .text(function(d) {
+                                                return d.properties.name;
+                                            });
+
+                                    });
+
+                                    var len = 20;
+                                    d3.json("airport.geojson", function(error, airport) {
+                                        if (error)
+                                            return console.error(error);
+
+                                        var airport = svg.selectAll(".location")
+                                            .data(airport.location)
+                                            .enter()
+                                            .append("g")
+                                            .attr("class", "location")
+                                            .attr("transform", function(d) {
+                                                var coor = projection([d.lon, d.lat]);
+                                                return "translate(" + coor[0] + "," + coor[1] + ")";
+                                            });
+
+                                        airport.append("image")
+                                            .attr("x", -len / 2)
+                                            .attr("y", -len / 2)
+                                            .attr("width", len)
+                                            .attr("height", len)
+                                            .attr("xlink:href", "images/airport_1.svg")
+                                            .on("mouseover", function(d, i) {
+                                                d3.select(this)
+                                                    .attr("xlink:href", "images/airport_2.svg");
+
+                                                d3.json("airlines/" + d.name + ".geojson", function(error, airline) {
+                                                    if (error) {
+                                                        // TODO 没有找到 geojson 时将机场图标改为红色
+                                                        return console.error(error);
+                                                    }
+
+                                                    var lines = svg.selectAll("line")
+                                                        .data(airline.location)
+                                                        .enter()
+                                                        .append("line")
+                                                        .attr("class", "route")
+                                                        .attr("x1", function(d) {
+                                                            var coor = projection([d.lon1, d.lat1]);
+                                                            return coor[0];
+                                                        })
+                                                        .attr("y1", function(d) {
+                                                            var coor = projection([d.lon1, d.lat1]);
+                                                            return coor[1];
+                                                        })
+                                                        .attr("x2", function(d) {
+                                                            var coor = projection([d.lon2, d.lat2]);
+                                                            return coor[0];
+                                                        })
+                                                        .attr("y2", function(d) {
+                                                            var coor = projection([d.lon2, d.lat2]);
+                                                            return coor[1];
+                                                        });
+
+                                                    lines.on("click", function(d) {
+                                                        svg.selectAll("#details").remove();
+
+                                                        d3.select("body").select("#data").selectAll(".details")
+                                                            .data(d.details)
+                                                            .enter()
+                                                            .append("p")
+                                                            .attr("class", "details")
+                                                            .text(function(d) {
+                                                                return "flight type : " + d.fltype + "registration : " + d.reg + "flight No. : " + d.fltno;
+                                                            });
+                                                        var myairline = svg.selectAll(".route");
+                                                        myairline.remove();
+                                                    });
+                                                });
+                                                var myairline = svg.selectAll(".route");
+                                                myairline.remove();
+                                            })
+                                            .on("mouseout", function() {
+                                                d3.select(this)
+                                                    .attr("xlink:href", "images/airport_1.svg");
+                                            });
+                                    });
+                                </script>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--google地图-->
+                    <div class="col-md-4 col_5">
+                        <div id="googleMap" style="width:100%;height:600px;">
+                            <script>
+                                var myCenter = new google.maps.LatLng(51.508742, -0.120850);
+                                var map;
+
+                                function initialize() {
+                                    var mapProp = {
+                                        center: myCenter,
+                                        zoom: 5,
+                                        mapTypeId: google.maps.MapTypeId.ROADMAP
+                                    };
+
+                                    map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+
+                                    var marker = new google.maps.Marker({
+                                        position: myCenter,
+                                        title: 'Click to zoom'
+                                    });
+
+                                    marker.setMap(map);
+
+                                    // Zoom to 9 when clicking on marker
+                                    google.maps.event.addListener(marker, 'click', function() {
+                                        map.setZoom(9);
+                                        map.setCenter(marker.getPosition());
+                                    });
+                                }
+                                google.maps.event.addDomListener(window, 'load', initialize);
+
+                                function setCente(i, j) {
+                                    map.setZoom(12);
+                                    map.setCenter(new google.maps.LatLng(i, j));
+                                }
+                            </script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <div class="content_bottom">
+                <div class="col-md-8 span_3">
+                    <div class="bs-example1" data-example-id="contextual-table">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Column heading</th>
+                                    <th>Column heading</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="active">
+                                    <th scope="row">1</th>
+                                    <td>机型：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">2</th>
+                                    <td>代码：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr class="success">
+                                    <th scope="row">3</th>
+                                    <td>长度：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">4</th>
+                                    <td>翼展：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr class="info">
+                                    <th scope="row">5</th>
+                                    <td>高度：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">6</th>
+                                    <td>载客量：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr class="warning">
+                                    <th scope="row">7</th>
+                                    <td>最大商载：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">8</th>
+                                    <td>货舱容积：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">9</th>
+                                    <td>最大油箱容量：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">10</th>
+                                    <td>最大起飞重量：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">11</th>
+                                    <td>最大航程：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">12</th>
+                                    <td>动力配置：</td>
+                                    <td>Column content</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">13</th>
+                                    <td>发动机型号：</td>
+                                    <td>Column content</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-md-4 span_4">
+                    <div class="col_2">
+                        <div class="box_1">
+                            <div class="col-md-6 col_1_of_2 span_1_of_2">
+                                <a class="tiles_info">
+                                    <div class="tiles-head red1">
+                                        <div class="text-center">Orders</div>
+                                    </div>
+                                    <div class="tiles-body red">10</div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 col_1_of_2 span_1_of_2">
+                                <a class="tiles_info tiles_blue">
+                                    <div class="tiles-head tiles_blue1">
+                                        <div class="text-center">Sales</div>
+                                    </div>
+                                    <div class="tiles-body blue1">30</div>
+                                </a>
+                            </div>
+                            <div class="clearfix"> </div>
+                        </div>
+                        <div class="box_1">
+                            <div class="col-md-6 col_1_of_2 span_1_of_2">
+                                <a class="tiles_info">
+                                    <div class="tiles-head fb1">
+                                        <div class="text-center">Facebook</div>
+                                    </div>
+                                    <div class="tiles-body fb2">10</div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 col_1_of_2 span_1_of_2">
+                                <a class="tiles_info tiles_blue">
+                                    <div class="tiles-head tw1">
+                                        <div class="text-center">Twitter</div>
+                                    </div>
+                                    <div class="tiles-body tw2">30</div>
+                                </a>
+                            </div>
+                            <div class="clearfix"> </div>
+                        </div>
+                    </div>
+                    <div class="cloud">
+                        <div class="grid-date">
+                            <div class="date">
+                                <p class="date-in">New York</p>
+                                <span class="date-on">°F °C </span>
+                                <div class="clearfix"> </div>
+                            </div>
+                            <h4>30°<i class="fa fa-cloud-upload"> </i></h4>
+                        </div>
+                        <p class="monday">Monday 10 July</p>
+                    </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <div class="copy">
+                <p>Copyright &copy; 2016.Billow_jt</p>
+            </div>
+        </div>
+    </div>
+    <!-- /#page-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

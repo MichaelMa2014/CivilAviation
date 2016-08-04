@@ -1,0 +1,41 @@
+{
+"location":
+[
+{"airport1":"NNY","airport2":"HAK","lon1":"112.610001","lat1":"32.98","lon2":"110.4589","lat2":"19.934851","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-8169","fltno":"JD5598"}
+	]},
+{"airport1":"NNY","airport2":"CAN","lon1":"112.610001","lat1":"32.98","lon2":"113.298698","lat2":"23.392429","num":[5,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5609","fltno":"CZ8648"},
+	{"fltype":"E190","reg":"B-3139","fltno":"CZ3384"},
+	{"fltype":"B738","reg":"B-5699","fltno":"CZ8668"},
+	{"fltype":"E190","reg":"B-3139","fltno":"CZ3222"},
+	{"fltype":"B738","reg":"B-1701","fltno":"CZ8648"}
+	]},
+{"airport1":"NNY","airport2":"NAY","lon1":"112.610001","lat1":"32.98","lon2":"116.387779","lat2":"39.782501","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5838","fltno":"KN5838"},
+	{"fltype":"B738","reg":"B-5470","fltno":"KN5836"}
+	]},
+{"airport1":"NNY","airport2":"CTU","lon1":"112.610001","lat1":"32.98","lon2":"103.946999","lat2":"30.57852","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3209","fltno":"CZ6344"},
+	{"fltype":"E190","reg":"B-3209","fltno":"CZ6344"}
+	]},
+{"airport1":"NNY","airport2":"HGH","lon1":"112.610001","lat1":"32.98","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3209","fltno":"CZ6343"}
+	]},
+{"airport1":"NNY","airport2":"PVG","lon1":"112.610001","lat1":"32.98","lon2":"121.805199","lat2":"31.14337","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3206","fltno":"CZ3149"}
+	]}
+]
+}

@@ -1,0 +1,11 @@
+{
+"location":
+[
+{"airport1":"HMI","airport2":"PEK","lon1":"93.669441","lat1":"42.842499","lon2":"116.584503","lat2":"40.080109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5044","fltno":"CA1268"},
+	{"fltype":"B737","reg":"B-5044","fltno":"CA1270"}
+	]}
+]
+}

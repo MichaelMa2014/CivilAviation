@@ -1,0 +1,27 @@
+{
+"location":
+[
+{"airport1":"GYS","airport2":"PEK","lon1":"105.693336","lat1":"32.389999","lon2":"116.584503","lat2":"40.080109","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5043","fltno":"CA9608"},
+	{"fltype":"B737","reg":"B-5043","fltno":"CA1458"},
+	{"fltype":"B737","reg":"B-5043","fltno":"CA9608"}
+	]},
+{"airport1":"GYS","airport2":"CAN","lon1":"105.693336","lat1":"32.389999","lon2":"113.298698","lat2":"23.392429","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5296","fltno":"CA1422"}
+	]},
+{"airport1":"GYS","airport2":"HGH","lon1":"105.693336","lat1":"32.389999","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6023","fltno":"CA9806"}
+	]},
+{"airport1":"GYS","airport2":"PVG","lon1":"105.693336","lat1":"32.389999","lon2":"121.805199","lat2":"31.14337","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6471","fltno":"MU5504"}
+	]}
+]
+}

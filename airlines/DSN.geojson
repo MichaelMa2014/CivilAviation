@@ -1,0 +1,60 @@
+{
+"location":
+[
+{"airport1":"DSN","airport2":"XIY","lon1":"110.033333","lat1":"39.849998","lon2":"108.751503","lat2":"34.447109","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6429","fltno":"MU2142"},
+	{"fltype":"A319","reg":"B-6428","fltno":"MU2366"},
+	{"fltype":"A319","reg":"B-6428","fltno":"MU2284"}
+	]},
+{"airport1":"DSN","airport2":"KMG","lon1":"110.033333","lat1":"39.849998","lon2":"102.929169","lat2":"25.101944","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-6149","fltno":"MU5822"}
+	]},
+{"airport1":"DSN","airport2":"PVG","lon1":"110.033333","lat1":"39.849998","lon2":"121.805199","lat2":"31.14337","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5260","fltno":"FM9394"},
+	{"fltype":"B737","reg":"B-5269","fltno":"FM9394"}
+	]},
+{"airport1":"DSN","airport2":"PEK","lon1":"110.033333","lat1":"39.849998","lon2":"116.584503","lat2":"40.080109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5398","fltno":"CA1150"},
+	{"fltype":"B738","reg":"B-5328","fltno":"CA1150"}
+	]},
+{"airport1":"DSN","airport2":"NAY","lon1":"110.033333","lat1":"39.849998","lon2":"116.387779","lat2":"39.782501","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5840","fltno":"KN2275"},
+	{"fltype":"B737","reg":"B-5209","fltno":"KN2277"}
+	]},
+{"airport1":"DSN","airport2":"CGQ","lon1":"110.033333","lat1":"39.849998","lon2":"125.685303","lat2":"43.996208","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6476","fltno":"MU2141"}
+	]},
+{"airport1":"DSN","airport2":"HRB","lon1":"110.033333","lat1":"39.849998","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1702","fltno":"MU5821"}
+	]},
+{"airport1":"DSN","airport2":"SHE","lon1":"110.033333","lat1":"39.849998","lon2":"123.483398","lat2":"41.639839","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6442","fltno":"3U8969"}
+	]},
+{"airport1":"DSN","airport2":"CGO","lon1":"110.033333","lat1":"39.849998","lon2":"113.840797","lat2":"34.519669","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5677","fltno":"CZ3597"}
+	]},
+{"airport1":"DSN","airport2":"CTU","lon1":"110.033333","lat1":"39.849998","lon2":"103.946999","lat2":"30.57852","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6442","fltno":"3U8970"}
+	]}
+]
+}

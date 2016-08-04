@@ -1,0 +1,24 @@
+{
+"location":
+[
+{"airport1":"CIF","airport2":"HGH","lon1":"118.908302","lat1":"42.235001","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1866","fltno":"GJ8758"}
+	]},
+{"airport1":"CIF","airport2":"PEK","lon1":"118.908302","lat1":"42.235001","lon2":"116.584503","lat2":"40.080109","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-8222","fltno":"MU2772"},
+	{"fltype":"B738","reg":"B-1529","fltno":"CA1282"},
+	{"fltype":"A320","reg":"B-9970","fltno":"MU2772"},
+	{"fltype":"B738","reg":"B-5170","fltno":"CA1282"}
+	]},
+{"airport1":"CIF","airport2":"NAY","lon1":"118.908302","lat1":"42.235001","lon2":"116.387779","lat2":"39.782501","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1750","fltno":"KN2930"},
+	{"fltype":"B738","reg":"B-1989","fltno":"KN2932"}
+	]}
+]
+}

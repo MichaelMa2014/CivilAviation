@@ -1,0 +1,17 @@
+{
+"location":
+[
+{"airport1":"YIN","airport2":"URC","lon1":"81.330276","lat1":"43.955833","lon2":"87.474243","lat2":"43.907101","num":[8,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3136","fltno":"CZ6894"},
+	{"fltype":"B738","reg":"B-5762","fltno":"CZ6830"},
+	{"fltype":"B738","reg":"B-1743","fltno":"SC8806"},
+	{"fltype":"E190","reg":"B-3148","fltno":"CZ6689"},
+	{"fltype":"E190","reg":"B-3136","fltno":"CZ6828"},
+	{"fltype":"B738","reg":"B-5760","fltno":"CZ6971"},
+	{"fltype":"E190","reg":"B-3137","fltno":"CZ6894"},
+	{"fltype":"B738","reg":"B-1748","fltno":"CZ6826"}
+	]}
+]
+}

@@ -1,0 +1,35 @@
+{
+"location":
+[
+{"airport1":"YNJ","airport2":"PVG","lon1":"129.439362","lat1":"42.885662","lon2":"121.805199","lat2":"31.14337","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6585","fltno":"MU5652"},
+	{"fltype":"A320","reg":"B-6399","fltno":"MU5652"}
+	]},
+{"airport1":"YNJ","airport2":"TAO","lon1":"129.439362","lat1":"42.885662","lon2":"120.374397","lat2":"36.266102","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5531","fltno":"SC8714"},
+	{"fltype":"B737","reg":"B-5207","fltno":"SC4642"},
+	{"fltype":"A320","reg":"B-6335","fltno":"MU5672"},
+	{"fltype":"B738","reg":"B-5648","fltno":"SC8714"}
+	]},
+{"airport1":"YNJ","airport2":"DLC","lon1":"129.439362","lat1":"42.885662","lon2":"121.538597","lat2":"38.96566","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6703","fltno":"CZ6530"}
+	]},
+{"airport1":"YNJ","airport2":"YNT","lon1":"129.439362","lat1":"42.885662","lon2":"120.987221","lat2":"37.657223","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-2335","fltno":"MU2180"}
+	]},
+{"airport1":"YNJ","airport2":"PEK","lon1":"129.439362","lat1":"42.885662","lon2":"116.584503","lat2":"40.080109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5170","fltno":"CA1616"},
+	{"fltype":"B738","reg":"B-1947","fltno":"CA9658"}
+	]}
+]
+}

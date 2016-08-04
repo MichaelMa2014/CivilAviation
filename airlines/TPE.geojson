@@ -1,0 +1,282 @@
+{
+"location":
+[
+{"airport1":"TPE","airport2":"MFM","lon1":"121.232803","lat1":"25.077730","lon2":"113.591499","lat2":"22.149549","num":[15,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-50001","fltno":"IT301"},
+	{"fltype":"A321","reg":"B-MCA","fltno":"NX615"},
+	{"fltype":"A320","reg":"B-50003","fltno":"IT303"},
+	{"fltype":"A320","reg":"B-50001","fltno":"IT301"},
+	{"fltype":"A320","reg":"B-MBC","fltno":"NX605"},
+	{"fltype":"A321","reg":"B-MAG","fltno":"NX619"},
+	{"fltype":"A321","reg":"B-16209","fltno":"BR807"},
+	{"fltype":"A320","reg":"B-22311","fltno":"GE351"},
+	{"fltype":"A320","reg":"B-50005","fltno":"IT8303"},
+	{"fltype":"B744","reg":"B-16412","fltno":"BR801"},
+	{"fltype":"A320","reg":"B-22310","fltno":"GE353"},
+	{"fltype":"A321","reg":"B-16209","fltno":"BR811"},
+	{"fltype":"A321","reg":"B-16218","fltno":"BR805"},
+	{"fltype":"A320","reg":"B-22310","fltno":"GE355"},
+	{"fltype":"A320","reg":"B-50007","fltno":"IT303"}
+	]},
+{"airport1":"TPE","airport2":"YNT","lon1":"121.232803","lat1":"25.077730","lon2":"120.987221","lat2":"37.657223","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A333","reg":"B-18311","fltno":"CI547"},
+	{"fltype":"B738","reg":"B-5591","fltno":"SC4078"},
+	{"fltype":"B738","reg":"B-5352","fltno":"SC4078"}
+	]},
+{"airport1":"TPE","airport2":"SYX","lon1":"121.232803","lat1":"25.077730","lon2":"109.412201","lat2":"18.302891","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-18658","fltno":"CI525"}
+	]},
+{"airport1":"TPE","airport2":"PVG","lon1":"121.232803","lat1":"25.077730","lon2":"121.805199","lat2":"31.14337","num":[21,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6682","fltno":"CZ3096"},
+	{"fltype":"A333","reg":"B-22101","fltno":"GE304"},
+	{"fltype":"A332","reg":"B-6099","fltno":"MU5006"},
+	{"fltype":"A332","reg":"B-5949","fltno":"MU7038"},
+	{"fltype":"B744","reg":"B-16402","fltno":"BR6376"},
+	{"fltype":"B77L","reg":"B-2078","fltno":"CK262"},
+	{"fltype":"B77W","reg":"B-18003","fltno":"CI501"},
+	{"fltype":"A332","reg":"B-8231","fltno":"MU7040"},
+	{"fltype":"B77W","reg":"B-16708","fltno":"BR712"},
+	{"fltype":"A320","reg":"B-1892","fltno":"9C8952"},
+	{"fltype":"B77W","reg":"B-16702","fltno":"BR752"},
+	{"fltype":"A333","reg":"B-6512","fltno":"CA196"},
+	{"fltype":"A320","reg":"B-6682","fltno":"CZ3096"},
+	{"fltype":"B77W","reg":"B-16708","fltno":"BR722"},
+	{"fltype":"B77W","reg":"B-18001","fltno":"CI503"},
+	{"fltype":"A332","reg":"B-5930","fltno":"MU5006"},
+	{"fltype":"A333","reg":"B-22102","fltno":"GE304"},
+	{"fltype":"A333","reg":"B-18358","fltno":"CI505"},
+	{"fltype":"A332","reg":"B-5943","fltno":"MU7038"},
+	{"fltype":"B744","reg":"B-18718","fltno":"CI5897"},
+	{"fltype":"B744","reg":"B-2409","fltno":"CA1092"}
+	]},
+{"airport1":"TPE","airport2":"HGH","lon1":"121.232803","lat1":"25.077730","lon2":"120.434402","lat2":"30.2295","num":[6,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-6883","fltno":"CA558"},
+	{"fltype":"A332","reg":"B-16308","fltno":"BR758"},
+	{"fltype":"B738","reg":"B-5318","fltno":"MF886"},
+	{"fltype":"A321","reg":"B-6848","fltno":"CA150"},
+	{"fltype":"A321","reg":"B-6848","fltno":"CA558"},
+	{"fltype":"B77W","reg":"B-16703","fltno":"BR758"}
+	]},
+{"airport1":"TPE","airport2":"WUH","lon1":"121.232803","lat1":"25.077730","lon2":"114.208099","lat2":"30.783751","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5731","fltno":"MU2088"},
+	{"fltype":"B738","reg":"B-5192","fltno":"CZ3016"}
+	]},
+{"airport1":"TPE","airport2":"SHE","lon1":"121.232803","lat1":"25.077730","lon2":"123.483398","lat2":"41.639839","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-9917","fltno":"CZ3012"},
+	{"fltype":"A320","reg":"B-6357","fltno":"ZH9026"}
+	]},
+{"airport1":"TPE","airport2":"HAK","lon1":"121.232803","lat1":"25.077730","lon2":"110.4589","lat2":"19.934851","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-6063","fltno":"HU7948"},
+	{"fltype":"B738","reg":"B-18610","fltno":"CI523"}
+	]},
+{"airport1":"TPE","airport2":"NKG","lon1":"121.232803","lat1":"25.077730","lon2":"118.862","lat2":"31.742041","num":[5,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-6366","fltno":"MU5002"},
+	{"fltype":"A321","reg":"B-6366","fltno":"MU7808"},
+	{"fltype":"A320","reg":"B-9927","fltno":"MU7802"},
+	{"fltype":"A321","reg":"B-6368","fltno":"MU5002"},
+	{"fltype":"A332","reg":"B-16307","fltno":"B7126"}
+	]},
+{"airport1":"TPE","airport2":"PEK","lon1":"121.232803","lat1":"25.077730","lon2":"116.584503","lat2":"40.080109","num":[6,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A333","reg":"B-6512","fltno":"CA190"},
+	{"fltype":"B77W","reg":"B-18052","fltno":"CI511"},
+	{"fltype":"A333","reg":"B-6525","fltno":"CA632"},
+	{"fltype":"A333","reg":"B-6511","fltno":"CA186"},
+	{"fltype":"B744","reg":"B-16412","fltno":"BR716"},
+	{"fltype":"B738","reg":"B-5462","fltno":"HU7988"}
+	]},
+{"airport1":"TPE","airport2":"CTU","lon1":"121.232803","lat1":"25.077730","lon2":"103.946999","lat2":"30.57852","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-6361","fltno":"CA418"},
+	{"fltype":"A321","reg":"B-16210","fltno":"BR765"}
+	]},
+{"airport1":"TPE","airport2":"CSX","lon1":"121.232803","lat1":"25.077730","lon2":"113.220833","lat2":"28.196667","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5847","fltno":"MF890"},
+	{"fltype":"B738","reg":"B-1971","fltno":"MF8960"},
+	{"fltype":"A320","reg":"B-6281","fltno":"CZ3018"}
+	]},
+{"airport1":"TPE","airport2":"FOC","lon1":"121.232803","lat1":"25.077730","lon2":"119.6632","lat2":"25.935061","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5535","fltno":"MF8972"},
+	{"fltype":"A321","reg":"B-16210","fltno":"B7179"},
+	{"fltype":"B738","reg":"B-5752","fltno":"MF880"}
+	]},
+{"airport1":"TPE","airport2":"KWL","lon1":"121.232803","lat1":"25.077730","lon2":"110.039101","lat2":"25.2181","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5836","fltno":"CZ3020"},
+	{"fltype":"B738","reg":"B-5587","fltno":"CZ3020"}
+	]},
+{"airport1":"TPE","airport2":"SZX","lon1":"121.232803","lat1":"25.077730","lon2":"113.8106","lat2":"22.63925","num":[5,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B744","reg":"B-18706","fltno":"CI5927"},
+	{"fltype":"A333","reg":"B-6500","fltno":"CZ3088"},
+	{"fltype":"B77W","reg":"B-18003","fltno":"CI527"},
+	{"fltype":"B77W","reg":"B-16719","fltno":"B7187"},
+	{"fltype":"B738","reg":"B-5736","fltno":"ZH9096"}
+	]},
+{"airport1":"TPE","airport2":"DYG","lon1":"121.232803","lat1":"25.077730","lon2":"110.445686","lat2":"29.107121","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-22607","fltno":"GE328"},
+	{"fltype":"A320","reg":"B-50005","fltno":"IT109"}
+	]},
+{"airport1":"TPE","airport2":"CAN","lon1":"121.232803","lat1":"25.077730","lon2":"113.298698","lat2":"23.392429","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A332","reg":"B-16307","fltno":"BR707"},
+	{"fltype":"B738","reg":"B-5462","fltno":"HU7982"},
+	{"fltype":"B77W","reg":"B-18053","fltno":"CI521"},
+	{"fltype":"B77W","reg":"B-2099","fltno":"CZ3098"}
+	]},
+{"airport1":"TPE","airport2":"CGO","lon1":"121.232803","lat1":"25.077730","lon2":"113.840797","lat2":"34.519669","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-16208","fltno":"BR710"},
+	{"fltype":"B738","reg":"B-5678","fltno":"CZ3024"},
+	{"fltype":"B738","reg":"B-18657","fltno":"AE993"}
+	]},
+{"airport1":"TPE","airport2":"XMN","lon1":"121.232803","lat1":"25.077730","lon2":"118.127701","lat2":"24.544029","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A333","reg":"B-18311","fltno":"AE991"},
+	{"fltype":"B788","reg":"B-2768","fltno":"MF888"},
+	{"fltype":"B738","reg":"B-6483","fltno":"MF8970"},
+	{"fltype":"B744","reg":"B-18719","fltno":"CI5991"}
+	]},
+{"airport1":"TPE","airport2":"TAO","lon1":"121.232803","lat1":"25.077730","lon2":"120.374397","lat2":"36.266102","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-16218","fltno":"B7102"},
+	{"fltype":"A320","reg":"B-9945","fltno":"MU2042"},
+	{"fltype":"B738","reg":"B-5513","fltno":"SC4086"}
+	]},
+{"airport1":"TPE","airport2":"TNA","lon1":"121.232803","lat1":"25.077730","lon2":"117.215897","lat2":"36.857208","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1983","fltno":"SC4098"},
+	{"fltype":"A321","reg":"B-16219","fltno":"BR762"}
+	]},
+{"airport1":"TPE","airport2":"YNZ","lon1":"121.232803","lat1":"25.077730","lon2":"120.125275","lat2":"33.385555","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-16202","fltno":"B7176"}
+	]},
+{"airport1":"TPE","airport2":"NGB","lon1":"121.232803","lat1":"25.077730","lon2":"121.461899","lat2":"29.826679","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1861","fltno":"MU2010"}
+	]},
+{"airport1":"TPE","airport2":"KHN","lon1":"121.232803","lat1":"25.077730","lon2":"115.900002","lat2":"28.865","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6829","fltno":"MU2048"},
+	{"fltype":"A333","reg":"B-18315","fltno":"CI545"}
+	]},
+{"airport1":"TPE","airport2":"KWE","lon1":"121.232803","lat1":"25.077730","lon2":"106.800697","lat2":"26.538521","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-6068","fltno":"CZ3022"}
+	]},
+{"airport1":"TPE","airport2":"HRB","lon1":"121.232803","lat1":"25.077730","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6762","fltno":"CZ3010"}
+	]},
+{"airport1":"TPE","airport2":"WUX","lon1":"121.232803","lat1":"25.077730","lon2":"120.424377","lat2":"31.492889","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5378","fltno":"ZH9022"},
+	{"fltype":"A333","reg":"B-18311","fltno":"CI509"},
+	{"fltype":"A321","reg":"B-6332","fltno":"MU2932"}
+	]},
+{"airport1":"TPE","airport2":"CGQ","lon1":"121.232803","lat1":"25.077730","lon2":"125.685303","lat2":"43.996208","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-1606","fltno":"CZ3052"}
+	]},
+{"airport1":"TPE","airport2":"HFE","lon1":"121.232803","lat1":"25.077730","lon2":"116.970474","lat2":"31.986345","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6799","fltno":"MU2050"}
+	]},
+{"airport1":"TPE","airport2":"XIY","lon1":"121.232803","lat1":"25.077730","lon2":"108.751503","lat2":"34.447109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1503","fltno":"HU7980"},
+	{"fltype":"A333","reg":"B-18353","fltno":"CI561"}
+	]},
+{"airport1":"TPE","airport2":"URC","lon1":"121.232803","lat1":"25.077730","lon2":"87.474243","lat2":"43.907101","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A333","reg":"B-18356","fltno":"CI563"}
+	]},
+{"airport1":"TPE","airport2":"YTY","lon1":"121.232803","lat1":"25.077730","lon2":"119.718887","lat2":"32.563057","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5198","fltno":"CA762"},
+	{"fltype":"B738","reg":"B-18601","fltno":"CI555"}
+	]},
+{"airport1":"TPE","airport2":"DLC","lon1":"121.232803","lat1":"25.077730","lon2":"121.538597","lat2":"38.96566","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A333","reg":"B-18357","fltno":"CI535"},
+	{"fltype":"A321","reg":"B-16208","fltno":"B7106"}
+	]},
+{"airport1":"TPE","airport2":"NTG","lon1":"121.232803","lat1":"25.077730","lon2":"120.975601","lat2":"32.072922","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6315","fltno":"ZH9052"}
+	]},
+{"airport1":"TPE","airport2":"XUZ","lon1":"121.232803","lat1":"25.077730","lon2":"117.554077","lat2":"34.052925","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-22607","fltno":"GE318"}
+	]},
+{"airport1":"TPE","airport2":"WNZ","lon1":"121.232803","lat1":"25.077730","lon2":"120.851898","lat2":"27.91222","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6236","fltno":"CA836"}
+	]},
+{"airport1":"TPE","airport2":"KMG","lon1":"121.232803","lat1":"25.077730","lon2":"102.929169","lat2":"25.101944","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6323","fltno":"3U8958"}
+	]},
+{"airport1":"TPE","airport2":"NNG","lon1":"121.232803","lat1":"25.077730","lon2":"108.172401","lat2":"22.608259","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5776","fltno":"ZH9590"}
+	]},
+{"airport1":"TPE","airport2":"CKG","lon1":"121.232803","lat1":"25.077730","lon2":"106.641602","lat2":"29.71921","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5390","fltno":"CA410"},
+	{"fltype":"B744","reg":"B-18722","fltno":"CI5997"}
+	]}
+]
+}

@@ -1,0 +1,18 @@
+{
+"location":
+[
+{"airport1":"BSD","airport2":"PEK","lon1":"99.16143","lat1":"25.055182","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5295","fltno":"MU9741"}
+	]},
+{"airport1":"BSD","airport2":"KMG","lon1":"99.16143","lat1":"25.055182","lon2":"102.929169","lat2":"25.101944","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5259","fltno":"MU5982"},
+	{"fltype":"B737","reg":"B-5809","fltno":"MU5737"},
+	{"fltype":"B737","reg":"B-5821","fltno":"MU5896"},
+	{"fltype":"B737","reg":"B-5259","fltno":"MU5982"}
+	]}
+]
+}

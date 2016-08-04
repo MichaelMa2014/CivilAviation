@@ -1,0 +1,49 @@
+{
+"location":
+[
+{"airport1":"YBP","airport2":"SZX","lon1":"104.543953","lat1":"28.797659","lon2":"113.8106","lat2":"22.63925","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6197","fltno":"ZH9162"},
+	{"fltype":"A319","reg":"B-6159","fltno":"ZH9728"},
+	{"fltype":"A319","reg":"B-6153","fltno":"ZH9728"}
+	]},
+{"airport1":"YBP","airport2":"PVG","lon1":"104.543953","lat1":"28.797659","lon2":"121.805199","lat2":"31.14337","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6423","fltno":"MU7178"},
+	{"fltype":"A319","reg":"B-6459","fltno":"MU5268"}
+	]},
+{"airport1":"YBP","airport2":"CAN","lon1":"104.543953","lat1":"28.797659","lon2":"113.298698","lat2":"23.392429","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5297","fltno":"CA4239"},
+	{"fltype":"A319","reg":"B-6165","fltno":"ZH9578"}
+	]},
+{"airport1":"YBP","airport2":"SYX","lon1":"104.543953","lat1":"28.797659","lon2":"109.412201","lat2":"18.302891","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-2300","fltno":"3U8511"}
+	]},
+{"airport1":"YBP","airport2":"PEK","lon1":"104.543953","lat1":"28.797659","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5202","fltno":"CA1460"}
+	]},
+{"airport1":"YBP","airport2":"WUH","lon1":"104.543953","lat1":"28.797659","lon2":"114.208099","lat2":"30.783751","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5282","fltno":"MU9713"}
+	]},
+{"airport1":"YBP","airport2":"XIY","lon1":"104.543953","lat1":"28.797659","lon2":"108.751503","lat2":"34.447109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-2300","fltno":"3U8512"}
+	]},
+{"airport1":"YBP","airport2":"KMG","lon1":"104.543953","lat1":"28.797659","lon2":"102.929169","lat2":"25.101944","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5282","fltno":"MU9714"}
+	]}
+]
+}

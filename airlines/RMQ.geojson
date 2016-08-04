@@ -1,0 +1,57 @@
+{
+"location":
+[
+{"airport1":"RMQ","airport2":"KNH","lon1":"120.620499","lat1":"24.264660","lon2":"118.359100","lat2":"24.427891","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"AT76","reg":"B-17001","fltno":"B78951"},
+	{"fltype":"E190","reg":"B-16828","fltno":"AE763"},
+	{"fltype":"AT76","reg":"B-17002","fltno":"B78959"},
+	{"fltype":"AT76","reg":"B-17002","fltno":"B78961"}
+	]},
+{"airport1":"RMQ","airport2":"MZG","lon1":"120.620499","lat1":"24.264660","lon2":"119.628304","lat2":"23.568661","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"AT76","reg":"B-17009","fltno":"B78631"},
+	{"fltype":"AT76","reg":"B-17009","fltno":"B78631"},
+	{"fltype":"MD83","reg":"B-28025","fltno":"FE3051"},
+	{"fltype":"AT76","reg":"B-17009","fltno":"B78639"}
+	]},
+{"airport1":"RMQ","airport2":"TSN","lon1":"120.620499","lat1":"24.264660","lon2":"117.3461","lat2":"39.124352","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1620","fltno":"GS7952"}
+	]},
+{"airport1":"RMQ","airport2":"MFM","lon1":"120.620499","lat1":"24.264660","lon2":"113.591499","lat2":"22.149549","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-16203","fltno":"BR815"},
+	{"fltype":"A320","reg":"B-22312","fltno":"GE367"}
+	]},
+{"airport1":"RMQ","airport2":"XMN","lon1":"120.620499","lat1":"24.264660","lon2":"118.127701","lat2":"24.544029","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-22317","fltno":"GE384"}
+	]},
+{"airport1":"RMQ","airport2":"TYN","lon1":"120.620499","lat1":"24.264660","lon2":"112.628403","lat2":"37.746891","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"MD83","reg":"B-28025","fltno":"FE9101"}
+	]},
+{"airport1":"RMQ","airport2":"NKG","lon1":"120.620499","lat1":"24.264660","lon2":"118.862","lat2":"31.742041","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-16203","fltno":"B7530"}
+	]},
+{"airport1":"RMQ","airport2":"NGB","lon1":"120.620499","lat1":"24.264660","lon2":"121.461899","lat2":"29.826679","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-16828","fltno":"AE965"}
+	]},
+{"airport1":"RMQ","airport2":"PVG","lon1":"120.620499","lat1":"24.264660","lon2":"121.805199","lat2":"31.14337","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-22611","fltno":"GE380"}
+	]}
+]
+}

@@ -1,0 +1,71 @@
+{
+"location":
+[
+{"airport1":"YTY","airport2":"XIY","lon1":"119.718887","lat1":"32.563057","lon2":"108.751503","lat2":"34.447109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-9909","fltno":"ZH9746"},
+	{"fltype":"A320","reg":"B-1841","fltno":"ZH9746"}
+	]},
+{"airport1":"YTY","airport2":"SHE","lon1":"119.718887","lat1":"32.563057","lon2":"123.483398","lat2":"41.639839","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6721","fltno":"ZH9849"},
+	{"fltype":"A320","reg":"B-1842","fltno":"ZH9849"}
+	]},
+{"airport1":"YTY","airport2":"HAK","lon1":"119.718887","lat1":"32.563057","lon2":"110.4589","lat2":"19.934851","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3192","fltno":"GS7867"},
+	{"fltype":"E190","reg":"B-3100","fltno":"GS7867"}
+	]},
+{"airport1":"YTY","airport2":"TSN","lon1":"119.718887","lat1":"32.563057","lon2":"117.3461","lat2":"39.124352","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"E190","reg":"B-3171","fltno":"GS7868"},
+	{"fltype":"E190","reg":"B-3117","fltno":"GS7868"}
+	]},
+{"airport1":"YTY","airport2":"PEK","lon1":"119.718887","lat1":"32.563057","lon2":"116.584503","lat2":"40.080109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1978","fltno":"CA1864"},
+	{"fltype":"B738","reg":"B-5496","fltno":"CA1842"}
+	]},
+{"airport1":"YTY","airport2":"CAN","lon1":"119.718887","lat1":"32.563057","lon2":"113.298698","lat2":"23.392429","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6019","fltno":"CZ3958"}
+	]},
+{"airport1":"YTY","airport2":"CTU","lon1":"119.718887","lat1":"32.563057","lon2":"103.946999","lat2":"30.57852","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-2373","fltno":"3U8906"}
+	]},
+{"airport1":"YTY","airport2":"TPE","lon1":"119.718887","lat1":"32.563057","lon2":"121.232803","lat2":"25.077730","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5198","fltno":"CA761"},
+	{"fltype":"B738","reg":"B-18601","fltno":"CI556"}
+	]},
+{"airport1":"YTY","airport2":"SZX","lon1":"119.718887","lat1":"32.563057","lon2":"113.8106","lat2":"22.63925","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6939","fltno":"ZH9850"}
+	]},
+{"airport1":"YTY","airport2":"SYX","lon1":"119.718887","lat1":"32.563057","lon2":"109.412201","lat2":"18.302891","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6286","fltno":"ZH9439"}
+	]},
+{"airport1":"YTY","airport2":"XMN","lon1":"119.718887","lat1":"32.563057","lon2":"118.127701","lat2":"24.544029","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1841","fltno":"ZH9745"}
+	]},
+{"airport1":"YTY","airport2":"HRB","lon1":"119.718887","lat1":"32.563057","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6286","fltno":"ZH9440"}
+	]}
+]
+}

@@ -1,0 +1,30 @@
+{
+"location":
+[
+{"airport1":"HYN","airport2":"CAN","lon1":"121.428596","lat1":"28.56222","lon2":"113.298698","lat2":"23.392429","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5501","fltno":"MU2476"},
+	{"fltype":"A320","reg":"B-6781","fltno":"ZH9648"},
+	{"fltype":"A320","reg":"B-6650","fltno":"ZH9614"},
+	{"fltype":"B738","reg":"B-5530","fltno":"MU2476"}
+	]},
+{"airport1":"HYN","airport2":"WUH","lon1":"121.428596","lat1":"28.56222","lon2":"114.208099","lat2":"30.783751","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1632","fltno":"EU2712"},
+	{"fltype":"A320","reg":"B-1633","fltno":"EU2712"}
+	]},
+{"airport1":"HYN","airport2":"SZX","lon1":"121.428596","lat1":"28.56222","lon2":"113.8106","lat2":"22.63925","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1935","fltno":"ZH9804"},
+	{"fltype":"B738","reg":"B-5860","fltno":"ZH9804"}
+	]},
+{"airport1":"HYN","airport2":"PEK","lon1":"121.428596","lat1":"28.56222","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5447","fltno":"CA1852"}
+	]}
+]
+}

@@ -1,0 +1,17 @@
+{
+"location":
+[
+{"airport1":"JGN","airport2":"XIY","lon1":"98.410004","lat1":"39.830002","lon2":"108.751503","lat2":"34.447109","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-9975","fltno":"MU2323"},
+	{"fltype":"A320","reg":"B-6693","fltno":"MU2161"},
+	{"fltype":"A320","reg":"B-6877","fltno":"MU2323"}
+	]},
+{"airport1":"JGN","airport2":"LHW","lon1":"98.410004","lat1":"39.830002","lon2":"103.620697","lat2":"36.51524","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1609","fltno":"MU2417"}
+	]}
+]
+}

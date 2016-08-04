@@ -1,0 +1,25 @@
+{
+"location":
+[
+{"airport1":"LUM","airport2":"KMG","lon1":"98.531898","lat1":"24.405279","lon2":"102.929169","lat2":"25.101944","num":[11,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5097","fltno":"MU5763"},
+	{"fltype":"A319","reg":"B-6198","fltno":"8L9936"},
+	{"fltype":"B737","reg":"B-5094","fltno":"MU5972"},
+	{"fltype":"B737","reg":"B-5810","fltno":"8L9641"},
+	{"fltype":"B737","reg":"B-5823","fltno":"8L9934"},
+	{"fltype":"B737","reg":"B-5816","fltno":"MU5980"},
+	{"fltype":"A319","reg":"B-6178","fltno":"JD5792"},
+	{"fltype":"B737","reg":"B-5809","fltno":"MU5976"},
+	{"fltype":"B737","reg":"B-6141","fltno":"MU5715"},
+	{"fltype":"B737","reg":"B-5820","fltno":"MU5763"},
+	{"fltype":"B737","reg":"B-5093","fltno":"MU5972"}
+	]},
+{"airport1":"LUM","airport2":"CAN","lon1":"98.531898","lat1":"24.405279","lon2":"113.298698","lat2":"23.392429","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5095","fltno":"MU5735"}
+	]}
+]
+}

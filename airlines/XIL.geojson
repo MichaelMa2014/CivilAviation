@@ -1,0 +1,17 @@
+{
+"location":
+[
+{"airport1":"XIL","airport2":"NAY","lon1":"115.963799","lat1":"43.91555","lon2":"116.387779","lat2":"39.782501","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5223","fltno":"KN2962"},
+	{"fltype":"B737","reg":"B-5223","fltno":"KN2966"},
+	{"fltype":"B737","reg":"B-5223","fltno":"KN2962"}
+	]},
+{"airport1":"XIL","airport2":"PEK","lon1":"115.963799","lat1":"43.91555","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-6106","fltno":"CA1110"}
+	]}
+]
+}

@@ -1,0 +1,155 @@
+{
+"location":
+[
+{"airport1":"NAY","airport2":"CIH","lon1":"116.387779","lat1":"39.782501","lon2":"113.125801","lat2":"36.247501","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5208","fltno":"KN2927"},
+	{"fltype":"B737","reg":"B-5209","fltno":"KN2925"}
+	]},
+{"airport1":"NAY","airport2":"CIF","lon1":"116.387779","lat1":"39.782501","lon2":"118.908302","lat2":"42.235001","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1750","fltno":"KN2929"},
+	{"fltype":"B738","reg":"B-1750","fltno":"KN2929"},
+	{"fltype":"B738","reg":"B-1989","fltno":"KN2931"}
+	]},
+{"airport1":"NAY","airport2":"SZX","lon1":"116.387779","lat1":"39.782501","lon2":"113.8106","lat2":"22.63925","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5547","fltno":"KN5851"},
+	{"fltype":"B738","reg":"B-5471","fltno":"KN5851"}
+	]},
+{"airport1":"NAY","airport2":"WNZ","lon1":"116.387779","lat1":"39.782501","lon2":"120.851898","lat2":"27.91222","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-7371","fltno":"KN5915"},
+	{"fltype":"B738","reg":"B-7370","fltno":"KN5917"},
+	{"fltype":"B738","reg":"B-7371","fltno":"KN5915"},
+	{"fltype":"B738","reg":"B-1753","fltno":"KN5917"}
+	]},
+{"airport1":"NAY","airport2":"SYX","lon1":"116.387779","lat1":"39.782501","lon2":"109.412201","lat2":"18.302891","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-7372","fltno":"KN5831"},
+	{"fltype":"B738","reg":"B-7371","fltno":"KN5829"},
+	{"fltype":"B738","reg":"B-7372","fltno":"KN5831"}
+	]},
+{"airport1":"NAY","airport2":"CTU","lon1":"116.387779","lat1":"39.782501","lon2":"103.946999","lat2":"30.57852","num":[4,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1523","fltno":"KN5215"},
+	{"fltype":"B738","reg":"B-1990","fltno":"KN5217"},
+	{"fltype":"B738","reg":"B-5471","fltno":"KN5215"},
+	{"fltype":"B738","reg":"B-1989","fltno":"KN5217"}
+	]},
+{"airport1":"NAY","airport2":"HRB","lon1":"116.387779","lat1":"39.782501","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5448","fltno":"KN5507"}
+	]},
+{"airport1":"NAY","airport2":"HLH","lon1":"116.387779","lat1":"39.782501","lon2":"122.008598","lat2":"46.194439","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1753","fltno":"KN2957"},
+	{"fltype":"B738","reg":"B-5840","fltno":"KN2959"},
+	{"fltype":"B738","reg":"B-7370","fltno":"KN2287"}
+	]},
+{"airport1":"NAY","airport2":"PVG","lon1":"116.387779","lat1":"39.782501","lon2":"121.805199","lat2":"31.14337","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5208","fltno":"KN5987"},
+	{"fltype":"B737","reg":"B-5210","fltno":"KN5987"}
+	]},
+{"airport1":"NAY","airport2":"XFN","lon1":"116.387779","lat1":"39.782501","lon2":"112.290802","lat2":"32.150551","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5840","fltno":"KN5811"},
+	{"fltype":"B738","reg":"B-5839","fltno":"KN5811"}
+	]},
+{"airport1":"NAY","airport2":"BAV","lon1":"116.387779","lat1":"39.782501","lon2":"109.996902","lat2":"40.55999","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1752","fltno":"KN2907"},
+	{"fltype":"B737","reg":"B-5223","fltno":"KN2901"},
+	{"fltype":"B737","reg":"B-5209","fltno":"KN2901"}
+	]},
+{"airport1":"NAY","airport2":"UYN","lon1":"116.387779","lat1":"39.782501","lon2":"109.730278","lat2":"38.274166","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5470","fltno":"KN5661"}
+	]},
+{"airport1":"NAY","airport2":"NNY","lon1":"116.387779","lat1":"39.782501","lon2":"112.610001","lat2":"32.98","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5838","fltno":"KN5837"},
+	{"fltype":"B738","reg":"B-5470","fltno":"KN5835"}
+	]},
+{"airport1":"NAY","airport2":"XMN","lon1":"116.387779","lat1":"39.782501","lon2":"118.127701","lat2":"24.544029","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-7372","fltno":"KN5925"}
+	]},
+{"airport1":"NAY","airport2":"TGO","lon1":"116.387779","lat1":"39.782501","lon2":"122.199699","lat2":"43.55666","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1523","fltno":"KN2917"}
+	]},
+{"airport1":"NAY","airport2":"LYI","lon1":"116.387779","lat1":"39.782501","lon2":"118.411667","lat2":"35.046112","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1751","fltno":"KN5921"}
+	]},
+{"airport1":"NAY","airport2":"HNY","lon1":"116.387779","lat1":"39.782501","lon2":"112.618057","lat2":"26.721945","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1989","fltno":"KN5701"}
+	]},
+{"airport1":"NAY","airport2":"JIC","lon1":"116.387779","lat1":"39.782501","lon2":"102.347778","lat2":"38.541943","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5448","fltno":"KN5655"}
+	]},
+{"airport1":"NAY","airport2":"BFJ","lon1":"116.387779","lat1":"39.782501","lon2":"105.301392","lat2":"27.300278","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5208","fltno":"KN5229"}
+	]},
+{"airport1":"NAY","airport2":"IQN","lon1":"116.387779","lat1":"39.782501","lon2":"107.602997","lat2":"35.799702","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5839","fltno":"KN5605"}
+	]},
+{"airport1":"NAY","airport2":"LYG","lon1":"116.387779","lat1":"39.782501","lon2":"118.873596","lat2":"34.571659","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1750","fltno":"KN5905"}
+	]},
+{"airport1":"NAY","airport2":"CAN","lon1":"116.387779","lat1":"39.782501","lon2":"113.298698","lat2":"23.392429","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1751","fltno":"KN5819"}
+	]},
+{"airport1":"NAY","airport2":"FUG","lon1":"116.387779","lat1":"39.782501","lon2":"115.734367","lat2":"32.882156","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5470","fltno":"KN5911"}
+	]},
+{"airport1":"NAY","airport2":"SHA","lon1":"116.387779","lat1":"39.782501","lon2":"121.336304","lat2":"31.19787","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1750","fltno":"KN5955"}
+	]},
+{"airport1":"NAY","airport2":"XIL","lon1":"116.387779","lat1":"39.782501","lon2":"115.963799","lat2":"43.91555","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5223","fltno":"KN2965"},
+	{"fltype":"B737","reg":"B-5223","fltno":"KN2961"}
+	]},
+{"airport1":"NAY","airport2":"DAT","lon1":"116.387779","lat1":"39.782501","lon2":"113.481361","lat2":"40.055538","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5209","fltno":"KN2251"}
+	]}
+]
+}

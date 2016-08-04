@@ -1,0 +1,38 @@
+{
+"location":
+[
+{"airport1":"WUS","airport2":"PEK","lon1":"117.966667","lat1":"27.716667","lon2":"116.584503","lat2":"40.080109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5633","fltno":"MF8121"},
+	{"fltype":"B738","reg":"B-5633","fltno":"MF8121"}
+	]},
+{"airport1":"WUS","airport2":"SHA","lon1":"117.966667","lat1":"27.716667","lon2":"121.336304","lat2":"31.19787","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-1863","fltno":"MU5536"},
+	{"fltype":"A320","reg":"B-8237","fltno":"MU5536"}
+	]},
+{"airport1":"WUS","airport2":"XIY","lon1":"117.966667","lat1":"27.716667","lon2":"108.751503","lat2":"34.447109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5333","fltno":"SC4879"}
+	]},
+{"airport1":"WUS","airport2":"CAN","lon1":"117.966667","lat1":"27.716667","lon2":"113.298698","lat2":"23.392429","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1986","fltno":"SC4711"}
+	]},
+{"airport1":"WUS","airport2":"XMN","lon1":"117.966667","lat1":"27.716667","lon2":"118.127701","lat2":"24.544029","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1912","fltno":"MF8082"},
+	{"fltype":"B738","reg":"B-5333","fltno":"SC4880"}
+	]},
+{"airport1":"WUS","airport2":"NNG","lon1":"117.966667","lat1":"27.716667","lon2":"108.172401","lat2":"22.608259","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-8237","fltno":"MU5535"}
+	]}
+]
+}

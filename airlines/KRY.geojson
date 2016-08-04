@@ -1,0 +1,22 @@
+{
+"location":
+[
+{"airport1":"KRY","airport2":"URC","lon1":"84.952499","lat1":"45.466389","lon2":"87.474243","lat2":"43.907101","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1748","fltno":"CZ6682"},
+	{"fltype":"E190","reg":"B-3136","fltno":"CZ6684"},
+	{"fltype":"E190","reg":"B-3199","fltno":"CZ6682"}
+	]},
+{"airport1":"KRY","airport2":"KRL","lon1":"84.952499","lat1":"45.466389","lon2":"86.120003","lat2":"41.689999","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6225","fltno":"CA4248"}
+	]},
+{"airport1":"KRY","airport2":"PEK","lon1":"84.952499","lat1":"45.466389","lon2":"116.584503","lat2":"40.080109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1977","fltno":"CA1234"}
+	]}
+]
+}

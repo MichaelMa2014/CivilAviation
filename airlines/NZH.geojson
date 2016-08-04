@@ -1,0 +1,17 @@
+{
+"location":
+[
+{"airport1":"NZH","airport2":"PEK","lon1":"117.32","lat1":"49.560001","lon2":"116.584503","lat2":"40.080109","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1729","fltno":"HU7116"},
+	{"fltype":"A320","reg":"B-1691","fltno":"JD5564"},
+	{"fltype":"B738","reg":"B-5338","fltno":"HU7116"}
+	]},
+{"airport1":"NZH","airport2":"HRB","lon1":"117.32","lat1":"49.560001","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-6836","fltno":"3U8860"}
+	]}
+]
+}

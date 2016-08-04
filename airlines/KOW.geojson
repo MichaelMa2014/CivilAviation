@@ -1,0 +1,39 @@
+{
+"location":
+[
+{"airport1":"KOW","airport2":"PEK","lon1":"114.776665","lat1":"25.851667","lon2":"116.584503","lat2":"40.080109","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5696","fltno":"CA1490"},
+	{"fltype":"A320","reg":"B-2352","fltno":"CZ3255"},
+	{"fltype":"B738","reg":"B-5585","fltno":"CA1490"}
+	]},
+{"airport1":"KOW","airport2":"SHA","lon1":"114.776665","lat1":"25.851667","lon2":"121.336304","lat2":"31.19787","num":[3,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A321","reg":"B-1680","fltno":"MU2993"},
+	{"fltype":"A321","reg":"B-6926","fltno":"MU7158"},
+	{"fltype":"A321","reg":"B-9906","fltno":"MU2993"}
+	]},
+{"airport1":"KOW","airport2":"HGH","lon1":"114.776665","lat1":"25.851667","lon2":"120.434402","lat2":"30.2295","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6947","fltno":"8L9873"}
+	]},
+{"airport1":"KOW","airport2":"KMG","lon1":"114.776665","lat1":"25.851667","lon2":"102.929169","lat2":"25.101944","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6947","fltno":"8L9874"}
+	]},
+{"airport1":"KOW","airport2":"XMN","lon1":"114.776665","lat1":"25.851667","lon2":"118.127701","lat2":"24.544029","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6448","fltno":"3U8937"}
+	]},
+{"airport1":"KOW","airport2":"CTU","lon1":"114.776665","lat1":"25.851667","lon2":"103.946999","lat2":"30.57852","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6448","fltno":"3U8938"}
+	]}
+]
+}

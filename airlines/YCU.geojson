@@ -1,0 +1,58 @@
+{
+"location":
+[
+{"airport1":"YCU","airport2":"CAN","lon1":"110.992996","lat1":"35.018002","lon2":"113.298698","lat2":"23.392429","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5297","fltno":"CA1391"},
+	{"fltype":"B737","reg":"B-5203","fltno":"CA1391"}
+	]},
+{"airport1":"YCU","airport2":"PEK","lon1":"110.992996","lat1":"35.018002","lon2":"116.584503","lat2":"40.080109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5342","fltno":"CA1140"},
+	{"fltype":"B738","reg":"B-5167","fltno":"CA1238"}
+	]},
+{"airport1":"YCU","airport2":"PVG","lon1":"110.992996","lat1":"35.018002","lon2":"121.805199","lat2":"31.14337","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5801","fltno":"FM9832"},
+	{"fltype":"B738","reg":"B-6108","fltno":"FM9146"}
+	]},
+{"airport1":"YCU","airport2":"KMG","lon1":"110.992996","lat1":"35.018002","lon2":"102.929169","lat2":"25.101944","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-6499","fltno":"CA1481"}
+	]},
+{"airport1":"YCU","airport2":"HRB","lon1":"110.992996","lat1":"35.018002","lon2":"126.250298","lat2":"45.623402","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6575","fltno":"CZ6721"}
+	]},
+{"airport1":"YCU","airport2":"CTU","lon1":"110.992996","lat1":"35.018002","lon2":"103.946999","lat2":"30.57852","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6046","fltno":"CA4184"}
+	]},
+{"airport1":"YCU","airport2":"TSN","lon1":"110.992996","lat1":"35.018002","lon2":"117.3461","lat2":"39.124352","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-6499","fltno":"CA1482"}
+	]},
+{"airport1":"YCU","airport2":"SZX","lon1":"110.992996","lat1":"35.018002","lon2":"113.8106","lat2":"22.63925","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A319","reg":"B-6197","fltno":"ZH9840"}
+	]},
+{"airport1":"YCU","airport2":"NKG","lon1":"110.992996","lat1":"35.018002","lon2":"118.862","lat2":"31.742041","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5790","fltno":"MF8112"}
+	]},
+{"airport1":"YCU","airport2":"SYX","lon1":"110.992996","lat1":"35.018002","lon2":"109.412201","lat2":"18.302891","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"A320","reg":"B-6575","fltno":"CZ6722"}
+	]}
+]
+}

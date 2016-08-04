@@ -1,0 +1,19 @@
+{
+"location":
+[
+{"airport1":"JMU","airport2":"TAO","lon1":"130.455414","lat1":"46.845394","lon2":"120.374397","lat2":"36.266102","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B737","reg":"B-5827","fltno":"FM9170"}
+	]},
+{"airport1":"JMU","airport2":"PEK","lon1":"130.455414","lat1":"46.845394","lon2":"116.584503","lat2":"40.080109","num":[5,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5438","fltno":"CA9628"},
+	{"fltype":"B738","reg":"B-6105","fltno":"CA1692"},
+	{"fltype":"B738","reg":"B-1501","fltno":"HU7622"},
+	{"fltype":"B738","reg":"B-5438","fltno":"CA9616"},
+	{"fltype":"B738","reg":"B-5341","fltno":"CA9628"}
+	]}
+]
+}

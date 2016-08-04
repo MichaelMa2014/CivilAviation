@@ -1,0 +1,51 @@
+{
+"location":
+[
+{"airport1":"YIW","airport2":"XIY","lon1":"120.028809","lat1":"29.344563","lon2":"108.751503","lat2":"34.447109","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-1996","fltno":"HU7140"}
+	]},
+{"airport1":"YIW","airport2":"PEK","lon1":"120.028809","lat1":"29.344563","lon2":"116.584503","lat2":"40.080109","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5746","fltno":"CZ3725"},
+	{"fltype":"B738","reg":"B-5746","fltno":"CZ3725"}
+	]},
+{"airport1":"YIW","airport2":"SWA","lon1":"120.028809","lat1":"29.344563","lon2":"116.505836","lat2":"23.5525","num":[5,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5718","fltno":"CZ6556"},
+	{"fltype":"E190","reg":"B-3117","fltno":"GS6546"},
+	{"fltype":"B738","reg":"B-5742","fltno":"CZ6656"},
+	{"fltype":"B738","reg":"B-1920","fltno":"CZ6661"},
+	{"fltype":"B738","reg":"B-5716","fltno":"CZ6556"}
+	]},
+{"airport1":"YIW","airport2":"XMN","lon1":"120.028809","lat1":"29.344563","lon2":"118.127701","lat2":"24.544029","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5837","fltno":"CZ6489"}
+	]},
+{"airport1":"YIW","airport2":"ZUH","lon1":"120.028809","lat1":"29.344563","lon2":"113.376297","lat2":"22.00666","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5746","fltno":"CZ6703"}
+	]},
+{"airport1":"YIW","airport2":"CAN","lon1":"120.028809","lat1":"29.344563","lon2":"113.298698","lat2":"23.392429","num":[2,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5641","fltno":"CZ3728"},
+	{"fltype":"B738","reg":"B-5837","fltno":"CZ3885"}
+	]},
+{"airport1":"YIW","airport2":"TSN","lon1":"120.028809","lat1":"29.344563","lon2":"117.3461","lat2":"39.124352","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5742","fltno":"CZ6655"}
+	]},
+{"airport1":"YIW","airport2":"CGO","lon1":"120.028809","lat1":"29.344563","lon2":"113.840797","lat2":"34.519669","num":[1,5,8,2,4,6,7],
+	"details":
+	[
+	{"fltype":"B738","reg":"B-5716","fltno":"CZ6555"}
+	]}
+]
+}
