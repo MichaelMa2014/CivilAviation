@@ -1,0 +1,13 @@
+机场:Abbotsford International Airport
+
+国际航空运输协会编号:YXX
+
+民航组织编号:CYXX
+
+纬度:49.025269
+
+经度:-122.360001
+
+所属国家:Canada
+
+预设高度:195

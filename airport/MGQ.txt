@@ -1,0 +1,13 @@
+机场:Mogadishu Aden Adde International Airport
+
+国际航空运输协会编号:MGQ
+
+民航组织编号:HCMM
+
+纬度:2.014444
+
+经度:45.304722
+
+所属国家:Somalia
+
+预设高度:29

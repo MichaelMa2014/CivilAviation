@@ -1,0 +1,13 @@
+机场:Timaru Richard Pearse Airport
+
+国际航空运输协会编号:TIU
+
+民航组织编号:NZTU
+
+纬度:-44.302700
+
+经度:171.225204
+
+所属国家:New Zealand
+
+预设高度:89

@@ -1,0 +1,13 @@
+机场:Ciudad Obregon International Airport
+
+国际航空运输协会编号:CEN
+
+民航组织编号:MMCN
+
+纬度:27.392630
+
+经度:-109.833000
+
+所属国家:Mexico
+
+预设高度:205

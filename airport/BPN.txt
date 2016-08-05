@@ -1,0 +1,13 @@
+机场:Balikpapan Sepinggan Airport
+
+国际航空运输协会编号:BPN
+
+民航组织编号:WALL
+
+纬度:-1.268270
+
+经度:116.894402
+
+所属国家:Indonesia
+
+预设高度:12

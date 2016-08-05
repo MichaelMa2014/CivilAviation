@@ -1,0 +1,13 @@
+机场:Kaunakakai Molokai Airport
+
+国际航空运输协会编号:MKK
+
+民航组织编号:PHMK
+
+纬度:21.152880
+
+经度:-157.095993
+
+所属国家:United States
+
+预设高度:454

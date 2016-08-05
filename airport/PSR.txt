@@ -1,0 +1,13 @@
+机场:Pescara Abruzzo International Airport
+
+国际航空运输协会编号:PSR
+
+民航组织编号:LIBP
+
+纬度:42.431648
+
+经度:14.181060
+
+所属国家:Italy
+
+预设高度:48

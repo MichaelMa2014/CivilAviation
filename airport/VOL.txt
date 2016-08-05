@@ -1,0 +1,13 @@
+机场:Volos Nea Anchialos National Airport
+
+国际航空运输协会编号:VOL
+
+民航组织编号:LGBL
+
+纬度:39.219608
+
+经度:22.794331
+
+所属国家:Greece
+
+预设高度:83

@@ -1,0 +1,13 @@
+机场:Surgut International Airport
+
+国际航空运输协会编号:SGC
+
+民航组织编号:USRR
+
+纬度:61.343689
+
+经度:73.401840
+
+所属国家:Russia
+
+预设高度:200

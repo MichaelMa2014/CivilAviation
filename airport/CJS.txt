@@ -1,0 +1,13 @@
+机场:Ciudad Juarez International Airport
+
+国际航空运输协会编号:CJS
+
+民航组织编号:MMCS
+
+纬度:31.636129
+
+经度:-106.428001
+
+所属国家:Mexico
+
+预设高度:3904

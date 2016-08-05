@@ -1,0 +1,13 @@
+机场:Georgetown Cheddi Jagan International Airport
+
+国际航空运输协会编号:GEO
+
+民航组织编号:SYCJ
+
+纬度:6.498553
+
+经度:-58.254101
+
+所属国家:Guyana
+
+预设高度:95

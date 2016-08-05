@@ -1,0 +1,13 @@
+机场:Chadron Municipal Airport
+
+国际航空运输协会编号:CDR
+
+民航组织编号:KCDR
+
+纬度:42.834999
+
+经度:-103.097778
+
+所属国家:United States
+
+预设高度:3297

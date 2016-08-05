@@ -1,0 +1,13 @@
+机场:Joinville Lauro Carneiro de Loyola Airport
+
+国际航空运输协会编号:JOI
+
+民航组织编号:SBJV
+
+纬度:-26.224400
+
+经度:-48.797298
+
+所属国家:Brazil
+
+预设高度:15

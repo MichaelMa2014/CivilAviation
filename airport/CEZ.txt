@@ -1,0 +1,13 @@
+机场:Cortez Municipal Airport
+
+国际航空运输协会编号:CEZ
+
+民航组织编号:KCEZ
+
+纬度:37.302776
+
+经度:-108.627220
+
+所属国家:United States
+
+预设高度:5918

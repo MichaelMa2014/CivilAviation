@@ -1,0 +1,13 @@
+机场:Riyadh King Khalid International Airport
+
+国际航空运输协会编号:RUH
+
+民航组织编号:OERK
+
+纬度:24.957640
+
+经度:46.698769
+
+所属国家:Saudi Arabia
+
+预设高度:2049

@@ -1,0 +1,13 @@
+机场:Tripoli International Airport
+
+国际航空运输协会编号:TIP
+
+民航组织编号:HLLT
+
+纬度:32.663540
+
+经度:13.159010
+
+所属国家:Libya
+
+预设高度:263

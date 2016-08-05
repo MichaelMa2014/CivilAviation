@@ -1,0 +1,13 @@
+机场:Gurayat Domestic Airport
+
+国际航空运输协会编号:URY
+
+民航组织编号:OEGT
+
+纬度:31.411940
+
+经度:37.279461
+
+所属国家:Saudi Arabia
+
+预设高度:1672

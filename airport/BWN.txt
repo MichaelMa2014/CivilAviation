@@ -1,0 +1,13 @@
+机场:Brunei International Airport
+
+国际航空运输协会编号:BWN
+
+民航组织编号:WBSB
+
+纬度:4.944200
+
+经度:114.928299
+
+所属国家:Brunei
+
+预设高度:73

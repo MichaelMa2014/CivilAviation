@@ -1,0 +1,13 @@
+机场:Kryvyi Rih International Airport
+
+国际航空运输协会编号:KWG
+
+民航组织编号:UKDR
+
+纬度:48.043301
+
+经度:33.209999
+
+所属国家:Ukraine
+
+预设高度:408

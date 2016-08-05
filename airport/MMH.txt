@@ -1,0 +1,13 @@
+机场:Mammoth Yosemite Airport
+
+国际航空运输协会编号:MMH
+
+民航组织编号:KMMH
+
+纬度:37.631111
+
+经度:-118.851387
+
+所属国家:United States
+
+预设高度:7135

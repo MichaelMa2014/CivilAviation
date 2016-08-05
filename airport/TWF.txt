@@ -1,0 +1,13 @@
+机场:Twin Falls Magic Valley Regional Airport
+
+国际航空运输协会编号:TWF
+
+民航组织编号:KTWF
+
+纬度:42.481800
+
+经度:-114.487000
+
+所属国家:United States
+
+预设高度:4154

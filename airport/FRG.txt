@@ -1,0 +1,13 @@
+机场:Farmingdale Republic Airport
+
+国际航空运输协会编号:FRG
+
+民航组织编号:KFRG
+
+纬度:40.733334
+
+经度:-73.416664
+
+所属国家:United States
+
+预设高度:82

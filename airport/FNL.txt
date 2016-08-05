@@ -1,0 +1,13 @@
+机场:Fort Collins Loveland Municipal Airport
+
+国际航空运输协会编号:FNL
+
+民航组织编号:KFNL
+
+纬度:40.451820
+
+经度:-105.011002
+
+所属国家:United States
+
+预设高度:5016

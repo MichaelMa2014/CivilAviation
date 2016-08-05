@@ -1,0 +1,13 @@
+机场:Governador Valadares Airport
+
+国际航空运输协会编号:GVR
+
+民航组织编号:SNGV
+
+纬度:-18.896944
+
+经度:-41.986111
+
+所属国家:Brazil
+
+预设高度:561

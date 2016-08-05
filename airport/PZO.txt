@@ -1,0 +1,13 @@
+机场:Puerto Ordaz International Airport
+
+国际航空运输协会编号:PZO
+
+民航组织编号:SVPR
+
+纬度:8.286533
+
+经度:-62.759136
+
+所属国家:Venezuela
+
+预设高度:472

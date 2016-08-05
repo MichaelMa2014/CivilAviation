@@ -1,0 +1,13 @@
+机场:Anchorage Ted Stevens International Airport
+
+国际航空运输协会编号:ANC
+
+民航组织编号:PANC
+
+纬度:61.174358
+
+经度:-149.996002
+
+所属国家:United States
+
+预设高度:151

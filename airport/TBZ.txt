@@ -1,0 +1,13 @@
+机场:Tabriz International Airport
+
+国际航空运输协会编号:TBZ
+
+民航组织编号:OITT
+
+纬度:38.133881
+
+经度:46.235001
+
+所属国家:Iran
+
+预设高度:4459

@@ -1,0 +1,13 @@
+机场:Santa Fe Municipal Airport
+
+国际航空运输协会编号:SAF
+
+民航组织编号:KSAF
+
+纬度:35.617100
+
+经度:-106.088997
+
+所属国家:United States
+
+预设高度:6348

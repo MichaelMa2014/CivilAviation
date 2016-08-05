@@ -1,0 +1,13 @@
+机场:Livermore Municipal Airport
+
+国际航空运输协会编号:LVK
+
+民航组织编号:KLVK
+
+纬度:37.693890
+
+经度:-121.817223
+
+所属国家:United States
+
+预设高度:397

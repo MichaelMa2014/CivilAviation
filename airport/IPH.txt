@@ -1,0 +1,13 @@
+机场:Ipoh Sultan Azlan Shah Airport
+
+国际航空运输协会编号:IPH
+
+民航组织编号:WMKI
+
+纬度:4.567972
+
+经度:101.092102
+
+所属国家:Malaysia
+
+预设高度:130

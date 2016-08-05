@@ -1,0 +1,13 @@
+机场:Monterrey International Airport
+
+国际航空运输协会编号:MTY
+
+民航组织编号:MMMY
+
+纬度:25.778481
+
+经度:-100.106003
+
+所属国家:Mexico
+
+预设高度:1278

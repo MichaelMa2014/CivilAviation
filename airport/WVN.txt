@@ -1,0 +1,13 @@
+机场:Wilhelmshaven JadeWeser Airport
+
+国际航空运输协会编号:WVN
+
+民航组织编号:EDWI
+
+纬度:53.504829
+
+经度:8.053333
+
+所属国家:Germany
+
+预设高度:19

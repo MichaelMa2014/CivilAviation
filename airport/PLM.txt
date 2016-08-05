@@ -1,0 +1,13 @@
+机场:Palembang International Airport
+
+国际航空运输协会编号:PLM
+
+民航组织编号:WIPP
+
+纬度:-2.898250
+
+经度:104.699898
+
+所属国家:Indonesia
+
+预设高度:49

@@ -1,0 +1,13 @@
+机场:Perm Bolshoye Savino Airport
+
+国际航空运输协会编号:PEE
+
+民航组织编号:USPP
+
+纬度:57.914509
+
+经度:56.021210
+
+所属国家:Russia
+
+预设高度:404

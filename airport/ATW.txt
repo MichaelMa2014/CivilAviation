@@ -1,0 +1,13 @@
+机场:Appleton Outagamie County Regional Airport
+
+国际航空运输协会编号:ATW
+
+民航组织编号:KATW
+
+纬度:44.258091
+
+经度:-88.518997
+
+所属国家:United States
+
+预设高度:918

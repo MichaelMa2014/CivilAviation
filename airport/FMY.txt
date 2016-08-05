@@ -1,0 +1,13 @@
+机场:Fort Myers Page Field Airport
+
+国际航空运输协会编号:FMY
+
+民航组织编号:KFMY
+
+纬度:26.586611
+
+经度:-81.863197
+
+所属国家:United States
+
+预设高度:17

@@ -1,0 +1,13 @@
+机场:Tanjung Pandan Buluh Tumbang Airport
+
+国际航空运输协会编号:TJQ
+
+民航组织编号:WIKD
+
+纬度:-2.745720
+
+经度:107.754898
+
+所属国家:Indonesia
+
+预设高度:164

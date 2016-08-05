@@ -1,0 +1,13 @@
+机场:Marquette Sawyer International Airport
+
+国际航空运输协会编号:MQT
+
+民航组织编号:KSAW
+
+纬度:46.353630
+
+经度:-87.395302
+
+所属国家:United States
+
+预设高度:1221

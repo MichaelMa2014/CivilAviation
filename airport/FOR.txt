@@ -1,0 +1,13 @@
+机场:Pinto Martins International Airport
+
+国际航空运输协会编号:FOR
+
+民航组织编号:SBFZ
+
+纬度:-3.776280
+
+经度:-38.532501
+
+所属国家:Brazil
+
+预设高度:82

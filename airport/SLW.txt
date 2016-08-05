@@ -1,0 +1,13 @@
+机场:Saltillo Plan de Guadalupe Airport
+
+国际航空运输协会编号:SLW
+
+民航组织编号:MMIO
+
+纬度:25.549490
+
+经度:-100.928001
+
+所属国家:Mexico
+
+预设高度:4778

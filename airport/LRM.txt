@@ -1,0 +1,13 @@
+机场:La Romana International Airport
+
+国际航空运输协会编号:LRM
+
+民航组织编号:MDLR
+
+纬度:18.450710
+
+经度:-68.911797
+
+所属国家:Dominican Republic
+
+预设高度:240

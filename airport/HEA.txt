@@ -1,0 +1,13 @@
+机场:Herat International Airport
+
+国际航空运输协会编号:HEA
+
+民航组织编号:OAHR
+
+纬度:34.209999
+
+经度:62.228329
+
+所属国家:Afghanistan
+
+预设高度:3206

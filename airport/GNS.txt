@@ -1,0 +1,13 @@
+机场:Gunung Sitoli Binaka Airport
+
+国际航空运输协会编号:GNS
+
+民航组织编号:WIMB
+
+纬度:1.166381
+
+经度:97.704681
+
+所属国家:Indonesia
+
+预设高度:20

@@ -1,0 +1,13 @@
+机场:Thunder Bay International Airport
+
+国际航空运输协会编号:YQT
+
+民航组织编号:CYQT
+
+纬度:48.371941
+
+经度:-89.323799
+
+所属国家:Canada
+
+预设高度:653

@@ -1,0 +1,13 @@
+机场:Batam Hang Nadim Airport
+
+国际航空运输协会编号:BTH
+
+民航组织编号:WIDD
+
+纬度:1.121028
+
+经度:104.118698
+
+所属国家:Indonesia
+
+预设高度:126

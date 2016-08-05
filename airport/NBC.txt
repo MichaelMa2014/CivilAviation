@@ -1,0 +1,13 @@
+机场:Naberezhnye Chelny Begishevo Airport
+
+国际航空运输协会编号:NBC
+
+民航组织编号:UWKE
+
+纬度:55.564125
+
+经度:52.103409
+
+所属国家:Russia
+
+预设高度:643

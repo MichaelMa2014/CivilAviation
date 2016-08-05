@@ -1,0 +1,13 @@
+机场:Tehran Mehrabad International Airport
+
+国际航空运输协会编号:THR
+
+民航组织编号:OIII
+
+纬度:35.689159
+
+经度:51.313412
+
+所属国家:Iran
+
+预设高度:3962

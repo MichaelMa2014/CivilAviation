@@ -1,0 +1,13 @@
+机场:Glasgow Prestwick Airport
+
+国际航空运输协会编号:PIK
+
+民航组织编号:EGPK
+
+纬度:55.509441
+
+经度:-4.586660
+
+所属国家:United Kingdom
+
+预设高度:65

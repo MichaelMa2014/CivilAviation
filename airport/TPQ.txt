@@ -1,0 +1,13 @@
+机场:Tepic Amado Nervo International Airport
+
+国际航空运输协会编号:TPQ
+
+民航组织编号:MMEP
+
+纬度:21.419451
+
+经度:-104.842003
+
+所属国家:Mexico
+
+预设高度:3020

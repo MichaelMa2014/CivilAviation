@@ -1,0 +1,13 @@
+机场:Lansing Capital Region International Airport
+
+国际航空运输协会编号:LAN
+
+民航组织编号:KLAN
+
+纬度:42.778660
+
+经度:-84.586601
+
+所属国家:United States
+
+预设高度:861

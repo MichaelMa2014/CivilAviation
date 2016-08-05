@@ -1,0 +1,13 @@
+机场:Brno Turany Airport
+
+国际航空运输协会编号:BRQ
+
+民航组织编号:LKTB
+
+纬度:49.151260
+
+经度:16.694429
+
+所属国家:Czech Republic
+
+预设高度:778

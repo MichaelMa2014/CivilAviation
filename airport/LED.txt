@@ -1,0 +1,13 @@
+机场:St. Petersburg Pulkovo Airport
+
+国际航空运输协会编号:LED
+
+民航组织编号:ULLI
+
+纬度:59.800289
+
+经度:30.262501
+
+所属国家:Russia
+
+预设高度:78

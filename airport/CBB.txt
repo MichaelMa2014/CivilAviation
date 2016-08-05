@@ -1,0 +1,13 @@
+机场:Cochabamba Jorge Wilstermann International Airport
+
+国际航空运输协会编号:CBB
+
+民航组织编号:SLCB
+
+纬度:-17.421000
+
+经度:-66.177101
+
+所属国家:Bolivia
+
+预设高度:8360

@@ -1,0 +1,13 @@
+机场:Livingstone Harry Mwanga Nkumbula International Airport
+
+国际航空运输协会编号:LVI
+
+民航组织编号:FLLI
+
+纬度:-17.821699
+
+经度:25.822689
+
+所属国家:Zambia
+
+预设高度:3302

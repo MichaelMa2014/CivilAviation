@@ -1,0 +1,13 @@
+机场:Bujumbura International Airport
+
+国际航空运输协会编号:BJM
+
+民航组织编号:HBBA
+
+纬度:-3.324010
+
+经度:29.318510
+
+所属国家:Burundi
+
+预设高度:2582

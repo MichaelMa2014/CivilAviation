@@ -1,0 +1,13 @@
+机场:Krasnodar International Airport
+
+国际航空运输协会编号:KRR
+
+民航组织编号:URKK
+
+纬度:45.034679
+
+经度:39.170528
+
+所属国家:Russia
+
+预设高度:118

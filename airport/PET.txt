@@ -1,0 +1,13 @@
+机场:Pelotas International Airport
+
+国际航空运输协会编号:PET
+
+民航组织编号:SBPK
+
+纬度:-31.718300
+
+经度:-52.327599
+
+所属国家:Brazil
+
+预设高度:59

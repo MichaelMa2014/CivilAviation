@@ -1,0 +1,13 @@
+机场:Zhangjiakou Ningyuan Airport
+
+国际航空运输协会编号:ZQZ
+
+民航组织编号:ZBZJ
+
+纬度:40.739227
+
+经度:114.931458
+
+所属国家:China
+
+预设高度:2322

@@ -1,0 +1,13 @@
+机场:Dzaoudzi Pamandzi International Airport
+
+国际航空运输协会编号:DZA
+
+民航组织编号:FMCZ
+
+纬度:-12.806600
+
+经度:45.280548
+
+所属国家:Mayotte
+
+预设高度:23

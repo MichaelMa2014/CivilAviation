@@ -1,0 +1,13 @@
+机场:Manaus Eduardo Gomes International Airport
+
+国际航空运输协会编号:MAO
+
+民航组织编号:SBEG
+
+纬度:-3.038610
+
+经度:-60.049702
+
+所属国家:Brazil
+
+预设高度:264

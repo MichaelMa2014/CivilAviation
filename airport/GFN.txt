@@ -1,0 +1,13 @@
+机场:Grafton Clarence Valley Regional Airport
+
+国际航空运输协会编号:GFN
+
+民航组织编号:YGFN
+
+纬度:-29.750000
+
+经度:153.029999
+
+所属国家:Australia
+
+预设高度:110

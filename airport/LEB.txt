@@ -1,0 +1,13 @@
+机场:Lebanon Municipal Airport
+
+国际航空运输协会编号:LEB
+
+民航组织编号:KLEB
+
+纬度:43.626110
+
+经度:-72.304100
+
+所属国家:United States
+
+预设高度:603

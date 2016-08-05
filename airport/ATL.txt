@@ -1,0 +1,13 @@
+机场:Atlanta Hartsfield-Jackson International Airport
+
+国际航空运输协会编号:ATL
+
+民航组织编号:KATL
+
+纬度:33.636719
+
+经度:-84.428001
+
+所属国家:United States
+
+预设高度:1026

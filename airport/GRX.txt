@@ -1,0 +1,13 @@
+机场:Granada Federico Garcia Lorca Airport
+
+国际航空运输协会编号:GRX
+
+民航组织编号:LEGR
+
+纬度:37.188728
+
+经度:-3.777350
+
+所属国家:Spain
+
+预设高度:1860

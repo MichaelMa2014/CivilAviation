@@ -1,0 +1,13 @@
+机场:Nakhchivan International Airport
+
+国际航空运输协会编号:NAJ
+
+民航组织编号:UBBN
+
+纬度:39.188610
+
+经度:45.458332
+
+所属国家:Azerbaijan
+
+预设高度:2863

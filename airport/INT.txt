@@ -1,0 +1,13 @@
+机场:Winston-Salem Smith Reynolds Airport
+
+国际航空运输协会编号:INT
+
+民航组织编号:KINT
+
+纬度:36.133720
+
+经度:-80.222000
+
+所属国家:United States
+
+预设高度:969

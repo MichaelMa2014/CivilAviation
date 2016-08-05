@@ -1,0 +1,13 @@
+机场:Dusseldorf International Airport
+
+国际航空运输协会编号:DUS
+
+民航组织编号:EDDL
+
+纬度:51.289452
+
+经度:6.766775
+
+所属国家:Germany
+
+预设高度:147

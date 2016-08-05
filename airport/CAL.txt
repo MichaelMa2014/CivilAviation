@@ -1,0 +1,13 @@
+机场:Campbeltown Airport
+
+国际航空运输协会编号:CAL
+
+民航组织编号:EGEC
+
+纬度:55.430000
+
+经度:-5.680000
+
+所属国家:United Kingdom
+
+预设高度:42

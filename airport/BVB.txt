@@ -1,0 +1,13 @@
+机场:Boa Vista International Airport
+
+国际航空运输协会编号:BVB
+
+民航组织编号:SBBV
+
+纬度:2.846311
+
+经度:-60.689999
+
+所属国家:Brazil
+
+预设高度:276

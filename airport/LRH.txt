@@ -1,0 +1,13 @@
+机场:La Rochelle Ile de Re Airport
+
+国际航空运输协会编号:LRH
+
+民航组织编号:LFBH
+
+纬度:46.179211
+
+经度:-1.195230
+
+所属国家:France
+
+预设高度:74

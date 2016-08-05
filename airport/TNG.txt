@@ -1,0 +1,13 @@
+机场:Tangier Ibn Battouta Airport
+
+国际航空运输协会编号:TNG
+
+民航组织编号:GMTT
+
+纬度:35.726910
+
+经度:-5.916880
+
+所属国家:Morocco
+
+预设高度:62

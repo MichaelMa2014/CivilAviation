@@ -1,0 +1,13 @@
+机场:Jijel Ferhat Abbas Airport
+
+国际航空运输协会编号:GJL
+
+民航组织编号:DAAV
+
+纬度:36.795132
+
+经度:5.873608
+
+所属国家:Algeria
+
+预设高度:36

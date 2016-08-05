@@ -1,0 +1,13 @@
+机场:Salvador International Airport
+
+国际航空运输协会编号:SSA
+
+民航组织编号:SBSV
+
+纬度:-12.910900
+
+经度:-38.331001
+
+所属国家:Brazil
+
+预设高度:64

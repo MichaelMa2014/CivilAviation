@@ -1,0 +1,13 @@
+机场:Calgary International Airport
+
+国际航空运输协会编号:YYC
+
+民航组织编号:CYYC
+
+纬度:51.113880
+
+经度:-114.019997
+
+所属国家:Canada
+
+预设高度:3557

@@ -1,0 +1,13 @@
+机场:La Paz International Airport
+
+国际航空运输协会编号:LAP
+
+民航组织编号:MMLP
+
+纬度:24.072689
+
+经度:-110.362000
+
+所属国家:Mexico
+
+预设高度:69

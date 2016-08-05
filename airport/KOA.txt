@@ -1,0 +1,13 @@
+机场:Kona International Airport
+
+国际航空运输协会编号:KOA
+
+民航组织编号:PHKO
+
+纬度:19.738760
+
+经度:-156.044998
+
+所属国家:United States
+
+预设高度:47

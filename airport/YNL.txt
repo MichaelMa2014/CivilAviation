@@ -1,0 +1,13 @@
+机场:Points North Landing Airport
+
+国际航空运输协会编号:YNL
+
+民航组织编号:CYNL
+
+纬度:58.275002
+
+经度:-104.081108
+
+所属国家:Canada
+
+预设高度:1575

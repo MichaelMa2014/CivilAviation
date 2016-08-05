@@ -1,0 +1,13 @@
+机场:Uzhhorod International Airport
+
+国际航空运输协会编号:UDJ
+
+民航组织编号:UKLU
+
+纬度:48.634270
+
+经度:22.263350
+
+所属国家:Ukraine
+
+预设高度:383

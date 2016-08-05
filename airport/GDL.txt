@@ -1,0 +1,13 @@
+机场:Guadalajara International Airport
+
+国际航空运输协会编号:GDL
+
+民航组织编号:MMGL
+
+纬度:20.521799
+
+经度:-103.310997
+
+所属国家:Mexico
+
+预设高度:5016

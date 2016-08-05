@@ -1,0 +1,13 @@
+机场:Jambi Sultan Thaha Airport
+
+国际航空运输协会编号:DJB
+
+民航组织编号:WIPA
+
+纬度:-1.638010
+
+经度:103.644302
+
+所属国家:Indonesia
+
+预设高度:82

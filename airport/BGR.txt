@@ -1,0 +1,13 @@
+机场:Bangor International Airport
+
+国际航空运输协会编号:BGR
+
+民航组织编号:KBGR
+
+纬度:44.807442
+
+经度:-68.828102
+
+所属国家:United States
+
+预设高度:192

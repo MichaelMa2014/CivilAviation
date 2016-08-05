@@ -1,0 +1,13 @@
+机场:Bandar Abbas International Airport
+
+国际航空运输协会编号:BND
+
+民航组织编号:OIKB
+
+纬度:27.218309
+
+经度:56.377850
+
+所属国家:Iran
+
+预设高度:22

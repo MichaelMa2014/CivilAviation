@@ -1,0 +1,13 @@
+机场:Westhampton Beach Francis S Gabresk Airport
+
+国际航空运输协会编号:FOK
+
+民航组织编号:KFOK
+
+纬度:40.843651
+
+经度:-72.631699
+
+所属国家:United States
+
+预设高度:66

@@ -1,0 +1,13 @@
+机场:Cabo Frio International Airport
+
+国际航空运输协会编号:CFB
+
+民航组织编号:SBCB
+
+纬度:-22.920000
+
+经度:-42.070000
+
+所属国家:Brazil
+
+预设高度:14

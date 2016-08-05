@@ -1,0 +1,13 @@
+机场:Kirkenes Hoybuktmoen Airport
+
+国际航空运输协会编号:KKN
+
+民航组织编号:ENKR
+
+纬度:69.725777
+
+经度:29.891291
+
+所属国家:Norway
+
+预设高度:283

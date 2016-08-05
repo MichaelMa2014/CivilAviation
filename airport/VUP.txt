@@ -1,0 +1,13 @@
+机场:Valledupar Alfonso Lopez Pumarejo Airport
+
+国际航空运输协会编号:VUP
+
+民航组织编号:SKVP
+
+纬度:10.435070
+
+经度:-73.249397
+
+所属国家:Colombia
+
+预设高度:456

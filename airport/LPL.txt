@@ -1,0 +1,13 @@
+机场:Liverpool John Lennon Airport
+
+国际航空运输协会编号:LPL
+
+民航组织编号:EGGP
+
+纬度:53.333611
+
+经度:-2.849720
+
+所属国家:United Kingdom
+
+预设高度:80

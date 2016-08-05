@@ -1,0 +1,13 @@
+机场:Damascus International Airport
+
+国际航空运输协会编号:DAM
+
+民航组织编号:OSDI
+
+纬度:33.410629
+
+经度:36.514259
+
+所属国家:Syria
+
+预设高度:2020

@@ -1,0 +1,13 @@
+机场:Skopje Alexander the Great Airport
+
+国际航空运输协会编号:SKP
+
+民航组织编号:LWSK
+
+纬度:41.961620
+
+经度:21.621380
+
+所属国家:Macedonia
+
+预设高度:781

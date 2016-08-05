@@ -1,0 +1,13 @@
+机场:Saint-Malo Dinard Pleurtuit Airport
+
+国际航空运输协会编号:DNR
+
+民航组织编号:LFRD
+
+纬度:48.587769
+
+经度:-2.080000
+
+所属国家:France
+
+预设高度:219

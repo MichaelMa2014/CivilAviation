@@ -1,0 +1,13 @@
+机场:Torreon Francisco Sarabia International Airport
+
+国际航空运输协会编号:TRC
+
+民航组织编号:MMTC
+
+纬度:25.568270
+
+经度:-103.410004
+
+所属国家:Mexico
+
+预设高度:3688

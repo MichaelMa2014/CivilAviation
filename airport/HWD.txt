@@ -1,0 +1,13 @@
+机场:Hayward Executive Airport
+
+国际航空运输协会编号:HWD
+
+民航组织编号:KHWD
+
+纬度:37.658890
+
+经度:-122.121666
+
+所属国家:United States
+
+预设高度:52

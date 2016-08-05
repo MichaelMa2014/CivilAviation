@@ -1,0 +1,13 @@
+机场:Jakarta Soekarno Hatta International Airport
+
+国际航空运输协会编号:CGK
+
+民航组织编号:WIII
+
+纬度:-6.125560
+
+经度:106.655800
+
+所属国家:Indonesia
+
+预设高度:34

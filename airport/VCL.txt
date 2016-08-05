@@ -1,0 +1,13 @@
+机场:Chu Lai International Airport
+
+国际航空运输协会编号:VCL
+
+民航组织编号:VVCA
+
+纬度:15.403300
+
+经度:108.706001
+
+所属国家:Vietnam
+
+预设高度:10

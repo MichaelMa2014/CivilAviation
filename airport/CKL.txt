@@ -1,0 +1,13 @@
+机场:Moscow Chkalovskiy Airport
+
+国际航空运输协会编号:CKL
+
+民航组织编号:UUMU
+
+纬度:55.878300
+
+经度:38.061699
+
+所属国家:Russia
+
+预设高度:499

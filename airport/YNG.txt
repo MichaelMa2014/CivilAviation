@@ -1,0 +1,13 @@
+机场:Youngstown Warren Regional Airport
+
+国际航空运输协会编号:YNG
+
+民航组织编号:KYNG
+
+纬度:41.260731
+
+经度:-80.679001
+
+所属国家:United States
+
+预设高度:1191

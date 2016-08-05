@@ -1,0 +1,13 @@
+机场:Aracaju Santa Maria Airport
+
+国际航空运输协会编号:AJU
+
+民航组织编号:SBAR
+
+纬度:-10.984000
+
+经度:-37.070301
+
+所属国家:Brazil
+
+预设高度:23

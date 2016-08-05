@@ -1,0 +1,13 @@
+机场:Aguadilla Rafael Hernandez Airport
+
+国际航空运输协会编号:BQN
+
+民航组织编号:TJBQ
+
+纬度:18.494860
+
+经度:-67.129402
+
+所属国家:Puerto Rico
+
+预设高度:237

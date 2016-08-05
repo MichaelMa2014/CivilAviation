@@ -1,0 +1,13 @@
+机场:Culiacan International Airport
+
+国际航空运输协会编号:CUL
+
+民航组织编号:MMCL
+
+纬度:24.764540
+
+经度:-107.473999
+
+所属国家:Mexico
+
+预设高度:108

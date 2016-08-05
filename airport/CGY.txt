@@ -1,0 +1,13 @@
+机场:Cagayan de Oro Laguindingan Airport
+
+国际航空运输协会编号:CGY
+
+民航组织编号:RPMY
+
+纬度:8.612500
+
+经度:124.457222
+
+所属国家:Philippines
+
+预设高度:190

@@ -1,0 +1,13 @@
+机场:Bologna Guglielmo Marconi Airport
+
+国际航空运输协会编号:BLQ
+
+民航组织编号:LIPE
+
+纬度:44.535439
+
+经度:11.288660
+
+所属国家:Italy
+
+预设高度:123

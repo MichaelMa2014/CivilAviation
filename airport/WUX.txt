@@ -1,0 +1,13 @@
+机场:Wuzi Sunan Shuofang International Airport
+
+国际航空运输协会编号:WUX
+
+民航组织编号:ZSWX
+
+纬度:31.492889
+
+经度:120.424377
+
+所属国家:China
+
+预设高度:16

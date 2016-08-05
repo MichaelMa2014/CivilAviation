@@ -1,0 +1,13 @@
+机场:Exeter International Airport
+
+国际航空运输协会编号:EXT
+
+民航组织编号:EGTE
+
+纬度:50.734440
+
+经度:-3.413880
+
+所属国家:United Kingdom
+
+预设高度:102

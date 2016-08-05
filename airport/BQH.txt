@@ -1,0 +1,13 @@
+机场:London Biggin Hill Airport
+
+国际航空运输协会编号:BQH
+
+民航组织编号:EGKB
+
+纬度:51.330830
+
+经度:0.032500
+
+所属国家:United Kingdom
+
+预设高度:598

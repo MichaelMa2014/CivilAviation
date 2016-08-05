@@ -1,0 +1,13 @@
+机场:Kherson International Airport
+
+国际航空运输协会编号:KHE
+
+民航组织编号:UKOH
+
+纬度:46.672394
+
+经度:32.507988
+
+所属国家:Ukraine
+
+预设高度:150

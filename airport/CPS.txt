@@ -1,0 +1,13 @@
+机场:St. Louis Downtown Airport
+
+国际航空运输协会编号:CPS
+
+民航组织编号:KCPS
+
+纬度:38.573383
+
+经度:-90.146217
+
+所属国家:United States
+
+预设高度:409

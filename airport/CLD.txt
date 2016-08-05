@@ -1,0 +1,13 @@
+机场:San Diego McClellan Palomar Airport
+
+国际航空运输协会编号:CLD
+
+民航组织编号:KCRQ
+
+纬度:33.128250
+
+经度:-117.279999
+
+所属国家:United States
+
+预设高度:330

@@ -1,0 +1,13 @@
+机场:Varadero Juan Gualberto Gomez Airport
+
+国际航空运输协会编号:VRA
+
+民航组织编号:MUVR
+
+纬度:23.034439
+
+经度:-81.435204
+
+所属国家:Cuba
+
+预设高度:210

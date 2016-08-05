@@ -1,0 +1,13 @@
+机场:Paris Vatry Chalons Airport
+
+国际航空运输协会编号:XCR
+
+民航组织编号:LFOK
+
+纬度:48.759998
+
+经度:4.200000
+
+所属国家:France
+
+预设高度:587

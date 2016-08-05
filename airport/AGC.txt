@@ -1,0 +1,13 @@
+机场:Pittsburgh Allegheny County Airport
+
+国际航空运输协会编号:AGC
+
+民航组织编号:KAGC
+
+纬度:40.349998
+
+经度:-79.930000
+
+所属国家:United States
+
+预设高度:1252

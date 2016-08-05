@@ -1,0 +1,13 @@
+机场:Quetta International Airport
+
+国际航空运输协会编号:UET
+
+民航组织编号:OPQT
+
+纬度:30.251360
+
+经度:66.937759
+
+所属国家:Pakistan
+
+预设高度:5267

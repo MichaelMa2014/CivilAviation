@@ -1,0 +1,13 @@
+机场:Charlottesville Albemarle Airport
+
+国际航空运输协会编号:CHO
+
+民航组织编号:KCHO
+
+纬度:38.138638
+
+经度:-78.452858
+
+所属国家:United States
+
+预设高度:639

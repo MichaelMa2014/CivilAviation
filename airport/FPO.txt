@@ -1,0 +1,13 @@
+机场:Grand Bahama International Airport
+
+国际航空运输协会编号:FPO
+
+民航组织编号:MYGF
+
+纬度:26.558680
+
+经度:-78.695503
+
+所属国家:Bahamas
+
+预设高度:7

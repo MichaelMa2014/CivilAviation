@@ -1,0 +1,13 @@
+机场:Sarnia Chris Hadfield Airport
+
+国际航空运输协会编号:YZR
+
+民航组织编号:CYZR
+
+纬度:42.999439
+
+经度:-82.308800
+
+所属国家:Canada
+
+预设高度:594

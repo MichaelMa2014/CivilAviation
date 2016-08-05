@@ -1,0 +1,13 @@
+机场:Miami Executive Airport
+
+国际航空运输协会编号:TMB
+
+民航组织编号:KTMB
+
+纬度:25.647881
+
+经度:-80.432701
+
+所属国家:United States
+
+预设高度:10

@@ -1,0 +1,13 @@
+机场:Sun City Pilanesberg International Airport
+
+国际航空运输协会编号:NTY
+
+民航组织编号:FAPN
+
+纬度:-25.333799
+
+经度:27.173349
+
+所属国家:South Africa
+
+预设高度:3412

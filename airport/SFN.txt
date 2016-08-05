@@ -1,0 +1,13 @@
+机场:Santa Fe Sauce Viejo Airport
+
+国际航空运输协会编号:SFN
+
+民航组织编号:SAAV
+
+纬度:-31.711599
+
+经度:-60.811600
+
+所属国家:Argentina
+
+预设高度:56

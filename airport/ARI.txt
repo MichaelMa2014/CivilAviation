@@ -1,0 +1,13 @@
+机场:Arica Chacalluta International Airport
+
+国际航空运输协会编号:ARI
+
+民航组织编号:SCAR
+
+纬度:-18.348499
+
+经度:-70.338699
+
+所属国家:Chile
+
+预设高度:167

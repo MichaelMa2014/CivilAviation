@@ -1,0 +1,13 @@
+机场:Iquitos International Airport
+
+国际航空运输协会编号:IQT
+
+民航组织编号:SPQT
+
+纬度:-3.784730
+
+经度:-73.308800
+
+所属国家:Peru
+
+预设高度:306

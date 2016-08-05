@@ -1,0 +1,13 @@
+机场:Fergana International Airport
+
+国际航空运输协会编号:FEG
+
+民航组织编号:UTKF
+
+纬度:40.358761
+
+经度:71.745018
+
+所属国家:Uzbekistan
+
+预设高度:1980

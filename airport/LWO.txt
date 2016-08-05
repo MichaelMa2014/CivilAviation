@@ -1,0 +1,13 @@
+机场:Lviv Danylo Halytskyi International Airport
+
+国际航空运输协会编号:LWO
+
+民航组织编号:UKLL
+
+纬度:49.812500
+
+经度:23.956110
+
+所属国家:Ukraine
+
+预设高度:1071

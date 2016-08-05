@@ -1,0 +1,13 @@
+机场:Montrose Regional Airport
+
+国际航空运输协会编号:MTJ
+
+民航组织编号:KMTJ
+
+纬度:38.509789
+
+经度:-107.893997
+
+所属国家:United States
+
+预设高度:5759

@@ -1,0 +1,13 @@
+机场:Izmir Adnan Menderes International Airport
+
+国际航空运输协会编号:ADB
+
+民航组织编号:LTBJ
+
+纬度:38.292389
+
+经度:27.156950
+
+所属国家:Turkey
+
+预设高度:412

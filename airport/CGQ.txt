@@ -1,0 +1,13 @@
+机场:Changchun Longjia International Airport
+
+国际航空运输协会编号:CGQ
+
+民航组织编号:ZYCC
+
+纬度:43.996208
+
+经度:125.685303
+
+所属国家:China
+
+预设高度:706

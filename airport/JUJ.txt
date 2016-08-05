@@ -1,0 +1,13 @@
+机场:Jujuy Gobernador Horacio Guzman International Airport
+
+国际航空运输协会编号:JUJ
+
+民航组织编号:SASJ
+
+纬度:-24.392700
+
+经度:-65.097702
+
+所属国家:Argentina
+
+预设高度:3019

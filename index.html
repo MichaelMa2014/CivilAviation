@@ -56,6 +56,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         stroke-width: 1px;
         fill: black;
     }
+	
+	
+	.tooltip{
+			position: absolute;
+			width: 300;
+			height: auto;
+			font-family: STKaiti;
+			font-size: 36px;
+			text-align: center;
+			border-style: solid; 
+			border-width: 3px;
+			background-color: white;
+			border-radius: 20x;
+	}
+	
+	
 </style>
 
 <body>
@@ -365,6 +381,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     });
 
                                     var len = 20;
+									var tooltip = d3.select("body")
+													.append("div")
+													.attr("class","tooltip")
+													.style("opacity",0.0);
+
                                     d3.json("airport.geojson", function(error, airport) {
                                         if (error)
                                             return console.error(error);
@@ -434,10 +455,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                 });
                                                 var myairline = svg.selectAll(".route");
                                                 myairline.remove();
+												var x1 = d3.event.pageX;
+												var y1 = d3.event.pageY;
+												d3.text("airport/"+d.name+".txt",function(error,text){
+													temp = text;
+													tooltip.html(temp)
+															.style("left",x1+"px")
+															.style("top",y1+20 + "px")
+															.style("opacity",1.0);
+												});
                                             })
                                             .on("mouseout", function() {
                                                 d3.select(this)
                                                     .attr("xlink:href", "images/airport_1.svg");
+												tooltip.style("opacity",0.0);
                                             });
                                     });
                                 </script>

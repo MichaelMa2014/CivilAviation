@@ -1,0 +1,13 @@
+机场:Yangon International Airport
+
+国际航空运输协会编号:RGN
+
+民航组织编号:VYYY
+
+纬度:16.907301
+
+经度:96.133217
+
+所属国家:Myanmar (Burma)
+
+预设高度:109

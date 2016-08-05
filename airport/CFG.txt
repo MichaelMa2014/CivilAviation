@@ -1,0 +1,13 @@
+机场:Cienfuegos Jaime Gonzalez Airport
+
+国际航空运输协会编号:CFG
+
+民航组织编号:MUCF
+
+纬度:22.150000
+
+经度:-80.414101
+
+所属国家:Cuba
+
+预设高度:102

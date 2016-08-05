@@ -1,0 +1,13 @@
+机场:Dehradun Jolly Grant Airport
+
+国际航空运输协会编号:DED
+
+民航组织编号:VIDN
+
+纬度:30.189680
+
+经度:78.180252
+
+所属国家:India
+
+预设高度:1831

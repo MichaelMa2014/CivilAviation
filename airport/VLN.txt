@@ -1,0 +1,13 @@
+机场:Valencia Arturo Michelena International Airport
+
+国际航空运输协会编号:VLN
+
+民航组织编号:SVVA
+
+纬度:10.149730
+
+经度:-67.928398
+
+所属国家:Venezuela
+
+预设高度:1417

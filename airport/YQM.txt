@@ -1,0 +1,13 @@
+机场:Moncton International Airport
+
+国际航空运输协会编号:YQM
+
+民航组织编号:CYQM
+
+纬度:46.112221
+
+经度:-64.678596
+
+所属国家:Canada
+
+预设高度:232

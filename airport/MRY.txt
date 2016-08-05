@@ -1,0 +1,13 @@
+机场:Monterey Regional Airport
+
+国际航空运输协会编号:MRY
+
+民航组织编号:KMRY
+
+纬度:36.587002
+
+经度:-121.842003
+
+所属国家:United States
+
+预设高度:257

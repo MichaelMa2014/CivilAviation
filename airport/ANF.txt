@@ -1,0 +1,13 @@
+机场:Antofagasta Cerro Moreno International Airport
+
+国际航空运输协会编号:ANF
+
+民航组织编号:SCFA
+
+纬度:-23.444401
+
+经度:-70.445099
+
+所属国家:Chile
+
+预设高度:455

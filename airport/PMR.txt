@@ -1,0 +1,13 @@
+机场:Palmerston North International Airport
+
+国际航空运输协会编号:PMR
+
+民航组织编号:NZPM
+
+纬度:-40.320499
+
+经度:175.616898
+
+所属国家:New Zealand
+
+预设高度:151

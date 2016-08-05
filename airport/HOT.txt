@@ -1,0 +1,13 @@
+机场:Hot Springs Memorial Field Airport
+
+国际航空运输协会编号:HOT
+
+民航组织编号:KHOT
+
+纬度:34.478889
+
+经度:-93.096107
+
+所属国家:United States
+
+预设高度:540

@@ -1,0 +1,13 @@
+机场:Rock Springs Sweetwater County Airport
+
+国际航空运输协会编号:RKS
+
+民航组织编号:KRKS
+
+纬度:41.596390
+
+经度:-109.065834
+
+所属国家:United States
+
+预设高度:6760

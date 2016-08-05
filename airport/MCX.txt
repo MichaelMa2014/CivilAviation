@@ -1,0 +1,13 @@
+机场:Makhachkala Uytash Airport
+
+国际航空运输协会编号:MCX
+
+民航组织编号:URML
+
+纬度:42.816818
+
+经度:47.652290
+
+所属国家:Russia
+
+预设高度:12

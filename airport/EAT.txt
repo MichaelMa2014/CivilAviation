@@ -1,0 +1,13 @@
+机场:Wenatchee Pangborn Memorial Airport
+
+国际航空运输协会编号:EAT
+
+民航组织编号:KEAT
+
+纬度:47.399723
+
+经度:-120.207779
+
+所属国家:United States
+
+预设高度:1249

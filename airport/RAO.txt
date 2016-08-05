@@ -1,0 +1,13 @@
+机场:Ribeirao Preto Leite Lopes Airport
+
+国际航空运输协会编号:RAO
+
+民航组织编号:SBRP
+
+纬度:-21.134100
+
+经度:-47.774101
+
+所属国家:Brazil
+
+预设高度:1802

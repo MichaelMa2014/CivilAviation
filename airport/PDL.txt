@@ -1,0 +1,13 @@
+机场:Ponta Delgada Joao Paulo II Airport
+
+国际航空运输协会编号:PDL
+
+民航组织编号:LPPD
+
+纬度:37.741180
+
+经度:-25.697800
+
+所属国家:Portugal
+
+预设高度:259

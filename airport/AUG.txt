@@ -1,0 +1,13 @@
+机场:Augusta State Airport
+
+国际航空运输协会编号:AUG
+
+民航组织编号:KAUG
+
+纬度:44.320648
+
+经度:-69.797302
+
+所属国家:United States
+
+预设高度:352

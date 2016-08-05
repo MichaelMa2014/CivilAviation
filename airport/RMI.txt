@@ -1,0 +1,13 @@
+机场:Rimini Federico Fellini Airport
+
+国际航空运输协会编号:RMI
+
+民航组织编号:LIPR
+
+纬度:44.020290
+
+经度:12.611740
+
+所属国家:Italy
+
+预设高度:41

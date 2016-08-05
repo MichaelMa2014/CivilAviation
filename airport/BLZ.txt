@@ -1,0 +1,13 @@
+机场:Blantyre Chileka International Airport
+
+国际航空运输协会编号:BLZ
+
+民航组织编号:FWCL
+
+纬度:-15.679000
+
+经度:34.974010
+
+所属国家:Malawi
+
+预设高度:2555

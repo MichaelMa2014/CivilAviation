@@ -1,0 +1,13 @@
+机场:Amsterdam Schiphol Airport
+
+国际航空运输协会编号:AMS
+
+民航组织编号:EHAM
+
+纬度:52.308609
+
+经度:4.763889
+
+所属国家:Netherlands
+
+预设高度:11

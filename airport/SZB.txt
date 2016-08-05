@@ -1,0 +1,13 @@
+机场:Kuala Lumpur Subang Airport
+
+国际航空运输协会编号:SZB
+
+民航组织编号:WMSA
+
+纬度:3.130583
+
+经度:101.549301
+
+所属国家:Malaysia
+
+预设高度:90

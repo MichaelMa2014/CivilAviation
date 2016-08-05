@@ -1,0 +1,13 @@
+机场:Shijiazhuang Zhengding International Airport
+
+国际航空运输协会编号:SJW
+
+民航组织编号:ZBSJ
+
+纬度:38.274376
+
+经度:114.694427
+
+所属国家:China
+
+预设高度:233

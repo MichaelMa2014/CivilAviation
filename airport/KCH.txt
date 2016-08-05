@@ -1,0 +1,13 @@
+机场:Kuching International Airport
+
+国际航空运输协会编号:KCH
+
+民航组织编号:WBGG
+
+纬度:1.484697
+
+经度:110.346901
+
+所属国家:Malaysia
+
+预设高度:89

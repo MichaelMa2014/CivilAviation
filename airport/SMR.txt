@@ -1,0 +1,13 @@
+机场:Santa Marta Simon Bol\u00edvar International Airport
+
+国际航空运输协会编号:SMR
+
+民航组织编号:SKSM
+
+纬度:11.119720
+
+经度:-74.230797
+
+所属国家:Colombia
+
+预设高度:22

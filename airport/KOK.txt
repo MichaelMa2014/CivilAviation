@@ -1,0 +1,13 @@
+机场:Kokkola-Pietarsaari Airport
+
+国际航空运输协会编号:KOK
+
+民航组织编号:EFKK
+
+纬度:63.721169
+
+经度:23.143129
+
+所属国家:Finland
+
+预设高度:84

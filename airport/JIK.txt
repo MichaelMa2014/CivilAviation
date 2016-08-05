@@ -1,0 +1,13 @@
+机场:Ikaria Island National Airport
+
+国际航空运输协会编号:JIK
+
+民航组织编号:LGIK
+
+纬度:37.666668
+
+经度:26.333332
+
+所属国家:Greece
+
+预设高度:79

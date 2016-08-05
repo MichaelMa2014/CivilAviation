@@ -1,0 +1,13 @@
+机场:Luqa Malta International Airport
+
+国际航空运输协会编号:MLA
+
+民航组织编号:LMML
+
+纬度:35.857491
+
+经度:14.477500
+
+所属国家:Malta
+
+预设高度:300

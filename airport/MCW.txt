@@ -1,0 +1,13 @@
+机场:Mason City Municipal Airport
+
+国际航空运输协会编号:MCW
+
+民航组织编号:KMCW
+
+纬度:43.156944
+
+经度:-93.329445
+
+所属国家:United States
+
+预设高度:1213

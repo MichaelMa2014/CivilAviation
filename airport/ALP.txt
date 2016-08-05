@@ -1,0 +1,13 @@
+机场:Aleppo International Airport
+
+国际航空运输协会编号:ALP
+
+民航组织编号:OSAP
+
+纬度:36.180672
+
+经度:37.224350
+
+所属国家:Syria
+
+预设高度:1276

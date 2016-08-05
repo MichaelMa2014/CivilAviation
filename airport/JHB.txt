@@ -1,0 +1,13 @@
+机场:Johor Bahru Senai International Airport
+
+国际航空运输协会编号:JHB
+
+民航组织编号:WMKJ
+
+纬度:1.641308
+
+经度:103.669601
+
+所属国家:Malaysia
+
+预设高度:135

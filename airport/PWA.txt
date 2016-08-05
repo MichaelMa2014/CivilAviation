@@ -1,0 +1,13 @@
+机场:Oklahoma City Wiley Post Airport
+
+国际航空运输协会编号:PWA
+
+民航组织编号:KPWA
+
+纬度:35.534161
+
+经度:-97.647003
+
+所属国家:United States
+
+预设高度:1300

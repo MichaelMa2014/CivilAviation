@@ -1,0 +1,13 @@
+机场:Gan International Airport
+
+国际航空运输协会编号:GAN
+
+民航组织编号:VRMG
+
+纬度:-0.693333
+
+经度:73.155556
+
+所属国家:Maldives
+
+预设高度:6

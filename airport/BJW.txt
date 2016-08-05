@@ -1,0 +1,13 @@
+机场:Bajawa Turelelo Soa Airport
+
+国际航空运输协会编号:BJW
+
+民航组织编号:WRKB
+
+纬度:-8.817000
+
+经度:120.983002
+
+所属国家:Indonesia
+
+预设高度:-1

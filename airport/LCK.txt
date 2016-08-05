@@ -1,0 +1,13 @@
+机场:Columbus Rickenbacker International Airport
+
+国际航空运输协会编号:LCK
+
+民航组织编号:KLCK
+
+纬度:39.813782
+
+经度:-82.927803
+
+所属国家:United States
+
+预设高度:744

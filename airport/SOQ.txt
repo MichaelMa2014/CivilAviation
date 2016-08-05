@@ -1,0 +1,13 @@
+机场:Sorong Dominique Edward Osok Airport
+
+国际航空运输协会编号:SOQ
+
+民航组织编号:WASS
+
+纬度:-0.894167
+
+经度:131.288895
+
+所属国家:Indonesia
+
+预设高度:10

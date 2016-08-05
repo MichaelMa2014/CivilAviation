@@ -1,0 +1,13 @@
+机场:Rome Leonardo da Vinci-Fiumicino Airport
+
+国际航空运输协会编号:FCO
+
+民航组织编号:LIRF
+
+纬度:41.804470
+
+经度:12.250790
+
+所属国家:Italy
+
+预设高度:15

@@ -1,0 +1,13 @@
+机场:Port Sudan New International Airport
+
+国际航空运输协会编号:PZU
+
+民航组织编号:HSPN
+
+纬度:19.433630
+
+经度:37.234070
+
+所属国家:Sudan
+
+预设高度:135

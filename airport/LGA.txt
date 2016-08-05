@@ -1,0 +1,13 @@
+机场:New York LaGuardia Airport
+
+国际航空运输协会编号:LGA
+
+民航组织编号:KLGA
+
+纬度:40.777248
+
+经度:-73.872597
+
+所属国家:United States
+
+预设高度:21

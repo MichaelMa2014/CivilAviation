@@ -1,0 +1,13 @@
+机场:Santa Barbara Municipal Airport
+
+国际航空运输协会编号:SBA
+
+民航组织编号:KSBA
+
+纬度:34.426182
+
+经度:-119.841003
+
+所属国家:United States
+
+预设高度:13

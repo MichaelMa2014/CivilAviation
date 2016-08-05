@@ -1,0 +1,13 @@
+机场:Indore Devi Ahilyabai Holkar Airport
+
+国际航空运输协会编号:IDR
+
+民航组织编号:VAID
+
+纬度:22.721781
+
+经度:75.801079
+
+所属国家:India
+
+预设高度:1850

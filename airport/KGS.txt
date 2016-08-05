@@ -1,0 +1,13 @@
+机场:Kos Island International Airport
+
+国际航空运输协会编号:KGS
+
+民航组织编号:LGKO
+
+纬度:36.793331
+
+经度:27.091660
+
+所属国家:Greece
+
+预设高度:412

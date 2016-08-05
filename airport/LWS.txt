@@ -1,0 +1,13 @@
+机场:Lewiston Nez Perce County Airport
+
+国际航空运输协会编号:LWS
+
+民航组织编号:KLWS
+
+纬度:46.374500
+
+经度:-117.014999
+
+所属国家:United States
+
+预设高度:1442

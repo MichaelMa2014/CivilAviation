@@ -1,0 +1,13 @@
+机场:London Gatwick Airport
+
+国际航空运输协会编号:LGW
+
+民航组织编号:EGKK
+
+纬度:51.148048
+
+经度:-0.190270
+
+所属国家:United Kingdom
+
+预设高度:202

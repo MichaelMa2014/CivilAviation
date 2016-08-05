@@ -1,0 +1,13 @@
+机场:Guam Antonio B. Won Pat International Airport
+
+国际航空运输协会编号:GUM
+
+民航组织编号:PGUM
+
+纬度:13.483870
+
+经度:144.797104
+
+所属国家:Guam
+
+预设高度:297

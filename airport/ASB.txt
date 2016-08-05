@@ -1,0 +1,13 @@
+机场:Ashgabat International Airport
+
+国际航空运输协会编号:ASB
+
+民航组织编号:UTAA
+
+纬度:37.986809
+
+经度:58.360958
+
+所属国家:Turkmenistan
+
+预设高度:692

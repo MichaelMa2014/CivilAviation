@@ -1,0 +1,13 @@
+机场:Hong Kong International Airport
+
+国际航空运输协会编号:HKG
+
+民航组织编号:VHHH
+
+纬度:22.308880
+
+经度:113.914703
+
+所属国家:Hong Kong
+
+预设高度:28

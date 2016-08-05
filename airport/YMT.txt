@@ -1,0 +1,13 @@
+机场:Chibougamau Chapais Airport
+
+国际航空运输协会编号:YMT
+
+民航组织编号:CYMT
+
+纬度:49.771938
+
+经度:-74.528000
+
+所属国家:Canada
+
+预设高度:1270

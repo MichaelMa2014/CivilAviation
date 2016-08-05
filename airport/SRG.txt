@@ -1,0 +1,13 @@
+机场:Semarang Achmad Yani International Airport
+
+国际航空运输协会编号:SRG
+
+民航组织编号:WIIS
+
+纬度:-6.971440
+
+经度:110.374100
+
+所属国家:Indonesia
+
+预设高度:13

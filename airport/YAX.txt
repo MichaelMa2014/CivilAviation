@@ -1,0 +1,13 @@
+机场:Wapekeka Angling Lake Airport
+
+国际航空运输协会编号:YAX
+
+民航组织编号:CKB6
+
+纬度:53.251945
+
+经度:-89.565002
+
+所属国家:Canada
+
+预设高度:700

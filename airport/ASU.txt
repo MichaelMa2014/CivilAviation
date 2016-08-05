@@ -1,0 +1,13 @@
+机场:Asuncion Silvio Pettirossi International Airport
+
+国际航空运输协会编号:ASU
+
+民航组织编号:SGAS
+
+纬度:-25.239799
+
+经度:-57.519100
+
+所属国家:Paraguay
+
+预设高度:292

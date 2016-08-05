@@ -1,0 +1,13 @@
+机场:Scottsbluff Western Nebraska Regional Airport
+
+国际航空运输协会编号:BFF
+
+民航组织编号:KBFF
+
+纬度:41.874020
+
+经度:-103.595001
+
+所属国家:United States
+
+预设高度:3967

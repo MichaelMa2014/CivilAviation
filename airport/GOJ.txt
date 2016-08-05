@@ -1,0 +1,13 @@
+机场:Nizhny Novgorod International Airport
+
+国际航空运输协会编号:GOJ
+
+民航组织编号:UWGG
+
+纬度:56.230110
+
+经度:43.784039
+
+所属国家:Russia
+
+预设高度:256

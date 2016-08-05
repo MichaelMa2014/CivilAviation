@@ -1,0 +1,13 @@
+机场:Krakow John Paul II International Airport
+
+国际航空运输协会编号:KRK
+
+民航组织编号:EPKK
+
+纬度:50.077728
+
+经度:19.784830
+
+所属国家:Poland
+
+预设高度:791

@@ -1,0 +1,13 @@
+机场:Stanley Airport
+
+国际航空运输协会编号:PSY
+
+民航组织编号:SFAL
+
+纬度:-51.685699
+
+经度:-57.777599
+
+所属国家:Falkland Islands (Malvinas)
+
+预设高度:75

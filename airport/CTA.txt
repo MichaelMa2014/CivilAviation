@@ -1,0 +1,13 @@
+机场:Catania Fontanarossa Airport
+
+国际航空运输协会编号:CTA
+
+民航组织编号:LICC
+
+纬度:37.466782
+
+经度:15.066400
+
+所属国家:Italy
+
+预设高度:39

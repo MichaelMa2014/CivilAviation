@@ -1,0 +1,13 @@
+机场:Libreville International Airport
+
+国际航空运输协会编号:LBV
+
+民航组织编号:FOOL
+
+纬度:0.458600
+
+经度:9.412283
+
+所属国家:Gabon
+
+预设高度:39

@@ -1,0 +1,13 @@
+机场:Campo Grande International Airport
+
+国际航空运输协会编号:CGR
+
+民航组织编号:SBCG
+
+纬度:-20.468599
+
+经度:-54.672501
+
+所属国家:Brazil
+
+预设高度:1833

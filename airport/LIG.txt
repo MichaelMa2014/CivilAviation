@@ -1,0 +1,13 @@
+机场:Limoges Bellegarde Airport
+
+国际航空运输协会编号:LIG
+
+民航组织编号:LFBL
+
+纬度:45.860828
+
+经度:1.180278
+
+所属国家:France
+
+预设高度:1300

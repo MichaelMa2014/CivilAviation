@@ -1,0 +1,13 @@
+机场:Puerto Montt El Tepual Airport
+
+国际航空运输协会编号:PMC
+
+民航组织编号:SCTE
+
+纬度:-41.438801
+
+经度:-73.093903
+
+所属国家:Chile
+
+预设高度:294

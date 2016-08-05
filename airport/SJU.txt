@@ -1,0 +1,13 @@
+机场:San Juan Luis Munoz Marin International Airport
+
+国际航空运输协会编号:SJU
+
+民航组织编号:TJSJ
+
+纬度:18.439409
+
+经度:-66.001801
+
+所属国家:Puerto Rico
+
+预设高度:9

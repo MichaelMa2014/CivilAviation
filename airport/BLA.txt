@@ -1,0 +1,13 @@
+机场:Barcelona Jose Antonio Anzoategui International Airport
+
+国际航空运输协会编号:BLA
+
+民航组织编号:SVBC
+
+纬度:10.107130
+
+经度:-64.689102
+
+所属国家:Venezuela
+
+预设高度:26

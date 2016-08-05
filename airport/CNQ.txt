@@ -1,0 +1,13 @@
+机场:Corrientes International Airport
+
+国际航空运输协会编号:CNQ
+
+民航组织编号:SARC
+
+纬度:-27.445499
+
+经度:-58.761799
+
+所属国家:Argentina
+
+预设高度:203

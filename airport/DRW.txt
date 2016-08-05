@@ -1,0 +1,13 @@
+机场:Darwin International Airport
+
+国际航空运输协会编号:DRW
+
+民航组织编号:YPDN
+
+纬度:-12.414700
+
+经度:130.876663
+
+所属国家:Australia
+
+预设高度:103

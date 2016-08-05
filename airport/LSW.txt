@@ -1,0 +1,13 @@
+机场:Lhokseumawe Malikus Saleh Airport
+
+国际航空运输协会编号:LSW
+
+民航组织编号:WITM
+
+纬度:5.226680
+
+经度:96.950302
+
+所属国家:Indonesia
+
+预设高度:90

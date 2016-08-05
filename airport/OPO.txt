@@ -1,0 +1,13 @@
+机场:Porto Francisco de Sa Carneiro Airport
+
+国际航空运输协会编号:OPO
+
+民航组织编号:LPPR
+
+纬度:41.248051
+
+经度:-8.681380
+
+所属国家:Portugal
+
+预设高度:228

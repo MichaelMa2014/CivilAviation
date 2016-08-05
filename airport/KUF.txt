@@ -1,0 +1,13 @@
+机场:Samara Kurumoch International Airport
+
+国际航空运输协会编号:KUF
+
+民航组织编号:UWWW
+
+纬度:53.504848
+
+经度:50.164330
+
+所属国家:Russia
+
+预设高度:477

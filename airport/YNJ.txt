@@ -1,0 +1,13 @@
+机场:Yanji Chaoyangchuan Airport
+
+国际航空运输协会编号:YNJ
+
+民航组织编号:ZYYJ
+
+纬度:42.885662
+
+经度:129.439362
+
+所属国家:China
+
+预设高度:624

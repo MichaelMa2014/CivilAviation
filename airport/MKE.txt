@@ -1,0 +1,13 @@
+机场:Milwaukee General Mitchell International Airport
+
+国际航空运输协会编号:MKE
+
+民航组织编号:KMKE
+
+纬度:42.947220
+
+经度:-87.896500
+
+所属国家:United States
+
+预设高度:729

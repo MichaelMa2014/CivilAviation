@@ -1,0 +1,13 @@
+机场:Bamako Senou International Airport
+
+国际航空运输协会编号:BKO
+
+民航组织编号:GABS
+
+纬度:12.533540
+
+经度:-7.949940
+
+所属国家:Mali
+
+预设高度:1247

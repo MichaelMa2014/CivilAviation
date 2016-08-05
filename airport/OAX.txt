@@ -1,0 +1,13 @@
+机场:Oaxaca Xoxocotlan International Airport
+
+国际航空运输协会编号:OAX
+
+民航组织编号:MMOX
+
+纬度:16.999901
+
+经度:-96.726601
+
+所属国家:Mexico
+
+预设高度:4989

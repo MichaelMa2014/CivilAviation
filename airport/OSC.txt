@@ -1,0 +1,13 @@
+机场:Oscoda Wurtsmith Airport
+
+国际航空运输协会编号:OSC
+
+民航组织编号:KOSC
+
+纬度:44.450001
+
+经度:-83.389999
+
+所属国家:United States
+
+预设高度:633

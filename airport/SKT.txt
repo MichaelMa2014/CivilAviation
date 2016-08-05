@@ -1,0 +1,13 @@
+机场:Sialkot International Airport
+
+国际航空运输协会编号:SKT
+
+民航组织编号:OPST
+
+纬度:32.535557
+
+经度:74.363892
+
+所属国家:Pakistan
+
+预设高度:2133

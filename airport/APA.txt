@@ -1,0 +1,13 @@
+机场:Denver Centennial Airport
+
+国际航空运输协会编号:APA
+
+民航组织编号:KAPA
+
+纬度:39.570110
+
+经度:-104.848999
+
+所属国家:United States
+
+预设高度:5885

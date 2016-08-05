@@ -1,0 +1,13 @@
+机场:Haikou Meilan International Airport
+
+国际航空运输协会编号:HAK
+
+民航组织编号:ZJHK
+
+纬度:19.934851
+
+经度:110.458900
+
+所属国家:China
+
+预设高度:75

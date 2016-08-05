@@ -1,0 +1,13 @@
+机场:Louisville International Airport
+
+国际航空运输协会编号:SDF
+
+民航组织编号:KSDF
+
+纬度:38.174080
+
+经度:-85.736397
+
+所属国家:United States
+
+预设高度:501

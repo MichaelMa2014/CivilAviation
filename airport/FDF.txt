@@ -1,0 +1,13 @@
+机场:Martinique Aime Cesaire International Airport
+
+国际航空运输协会编号:FDF
+
+民航组织编号:TFFF
+
+纬度:14.592220
+
+经度:-60.996300
+
+所属国家:Martinique
+
+预设高度:16

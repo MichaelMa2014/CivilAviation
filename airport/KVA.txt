@@ -1,0 +1,13 @@
+机场:Kavala International Airport
+
+国际航空运输协会编号:KVA
+
+民航组织编号:LGKV
+
+纬度:40.913300
+
+经度:24.619221
+
+所属国家:Greece
+
+预设高度:18

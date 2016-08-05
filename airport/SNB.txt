@@ -1,0 +1,13 @@
+机场:Milikapiti Snake Bay Airport
+
+国际航空运输协会编号:SNB
+
+民航组织编号:YSNB
+
+纬度:-11.422800
+
+经度:130.654007
+
+所属国家:Australia
+
+预设高度:173

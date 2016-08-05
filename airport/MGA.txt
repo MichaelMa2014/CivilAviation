@@ -1,0 +1,13 @@
+机场:Managua Augusto C. Sandino International Airport
+
+国际航空运输协会编号:MGA
+
+民航组织编号:MNMG
+
+纬度:12.141490
+
+经度:-86.168098
+
+所属国家:Nicaragua
+
+预设高度:194

@@ -1,0 +1,15 @@
+机场:St. Thomas Cyril E. King Airport
+
+国际航空运输协会编号:STT
+
+民航组织编号:TIST
+
+纬度:18.337299
+
+经度:-64.973297
+
+所属国家:Virgin Islands
+
+ Us
+
+预设高度:23

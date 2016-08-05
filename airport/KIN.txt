@@ -1,0 +1,13 @@
+机场:Kingston Norman Manley International Airport
+
+国际航空运输协会编号:KIN
+
+民航组织编号:MKJP
+
+纬度:17.935659
+
+经度:-76.787498
+
+所属国家:Jamaica
+
+预设高度:10

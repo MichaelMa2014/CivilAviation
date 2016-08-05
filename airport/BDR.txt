@@ -1,0 +1,13 @@
+机场:Stratford Sikorsky Memorial Airport
+
+国际航空运输协会编号:BDR
+
+民航组织编号:KBDR
+
+纬度:41.163471
+
+经度:-73.126099
+
+所属国家:United States
+
+预设高度:9

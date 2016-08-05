@@ -1,0 +1,13 @@
+机场:Chicago Gary International
+
+国际航空运输协会编号:GYY
+
+民航组织编号:KGYY
+
+纬度:41.610001
+
+经度:-87.410004
+
+所属国家:United States
+
+预设高度:591

@@ -1,0 +1,13 @@
+机场:Lima Jorge Chavez International Airport
+
+国际航空运输协会编号:LIM
+
+民航组织编号:SPJC
+
+纬度:-12.021800
+
+经度:-77.114304
+
+所属国家:Peru
+
+预设高度:113

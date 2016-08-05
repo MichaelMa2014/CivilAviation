@@ -1,0 +1,13 @@
+机场:Marsa Alam International Airport
+
+国际航空运输协会编号:RMF
+
+民航组织编号:HEMA
+
+纬度:25.557110
+
+经度:34.583710
+
+所属国家:Egypt
+
+预设高度:251

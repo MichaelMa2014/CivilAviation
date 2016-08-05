@@ -1,0 +1,13 @@
+机场:Ningbo Lishe International Airport
+
+国际航空运输协会编号:NGB
+
+民航组织编号:ZSNB
+
+纬度:29.826679
+
+经度:121.461899
+
+所属国家:China
+
+预设高度:13

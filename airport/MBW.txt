@@ -1,0 +1,13 @@
+机场:Melbourne Moorabbin Airport
+
+国际航空运输协会编号:MBW
+
+民航组织编号:YMMB
+
+纬度:-37.975800
+
+经度:145.102203
+
+所属国家:Australia
+
+预设高度:50

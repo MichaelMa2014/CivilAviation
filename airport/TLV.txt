@@ -1,0 +1,13 @@
+机场:Tel Aviv Ben Gurion International Airport
+
+国际航空运输协会编号:TLV
+
+民航组织编号:LLBG
+
+纬度:32.011379
+
+经度:34.886662
+
+所属国家:Israel
+
+预设高度:135

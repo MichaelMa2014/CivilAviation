@@ -1,0 +1,13 @@
+机场:Windhoek Hosea Kutako International Airport
+
+国际航空运输协会编号:WDH
+
+民航组织编号:FYWH
+
+纬度:-22.479799
+
+经度:17.470949
+
+所属国家:Namibia
+
+预设高度:5640

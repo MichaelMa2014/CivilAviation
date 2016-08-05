@@ -1,0 +1,13 @@
+机场:Bedford Hanscom Field
+
+国际航空运输协会编号:BED
+
+民航组织编号:KBED
+
+纬度:42.469952
+
+经度:-71.289001
+
+所属国家:United States
+
+预设高度:132

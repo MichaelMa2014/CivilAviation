@@ -1,0 +1,13 @@
+机场:Guiyang Longdongbao International Airport
+
+国际航空运输协会编号:KWE
+
+民航组织编号:ZUGY
+
+纬度:26.538521
+
+经度:106.800697
+
+所属国家:China
+
+预设高度:3736

@@ -1,0 +1,13 @@
+机场:Karlsruhe\/Baden-Baden Airport
+
+国际航空运输协会编号:FKB
+
+民航组织编号:EDSB
+
+纬度:48.779350
+
+经度:8.080500
+
+所属国家:Germany
+
+预设高度:408

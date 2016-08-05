@@ -1,0 +1,13 @@
+机场:Asmara International Airport
+
+国际航空运输协会编号:ASM
+
+民航组织编号:HHAS
+
+纬度:15.291850
+
+经度:38.910660
+
+所属国家:Eritrea
+
+预设高度:7661

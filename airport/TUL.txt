@@ -1,0 +1,13 @@
+机场:Tulsa International Airport
+
+国际航空运输协会编号:TUL
+
+民航组织编号:KTUL
+
+纬度:36.198380
+
+经度:-95.888100
+
+所属国家:United States
+
+预设高度:677

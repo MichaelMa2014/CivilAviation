@@ -1,0 +1,13 @@
+机场:Apia Faleolo International Airport
+
+国际航空运输协会编号:APW
+
+民航组织编号:NSFA
+
+纬度:-13.829600
+
+经度:-171.996994
+
+所属国家:Samoa
+
+预设高度:58

@@ -1,0 +1,13 @@
+机场:Banjul International Airport
+
+国际航空运输协会编号:BJL
+
+民航组织编号:GBYD
+
+纬度:13.337960
+
+经度:-16.652201
+
+所属国家:Gambia
+
+预设高度:95

@@ -1,0 +1,13 @@
+机场:Maumere Frans Seda Airport
+
+国际航空运输协会编号:MOF
+
+民航组织编号:WRKC
+
+纬度:-8.640640
+
+经度:122.236801
+
+所属国家:Indonesia
+
+预设高度:115

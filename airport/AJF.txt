@@ -1,0 +1,13 @@
+机场:Sakaka Al-Jawf Domestic Airport
+
+国际航空运输协会编号:AJF
+
+民航组织编号:OESK
+
+纬度:29.788668
+
+经度:40.101486
+
+所属国家:Saudi Arabia
+
+预设高度:2261

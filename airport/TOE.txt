@@ -1,0 +1,13 @@
+机场:Tozeur Nefta International Airport
+
+国际航空运输协会编号:TOE
+
+民航组织编号:DTTZ
+
+纬度:33.939720
+
+经度:8.110556
+
+所属国家:Tunisia
+
+预设高度:287

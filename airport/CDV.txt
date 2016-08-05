@@ -1,0 +1,13 @@
+机场:Cordova Mudhole Smith Airport
+
+国际航空运输协会编号:CDV
+
+民航组织编号:PACV
+
+纬度:60.491772
+
+经度:-145.477005
+
+所属国家:United States
+
+预设高度:54

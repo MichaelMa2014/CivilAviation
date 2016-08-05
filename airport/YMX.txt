@@ -1,0 +1,13 @@
+机场:Montreal Mirabel International Airport
+
+国际航空运输协会编号:YMX
+
+民航组织编号:CYMX
+
+纬度:45.681938
+
+经度:-74.005203
+
+所属国家:Canada
+
+预设高度:270

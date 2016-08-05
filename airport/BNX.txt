@@ -1,0 +1,13 @@
+机场:Banja Luka International Airport
+
+国际航空运输协会编号:BNX
+
+民航组织编号:LQBK
+
+纬度:44.941441
+
+经度:17.297501
+
+所属国家:Bosnia And Herzegovina
+
+预设高度:400

@@ -1,0 +1,13 @@
+机场:Formosa International Airport
+
+国际航空运输协会编号:FMA
+
+民航组织编号:SARF
+
+纬度:-26.212700
+
+经度:-58.228100
+
+所属国家:Argentina
+
+预设高度:194

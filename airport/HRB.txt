@@ -1,0 +1,13 @@
+机场:Harbin Taiping International Airport
+
+国际航空运输协会编号:HRB
+
+民航组织编号:ZYHB
+
+纬度:45.623402
+
+经度:126.250298
+
+所属国家:China
+
+预设高度:457

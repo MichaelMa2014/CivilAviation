@@ -1,0 +1,13 @@
+机场:The Valley Clayton J. Lloyd International Airport
+
+国际航空运输协会编号:AXA
+
+民航组织编号:TQPF
+
+纬度:18.204830
+
+经度:-63.055000
+
+所属国家:Anguilla
+
+预设高度:128

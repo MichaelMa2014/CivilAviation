@@ -1,0 +1,13 @@
+机场:Columbus Metropolitan Airport
+
+国际航空运输协会编号:CSG
+
+民航组织编号:KCSG
+
+纬度:32.516331
+
+经度:-84.938797
+
+所属国家:United States
+
+预设高度:397

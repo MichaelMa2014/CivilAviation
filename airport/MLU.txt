@@ -1,0 +1,13 @@
+机场:Monroe Regional Airport
+
+国际航空运输协会编号:MLU
+
+民航组织编号:KMLU
+
+纬度:32.510860
+
+经度:-92.037598
+
+所属国家:United States
+
+预设高度:79

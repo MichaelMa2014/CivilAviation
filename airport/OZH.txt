@@ -1,0 +1,13 @@
+机场:Zaporizhia International Airport
+
+国际航空运输协会编号:OZH
+
+民航组织编号:UKDE
+
+纬度:47.867001
+
+经度:35.315689
+
+所属国家:Ukraine
+
+预设高度:373

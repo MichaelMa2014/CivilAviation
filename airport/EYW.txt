@@ -1,0 +1,13 @@
+机场:Key West International Airport
+
+国际航空运输协会编号:EYW
+
+民航组织编号:KEYW
+
+纬度:24.556110
+
+经度:-81.759499
+
+所属国家:United States
+
+预设高度:3

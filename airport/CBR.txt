@@ -1,0 +1,13 @@
+机场:Canberra International Airport
+
+国际航空运输协会编号:CBR
+
+民航组织编号:YSCB
+
+纬度:-35.306900
+
+经度:149.195007
+
+所属国家:Australia
+
+预设高度:1886

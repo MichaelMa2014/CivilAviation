@@ -1,0 +1,13 @@
+机场:Santa Cruz El Trompillo Airport
+
+国际航空运输协会编号:SRZ
+
+民航组织编号:SLET
+
+纬度:-17.811501
+
+经度:-63.171398
+
+所属国家:Bolivia
+
+预设高度:1371

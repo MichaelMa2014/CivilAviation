@@ -1,0 +1,13 @@
+机场:Page Municipal Airport
+
+国际航空运输协会编号:PGA
+
+民航组织编号:KPGA
+
+纬度:36.926083
+
+经度:-111.448357
+
+所属国家:United States
+
+预设高度:4316

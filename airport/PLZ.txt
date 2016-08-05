@@ -1,0 +1,13 @@
+机场:Port Elizabeth Airport
+
+国际航空运输协会编号:PLZ
+
+民航组织编号:FAPE
+
+纬度:-33.984901
+
+经度:25.617270
+
+所属国家:South Africa
+
+预设高度:226

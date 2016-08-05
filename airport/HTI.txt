@@ -1,0 +1,13 @@
+机场:Hamilton Island Great Barrier Reef Airport
+
+国际航空运输协会编号:HTI
+
+民航组织编号:YBMN
+
+纬度:-20.358000
+
+经度:148.951599
+
+所属国家:Australia
+
+预设高度:15

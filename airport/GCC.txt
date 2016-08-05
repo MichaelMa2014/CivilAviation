@@ -1,0 +1,13 @@
+机场:Gillette Campbell County Airport
+
+国际航空运输协会编号:GCC
+
+民航组织编号:KGCC
+
+纬度:44.346355
+
+经度:-105.532684
+
+所属国家:United States
+
+预设高度:4363

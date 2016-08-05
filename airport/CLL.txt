@@ -1,0 +1,13 @@
+机场:College Station Easterwood Airport
+
+国际航空运输协会编号:CLL
+
+民航组织编号:KCLL
+
+纬度:30.588579
+
+经度:-96.363800
+
+所属国家:United States
+
+预设高度:320

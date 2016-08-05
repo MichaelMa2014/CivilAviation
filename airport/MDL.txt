@@ -1,0 +1,13 @@
+机场:Mandalay International Airport
+
+国际航空运输协会编号:MDL
+
+民航组织编号:VYMD
+
+纬度:21.702150
+
+经度:95.977921
+
+所属国家:Myanmar (Burma)
+
+预设高度:300

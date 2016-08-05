@@ -1,0 +1,13 @@
+机场:Porto Velho International Airport
+
+国际航空运输协会编号:PVH
+
+民航组织编号:SBPV
+
+纬度:-8.709290
+
+经度:-63.902199
+
+所属国家:Brazil
+
+预设高度:294

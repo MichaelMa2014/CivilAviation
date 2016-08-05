@@ -1,0 +1,13 @@
+机场:Southwest Florida International Airport
+
+国际航空运输协会编号:RSW
+
+民航组织编号:KRSW
+
+纬度:26.536160
+
+经度:-81.755096
+
+所属国家:United States
+
+预设高度:30

@@ -1,0 +1,13 @@
+机场:Nakhon Si Thammarat Airport
+
+国际航空运输协会编号:NST
+
+民航组织编号:VTSN
+
+纬度:8.539617
+
+经度:99.944717
+
+所属国家:Thailand
+
+预设高度:13

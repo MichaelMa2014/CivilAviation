@@ -1,0 +1,13 @@
+机场:Nagpur Dr. Babasaheb Ambedkar International Airport
+
+国际航空运输协会编号:NAG
+
+民航组织编号:VANP
+
+纬度:21.092190
+
+经度:79.047180
+
+所属国家:India
+
+预设高度:1033

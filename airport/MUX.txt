@@ -1,0 +1,13 @@
+机场:Multan International Airport
+
+国际航空运输协会编号:MUX
+
+民航组织编号:OPMT
+
+纬度:30.203220
+
+经度:71.419113
+
+所属国家:Pakistan
+
+预设高度:403

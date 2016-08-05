@@ -1,0 +1,13 @@
+机场:Algiers Houari Boumediene Airport
+
+国际航空运输协会编号:ALG
+
+民航组织编号:DAAG
+
+纬度:36.691010
+
+经度:3.215408
+
+所属国家:Algeria
+
+预设高度:82

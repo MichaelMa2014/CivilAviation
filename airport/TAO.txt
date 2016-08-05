@@ -1,0 +1,13 @@
+机场:Qingdao Liuting International Airport
+
+国际航空运输协会编号:TAO
+
+民航组织编号:ZSQD
+
+纬度:36.266102
+
+经度:120.374397
+
+所属国家:China
+
+预设高度:33

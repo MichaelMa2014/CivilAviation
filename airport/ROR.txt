@@ -1,0 +1,13 @@
+机场:Airai Roman Tmetuchl International Airport
+
+国际航空运输协会编号:ROR
+
+民航组织编号:PTRO
+
+纬度:7.367303
+
+经度:134.544205
+
+所属国家:Palau
+
+预设高度:176

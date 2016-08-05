@@ -1,0 +1,13 @@
+机场:Morelia International Airport
+
+国际航空运输协会编号:MLM
+
+民航组织编号:MMMM
+
+纬度:19.849939
+
+经度:-101.025002
+
+所属国家:Mexico
+
+预设高度:6033

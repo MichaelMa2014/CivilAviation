@@ -1,0 +1,13 @@
+机场:Isparta Suleyman Demirel Airport
+
+国际航空运输协会编号:ISE
+
+民航组织编号:LTFC
+
+纬度:37.866112
+
+经度:30.382221
+
+所属国家:Turkey
+
+预设高度:2835

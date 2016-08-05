@@ -1,0 +1,13 @@
+机场:Puebla Hermanos Serdan International Airport
+
+国际航空运输协会编号:PBC
+
+民航组织编号:MMPB
+
+纬度:19.158140
+
+经度:-98.371399
+
+所属国家:Mexico
+
+预设高度:7361

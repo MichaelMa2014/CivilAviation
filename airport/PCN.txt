@@ -1,0 +1,13 @@
+机场:Picton Koromiko Airport
+
+国际航空运输协会编号:PCN
+
+民航组织编号:NZOK
+
+纬度:-41.348301
+
+经度:173.955200
+
+所属国家:New Zealand
+
+预设高度:140

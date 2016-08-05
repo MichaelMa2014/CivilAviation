@@ -1,0 +1,13 @@
+机场:Castlegar West Kootenay Regional Airport
+
+国际航空运输协会编号:YCG
+
+民航组织编号:CYCG
+
+纬度:49.296379
+
+经度:-117.632004
+
+所属国家:Canada
+
+预设高度:1624

@@ -1,0 +1,13 @@
+机场:Atlanta Fulton County Airport
+
+国际航空运输协会编号:FTY
+
+民航组织编号:KFTY
+
+纬度:33.777195
+
+经度:-84.521141
+
+所属国家:United States
+
+预设高度:821

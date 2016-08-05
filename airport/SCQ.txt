@@ -1,0 +1,13 @@
+机场:Santiago de Compostela Airport
+
+国际航空运输协会编号:SCQ
+
+民航组织编号:LEST
+
+纬度:42.896332
+
+经度:-8.415140
+
+所属国家:Spain
+
+预设高度:1213

@@ -1,0 +1,13 @@
+机场:Washington Dulles International Airport
+
+国际航空运输协会编号:IAD
+
+民航组织编号:KIAD
+
+纬度:38.947441
+
+经度:-77.459900
+
+所属国家:United States
+
+预设高度:312

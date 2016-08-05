@@ -1,0 +1,13 @@
+机场:Oranjestad Queen Beatrix International Airport
+
+国际航空运输协会编号:AUA
+
+民航组织编号:TNCA
+
+纬度:12.501380
+
+经度:-70.015198
+
+所属国家:Aruba
+
+预设高度:60

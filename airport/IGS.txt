@@ -1,0 +1,13 @@
+机场:Ingolstadt Manching Airport
+
+国际航空运输协会编号:IGS
+
+民航组织编号:ETSI
+
+纬度:48.715557
+
+经度:11.533889
+
+所属国家:Germany
+
+预设高度:1202

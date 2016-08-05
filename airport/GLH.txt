@@ -1,0 +1,13 @@
+机场:Greenville Mid Delta Regional Airport
+
+国际航空运输协会编号:GLH
+
+民航组织编号:KGLH
+
+纬度:33.484444
+
+经度:-90.985001
+
+所属国家:United States
+
+预设高度:131

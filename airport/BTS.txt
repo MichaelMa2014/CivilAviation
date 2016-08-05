@@ -1,0 +1,13 @@
+机场:Bratislava M. R. Stefanik Airport
+
+国际航空运输协会编号:BTS
+
+民航组织编号:LZIB
+
+纬度:48.170158
+
+经度:17.212660
+
+所属国家:Slovakia
+
+预设高度:436

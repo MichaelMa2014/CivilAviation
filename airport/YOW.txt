@@ -1,0 +1,13 @@
+机场:Ottawa Macdonald-Cartier International Airport
+
+国际航空运输协会编号:YOW
+
+民航组织编号:CYOW
+
+纬度:45.322498
+
+经度:-75.669098
+
+所属国家:Canada
+
+预设高度:374

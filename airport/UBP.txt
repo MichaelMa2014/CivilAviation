@@ -1,0 +1,13 @@
+机场:Ubon Ratchathani Airport
+
+国际航空运输协会编号:UBP
+
+民航组织编号:VTUU
+
+纬度:15.251270
+
+经度:104.870201
+
+所属国家:Thailand
+
+预设高度:406

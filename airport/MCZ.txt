@@ -1,0 +1,13 @@
+机场:Maceio Zumbi dos Palmares International Airport
+
+国际航空运输协会编号:MCZ
+
+民航组织编号:SBMO
+
+纬度:-9.510800
+
+经度:-35.791599
+
+所属国家:Brazil
+
+预设高度:387

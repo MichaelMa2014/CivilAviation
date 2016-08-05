@@ -1,0 +1,13 @@
+机场:Porlamar International Airport
+
+国际航空运输协会编号:PMV
+
+民航组织编号:SVMG
+
+纬度:10.912920
+
+经度:-63.967499
+
+所属国家:Venezuela
+
+预设高度:74

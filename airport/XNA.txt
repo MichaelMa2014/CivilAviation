@@ -1,0 +1,13 @@
+机场:Bentonville Northwest Arkansas Regional Airport
+
+国际航空运输协会编号:XNA
+
+民航组织编号:KXNA
+
+纬度:36.281860
+
+经度:-94.306801
+
+所属国家:United States
+
+预设高度:1288

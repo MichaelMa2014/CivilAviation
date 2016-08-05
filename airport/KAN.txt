@@ -1,0 +1,13 @@
+机场:Kano Mallam Aminu International Airport
+
+国际航空运输协会编号:KAN
+
+民航组织编号:DNKN
+
+纬度:12.047580
+
+经度:8.524622
+
+所属国家:Nigeria
+
+预设高度:1562

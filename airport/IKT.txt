@@ -1,0 +1,13 @@
+机场:Irkutsk International Airport
+
+国际航空运输协会编号:IKT
+
+民航组织编号:UIII
+
+纬度:52.268021
+
+经度:104.388901
+
+所属国家:Russia
+
+预设高度:1675

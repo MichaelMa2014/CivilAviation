@@ -1,0 +1,13 @@
+机场:Southampton Airport
+
+国际航空运输协会编号:SOU
+
+民航组织编号:EGHI
+
+纬度:50.950260
+
+经度:-1.356800
+
+所属国家:United Kingdom
+
+预设高度:44

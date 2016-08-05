@@ -1,0 +1,13 @@
+机场:Governor's Harbour Airport
+
+国际航空运输协会编号:GHB
+
+民航组织编号:MYEM
+
+纬度:25.284700
+
+经度:-76.331001
+
+所属国家:Bahamas
+
+预设高度:27

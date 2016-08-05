@@ -1,0 +1,13 @@
+机场:Hamburg Finkenwerder Airport
+
+国际航空运输协会编号:XFW
+
+民航组织编号:EDHI
+
+纬度:53.529999
+
+经度:9.830000
+
+所属国家:Germany
+
+预设高度:22

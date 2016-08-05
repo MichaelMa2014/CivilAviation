@@ -1,0 +1,13 @@
+机场:Ambon Pattimura Airport
+
+国际航空运输协会编号:AMQ
+
+民航组织编号:WAPP
+
+纬度:-3.710260
+
+经度:128.089096
+
+所属国家:Indonesia
+
+预设高度:33

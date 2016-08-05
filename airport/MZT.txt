@@ -1,0 +1,13 @@
+机场:Mazatlan International Airport
+
+国际航空运输协会编号:MZT
+
+民航组织编号:MMMZ
+
+纬度:23.161350
+
+经度:-106.265999
+
+所属国家:Mexico
+
+预设高度:38

@@ -1,0 +1,13 @@
+机场:Cancun International Airport
+
+国际航空运输协会编号:CUN
+
+民航组织编号:MMUN
+
+纬度:21.036520
+
+经度:-86.876999
+
+所属国家:Mexico
+
+预设高度:20

@@ -1,0 +1,13 @@
+机场:Ahmedabad International Airport
+
+国际航空运输协会编号:AMD
+
+民航组织编号:VAAH
+
+纬度:23.077240
+
+经度:72.634651
+
+所属国家:India
+
+预设高度:189

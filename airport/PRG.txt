@@ -1,0 +1,13 @@
+机场:Prague Vaclav Havel Airport
+
+国际航空运输协会编号:PRG
+
+民航组织编号:LKPR
+
+纬度:50.100830
+
+经度:14.260000
+
+所属国家:Czech Republic
+
+预设高度:1247

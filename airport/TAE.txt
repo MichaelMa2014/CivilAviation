@@ -1,0 +1,13 @@
+机场:Daegu International Airport
+
+国际航空运输协会编号:TAE
+
+民航组织编号:RKTN
+
+纬度:35.894100
+
+经度:128.658798
+
+所属国家:South Korea
+
+预设高度:116

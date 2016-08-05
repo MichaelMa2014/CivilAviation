@@ -1,0 +1,13 @@
+机场:Batumi International Airport
+
+国际航空运输协会编号:BUS
+
+民航组织编号:UGSB
+
+纬度:41.610271
+
+经度:41.599689
+
+所属国家:Georgia
+
+预设高度:105

@@ -1,0 +1,13 @@
+机场:Cebu Mactan International Airport
+
+国际航空运输协会编号:CEB
+
+民航组织编号:RPVM
+
+纬度:10.307540
+
+经度:123.979401
+
+所属国家:Philippines
+
+预设高度:31

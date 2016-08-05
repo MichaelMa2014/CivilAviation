@@ -1,0 +1,13 @@
+机场:Casablanca Mohammed V International Airport
+
+国际航空运输协会编号:CMN
+
+民航组织编号:GMMN
+
+纬度:33.367458
+
+经度:-7.589960
+
+所属国家:Morocco
+
+预设高度:656

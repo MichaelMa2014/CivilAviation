@@ -1,0 +1,13 @@
+机场:Cayo Largo del Sur Vilo Acuna Airport
+
+国际航空运输协会编号:CYO
+
+民航组织编号:MUCL
+
+纬度:21.616449
+
+经度:-81.545898
+
+所属国家:Cuba
+
+预设高度:10

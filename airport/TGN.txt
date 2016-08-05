@@ -1,0 +1,13 @@
+机场:Morwell Latrobe Regional Airport
+
+国际航空运输协会编号:TGN
+
+民航组织编号:YLTV
+
+纬度:-38.207199
+
+经度:146.470001
+
+所属国家:Australia
+
+预设高度:180

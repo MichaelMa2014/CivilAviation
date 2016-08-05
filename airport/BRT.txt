@@ -1,0 +1,13 @@
+机场:Wurrumiyanga Bathurst Island Airport
+
+国际航空运输协会编号:BRT
+
+民航组织编号:YBTI
+
+纬度:-11.769200
+
+经度:130.619995
+
+所属国家:Australia
+
+预设高度:67

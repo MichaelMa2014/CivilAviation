@@ -1,0 +1,13 @@
+机场:Broome International Airport
+
+国际航空运输协会编号:BME
+
+民航组织编号:YPBR
+
+纬度:-17.944700
+
+经度:122.231598
+
+所属国家:Australia
+
+预设高度:56

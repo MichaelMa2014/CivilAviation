@@ -1,0 +1,13 @@
+机场:Lake City Gateway Airport
+
+国际航空运输协会编号:LCQ
+
+民航组织编号:KLCQ
+
+纬度:30.181883
+
+经度:-82.575287
+
+所属国家:United States
+
+预设高度:194

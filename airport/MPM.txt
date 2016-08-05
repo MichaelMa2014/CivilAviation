@@ -1,0 +1,13 @@
+机场:Maputo International Airport
+
+国际航空运输协会编号:MPM
+
+民航组织编号:FQMA
+
+纬度:-25.920799
+
+经度:32.572601
+
+所属国家:Mozambique
+
+预设高度:145

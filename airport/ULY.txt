@@ -1,0 +1,13 @@
+机场:Ulyanovsk Vostochny Airport
+
+国际航空运输协会编号:ULY
+
+民航组织编号:UWLW
+
+纬度:54.400002
+
+经度:48.799999
+
+所属国家:Russia
+
+预设高度:252

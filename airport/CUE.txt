@@ -1,0 +1,13 @@
+机场:Cuenca Mariscal Lamar International Airport
+
+国际航空运输协会编号:CUE
+
+民航组织编号:SECU
+
+纬度:-2.889460
+
+经度:-78.984299
+
+所属国家:Ecuador
+
+预设高度:8306

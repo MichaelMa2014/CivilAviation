@@ -1,0 +1,13 @@
+机场:Shanghai Hongqiao International Airport
+
+国际航空运输协会编号:SHA
+
+民航组织编号:ZSSS
+
+纬度:31.197870
+
+经度:121.336304
+
+所属国家:China
+
+预设高度:10

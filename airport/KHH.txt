@@ -1,0 +1,13 @@
+机场:Kaohsiung International Airport
+
+国际航空运输协会编号:KHH
+
+民航组织编号:RCKH
+
+纬度:22.577089
+
+经度:120.349998
+
+所属国家:Taiwan
+
+预设高度:31

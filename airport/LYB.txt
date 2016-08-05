@@ -1,0 +1,13 @@
+机场:Little Cayman Airport
+
+国际航空运输协会编号:LYB
+
+民航组织编号:MWCL
+
+纬度:19.660271
+
+经度:-80.090202
+
+所属国家:Cayman Islands
+
+预设高度:3

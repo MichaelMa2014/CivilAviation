@@ -1,0 +1,13 @@
+机场:Yaroslavl Tunoshna Airport
+
+国际航空运输协会编号:IAR
+
+民航组织编号:UUDL
+
+纬度:57.560001
+
+经度:40.150002
+
+所属国家:Russia
+
+预设高度:305

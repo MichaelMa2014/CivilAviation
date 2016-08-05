@@ -1,0 +1,13 @@
+机场:Cayo Coco Jardines del Rey Airport
+
+国际航空运输协会编号:CCC
+
+民航组织编号:MUCC
+
+纬度:22.513220
+
+经度:-78.510902
+
+所属国家:Cuba
+
+预设高度:6

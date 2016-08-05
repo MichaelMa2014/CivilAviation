@@ -1,0 +1,13 @@
+机场:Willemstad Curacao Hato International Airport
+
+国际航空运输协会编号:CUR
+
+民航组织编号:TNCC
+
+纬度:12.188850
+
+经度:-68.959801
+
+所属国家:Curacao
+
+预设高度:29

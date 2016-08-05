@@ -1,0 +1,13 @@
+机场:Palermo Falcone-Borsellino Airport
+
+国际航空运输协会编号:PMO
+
+民航组织编号:LICJ
+
+纬度:38.175949
+
+经度:13.091010
+
+所属国家:Italy
+
+预设高度:65

@@ -1,0 +1,13 @@
+机场:Bacolod City Silay International Airport
+
+国际航空运输协会编号:BCD
+
+民航组织编号:RPVB
+
+纬度:10.776905
+
+经度:123.018394
+
+所属国家:Philippines
+
+预设高度:25

@@ -1,0 +1,13 @@
+机场:San Carlos de Bariloche Airport
+
+国际航空运输协会编号:BRC
+
+民航组织编号:SAZS
+
+纬度:-41.151100
+
+经度:-71.157501
+
+所属国家:Argentina
+
+预设高度:2776

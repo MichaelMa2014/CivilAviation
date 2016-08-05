@@ -1,0 +1,13 @@
+机场:Monastir Habib Bourguiba International Airport
+
+国际航空运输协会编号:MIR
+
+民航组织编号:DTMB
+
+纬度:35.758049
+
+经度:10.754720
+
+所属国家:Tunisia
+
+预设高度:9

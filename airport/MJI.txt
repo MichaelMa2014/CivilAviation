@@ -1,0 +1,13 @@
+机场:Tripoli Mitiga International Airport
+
+国际航空运输协会编号:MJI
+
+民航组织编号:HLLM
+
+纬度:32.889999
+
+经度:13.270000
+
+所属国家:Libya
+
+预设高度:36

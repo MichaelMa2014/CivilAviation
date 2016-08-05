@@ -1,0 +1,13 @@
+机场:Hue Phu Bai International Airport
+
+国际航空运输协会编号:HUI
+
+民航组织编号:VVPB
+
+纬度:16.401489
+
+经度:107.702599
+
+所属国家:Vietnam
+
+预设高度:48

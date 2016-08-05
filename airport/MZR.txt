@@ -1,0 +1,13 @@
+机场:Mazar-I-Sharif International Airport
+
+国际航空运输协会编号:MZR
+
+民航组织编号:OAMS
+
+纬度:36.706909
+
+经度:67.209671
+
+所属国家:Afghanistan
+
+预设高度:1284

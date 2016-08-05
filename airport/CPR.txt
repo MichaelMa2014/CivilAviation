@@ -1,0 +1,13 @@
+机场:Casper Natrona County International Airport
+
+国际航空运输协会编号:CPR
+
+民航组织编号:KCPR
+
+纬度:42.908001
+
+经度:-106.463997
+
+所属国家:United States
+
+预设高度:5350

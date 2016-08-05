@@ -1,0 +1,13 @@
+机场:Tiruchirappalli International Airport
+
+国际航空运输协会编号:TRZ
+
+民航组织编号:VOTR
+
+纬度:10.765360
+
+经度:78.709717
+
+所属国家:India
+
+预设高度:288

@@ -1,0 +1,13 @@
+机场:Bridgetown Grantley Adams International Airport
+
+国际航空运输协会编号:BGI
+
+民航组织编号:TBPB
+
+纬度:13.074600
+
+经度:-59.492401
+
+所属国家:Barbados
+
+预设高度:169

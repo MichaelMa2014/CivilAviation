@@ -1,0 +1,13 @@
+机场:Chetumal International Airport
+
+国际航空运输协会编号:CTM
+
+民航组织编号:MMCM
+
+纬度:18.504660
+
+经度:-88.326797
+
+所属国家:Mexico
+
+预设高度:39

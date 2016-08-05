@@ -1,0 +1,13 @@
+机场:San Martin de los Andes Airport
+
+国际航空运输协会编号:CPC
+
+民航组织编号:SAZY
+
+纬度:-40.075298
+
+经度:-71.137199
+
+所属国家:Argentina
+
+预设高度:2569

@@ -1,0 +1,13 @@
+机场:Rhodes International Airport
+
+国际航空运输协会编号:RHO
+
+民航组织编号:LGRP
+
+纬度:36.405411
+
+经度:28.086189
+
+所属国家:Greece
+
+预设高度:17

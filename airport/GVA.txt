@@ -1,0 +1,13 @@
+机场:Geneva International Airport
+
+国际航空运输协会编号:GVA
+
+民航组织编号:LSGG
+
+纬度:46.238060
+
+经度:6.108950
+
+所属国家:Switzerland
+
+预设高度:1411

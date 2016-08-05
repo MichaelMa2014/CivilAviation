@@ -1,0 +1,13 @@
+机场:Mumbai Chhatrapati Shivaji International Airport
+
+国际航空运输协会编号:BOM
+
+民航组织编号:VABB
+
+纬度:19.088680
+
+经度:72.867912
+
+所属国家:India
+
+预设高度:37

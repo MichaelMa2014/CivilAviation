@@ -1,0 +1,13 @@
+机场:Bucaramanga Palonegro International Airport
+
+国际航空运输协会编号:BGA
+
+民航组织编号:SKBG
+
+纬度:7.126944
+
+经度:-73.184998
+
+所属国家:Colombia
+
+预设高度:3902

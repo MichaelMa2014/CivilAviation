@@ -1,0 +1,13 @@
+机场:Tabuk Regional Airport
+
+国际航空运输协会编号:TUU
+
+民航组织编号:OETB
+
+纬度:28.365410
+
+经度:36.618881
+
+所属国家:Saudi Arabia
+
+预设高度:2551

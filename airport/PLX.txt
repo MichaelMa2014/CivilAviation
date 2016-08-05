@@ -1,0 +1,13 @@
+机场:Semipalatinsk Semey Airport
+
+国际航空运输协会编号:PLX
+
+民航组织编号:UASS
+
+纬度:50.351299
+
+经度:80.234360
+
+所属国家:Kazakhstan
+
+预设高度:761

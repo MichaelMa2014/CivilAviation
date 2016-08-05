@@ -1,0 +1,13 @@
+机场:Augusta Regional Airport
+
+国际航空运输协会编号:AGS
+
+民航组织编号:KAGS
+
+纬度:33.369942
+
+经度:-81.964500
+
+所属国家:United States
+
+预设高度:144

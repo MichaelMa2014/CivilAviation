@@ -1,0 +1,13 @@
+机场:Abha Regional Airport
+
+国际航空运输协会编号:AHB
+
+民航组织编号:OEAB
+
+纬度:18.240360
+
+经度:42.656620
+
+所属国家:Saudi Arabia
+
+预设高度:6858

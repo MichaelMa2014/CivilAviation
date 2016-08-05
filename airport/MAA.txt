@@ -1,0 +1,13 @@
+机场:Chennai International Airport
+
+国际航空运输协会编号:MAA
+
+民航组织编号:VOMM
+
+纬度:12.994410
+
+经度:80.180511
+
+所属国家:India
+
+预设高度:52

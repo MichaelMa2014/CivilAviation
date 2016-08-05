@@ -1,0 +1,13 @@
+机场:Eau Claire Chippewa Valley Regional Airport
+
+国际航空运输协会编号:EAU
+
+民航组织编号:KEAU
+
+纬度:44.860001
+
+经度:-91.480003
+
+所属国家:United States
+
+预设高度:913

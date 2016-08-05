@@ -1,0 +1,13 @@
+机场:Belo Horizonte Pampulha Airport
+
+国际航空运输协会编号:PLU
+
+民航组织编号:SBBH
+
+纬度:-19.851101
+
+经度:-43.950600
+
+所属国家:Brazil
+
+预设高度:2589

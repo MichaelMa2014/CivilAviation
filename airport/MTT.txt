@@ -1,0 +1,13 @@
+机场:Minatitlan Coatzacoalcos International Airport
+
+国际航空运输协会编号:MTT
+
+民航组织编号:MMMT
+
+纬度:18.103411
+
+经度:-94.580597
+
+所属国家:Mexico
+
+预设高度:36

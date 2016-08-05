@@ -1,0 +1,13 @@
+机场:Atlantic City Monmouth Executive Airport
+
+国际航空运输协会编号:BLM
+
+民航组织编号:KBLM
+
+纬度:40.186668
+
+经度:-74.124443
+
+所属国家:United States
+
+预设高度:153

@@ -1,0 +1,13 @@
+机场:Bengkulu Fatmawati Soekarno Airport
+
+国际航空运输协会编号:BKS
+
+民航组织编号:WIPL
+
+纬度:-3.863700
+
+经度:102.338997
+
+所属国家:Indonesia
+
+预设高度:50

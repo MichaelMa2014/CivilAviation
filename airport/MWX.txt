@@ -1,0 +1,13 @@
+机场:Muan International Airport
+
+国际航空运输协会编号:MWX
+
+民航组织编号:RKJB
+
+纬度:34.991379
+
+经度:126.382698
+
+所属国家:South Korea
+
+预设高度:51

@@ -1,0 +1,13 @@
+机场:Montreal Pierre Elliott Trudeau Airport
+
+国际航空运输协会编号:YUL
+
+民航组织编号:CYUL
+
+纬度:45.470551
+
+经度:-73.740799
+
+所属国家:Canada
+
+预设高度:118

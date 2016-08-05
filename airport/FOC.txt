@@ -1,0 +1,13 @@
+机场:Fuzhou Changle International Airport
+
+国际航空运输协会编号:FOC
+
+民航组织编号:ZSFZ
+
+纬度:25.935061
+
+经度:119.663200
+
+所属国家:China
+
+预设高度:46

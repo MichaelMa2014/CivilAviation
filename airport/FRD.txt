@@ -1,0 +1,13 @@
+机场:Friday Harbor Airport
+
+国际航空运输协会编号:FRD
+
+民航组织编号:KFHR
+
+纬度:48.524807
+
+经度:-123.026497
+
+所属国家:United States
+
+预设高度:113

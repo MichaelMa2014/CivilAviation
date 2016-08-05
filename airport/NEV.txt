@@ -1,0 +1,13 @@
+机场:Nevis Newcastle International Airport
+
+国际航空运输协会编号:NEV
+
+民航组织编号:TKPN
+
+纬度:17.205000
+
+经度:-62.592499
+
+所属国家:Saint Kitts And Nevis
+
+预设高度:13

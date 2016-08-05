@@ -1,0 +1,13 @@
+机场:Hanoi Noi Bai International Airport
+
+国际航空运输协会编号:HAN
+
+民航组织编号:VVNB
+
+纬度:21.221189
+
+经度:105.807098
+
+所属国家:Vietnam
+
+预设高度:39

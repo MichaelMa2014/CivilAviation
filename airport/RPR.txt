@@ -1,0 +1,13 @@
+机场:Raipur Swami Vivekananda Airport
+
+国际航空运输协会编号:RPR
+
+民航组织编号:VARP
+
+纬度:21.180401
+
+经度:81.738747
+
+所属国家:India
+
+预设高度:1041

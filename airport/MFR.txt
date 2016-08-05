@@ -1,0 +1,13 @@
+机场:Medford Rogue Valley International Airport
+
+国际航空运输协会编号:MFR
+
+民航组织编号:KMFR
+
+纬度:42.374222
+
+经度:-122.873001
+
+所属国家:United States
+
+预设高度:1335

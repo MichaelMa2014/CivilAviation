@@ -1,0 +1,13 @@
+机场:Cooma Snowy Mountains Airport
+
+国际航空运输协会编号:OOM
+
+民航组织编号:YCOM
+
+纬度:-36.299999
+
+经度:148.970001
+
+所属国家:Australia
+
+预设高度:3088

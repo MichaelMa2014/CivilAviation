@@ -1,0 +1,13 @@
+机场:Magdeburg Cochstedt Airport
+
+国际航空运输协会编号:CSO
+
+民航组织编号:EDBC
+
+纬度:51.855831
+
+经度:11.418333
+
+所属国家:Germany
+
+预设高度:596

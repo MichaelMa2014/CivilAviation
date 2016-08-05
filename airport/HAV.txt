@@ -1,0 +1,13 @@
+机场:Havana Jose Marti International Airport
+
+国际航空运输协会编号:HAV
+
+民航组织编号:MUHA
+
+纬度:22.989149
+
+经度:-82.408997
+
+所属国家:Cuba
+
+预设高度:210

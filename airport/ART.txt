@@ -1,0 +1,13 @@
+机场:Watertown International Airport
+
+国际航空运输协会编号:ART
+
+民航组织编号:KART
+
+纬度:43.991920
+
+经度:-76.021698
+
+所属国家:United States
+
+预设高度:328

@@ -1,0 +1,13 @@
+机场:Benghazi Benina International Airport
+
+国际航空运输协会编号:BEN
+
+民航组织编号:HLLB
+
+纬度:32.096779
+
+经度:20.269470
+
+所属国家:Libya
+
+预设高度:433

@@ -1,0 +1,13 @@
+机场:Noumea Magenta Airport
+
+国际航空运输协会编号:GEA
+
+民航组织编号:NWWM
+
+纬度:-22.258301
+
+经度:166.472702
+
+所属国家:New Caledonia
+
+预设高度:10

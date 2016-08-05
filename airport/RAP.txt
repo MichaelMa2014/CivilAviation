@@ -1,0 +1,13 @@
+机场:Rapid City Regional Airport
+
+国际航空运输协会编号:RAP
+
+民航组织编号:KRAP
+
+纬度:44.045330
+
+经度:-103.056999
+
+所属国家:United States
+
+预设高度:3204

@@ -1,0 +1,13 @@
+机场:Clermont-Ferrand Auvergne Airport
+
+国际航空运输协会编号:CFE
+
+民航组织编号:LFLC
+
+纬度:45.785831
+
+经度:3.162500
+
+所属国家:France
+
+预设高度:1090

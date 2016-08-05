@@ -1,0 +1,13 @@
+机场:Sir Bani Yas Airport
+
+国际航空运输协会编号:XSB
+
+民航组织编号:OMBY
+
+纬度:24.283974
+
+经度:52.583874
+
+所属国家:United Arab Emirates
+
+预设高度:20

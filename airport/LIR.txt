@@ -1,0 +1,13 @@
+机场:Liberia International Airport
+
+国际航空运输协会编号:LIR
+
+民航组织编号:MRLB
+
+纬度:10.593010
+
+经度:-85.545502
+
+所属国家:Costa Rica
+
+预设高度:269

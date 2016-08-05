@@ -1,0 +1,13 @@
+机场:Dakar International Airport
+
+国际航空运输协会编号:DKR
+
+民航组织编号:GOOY
+
+纬度:14.739700
+
+经度:-17.490200
+
+所属国家:Senegal
+
+预设高度:85

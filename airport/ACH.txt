@@ -1,0 +1,13 @@
+机场:St. Gallen Altenrhein Airport
+
+国际航空运输协会编号:ACH
+
+民航组织编号:LSZR
+
+纬度:47.485031
+
+经度:9.560775
+
+所属国家:Switzerland
+
+预设高度:1306

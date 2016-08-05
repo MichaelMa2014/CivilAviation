@@ -1,0 +1,13 @@
+机场:Kabul International Airport
+
+国际航空运输协会编号:KBL
+
+民航组织编号:OAKB
+
+纬度:34.565842
+
+经度:69.212410
+
+所属国家:Afghanistan
+
+预设高度:5871

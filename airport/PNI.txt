@@ -1,0 +1,13 @@
+机场:Pohnpei International Airport
+
+国际航空运输协会编号:PNI
+
+民航组织编号:PTPN
+
+纬度:6.985100
+
+经度:158.208893
+
+所属国家:Micronesia
+
+预设高度:9

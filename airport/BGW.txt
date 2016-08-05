@@ -1,0 +1,13 @@
+机场:Baghdad International Airport
+
+国际航空运输协会编号:BGW
+
+民航组织编号:ORBI
+
+纬度:33.262501
+
+经度:44.234444
+
+所属国家:Iraq
+
+预设高度:114

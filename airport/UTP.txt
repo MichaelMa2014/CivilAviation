@@ -1,0 +1,13 @@
+机场:Rayong Pattaya U-Tapao International Airport
+
+国际航空运输协会编号:UTP
+
+民航组织编号:VTBU
+
+纬度:12.679940
+
+经度:101.004997
+
+所属国家:Thailand
+
+预设高度:42

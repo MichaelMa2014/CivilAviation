@@ -1,0 +1,13 @@
+机场:Targu Mures International Airport
+
+国际航空运输协会编号:TGM
+
+民航组织编号:LRTM
+
+纬度:46.467709
+
+经度:24.412519
+
+所属国家:Romania
+
+预设高度:965

@@ -1,0 +1,13 @@
+机场:Sint Maarten Grand Case Airport
+
+国际航空运输协会编号:SFG
+
+民航组织编号:TFFG
+
+纬度:18.100555
+
+经度:-63.048889
+
+所属国家:Guadeloupe
+
+预设高度:22

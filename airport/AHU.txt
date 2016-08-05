@@ -1,0 +1,13 @@
+机场:Al Hoceima Cherif Al Idrissi Airport
+
+国际航空运输协会编号:AHU
+
+民航组织编号:GMTA
+
+纬度:35.177101
+
+经度:-3.839520
+
+所属国家:Morocco
+
+预设高度:95

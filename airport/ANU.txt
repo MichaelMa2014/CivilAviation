@@ -1,0 +1,13 @@
+机场:Antigua V. C. Bird International Airport
+
+国际航空运输协会编号:ANU
+
+民航组织编号:TAPA
+
+纬度:17.136740
+
+经度:-61.792599
+
+所属国家:Antigua And Barbuda
+
+预设高度:62

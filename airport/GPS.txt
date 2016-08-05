@@ -1,0 +1,13 @@
+机场:Seymour Baltra Galapagos Airport
+
+国际航空运输协会编号:GPS
+
+民航组织编号:SEGS
+
+纬度:-0.453750
+
+经度:-90.265900
+
+所属国家:Ecuador
+
+预设高度:207

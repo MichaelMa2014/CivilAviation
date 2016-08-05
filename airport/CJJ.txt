@@ -1,0 +1,13 @@
+机场:Cheongju International Airport
+
+国际航空运输协会编号:CJJ
+
+民航组织编号:RKTU
+
+纬度:36.716599
+
+经度:127.499100
+
+所属国家:South Korea
+
+预设高度:191

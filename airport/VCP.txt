@@ -1,0 +1,13 @@
+机场:Campinas Viracopos International Airport
+
+国际航空运输协会编号:VCP
+
+民航组织编号:SBKP
+
+纬度:-23.007299
+
+经度:-47.134499
+
+所属国家:Brazil
+
+预设高度:2170

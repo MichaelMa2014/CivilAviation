@@ -1,0 +1,13 @@
+机场:Hancock County Bar Harbor Airport
+
+国际航空运输协会编号:BHB
+
+民航组织编号:KBHB
+
+纬度:44.449699
+
+经度:-68.361504
+
+所属国家:United States
+
+预设高度:83

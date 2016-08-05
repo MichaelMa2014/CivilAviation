@@ -1,0 +1,13 @@
+机场:Bozeman Yellowstone International Airport
+
+国际航空运输协会编号:BZN
+
+民航组织编号:KBZN
+
+纬度:45.777458
+
+经度:-111.152000
+
+所属国家:United States
+
+预设高度:4473

@@ -1,0 +1,13 @@
+机场:Zanzibar Abeid Amani Karume International Airport
+
+国际航空运输协会编号:ZNZ
+
+民航组织编号:HTZA
+
+纬度:-6.222020
+
+经度:39.224880
+
+所属国家:Tanzania
+
+预设高度:54

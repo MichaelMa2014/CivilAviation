@@ -1,0 +1,13 @@
+机场:Monteria Los Garzones Airport
+
+国际航空运输协会编号:MTR
+
+民航组织编号:SKMR
+
+纬度:8.823678
+
+经度:-75.825897
+
+所属国家:Colombia
+
+预设高度:36

@@ -1,0 +1,13 @@
+机场:Jacksonville Albert J. Ellis Airport
+
+国际航空运输协会编号:OAJ
+
+民航组织编号:KOAJ
+
+纬度:34.830441
+
+经度:-77.605835
+
+所属国家:United States
+
+预设高度:93

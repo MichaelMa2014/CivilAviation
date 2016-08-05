@@ -1,0 +1,13 @@
+机场:Tokyo Narita International Airport
+
+国际航空运输协会编号:NRT
+
+民航组织编号:RJAA
+
+纬度:35.764721
+
+经度:140.386307
+
+所属国家:Japan
+
+预设高度:135

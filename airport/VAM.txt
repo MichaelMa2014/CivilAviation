@@ -1,0 +1,13 @@
+机场:Maamigili Villa International Airport
+
+国际航空运输协会编号:VAM
+
+民航组织编号:VRMV
+
+纬度:3.470000
+
+经度:72.830002
+
+所属国家:Maldives
+
+预设高度:6

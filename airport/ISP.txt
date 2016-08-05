@@ -1,0 +1,13 @@
+机场:Islip Long Island MacArthur Airport
+
+国际航空运输协会编号:ISP
+
+民航组织编号:KISP
+
+纬度:40.795250
+
+经度:-73.100197
+
+所属国家:United States
+
+预设高度:98

@@ -1,0 +1,13 @@
+机场:Astrakhan Narimanovo Airport
+
+国际航空运输协会编号:ASF
+
+民航组织编号:URWA
+
+纬度:46.283329
+
+经度:48.006271
+
+所属国家:Russia
+
+预设高度:65

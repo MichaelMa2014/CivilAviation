@@ -1,0 +1,13 @@
+机场:San Andres International Airport
+
+国际航空运输协会编号:ADZ
+
+民航组织编号:SKSP
+
+纬度:12.583680
+
+经度:-81.710899
+
+所属国家:Colombia
+
+预设高度:19

@@ -1,0 +1,13 @@
+机场:Windsor Locks Bradley International Airport
+
+国际航空运输协会编号:BDL
+
+民航组织编号:KBDL
+
+纬度:41.938881
+
+经度:-72.683197
+
+所属国家:United States
+
+预设高度:173

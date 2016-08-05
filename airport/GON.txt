@@ -1,0 +1,13 @@
+机场:New London Groton Airport
+
+国际航空运输协会编号:GON
+
+民航组织编号:KGON
+
+纬度:41.328888
+
+经度:-72.046387
+
+所属国家:United States
+
+预设高度:10

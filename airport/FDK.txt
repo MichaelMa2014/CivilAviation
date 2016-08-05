@@ -1,0 +1,13 @@
+机场:Frederick Municipal Airport
+
+国际航空运输协会编号:FDK
+
+民航组织编号:KFDK
+
+纬度:39.417599
+
+经度:-77.374298
+
+所属国家:United States
+
+预设高度:303

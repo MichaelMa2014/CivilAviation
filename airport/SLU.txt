@@ -1,0 +1,13 @@
+机场:Castries George F. L. Charles Airport
+
+国际航空运输协会编号:SLU
+
+民航组织编号:TLPC
+
+纬度:14.020220
+
+经度:-60.992901
+
+所属国家:Saint Lucia
+
+预设高度:22

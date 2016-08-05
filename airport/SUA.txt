@@ -1,0 +1,13 @@
+机场:Stuart Witham Field Airport
+
+国际航空运输协会编号:SUA
+
+民航组织编号:KSUA
+
+纬度:27.182892
+
+经度:-80.221680
+
+所属国家:United States
+
+预设高度:12

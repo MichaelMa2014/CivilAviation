@@ -1,0 +1,13 @@
+机场:Honolulu International Airport
+
+国际航空运输协会编号:HNL
+
+民航组织编号:PHNL
+
+纬度:21.318680
+
+经度:-157.921997
+
+所属国家:United States
+
+预设高度:13

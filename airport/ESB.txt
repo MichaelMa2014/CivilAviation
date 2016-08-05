@@ -1,0 +1,13 @@
+机场:Ankara Esenboga International Airport
+
+国际航空运输协会编号:ESB
+
+民航组织编号:LTAC
+
+纬度:40.128078
+
+经度:32.995079
+
+所属国家:Turkey
+
+预设高度:3125

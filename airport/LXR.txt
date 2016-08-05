@@ -1,0 +1,13 @@
+机场:Luxor International Airport
+
+国际航空运输协会编号:LXR
+
+民航组织编号:HELX
+
+纬度:25.671021
+
+经度:32.706581
+
+所属国家:Egypt
+
+预设高度:294

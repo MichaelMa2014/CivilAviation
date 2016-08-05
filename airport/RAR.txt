@@ -1,0 +1,13 @@
+机场:Avarua Rarotonga International Airport
+
+国际航空运输协会编号:RAR
+
+民航组织编号:NCRG
+
+纬度:-21.202700
+
+经度:-159.804993
+
+所属国家:Cook Islands
+
+预设高度:19

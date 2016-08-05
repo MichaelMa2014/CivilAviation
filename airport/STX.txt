@@ -1,0 +1,15 @@
+机场:St. Croix Henry E. Rohlsen Airport
+
+国际航空运输协会编号:STX
+
+民航组织编号:TISX
+
+纬度:17.701550
+
+经度:-64.801697
+
+所属国家:Virgin Islands
+
+ Us
+
+预设高度:74

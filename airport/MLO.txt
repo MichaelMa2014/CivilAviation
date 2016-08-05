@@ -1,0 +1,13 @@
+机场:Milos Island National Airport
+
+国际航空运输协会编号:MLO
+
+民航组织编号:LGML
+
+纬度:36.696110
+
+经度:24.477501
+
+所属国家:Greece
+
+预设高度:12

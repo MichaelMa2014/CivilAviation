@@ -1,0 +1,13 @@
+机场:Lagos Murtala Mohammed Airport
+
+国际航空运输协会编号:LOS
+
+民航组织编号:DNMM
+
+纬度:6.577369
+
+经度:3.321156
+
+所属国家:Nigeria
+
+预设高度:135

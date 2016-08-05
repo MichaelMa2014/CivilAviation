@@ -1,0 +1,13 @@
+机场:Rosario Islas Malvinas International Airport
+
+国际航空运输协会编号:ROS
+
+民航组织编号:SAAR
+
+纬度:-32.903599
+
+经度:-60.785000
+
+所属国家:Argentina
+
+预设高度:85

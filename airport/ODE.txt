@@ -1,0 +1,13 @@
+机场:Odense Hans Christian Andersen Airport
+
+国际航空运输协会编号:ODE
+
+民航组织编号:EKOD
+
+纬度:55.476662
+
+经度:10.330930
+
+所属国家:Denmark
+
+预设高度:56

@@ -1,0 +1,13 @@
+机场:Wroclaw Copernicus Airport
+
+国际航空运输协会编号:WRO
+
+民航组织编号:EPWR
+
+纬度:51.102680
+
+经度:16.885830
+
+所属国家:Poland
+
+预设高度:404

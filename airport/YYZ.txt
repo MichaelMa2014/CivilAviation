@@ -1,0 +1,13 @@
+机场:Toronto Pearson International Airport
+
+国际航空运输协会编号:YYZ
+
+民航组织编号:CYYZ
+
+纬度:43.677219
+
+经度:-79.630501
+
+所属国家:Canada
+
+预设高度:569

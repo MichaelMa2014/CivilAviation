@@ -1,0 +1,13 @@
+机场:Sanya Phoenix International Airport
+
+国际航空运输协会编号:SYX
+
+民航组织编号:ZJSY
+
+纬度:18.302891
+
+经度:109.412201
+
+所属国家:China
+
+预设高度:92

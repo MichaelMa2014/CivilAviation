@@ -1,0 +1,13 @@
+机场:Cruzeiro do Sul International Airport
+
+国际航空运输协会编号:CZS
+
+民航组织编号:SBCZ
+
+纬度:-7.599900
+
+经度:-72.769402
+
+所属国家:Brazil
+
+预设高度:637

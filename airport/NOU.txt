@@ -1,0 +1,13 @@
+机场:Noumea La Tontouta International Airport
+
+国际航空运输协会编号:NOU
+
+民航组织编号:NWWW
+
+纬度:-22.016300
+
+经度:166.216095
+
+所属国家:New Caledonia
+
+预设高度:52

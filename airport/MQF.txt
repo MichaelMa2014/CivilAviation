@@ -1,0 +1,13 @@
+机场:Magnitogorsk International Airport
+
+国际航空运输协会编号:MQF
+
+民航组织编号:USCM
+
+纬度:53.393131
+
+经度:58.755661
+
+所属国家:Russia
+
+预设高度:1431

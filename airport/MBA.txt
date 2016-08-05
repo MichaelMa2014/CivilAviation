@@ -1,0 +1,13 @@
+机场:Mombasa Moi International Airport
+
+国际航空运输协会编号:MBA
+
+民航组织编号:HKMO
+
+纬度:-4.034830
+
+经度:39.594250
+
+所属国家:Kenya
+
+预设高度:200

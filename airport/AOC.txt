@@ -1,0 +1,13 @@
+机场:Leipzig Altenburg Airport
+
+国际航空运输协会编号:AOC
+
+民航组织编号:EDAC
+
+纬度:50.981812
+
+经度:12.506360
+
+所属国家:Germany
+
+预设高度:640

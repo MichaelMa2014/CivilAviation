@@ -1,0 +1,13 @@
+机场:Poza Rica El Tajin National Airport
+
+国际航空运输协会编号:PAZ
+
+民航组织编号:MMPA
+
+纬度:20.602671
+
+经度:-97.460800
+
+所属国家:Mexico
+
+预设高度:497

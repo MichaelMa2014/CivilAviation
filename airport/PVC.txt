@@ -1,0 +1,13 @@
+机场:Provincetown Municipal Airport
+
+国际航空运输协会编号:PVC
+
+民航组织编号:KPVC
+
+纬度:42.071991
+
+经度:-70.221298
+
+所属国家:United States
+
+预设高度:8

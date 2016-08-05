@@ -1,0 +1,13 @@
+机场:Jacksonville International Airport
+
+国际航空运输协会编号:JAX
+
+民航组织编号:KJAX
+
+纬度:30.494049
+
+经度:-81.687798
+
+所属国家:United States
+
+预设高度:29

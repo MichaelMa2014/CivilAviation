@@ -1,0 +1,13 @@
+机场:Chiclayo International Airport
+
+国际航空运输协会编号:CIX
+
+民航组织编号:SPHI
+
+纬度:-6.787470
+
+经度:-79.828003
+
+所属国家:Peru
+
+预设高度:97

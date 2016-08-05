@@ -1,0 +1,13 @@
+机场:Pangkalan Bun Iskandar Airport
+
+国际航空运输协会编号:PKN
+
+民航组织编号:WRBI
+
+纬度:-2.705190
+
+经度:111.673203
+
+所属国家:Indonesia
+
+预设高度:75

@@ -1,0 +1,13 @@
+机场:San Diego Montgomery Field Airport
+
+国际航空运输协会编号:MYF
+
+民航组织编号:KMYF
+
+纬度:32.815449
+
+经度:-117.135635
+
+所属国家:United States
+
+预设高度:420

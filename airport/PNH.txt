@@ -1,0 +1,13 @@
+机场:Phnom Penh International Airport
+
+国际航空运输协会编号:PNH
+
+民航组织编号:VDPP
+
+纬度:11.546550
+
+经度:104.844101
+
+所属国家:Cambodia
+
+预设高度:40

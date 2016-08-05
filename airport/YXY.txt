@@ -1,0 +1,13 @@
+机场:Whitehorse International Airport
+
+国际航空运输协会编号:YXY
+
+民航组织编号:CYXY
+
+纬度:60.709549
+
+经度:-135.067001
+
+所属国家:Canada
+
+预设高度:2317

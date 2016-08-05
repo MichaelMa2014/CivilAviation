@@ -1,0 +1,13 @@
+机场:Cleveland Cuyahoga County Airport
+
+国际航空运输协会编号:CGF
+
+民航组织编号:KCGF
+
+纬度:41.565182
+
+经度:-81.488052
+
+所属国家:United States
+
+预设高度:862

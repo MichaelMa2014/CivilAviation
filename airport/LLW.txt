@@ -1,0 +1,13 @@
+机场:Lilongwe International Airport
+
+国际航空运输协会编号:LLW
+
+民航组织编号:FWKI
+
+纬度:-13.789300
+
+经度:33.780998
+
+所属国家:Malawi
+
+预设高度:4035
