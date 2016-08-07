@@ -1,0 +1,13 @@
+机场:Saint-Pierre Airport
+
+国际航空运输协会编号:FSP
+
+民航组织编号:LFVP
+
+纬度:46.763050
+
+经度:-56.174099
+
+所属国家:Saint Pierre And Miquelon
+
+预设高度:27

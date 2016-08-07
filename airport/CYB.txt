@@ -1,0 +1,13 @@
+机场:Cayman Brac Charles Kirkconnell International Airport
+
+国际航空运输协会编号:CYB
+
+民航组织编号:MWCB
+
+纬度:19.686979
+
+经度:-79.882698
+
+所属国家:Cayman Islands
+
+预设高度:8

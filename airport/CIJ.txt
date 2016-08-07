@@ -1,0 +1,13 @@
+机场:Cobija Capitan Anibal Arab Airport
+
+国际航空运输协会编号:CIJ
+
+民航组织编号:SLCO
+
+纬度:-11.040400
+
+经度:-68.782898
+
+所属国家:Bolivia
+
+预设高度:892

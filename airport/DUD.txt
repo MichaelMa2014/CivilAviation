@@ -1,0 +1,13 @@
+机场:Dunedin International Airport
+
+国际航空运输协会编号:DUD
+
+民航组织编号:NZDN
+
+纬度:-45.928001
+
+经度:170.198303
+
+所属国家:New Zealand
+
+预设高度:4

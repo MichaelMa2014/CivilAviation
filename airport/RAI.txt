@@ -1,0 +1,13 @@
+机场:Praia Nelson Mandela International Airport
+
+国际航空运输协会编号:RAI
+
+民航组织编号:GVFM
+
+纬度:14.924480
+
+经度:-23.493500
+
+所属国家:Cape Verde
+
+预设高度:230

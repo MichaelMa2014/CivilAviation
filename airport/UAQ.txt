@@ -1,0 +1,13 @@
+机场:San Juan Domingo Faustino Sarmiento
+
+国际航空运输协会编号:UAQ
+
+民航组织编号:SANU
+
+纬度:-31.571400
+
+经度:-68.418098
+
+所属国家:Argentina
+
+预设高度:1959

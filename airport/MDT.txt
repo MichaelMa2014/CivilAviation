@@ -1,0 +1,13 @@
+机场:Harrisburg International Airport
+
+国际航空运输协会编号:MDT
+
+民航组织编号:KMDT
+
+纬度:40.193489
+
+经度:-76.763397
+
+所属国家:United States
+
+预设高度:310

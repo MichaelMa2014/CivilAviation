@@ -1,0 +1,13 @@
+机场:Topeka Regional Airport
+
+国际航空运输协会编号:FOE
+
+民航组织编号:KFOE
+
+纬度:38.950939
+
+经度:-95.663597
+
+所属国家:United States
+
+预设高度:1078

@@ -1,0 +1,13 @@
+机场:Kalispell Glacier Park International Airport
+
+国际航空运输协会编号:FCA
+
+民航组织编号:KGPI
+
+纬度:48.310555
+
+经度:-114.256111
+
+所属国家:United States
+
+预设高度:2977

@@ -1,0 +1,13 @@
+机场:Zihuatanejo Ixtapa International Airport
+
+国际航空运输协会编号:ZIH
+
+民航组织编号:MMZH
+
+纬度:17.601561
+
+经度:-101.459999
+
+所属国家:Mexico
+
+预设高度:26

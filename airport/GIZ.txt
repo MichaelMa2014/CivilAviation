@@ -1,0 +1,13 @@
+机场:Jizan Regional Airport
+
+国际航空运输协会编号:GIZ
+
+民航组织编号:OEGN
+
+纬度:16.901110
+
+经度:42.585831
+
+所属国家:Saudi Arabia
+
+预设高度:20

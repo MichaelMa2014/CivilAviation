@@ -1,0 +1,13 @@
+机场:Athens Eleftherios Venizelos
+
+国际航空运输协会编号:ATH
+
+民航组织编号:LGAV
+
+纬度:37.936352
+
+经度:23.944460
+
+所属国家:Greece
+
+预设高度:308

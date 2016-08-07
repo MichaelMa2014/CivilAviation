@@ -1,0 +1,13 @@
+机场:Oradea International Airport
+
+国际航空运输协会编号:OMR
+
+民航组织编号:LROD
+
+纬度:47.025269
+
+经度:21.902500
+
+所属国家:Romania
+
+预设高度:465

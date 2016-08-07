@@ -1,0 +1,13 @@
+机场:Castellon Costa Azahar Airport
+
+国际航空运输协会编号:CDT
+
+民航组织编号:LECH
+
+纬度:40.209721
+
+经度:0.069722
+
+所属国家:Spain
+
+预设高度:1145

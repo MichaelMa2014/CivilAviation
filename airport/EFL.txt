@@ -1,0 +1,13 @@
+机场:Kefalonia Cephalonia International Airport
+
+国际航空运输协会编号:EFL
+
+民航组织编号:LGKF
+
+纬度:38.120060
+
+经度:20.500481
+
+所属国家:Greece
+
+预设高度:59

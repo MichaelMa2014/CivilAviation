@@ -1,0 +1,13 @@
+机场:Tehran Imam Khomeini International Airport
+
+国际航空运输协会编号:IKA
+
+民航组织编号:OIIE
+
+纬度:35.416111
+
+经度:51.152222
+
+所属国家:Iran
+
+预设高度:3305

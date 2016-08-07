@@ -1,0 +1,13 @@
+机场:Patna Jay Prakash Narayan International Airport
+
+国际航空运输协会编号:PAT
+
+民航组织编号:VEPT
+
+纬度:25.591311
+
+经度:85.087990
+
+所属国家:India
+
+预设高度:170

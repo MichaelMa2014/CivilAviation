@@ -1,0 +1,13 @@
+机场:Wellington International Airport
+
+国际航空运输协会编号:WLG
+
+民航组织编号:NZWN
+
+纬度:-41.327202
+
+经度:174.805206
+
+所属国家:New Zealand
+
+预设高度:41

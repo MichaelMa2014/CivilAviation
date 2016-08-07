@@ -1,0 +1,13 @@
+机场:Ternate Babullah Airport
+
+国际航空运输协会编号:TTE
+
+民航组织编号:WAMT
+
+纬度:0.831414
+
+经度:127.381401
+
+所属国家:Indonesia
+
+预设高度:49

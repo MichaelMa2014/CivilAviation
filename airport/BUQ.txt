@@ -1,0 +1,13 @@
+机场:Bulawayo Joshua Mqabuko Nkomo International Airport
+
+国际航空运输协会编号:BUQ
+
+民航组织编号:FVBU
+
+纬度:-20.017401
+
+经度:28.617861
+
+所属国家:Zimbabwe
+
+预设高度:4359

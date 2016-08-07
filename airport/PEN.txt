@@ -1,0 +1,13 @@
+机场:Penang International Airport
+
+国际航空运输协会编号:PEN
+
+民航组织编号:WMKP
+
+纬度:5.297139
+
+经度:100.276802
+
+所属国家:Malaysia
+
+预设高度:11

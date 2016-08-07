@@ -1,0 +1,13 @@
+机场:Santiago de los Caballeros Cibao International Airport
+
+国际航空运输协会编号:STI
+
+民航组织编号:MDST
+
+纬度:19.406090
+
+经度:-70.604599
+
+所属国家:Dominican Republic
+
+预设高度:565

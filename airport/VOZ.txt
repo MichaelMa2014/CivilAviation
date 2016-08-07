@@ -1,0 +1,13 @@
+机场:Voronezh International Airport
+
+国际航空运输协会编号:VOZ
+
+民航组织编号:UUOO
+
+纬度:51.814209
+
+经度:39.229580
+
+所属国家:Russia
+
+预设高度:514

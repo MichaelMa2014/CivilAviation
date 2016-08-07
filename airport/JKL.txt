@@ -1,0 +1,13 @@
+机场:Kalymnos Island National Airport
+
+国际航空运输协会编号:JKL
+
+民航组织编号:LGKY
+
+纬度:36.963329
+
+经度:26.940556
+
+所属国家:Greece
+
+预设高度:771

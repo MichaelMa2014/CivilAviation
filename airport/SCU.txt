@@ -1,0 +1,13 @@
+机场:Santiago de Cuba Antonio Maceo Airport
+
+国际航空运输协会编号:SCU
+
+民航组织编号:MUCU
+
+纬度:19.969761
+
+经度:-75.835403
+
+所属国家:Cuba
+
+预设高度:249

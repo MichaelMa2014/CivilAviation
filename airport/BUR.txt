@@ -1,0 +1,13 @@
+机场:Burbank Bob Hope Airport
+
+国际航空运输协会编号:BUR
+
+民航组织编号:KBUR
+
+纬度:34.200661
+
+经度:-118.358002
+
+所属国家:United States
+
+预设高度:778

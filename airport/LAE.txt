@@ -1,0 +1,13 @@
+机场:Lae Nadzab Airport
+
+国际航空运输协会编号:LAE
+
+民航组织编号:AYNZ
+
+纬度:-6.569820
+
+经度:146.726196
+
+所属国家:Papua New Guinea
+
+预设高度:239

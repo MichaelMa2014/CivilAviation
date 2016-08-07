@@ -1,0 +1,13 @@
+机场:Prince Albert Glass Field Airport
+
+国际航空运输协会编号:YPA
+
+民航组织编号:CYPA
+
+纬度:53.214161
+
+经度:-105.671997
+
+所属国家:Canada
+
+预设高度:1405

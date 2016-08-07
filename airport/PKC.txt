@@ -1,0 +1,13 @@
+机场:Petropavlovsk-Kamchatsky Airport
+
+国际航空运输协会编号:PKC
+
+民航组织编号:UHPP
+
+纬度:53.167881
+
+经度:158.453598
+
+所属国家:Russia
+
+预设高度:131

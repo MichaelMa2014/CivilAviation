@@ -1,0 +1,13 @@
+机场:North Bay Jack Garland Airport
+
+国际航空运输协会编号:YYB
+
+民航组织编号:CYYB
+
+纬度:46.363609
+
+经度:-79.422699
+
+所属国家:Canada
+
+预设高度:1215

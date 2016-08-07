@@ -1,0 +1,13 @@
+机场:Cochin International Airport
+
+国际航空运输协会编号:COK
+
+民航组织编号:VOCI
+
+纬度:10.151990
+
+经度:76.401901
+
+所属国家:India
+
+预设高度:30

@@ -1,0 +1,13 @@
+机场:Tarakan Juwata International Airport
+
+国际航空运输协会编号:TRK
+
+民航组织编号:WRLR
+
+纬度:3.326694
+
+经度:117.565498
+
+所属国家:Indonesia
+
+预设高度:20

@@ -1,0 +1,13 @@
+机场:Dire Dawa International Airport
+
+国际航空运输协会编号:DIR
+
+民航组织编号:HADR
+
+纬度:9.624700
+
+经度:41.854198
+
+所属国家:Ethiopia
+
+预设高度:3829

@@ -1,0 +1,13 @@
+机场:Tetuan Sania Ramel Airport
+
+国际航空运输协会编号:TTU
+
+民航组织编号:GMTN
+
+纬度:35.594330
+
+经度:-5.320010
+
+所属国家:Morocco
+
+预设高度:10

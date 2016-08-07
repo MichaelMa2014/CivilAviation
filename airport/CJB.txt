@@ -1,0 +1,13 @@
+机场:Coimbatore International Airport
+
+国际航空运输协会编号:CJB
+
+民航组织编号:VOCB
+
+纬度:11.030030
+
+经度:77.043381
+
+所属国家:India
+
+预设高度:1324

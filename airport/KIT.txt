@@ -1,0 +1,13 @@
+机场:Kithira Island National Airport
+
+国际航空运输协会编号:KIT
+
+民航组织编号:LGKC
+
+纬度:36.274250
+
+经度:23.016970
+
+所属国家:Greece
+
+预设高度:1045

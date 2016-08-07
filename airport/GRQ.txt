@@ -1,0 +1,13 @@
+机场:Groningen Airport Eelde
+
+国际航空运输协会编号:GRQ
+
+民航组织编号:EHGG
+
+纬度:53.119720
+
+经度:6.579444
+
+所属国家:Netherlands
+
+预设高度:17

@@ -1,0 +1,13 @@
+机场:Seattle Boeing Field
+
+国际航空运输协会编号:BFI
+
+民航组织编号:KBFI
+
+纬度:47.534100
+
+经度:-122.305901
+
+所属国家:United States
+
+预设高度:21

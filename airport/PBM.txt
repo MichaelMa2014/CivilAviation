@@ -1,0 +1,13 @@
+机场:Paramaribo Zanderij International Airport
+
+国际航空运输协会编号:PBM
+
+民航组织编号:SMJP
+
+纬度:5.452831
+
+经度:-55.187698
+
+所属国家:Suri机场
+
+预设高度:59

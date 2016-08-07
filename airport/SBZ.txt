@@ -1,0 +1,13 @@
+机场:Sibiu International Airport
+
+国际航空运输协会编号:SBZ
+
+民航组织编号:LRSB
+
+纬度:45.785789
+
+经度:24.091181
+
+所属国家:Romania
+
+预设高度:1520

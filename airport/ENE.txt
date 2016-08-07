@@ -1,0 +1,13 @@
+机场:Ende H. Hasan Aroeboesman Airport
+
+国际航空运输协会编号:ENE
+
+民航组织编号:WRKE
+
+纬度:-8.849290
+
+经度:121.660599
+
+所属国家:Indonesia
+
+预设高度:49

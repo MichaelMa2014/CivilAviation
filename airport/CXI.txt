@@ -1,0 +1,13 @@
+机场:Kiritimati Cassidy International Airport
+
+国际航空运输协会编号:CXI
+
+民航组织编号:PLCH
+
+纬度:1.986161
+
+经度:-157.348999
+
+所属国家:Kiribati
+
+预设高度:5

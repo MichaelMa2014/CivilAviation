@@ -1,0 +1,13 @@
+机场:Rio de Janeiro Santos Dumont
+
+国际航空运输协会编号:SDU
+
+民航组织编号:SBRJ
+
+纬度:-22.910400
+
+经度:-43.163101
+
+所属国家:Brazil
+
+预设高度:11

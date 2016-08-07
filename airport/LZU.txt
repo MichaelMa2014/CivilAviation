@@ -1,0 +1,13 @@
+机场:Lawrenceville Gwinnett County Airport
+
+国际航空运输协会编号:LZU
+
+民航组织编号:KLZU
+
+纬度:33.970001
+
+经度:-83.959999
+
+所属国家:United States
+
+预设高度:1062

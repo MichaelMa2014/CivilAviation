@@ -1,0 +1,13 @@
+机场:Conroe Lone Star Executive Airport
+
+国际航空运输协会编号:CXO
+
+民航组织编号:KCXO
+
+纬度:30.352360
+
+经度:-95.414497
+
+所属国家:United States
+
+预设高度:245

@@ -1,0 +1,13 @@
+机场:Medan Kuala Namu International Airport
+
+国际航空运输协会编号:KNO
+
+民航组织编号:WIMM
+
+纬度:3.642222
+
+经度:98.878334
+
+所属国家:Indonesia
+
+预设高度:-1

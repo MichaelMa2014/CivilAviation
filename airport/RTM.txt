@@ -1,0 +1,13 @@
+机场:Rotterdam The Hague Airport
+
+国际航空运输协会编号:RTM
+
+民航组织编号:EHRD
+
+纬度:51.956940
+
+经度:4.437222
+
+所属国家:Netherlands
+
+预设高度:15

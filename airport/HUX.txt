@@ -1,0 +1,13 @@
+机场:Huatulco International Airport
+
+国际航空运输协会编号:HUX
+
+民航组织编号:MMBT
+
+纬度:15.775310
+
+经度:-96.262497
+
+所属国家:Mexico
+
+预设高度:464

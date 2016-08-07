@@ -1,0 +1,13 @@
+机场:Bahrain International Airport
+
+国际航空运输协会编号:BAH
+
+民航组织编号:OBBI
+
+纬度:26.270830
+
+经度:50.633610
+
+所属国家:Bahrain
+
+预设高度:6

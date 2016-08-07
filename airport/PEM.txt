@@ -1,0 +1,13 @@
+机场:Puerto Maldonado International Airport
+
+国际航空运输协会编号:PEM
+
+民航组织编号:SPTU
+
+纬度:-12.613600
+
+经度:-69.228600
+
+所属国家:Peru
+
+预设高度:659

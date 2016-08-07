@@ -1,0 +1,13 @@
+机场:Bacau International Airport
+
+国际航空运输协会编号:BCM
+
+民航组织编号:LRBC
+
+纬度:46.521938
+
+经度:26.910271
+
+所属国家:Romania
+
+预设高度:607

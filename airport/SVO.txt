@@ -1,0 +1,13 @@
+机场:Moscow Sheremetyevo International Airport
+
+国际航空运输协会编号:SVO
+
+民航组织编号:UUEE
+
+纬度:55.972641
+
+经度:37.414581
+
+所属国家:Russia
+
+预设高度:622

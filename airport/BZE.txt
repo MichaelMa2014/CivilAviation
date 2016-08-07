@@ -1,0 +1,13 @@
+机场:Belize City Philip S. W. Goldson International Airport
+
+国际航空运输协会编号:BZE
+
+民航组织编号:MZBZ
+
+纬度:17.539141
+
+经度:-88.308197
+
+所属国家:Belize
+
+预设高度:15

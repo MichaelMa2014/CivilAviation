@@ -1,0 +1,13 @@
+机场:Keflavik International Airport
+
+国际航空运输协会编号:KEF
+
+民航组织编号:BIKF
+
+纬度:63.985001
+
+经度:-22.605499
+
+所属国家:Iceland
+
+预设高度:171

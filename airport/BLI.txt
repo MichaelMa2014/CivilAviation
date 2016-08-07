@@ -1,0 +1,13 @@
+机场:Bellingham International Airport
+
+国际航空运输协会编号:BLI
+
+民航组织编号:KBLI
+
+纬度:48.792690
+
+经度:-122.537003
+
+所属国家:United States
+
+预设高度:170

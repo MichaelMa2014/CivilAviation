@@ -1,0 +1,13 @@
+机场:Lubumbashi International Airport
+
+国际航空运输协会编号:FBM
+
+民航组织编号:FZQA
+
+纬度:-11.591300
+
+经度:27.530880
+
+所属国家:Democratic Republic Of The Congo
+
+预设高度:4295

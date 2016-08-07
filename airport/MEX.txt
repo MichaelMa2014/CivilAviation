@@ -1,0 +1,13 @@
+机场:Mexico Benito Juarez International Airport
+
+国际航空运输协会编号:MEX
+
+民航组织编号:MMMX
+
+纬度:19.436300
+
+经度:-99.071999
+
+所属国家:Mexico
+
+预设高度:7316

@@ -1,0 +1,13 @@
+机场:Cincinnati Municipal Lunken Airport
+
+国际航空运输协会编号:LUK
+
+民航组织编号:KLUK
+
+纬度:39.103329
+
+经度:-84.418602
+
+所属国家:United States
+
+预设高度:483

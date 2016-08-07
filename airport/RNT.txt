@@ -1,0 +1,13 @@
+机场:Renton Municipal Airport
+
+国际航空运输协会编号:RNT
+
+民航组织编号:KRNT
+
+纬度:47.493301
+
+经度:-122.215698
+
+所属国家:United States
+
+预设高度:32

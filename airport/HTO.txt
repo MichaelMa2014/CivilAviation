@@ -1,0 +1,13 @@
+机场:East Hampton Airport
+
+国际航空运输协会编号:HTO
+
+民航组织编号:KHTO
+
+纬度:40.959442
+
+经度:-72.251663
+
+所属国家:United States
+
+预设高度:56

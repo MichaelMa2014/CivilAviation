@@ -1,0 +1,13 @@
+机场:Nairobi Jomo Kenyatta International Airport
+
+国际航空运输协会编号:NBO
+
+民航组织编号:HKJK
+
+纬度:-1.319240
+
+经度:36.927769
+
+所属国家:Kenya
+
+预设高度:5330

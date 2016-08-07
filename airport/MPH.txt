@@ -1,0 +1,13 @@
+机场:Caticlan Boracay Airport
+
+国际航空运输协会编号:MPH
+
+民航组织编号:RPVE
+
+纬度:11.920000
+
+经度:121.949997
+
+所属国家:Philippines
+
+预设高度:-1

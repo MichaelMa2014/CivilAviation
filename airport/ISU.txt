@@ -1,0 +1,13 @@
+机场:Sulaimaniyah International Airport
+
+国际航空运输协会编号:ISU
+
+民航组织编号:ORSU
+
+纬度:35.560799
+
+经度:45.314716
+
+所属国家:Iraq
+
+预设高度:2492

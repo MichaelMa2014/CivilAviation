@@ -1,0 +1,13 @@
+机场:Guatemala City La Aurora International Airport
+
+国际航空运输协会编号:GUA
+
+民航组织编号:MGGT
+
+纬度:14.583270
+
+经度:-90.527397
+
+所属国家:Guatemala
+
+预设高度:4952

@@ -1,0 +1,13 @@
+机场:Dharamsala Gaggal Kangra Airport
+
+国际航空运输协会编号:DHM
+
+民航组织编号:VIGG
+
+纬度:32.165001
+
+经度:76.263000
+
+所属国家:India
+
+预设高度:2525

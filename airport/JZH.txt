@@ -1,0 +1,13 @@
+机场:Songpan Jiuzhai Huanglong Airport
+
+国际航空运输协会编号:JZH
+
+民航组织编号:ZUJZ
+
+纬度:32.856667
+
+经度:103.683060
+
+所属国家:China
+
+预设高度:11311

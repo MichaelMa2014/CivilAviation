@@ -1,0 +1,13 @@
+机场:Chuuk International Airport
+
+国际航空运输协会编号:TKK
+
+民航组织编号:PTKK
+
+纬度:7.461893
+
+经度:151.843002
+
+所属国家:Micronesia
+
+预设高度:10

@@ -1,0 +1,13 @@
+机场:Cairo International Airport
+
+国际航空运输协会编号:CAI
+
+民航组织编号:HECA
+
+纬度:30.121941
+
+经度:31.405550
+
+所属国家:Egypt
+
+预设高度:382

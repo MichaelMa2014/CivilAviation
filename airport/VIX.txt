@@ -1,0 +1,13 @@
+机场:Vitoria Eurico de Aguiar Salles Airport
+
+国际航空运输协会编号:VIX
+
+民航组织编号:SBVT
+
+纬度:-20.257999
+
+经度:-40.286301
+
+所属国家:Brazil
+
+预设高度:11

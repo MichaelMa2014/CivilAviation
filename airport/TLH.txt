@@ -1,0 +1,13 @@
+机场:Tallahassee International Airport
+
+国际航空运输协会编号:TLH
+
+民航组织编号:KTLH
+
+纬度:30.396521
+
+经度:-84.350304
+
+所属国家:United States
+
+预设高度:83

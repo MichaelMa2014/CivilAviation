@@ -1,0 +1,13 @@
+机场:North Ronaldsay Airport
+
+国际航空运输协会编号:NRL
+
+民航组织编号:EGEN
+
+纬度:59.367500
+
+经度:-2.434444
+
+所属国家:United Kingdom
+
+预设高度:56

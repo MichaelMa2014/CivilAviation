@@ -1,0 +1,13 @@
+机场:Udaipur Maharana Pratap Airport
+
+国际航空运输协会编号:UDR
+
+民航组织编号:VAUD
+
+纬度:24.617689
+
+经度:73.896103
+
+所属国家:India
+
+预设高度:1684

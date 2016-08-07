@@ -1,0 +1,13 @@
+机场:Piedras Negras International Airport
+
+国际航空运输协会编号:PDS
+
+民航组织编号:MMPG
+
+纬度:28.627390
+
+经度:-100.535004
+
+所属国家:Mexico
+
+预设高度:901

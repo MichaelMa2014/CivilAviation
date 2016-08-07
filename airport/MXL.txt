@@ -1,0 +1,13 @@
+机场:Mexicali International Airport
+
+国际航空运输协会编号:MXL
+
+民航组织编号:MMML
+
+纬度:32.630630
+
+经度:-115.240997
+
+所属国家:Mexico
+
+预设高度:74

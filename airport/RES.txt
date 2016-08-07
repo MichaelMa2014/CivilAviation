@@ -1,0 +1,13 @@
+机场:Resistencia International Airport
+
+国际航空运输协会编号:RES
+
+民航组织编号:SARE
+
+纬度:-27.449900
+
+经度:-59.056099
+
+所属国家:Argentina
+
+预设高度:173

@@ -1,0 +1,13 @@
+机场:Allentown Lehigh Valley International Airport
+
+国际航空运输协会编号:ABE
+
+民航组织编号:KABE
+
+纬度:40.652302
+
+经度:-75.440399
+
+所属国家:United States
+
+预设高度:393

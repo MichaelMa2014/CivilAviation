@@ -1,0 +1,13 @@
+机场:Baishan Changbaishan Airport
+
+国际航空运输协会编号:NBS
+
+民航组织编号:ZYBS
+
+纬度:42.088055
+
+经度:127.548889
+
+所属国家:China
+
+预设高度:-1

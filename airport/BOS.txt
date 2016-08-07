@@ -1,0 +1,13 @@
+机场:Boston Logan International Airport
+
+国际航空运输协会编号:BOS
+
+民航组织编号:KBOS
+
+纬度:42.362968
+
+经度:-71.006401
+
+所属国家:United States
+
+预设高度:20

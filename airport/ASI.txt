@@ -1,0 +1,13 @@
+机场:Ascension Island Airport
+
+国际航空运输协会编号:ASI
+
+民航组织编号:FHAW
+
+纬度:-7.969600
+
+经度:-14.393700
+
+所属国家:Saint Helena
+
+预设高度:278

@@ -1,0 +1,13 @@
+机场:Tymvou Ercan International Airport
+
+国际航空运输协会编号:ECN
+
+民航组织编号:LCEN
+
+纬度:35.154720
+
+经度:33.496109
+
+所属国家:Turkey
+
+预设高度:402

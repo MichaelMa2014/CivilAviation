@@ -1,0 +1,13 @@
+机场:Mykonos Island National Airport
+
+国际航空运输协会编号:JMK
+
+民航组织编号:LGMK
+
+纬度:37.435120
+
+经度:25.348101
+
+所属国家:Greece
+
+预设高度:405

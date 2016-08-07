@@ -1,0 +1,13 @@
+机场:Timisoara Traian Vuia International Airport
+
+国际航空运输协会编号:TSR
+
+民航组织编号:LRTR
+
+纬度:45.809860
+
+经度:21.337860
+
+所属国家:Romania
+
+预设高度:348

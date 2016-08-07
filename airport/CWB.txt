@@ -1,0 +1,13 @@
+机场:Curitiba Afonso Pena International Airport
+
+国际航空运输协会编号:CWB
+
+民航组织编号:SBCT
+
+纬度:-25.528400
+
+经度:-49.175701
+
+所属国家:Brazil
+
+预设高度:2988

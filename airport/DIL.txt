@@ -1,0 +1,13 @@
+机场:Dili Presidente Nicolau Lobato International Airport
+
+国际航空运输协会编号:DIL
+
+民航组织编号:WPDL
+
+纬度:-8.546410
+
+经度:125.524803
+
+所属国家:Timor-Leste (East Timor)
+
+预设高度:25

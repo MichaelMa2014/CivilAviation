@@ -1,0 +1,13 @@
+机场:Elmira Corning Regional Airport
+
+国际航空运输协会编号:ELM
+
+民航组织编号:KELM
+
+纬度:42.163040
+
+经度:-76.895859
+
+所属国家:United States
+
+预设高度:954

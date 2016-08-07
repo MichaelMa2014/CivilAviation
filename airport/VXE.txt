@@ -1,0 +1,13 @@
+机场:Sao Vicente Cesaria Evora Airport
+
+国际航空运输协会编号:VXE
+
+民航组织编号:GVSV
+
+纬度:16.833679
+
+经度:-25.054600
+
+所属国家:Cape Verde
+
+预设高度:66

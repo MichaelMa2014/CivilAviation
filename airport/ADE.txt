@@ -1,0 +1,13 @@
+机场:Aden International Airport
+
+国际航空运输协会编号:ADE
+
+民航组织编号:OYAA
+
+纬度:12.829540
+
+经度:45.028790
+
+所属国家:Yemen
+
+预设高度:7

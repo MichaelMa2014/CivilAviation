@@ -1,0 +1,13 @@
+机场:Dar-es-Salaam Julius Nyerere International Airport
+
+国际航空运输协会编号:DAR
+
+民航组织编号:HTDA
+
+纬度:-6.878110
+
+经度:39.202621
+
+所属国家:Tanzania
+
+预设高度:182

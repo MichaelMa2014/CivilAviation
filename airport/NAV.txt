@@ -1,0 +1,13 @@
+机场:Nevsehir Kapadokya Airport
+
+国际航空运输协会编号:NAV
+
+民航组织编号:LTAZ
+
+纬度:38.625999
+
+经度:34.716999
+
+所属国家:Turkey
+
+预设高度:3100

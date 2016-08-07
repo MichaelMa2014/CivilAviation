@@ -1,0 +1,13 @@
+机场:Lourdes-de-Blanc-Sablon Airport
+
+国际航空运输协会编号:YBX
+
+民航组织编号:CYBX
+
+纬度:51.439999
+
+经度:-57.180000
+
+所属国家:Canada
+
+预设高度:121

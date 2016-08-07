@@ -1,0 +1,13 @@
+机场:Najran Domestic Airport
+
+国际航空运输协会编号:EAM
+
+民航组织编号:OENG
+
+纬度:17.611429
+
+经度:44.419159
+
+所属国家:Saudi Arabia
+
+预设高度:3982

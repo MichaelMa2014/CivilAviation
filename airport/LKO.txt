@@ -1,0 +1,13 @@
+机场:Lucknow Chaudhary Charan Singh Airport
+
+国际航空运输协会编号:LKO
+
+民航组织编号:VILK
+
+纬度:26.760590
+
+经度:80.889328
+
+所属国家:India
+
+预设高度:410

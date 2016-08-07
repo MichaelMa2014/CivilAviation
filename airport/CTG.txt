@@ -1,0 +1,13 @@
+机场:Cartagena Rafael Nunez International Airport
+
+国际航空运输协会编号:CTG
+
+民航组织编号:SKCG
+
+纬度:10.442500
+
+经度:-75.512703
+
+所属国家:Colombia
+
+预设高度:4

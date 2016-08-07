@@ -1,0 +1,13 @@
+机场:Nassau Lynden Pindling International Airport
+
+国际航空运输协会编号:NAS
+
+民航组织编号:MYNN
+
+纬度:25.038950
+
+经度:-77.466202
+
+所属国家:Bahamas
+
+预设高度:16

@@ -1,0 +1,13 @@
+机场:Brunswick Golden Isles Airport
+
+国际航空运输协会编号:BQK
+
+民航组织编号:KBQK
+
+纬度:31.258801
+
+经度:-81.466400
+
+所属国家:United States
+
+预设高度:26

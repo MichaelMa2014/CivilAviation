@@ -1,0 +1,13 @@
+机场:Grenada Maurice Bishop International Airport
+
+国际航空运输协会编号:GND
+
+民航组织编号:TGPY
+
+纬度:12.004240
+
+经度:-61.786098
+
+所属国家:Grenada
+
+预设高度:39

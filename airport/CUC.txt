@@ -1,0 +1,13 @@
+机场:Cucuta Camilo Daza International Airport
+
+国际航空运输协会编号:CUC
+
+民航组织编号:SKCC
+
+纬度:7.931389
+
+经度:-72.514099
+
+所属国家:Colombia
+
+预设高度:1098

@@ -1,0 +1,13 @@
+机场:Istanbul Sabiha Gokcen International Airport
+
+国际航空运输协会编号:SAW
+
+民航组织编号:LTFJ
+
+纬度:40.898548
+
+经度:29.309210
+
+所属国家:Turkey
+
+预设高度:312

@@ -1,0 +1,13 @@
+机场:Astana International Airport
+
+国际航空运输协会编号:TSE
+
+民航组织编号:UACC
+
+纬度:51.022221
+
+经度:71.466942
+
+所属国家:Kazakhstan
+
+预设高度:1165

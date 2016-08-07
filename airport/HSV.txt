@@ -1,0 +1,13 @@
+机场:Huntsville International Airport
+
+国际航空运输协会编号:HSV
+
+民航组织编号:KHSV
+
+纬度:34.637192
+
+经度:-86.775002
+
+所属国家:United States
+
+预设高度:629

@@ -1,0 +1,13 @@
+机场:Minneapolis Flying Cloud Airport
+
+国际航空运输协会编号:FCM
+
+民航组织编号:KFCM
+
+纬度:44.827221
+
+经度:-93.457222
+
+所属国家:United States
+
+预设高度:906

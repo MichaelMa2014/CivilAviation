@@ -1,0 +1,13 @@
+机场:Port Blair Veer Savarkar International Airport
+
+国际航空运输协会编号:IXZ
+
+民航组织编号:VOPB
+
+纬度:11.641160
+
+经度:92.729736
+
+所属国家:India
+
+预设高度:14

@@ -1,0 +1,13 @@
+机场:Trelew Almirante Marco Andres Zar Airport
+
+国际航空运输协会编号:REL
+
+民航组织编号:SAVT
+
+纬度:-43.210499
+
+经度:-65.270302
+
+所属国家:Argentina
+
+预设高度:141

@@ -1,0 +1,13 @@
+机场:Florianopolis Hercilio Luz International Airport
+
+国际航空运输协会编号:FLN
+
+民航组织编号:SBFL
+
+纬度:-27.670401
+
+经度:-48.547100
+
+所属国家:Brazil
+
+预设高度:20

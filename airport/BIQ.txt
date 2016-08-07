@@ -1,0 +1,13 @@
+机场:Biarritz Anglet Bayonne Airport
+
+国际航空运输协会编号:BIQ
+
+民航组织编号:LFBZ
+
+纬度:43.468330
+
+经度:-1.531110
+
+所属国家:France
+
+预设高度:245

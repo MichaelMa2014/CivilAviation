@@ -1,0 +1,13 @@
+机场:Bydgoszcz Ignacy Jan Paderewski Airport
+
+国际航空运输协会编号:BZG
+
+民航组织编号:EPBY
+
+纬度:53.096802
+
+经度:17.977659
+
+所属国家:Poland
+
+预设高度:235

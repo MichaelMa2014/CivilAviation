@@ -1,0 +1,13 @@
+机场:Lexington Blue Grass Airport
+
+国际航空运输协会编号:LEX
+
+民航组织编号:KLEX
+
+纬度:38.036499
+
+经度:-84.605797
+
+所属国家:United States
+
+预设高度:979

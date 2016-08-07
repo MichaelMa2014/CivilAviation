@@ -1,0 +1,13 @@
+机场:Hefei Xinqiao International Airport
+
+国际航空运输协会编号:HFE
+
+民航组织编号:ZSOF
+
+纬度:31.986345
+
+经度:116.970474
+
+所属国家:China
+
+预设高度:108

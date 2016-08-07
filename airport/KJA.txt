@@ -1,0 +1,13 @@
+机场:Krasnoyarsk Yemelyanovo Airport
+
+国际航空运输协会编号:KJA
+
+民航组织编号:UNKL
+
+纬度:56.172939
+
+经度:92.493271
+
+所属国家:Russia
+
+预设高度:942

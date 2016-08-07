@@ -1,0 +1,13 @@
+机场:Dammam King Fahd International Airport
+
+国际航空运输协会编号:DMM
+
+民航组织编号:OEDF
+
+纬度:26.471161
+
+经度:49.797890
+
+所属国家:Saudi Arabia
+
+预设高度:72

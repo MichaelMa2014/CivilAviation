@@ -1,0 +1,13 @@
+机场:Baku Heydar Aliyev International Airport
+
+国际航空运输协会编号:GYD
+
+民航组织编号:UBBB
+
+纬度:40.467499
+
+经度:50.046661
+
+所属国家:Azerbaijan
+
+预设高度:10

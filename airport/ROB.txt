@@ -1,0 +1,13 @@
+机场:Monrovia Roberts International Airport
+
+国际航空运输协会编号:ROB
+
+民航组织编号:GLRB
+
+纬度:6.233789
+
+经度:-10.362300
+
+所属国家:Liberia
+
+预设高度:31

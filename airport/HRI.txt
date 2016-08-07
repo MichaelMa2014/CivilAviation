@@ -1,0 +1,13 @@
+机场:Hambantota Mattala Rajapaksa International Airport
+
+国际航空运输协会编号:HRI
+
+民航组织编号:VCRI
+
+纬度:6.280000
+
+经度:81.120003
+
+所属国家:Sri Lanka
+
+预设高度:157

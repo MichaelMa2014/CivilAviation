@@ -1,0 +1,13 @@
+机场:Iquique Diego Aracena International Airport
+
+国际航空运输协会编号:IQQ
+
+民航组织编号:SCDA
+
+纬度:-20.535200
+
+经度:-70.181198
+
+所属国家:Chile
+
+预设高度:155

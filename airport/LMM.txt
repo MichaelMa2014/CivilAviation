@@ -1,0 +1,13 @@
+机场:Los Mochis International Airport
+
+国际航空运输协会编号:LMM
+
+民航组织编号:MMLM
+
+纬度:25.685190
+
+经度:-109.080002
+
+所属国家:Mexico
+
+预设高度:16

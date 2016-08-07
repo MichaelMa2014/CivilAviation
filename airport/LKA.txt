@@ -1,0 +1,13 @@
+机场:Larantuka Gewayantana Airport
+
+国际航空运输协会编号:LKA
+
+民航组织编号:WATL
+
+纬度:-8.274544
+
+经度:123.002327
+
+所属国家:Indonesia
+
+预设高度:30

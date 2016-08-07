@@ -1,0 +1,13 @@
+机场:El Paso International Airport
+
+国际航空运输协会编号:ELP
+
+民航组织编号:KELP
+
+纬度:31.807249
+
+经度:-106.376999
+
+所属国家:United States
+
+预设高度:3961

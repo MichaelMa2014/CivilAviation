@@ -1,0 +1,13 @@
+机场:Hyannis Barnstable Municipal Airport
+
+国际航空运输协会编号:HYA
+
+民航组织编号:KHYA
+
+纬度:41.665833
+
+经度:-70.280556
+
+所属国家:United States
+
+预设高度:55

@@ -1,0 +1,13 @@
+机场:London Southend Airport
+
+国际航空运输协会编号:SEN
+
+民航组织编号:EGMC
+
+纬度:51.571381
+
+经度:0.695556
+
+所属国家:United Kingdom
+
+预设高度:49

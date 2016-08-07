@@ -1,0 +1,13 @@
+机场:Medellin International Airport
+
+国际航空运输协会编号:MDE
+
+民航组织编号:SKRG
+
+纬度:6.164444
+
+经度:-75.422997
+
+所属国家:Colombia
+
+预设高度:7025

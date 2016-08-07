@@ -1,0 +1,13 @@
+机场:Blenheim Woodbourne Airport
+
+国际航空运输协会编号:BHE
+
+民航组织编号:NZWB
+
+纬度:-41.518299
+
+经度:173.870193
+
+所属国家:New Zealand
+
+预设高度:109

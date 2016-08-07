@@ -1,0 +1,13 @@
+机场:Baltimore Martin State Airport
+
+国际航空运输协会编号:MTN
+
+民航组织编号:KMTN
+
+纬度:39.321667
+
+经度:-76.411667
+
+所属国家:United States
+
+预设高度:22

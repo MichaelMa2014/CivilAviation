@@ -1,0 +1,13 @@
+机场:Denpasar International Airport
+
+国际航空运输协会编号:DPS
+
+民航组织编号:WADD
+
+纬度:-8.748160
+
+经度:115.167099
+
+所属国家:Indonesia
+
+预设高度:14

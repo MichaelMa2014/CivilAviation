@@ -1,0 +1,13 @@
+机场:Hermosillo International Airport
+
+国际航空运输协会编号:HMO
+
+民航组织编号:MMHO
+
+纬度:29.095850
+
+经度:-111.046997
+
+所属国家:Mexico
+
+预设高度:627

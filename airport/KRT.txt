@@ -1,0 +1,13 @@
+机场:Khartoum International Airport
+
+国际航空运输协会编号:KRT
+
+民航组织编号:HSSS
+
+纬度:15.589490
+
+经度:32.553162
+
+所属国家:Sudan
+
+预设高度:1265

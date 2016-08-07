@@ -1,0 +1,13 @@
+机场:Montevideo Carrasco International Airport
+
+国际航空运输协会编号:MVD
+
+民航组织编号:SUMU
+
+纬度:-34.838402
+
+经度:-56.030800
+
+所属国家:Uruguay
+
+预设高度:105

@@ -1,0 +1,13 @@
+机场:Djerba Zarzis International Airport
+
+国际航空运输协会编号:DJE
+
+民航组织编号:DTTJ
+
+纬度:33.875031
+
+经度:10.775460
+
+所属国家:Tunisia
+
+预设高度:19

@@ -1,0 +1,13 @@
+机场:Kogalym International Airport
+
+国际航空运输协会编号:KGP
+
+民航组织编号:USRK
+
+纬度:62.195831
+
+经度:74.533607
+
+所属国家:Russia
+
+预设高度:220

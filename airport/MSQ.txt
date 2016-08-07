@@ -1,0 +1,13 @@
+机场:Minsk International Airport
+
+国际航空运输协会编号:MSQ
+
+民航组织编号:UMMS
+
+纬度:53.882462
+
+经度:28.030729
+
+所属国家:Belarus
+
+预设高度:670

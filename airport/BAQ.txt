@@ -1,0 +1,13 @@
+机场:Barranquilla Ernesto Cortissoz International Airport
+
+国际航空运输协会编号:BAQ
+
+民航组织编号:SKBQ
+
+纬度:10.889460
+
+经度:-74.780602
+
+所属国家:Colombia
+
+预设高度:98

@@ -1,0 +1,13 @@
+机场:David Enrique Malek International Airport
+
+国际航空运输协会编号:DAV
+
+民航组织编号:MPDA
+
+纬度:8.391003
+
+经度:-82.434898
+
+所属国家:Panama
+
+预设高度:89

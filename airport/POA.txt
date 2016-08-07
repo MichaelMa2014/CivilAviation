@@ -1,0 +1,13 @@
+机场:Porto Alegre Salgado Filho International Airport
+
+国际航空运输协会编号:POA
+
+民航组织编号:SBPA
+
+纬度:-29.994400
+
+经度:-51.171398
+
+所属国家:Brazil
+
+预设高度:11

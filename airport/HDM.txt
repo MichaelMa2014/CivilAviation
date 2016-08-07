@@ -1,0 +1,13 @@
+机场:Hamedan International Airport
+
+国际航空运输协会编号:HDM
+
+民航组织编号:OIHS
+
+纬度:34.867146
+
+经度:48.537319
+
+所属国家:Iran
+
+预设高度:5763

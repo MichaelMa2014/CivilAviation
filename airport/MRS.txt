@@ -1,0 +1,13 @@
+机场:Marseille Provence Airport
+
+国际航空运输协会编号:MRS
+
+民航组织编号:LFML
+
+纬度:43.436661
+
+经度:5.215000
+
+所属国家:France
+
+预设高度:74

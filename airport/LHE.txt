@@ -1,0 +1,13 @@
+机场:Lahore Allama Iqbal International Airport
+
+国际航空运输协会编号:LHE
+
+民航组织编号:OPLA
+
+纬度:31.521561
+
+经度:74.403587
+
+所属国家:Pakistan
+
+预设高度:712

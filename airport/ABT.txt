@@ -1,0 +1,13 @@
+机场:Al-Baha Domestic Airport
+
+国际航空运输协会编号:ABT
+
+民航组织编号:OEBA
+
+纬度:20.296129
+
+经度:41.634270
+
+所属国家:Saudi Arabia
+
+预设高度:5486

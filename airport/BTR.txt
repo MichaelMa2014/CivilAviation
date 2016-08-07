@@ -1,0 +1,13 @@
+机场:Baton Rouge Metropolitan Airport
+
+国际航空运输协会编号:BTR
+
+民航组织编号:KBTR
+
+纬度:30.532900
+
+经度:-91.149803
+
+所属国家:United States
+
+预设高度:70

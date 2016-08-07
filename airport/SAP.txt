@@ -1,0 +1,13 @@
+机场:San Pedro Sula La Mesa International Airport
+
+国际航空运输协会编号:SAP
+
+民航组织编号:MHLM
+
+纬度:15.452630
+
+经度:-87.923500
+
+所属国家:Honduras
+
+预设高度:91

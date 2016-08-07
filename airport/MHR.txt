@@ -1,0 +1,13 @@
+机场:Sacramento Mather Airport
+
+国际航空运输协会编号:MHR
+
+民航组织编号:KMHR
+
+纬度:38.555260
+
+经度:-121.296997
+
+所属国家:United States
+
+预设高度:98

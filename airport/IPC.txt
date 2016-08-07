@@ -1,0 +1,13 @@
+机场:Mataveri International Airport
+
+国际航空运输协会编号:IPC
+
+民航组织编号:SCIP
+
+纬度:-27.164700
+
+经度:-109.420998
+
+所属国家:Chile
+
+预设高度:227

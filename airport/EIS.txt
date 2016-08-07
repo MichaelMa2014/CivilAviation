@@ -1,0 +1,15 @@
+机场:Beef Island Terrance B. Lettsome Airport
+
+国际航空运输协会编号:EIS
+
+民航组织编号:TUPJ
+
+纬度:18.444830
+
+经度:-64.542900
+
+所属国家:Virgin Islands
+
+ British
+
+预设高度:16

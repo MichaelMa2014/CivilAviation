@@ -1,0 +1,13 @@
+机场:Karpathos Island National Airport
+
+国际航空运输协会编号:AOK
+
+民航组织编号:LGKP
+
+纬度:35.421398
+
+经度:27.146000
+
+所属国家:Greece
+
+预设高度:66

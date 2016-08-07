@@ -1,0 +1,13 @@
+机场:Malabo International Airport
+
+国际航空运输协会编号:SSG
+
+民航组织编号:FGSL
+
+纬度:3.755267
+
+经度:8.708717
+
+所属国家:Equatorial Guinea
+
+预设高度:76

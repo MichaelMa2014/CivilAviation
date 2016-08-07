@@ -1,0 +1,13 @@
+机场:Omaha Eppley Airfield
+
+国际航空运输协会编号:OMA
+
+民航组织编号:KOMA
+
+纬度:41.303162
+
+经度:-95.893997
+
+所属国家:United States
+
+预设高度:984

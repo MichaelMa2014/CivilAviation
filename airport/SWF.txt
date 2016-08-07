@@ -1,0 +1,13 @@
+机场:Newburgh Stewart International Airport
+
+国际航空运输协会编号:SWF
+
+民航组织编号:KSWF
+
+纬度:41.504108
+
+经度:-74.104797
+
+所属国家:United States
+
+预设高度:491

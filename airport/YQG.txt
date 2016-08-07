@@ -1,0 +1,13 @@
+机场:Windsor International Airport
+
+国际航空运输协会编号:YQG
+
+民航组织编号:CYQG
+
+纬度:42.275551
+
+经度:-82.955498
+
+所属国家:Canada
+
+预设高度:622

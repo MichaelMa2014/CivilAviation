@@ -1,0 +1,13 @@
+机场:Westfield Barnes Regional Airport
+
+国际航空运输协会编号:BAF
+
+民航组织编号:KBAF
+
+纬度:42.157955
+
+经度:-72.715622
+
+所属国家:United States
+
+预设高度:259

@@ -1,0 +1,13 @@
+机场:Meridian Regional Airport
+
+国际航空运输协会编号:MEI
+
+民航组织编号:KMEI
+
+纬度:32.337223
+
+经度:-88.749168
+
+所属国家:United States
+
+预设高度:297

@@ -1,0 +1,13 @@
+机场:Daytona Beach International Airport
+
+国际航空运输协会编号:DAB
+
+民航组织编号:KDAB
+
+纬度:29.185192
+
+经度:-81.060829
+
+所属国家:United States
+
+预设高度:34

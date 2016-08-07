@@ -1,0 +1,13 @@
+机场:Manzini King Mswati III International Airport
+
+国际航空运输协会编号:SHO
+
+民航组织编号:FDSK
+
+纬度:-26.356667
+
+经度:31.716944
+
+所属国家:Swaziland
+
+预设高度:-1

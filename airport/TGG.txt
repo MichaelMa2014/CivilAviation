@@ -1,0 +1,13 @@
+机场:Kuala Terengganu Sultan Mahmud Airport
+
+国际航空运输协会编号:TGG
+
+民航组织编号:WMKN
+
+纬度:5.382639
+
+经度:103.103302
+
+所属国家:Malaysia
+
+预设高度:21

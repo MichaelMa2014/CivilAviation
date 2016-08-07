@@ -1,0 +1,13 @@
+机场:Hyderabad Rajiv Gandhi International Airport
+
+国际航空运输协会编号:HYD
+
+民航组织编号:VOHS
+
+纬度:17.254000
+
+经度:78.431000
+
+所属国家:India
+
+预设高度:13976

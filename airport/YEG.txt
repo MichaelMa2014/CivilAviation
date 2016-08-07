@@ -1,0 +1,13 @@
+机场:Edmonton International Airport
+
+国际航空运输协会编号:YEG
+
+民航组织编号:CYEG
+
+纬度:53.309719
+
+经度:-113.579002
+
+所属国家:Canada
+
+预设高度:2373

@@ -1,0 +1,13 @@
+机场:Samos International Airport
+
+国际航空运输协会编号:SMI
+
+民航组织编号:LGSM
+
+纬度:37.689991
+
+经度:26.911659
+
+所属国家:Greece
+
+预设高度:19

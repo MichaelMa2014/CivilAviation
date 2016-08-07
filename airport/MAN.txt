@@ -1,0 +1,13 @@
+机场:Manchester Airport
+
+国际航空运输协会编号:MAN
+
+民航组织编号:EGCC
+
+纬度:53.353741
+
+经度:-2.274950
+
+所属国家:United Kingdom
+
+预设高度:257

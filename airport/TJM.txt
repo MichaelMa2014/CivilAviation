@@ -1,0 +1,13 @@
+机场:Roschino International Airport
+
+国际航空运输协会编号:TJM
+
+民航组织编号:USTR
+
+纬度:57.189560
+
+经度:65.324287
+
+所属国家:Russia
+
+预设高度:378

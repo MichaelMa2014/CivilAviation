@@ -1,0 +1,13 @@
+机场:Yantai Penglai International Airport
+
+国际航空运输协会编号:YNT
+
+民航组织编号:ZSYT
+
+纬度:37.657223
+
+经度:120.987221
+
+所属国家:China
+
+预设高度:59

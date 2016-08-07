@@ -1,0 +1,13 @@
+机场:Constanta International Airport
+
+国际航空运输协会编号:CND
+
+民航组织编号:LRCK
+
+纬度:44.362221
+
+经度:28.488331
+
+所属国家:Romania
+
+预设高度:353

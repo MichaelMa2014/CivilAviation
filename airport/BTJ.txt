@@ -1,0 +1,13 @@
+机场:Banda Aceh International Airport
+
+国际航空运输协会编号:BTJ
+
+民航组织编号:WITT
+
+纬度:5.523522
+
+经度:95.420372
+
+所属国家:Indonesia
+
+预设高度:65

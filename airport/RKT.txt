@@ -1,0 +1,13 @@
+机场:Ras Al Khaimah International Airport
+
+国际航空运输协会编号:RKT
+
+民航组织编号:OMRK
+
+纬度:25.613480
+
+经度:55.938808
+
+所属国家:United Arab Emirates
+
+预设高度:102

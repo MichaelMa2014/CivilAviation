@@ -1,0 +1,13 @@
+机场:Padang Minangkabau International Airport
+
+国际航空运输协会编号:PDG
+
+民航组织编号:WIMG
+
+纬度:-0.786640
+
+经度:100.280563
+
+所属国家:Indonesia
+
+预设高度:9

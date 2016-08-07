@@ -1,0 +1,13 @@
+机场:Angelholm Helsingborg Airport
+
+国际航空运输协会编号:AGH
+
+民航组织编号:ESTA
+
+纬度:56.296070
+
+经度:12.847130
+
+所属国家:Sweden
+
+预设高度:68

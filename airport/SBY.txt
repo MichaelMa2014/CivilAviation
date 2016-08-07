@@ -1,0 +1,13 @@
+机场:Salisbury Ocean City Wicomico Regional Airport
+
+国际航空运输协会编号:SBY
+
+民航组织编号:KSBY
+
+纬度:38.340519
+
+经度:-75.510201
+
+所属国家:United States
+
+预设高度:53

@@ -1,0 +1,13 @@
+机场:New Bern Coastal Carolina Regional Airport
+
+国际航空运输协会编号:EWN
+
+民航组织编号:KEWN
+
+纬度:35.072971
+
+经度:-77.042900
+
+所属国家:United States
+
+预设高度:18

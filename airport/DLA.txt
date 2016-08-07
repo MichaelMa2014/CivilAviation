@@ -1,0 +1,13 @@
+机场:Douala International Airport
+
+国际航空运输协会编号:DLA
+
+民航组织编号:FKKD
+
+纬度:4.006081
+
+经度:9.719481
+
+所属国家:Cameroon
+
+预设高度:33

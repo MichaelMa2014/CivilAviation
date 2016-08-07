@@ -1,0 +1,13 @@
+机场:Chernivtsi International Airport
+
+国际航空运输协会编号:CWC
+
+民航组织编号:UKLN
+
+纬度:48.259319
+
+经度:25.980829
+
+所属国家:Ukraine
+
+预设高度:826

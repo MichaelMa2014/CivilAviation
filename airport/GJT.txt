@@ -1,0 +1,13 @@
+机场:Grand Junction Regional Airport
+
+国际航空运输协会编号:GJT
+
+民航组织编号:KGJT
+
+纬度:39.122410
+
+经度:-108.526001
+
+所属国家:United States
+
+预设高度:4858

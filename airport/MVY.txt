@@ -1,0 +1,13 @@
+机场:Martha's Vineyard Airport
+
+国际航空运输协会编号:MVY
+
+民航组织编号:KMVY
+
+纬度:41.389336
+
+经度:-70.611816
+
+所属国家:United States
+
+预设高度:67

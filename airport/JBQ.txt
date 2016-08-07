@@ -1,0 +1,13 @@
+机场:Santo Domingo La Isabela International Airport
+
+国际航空运输协会编号:JBQ
+
+民航组织编号:MDJB
+
+纬度:18.575556
+
+经度:-69.981392
+
+所属国家:Dominican Republic
+
+预设高度:15

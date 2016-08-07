@@ -1,0 +1,13 @@
+机场:Dubuque Regional Airport
+
+国际航空运输协会编号:DBQ
+
+民航组织编号:KDBQ
+
+纬度:42.400002
+
+经度:-90.699997
+
+所属国家:United States
+
+预设高度:1077

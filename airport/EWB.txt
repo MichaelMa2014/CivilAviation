@@ -1,0 +1,13 @@
+机场:New Bedford Regional Airport
+
+国际航空运输协会编号:EWB
+
+民航组织编号:KEWB
+
+纬度:41.676945
+
+经度:-70.959167
+
+所属国家:United States
+
+预设高度:80

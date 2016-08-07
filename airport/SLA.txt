@@ -1,0 +1,13 @@
+机场:Salta Martin Miguel de Guemes International Airport
+
+国际航空运输协会编号:SLA
+
+民航组织编号:SASA
+
+纬度:-24.855900
+
+经度:-65.486099
+
+所属国家:Argentina
+
+预设高度:4088

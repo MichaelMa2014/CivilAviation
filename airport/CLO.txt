@@ -1,0 +1,13 @@
+机场:Cali Alfonso Bonilla Aragon International Airport
+
+国际航空运输协会编号:CLO
+
+民航组织编号:SKCL
+
+纬度:3.543056
+
+经度:-76.381599
+
+所属国家:Colombia
+
+预设高度:3162

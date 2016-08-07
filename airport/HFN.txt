@@ -1,0 +1,13 @@
+机场:Hofn Hornafjordur Airport
+
+国际航空运输协会编号:HFN
+
+民航组织编号:BIHN
+
+纬度:64.295547
+
+经度:-15.227200
+
+所属国家:Iceland
+
+预设高度:24

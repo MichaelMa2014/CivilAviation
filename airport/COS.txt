@@ -1,0 +1,13 @@
+机场:Colorado Springs Airport
+
+国际航空运输协会编号:COS
+
+民航组织编号:KCOS
+
+纬度:38.805801
+
+经度:-104.699997
+
+所属国家:United States
+
+预设高度:6187

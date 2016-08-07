@@ -1,0 +1,13 @@
+机场:Yap International Airport
+
+国际航空运输协会编号:YAP
+
+民航组织编号:PTYA
+
+纬度:9.498912
+
+经度:138.082397
+
+所属国家:Micronesia
+
+预设高度:91

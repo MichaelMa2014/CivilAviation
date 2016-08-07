@@ -1,0 +1,13 @@
+机场:Terrace Northwest Regional Airport
+
+国际航空运输协会编号:YXT
+
+民航组织编号:CYXT
+
+纬度:54.468498
+
+经度:-128.576004
+
+所属国家:Canada
+
+预设高度:713

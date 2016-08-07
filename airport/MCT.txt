@@ -1,0 +1,13 @@
+机场:Muscat International Airport
+
+国际航空运输协会编号:MCT
+
+民航组织编号:OOMS
+
+纬度:23.593269
+
+经度:58.284439
+
+所属国家:Oman
+
+预设高度:48

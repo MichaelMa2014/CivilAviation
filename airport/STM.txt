@@ -1,0 +1,13 @@
+机场:Santarem Maestro Wilson Fonseca Airport
+
+国际航空运输协会编号:STM
+
+民航组织编号:SBSN
+
+纬度:-2.422430
+
+经度:-54.792702
+
+所属国家:Brazil
+
+预设高度:198

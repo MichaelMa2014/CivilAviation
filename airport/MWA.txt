@@ -1,0 +1,13 @@
+机场:Marion Williamson County Regional Airport
+
+国际航空运输协会编号:MWA
+
+民航组织编号:KMWA
+
+纬度:37.751945
+
+经度:-89.016388
+
+所属国家:United States
+
+预设高度:472

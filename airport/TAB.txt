@@ -1,0 +1,13 @@
+机场:Scarborough International Airport
+
+国际航空运输协会编号:TAB
+
+民航组织编号:TTCP
+
+纬度:11.149650
+
+经度:-60.832100
+
+所属国家:Trinidad And Tobago
+
+预设高度:37

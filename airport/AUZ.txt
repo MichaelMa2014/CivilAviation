@@ -1,0 +1,13 @@
+机场:Chicago Aurora Municipal Airport
+
+国际航空运输协会编号:AUZ
+
+民航组织编号:KARR
+
+纬度:41.771900
+
+经度:-88.475700
+
+所属国家:United States
+
+预设高度:712

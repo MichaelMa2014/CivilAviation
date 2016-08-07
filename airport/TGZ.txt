@@ -1,0 +1,13 @@
+机场:Tuxtla Gutierrez International Airport
+
+国际航空运输协会编号:TGZ
+
+民航组织编号:MMTG
+
+纬度:16.561819
+
+经度:-93.026001
+
+所属国家:Mexico
+
+预设高度:1499

@@ -1,0 +1,13 @@
+机场:Perigueux Bassillac Airport
+
+国际航空运输协会编号:PGX
+
+民航组织编号:LFBX
+
+纬度:45.197479
+
+经度:0.815217
+
+所属国家:France
+
+预设高度:328

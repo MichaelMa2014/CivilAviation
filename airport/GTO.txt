@@ -1,0 +1,13 @@
+机场:Gorontalo Jalaluddin Airport
+
+国际航空运输协会编号:GTO
+
+民航组织编号:WAMG
+
+纬度:0.637119
+
+经度:122.849800
+
+所属国家:Indonesia
+
+预设高度:105

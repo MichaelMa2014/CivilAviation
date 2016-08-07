@@ -1,0 +1,13 @@
+机场:Shymkent International Airport
+
+国际航空运输协会编号:CIT
+
+民航组织编号:UAII
+
+纬度:42.364159
+
+经度:69.478882
+
+所属国家:Kazakhstan
+
+预设高度:1385

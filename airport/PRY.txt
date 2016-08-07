@@ -1,0 +1,13 @@
+机场:Pretoria Wonderboom Airport
+
+国际航空运输协会编号:PRY
+
+民航组织编号:FAWB
+
+纬度:-25.653799
+
+经度:28.224230
+
+所属国家:South Africa
+
+预设高度:4095

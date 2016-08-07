@@ -1,0 +1,13 @@
+机场:Fairbanks International Airport
+
+国际航空运输协会编号:FAI
+
+民航组织编号:PAFA
+
+纬度:64.815109
+
+经度:-147.856003
+
+所属国家:United States
+
+预设高度:439

@@ -1,0 +1,13 @@
+机场:Evenes Harstad Narvik Airport
+
+国际航空运输协会编号:EVE
+
+民航组织编号:ENEV
+
+纬度:68.491302
+
+经度:16.678101
+
+所属国家:Norway
+
+预设高度:84

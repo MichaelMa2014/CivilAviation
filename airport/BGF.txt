@@ -1,0 +1,13 @@
+机场:Bangui Airport
+
+国际航空运输协会编号:BGF
+
+民航组织编号:FEFF
+
+纬度:4.398475
+
+经度:18.518780
+
+所属国家:Central African Republic
+
+预设高度:1208

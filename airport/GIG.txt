@@ -1,0 +1,13 @@
+机场:Rio de Janeiro Galeao International Airport
+
+国际航空运输协会编号:GIG
+
+民航组织编号:SBGL
+
+纬度:-22.808901
+
+经度:-43.243599
+
+所属国家:Brazil
+
+预设高度:28

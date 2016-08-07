@@ -1,0 +1,13 @@
+机场:Blagoveshchensk Ignatyevo Airport
+
+国际航空运输协会编号:BQS
+
+民航组织编号:UHBB
+
+纬度:50.425388
+
+经度:127.412399
+
+所属国家:Russia
+
+预设高度:638

@@ -1,0 +1,13 @@
+机场:Metz-Nancy-Lorraine Airport
+
+国际航空运输协会编号:ETZ
+
+民航组织编号:LFJL
+
+纬度:48.978329
+
+经度:6.246667
+
+所属国家:France
+
+预设高度:870

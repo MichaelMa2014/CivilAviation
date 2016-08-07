@@ -1,0 +1,13 @@
+机场:Al Ain International Airport
+
+国际航空运输协会编号:AAN
+
+民航组织编号:OMAL
+
+纬度:24.261660
+
+经度:55.609161
+
+所属国家:United Arab Emirates
+
+预设高度:869

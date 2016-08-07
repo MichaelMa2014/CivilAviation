@@ -1,0 +1,13 @@
+机场:Neiva Benito Salas Airport
+
+国际航空运输协会编号:NVA
+
+民航组织编号:SKNV
+
+纬度:2.950422
+
+经度:-75.293900
+
+所属国家:Colombia
+
+预设高度:1464

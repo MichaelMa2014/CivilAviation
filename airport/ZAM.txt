@@ -1,0 +1,13 @@
+机场:Zamboanga International Airport
+
+国际航空运输协会编号:ZAM
+
+民航组织编号:RPMZ
+
+纬度:6.922419
+
+经度:122.059601
+
+所属国家:Philippines
+
+预设高度:33

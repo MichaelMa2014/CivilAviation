@@ -1,0 +1,13 @@
+机场:Shiraz International Airport
+
+国际航空运输协会编号:SYZ
+
+民航组织编号:OISS
+
+纬度:29.539240
+
+经度:52.589779
+
+所属国家:Iran
+
+预设高度:4920

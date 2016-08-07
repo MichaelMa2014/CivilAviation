@@ -1,0 +1,13 @@
+机场:Alpena County Regional Airport
+
+国际航空运输协会编号:APN
+
+民航组织编号:KAPN
+
+纬度:45.081669
+
+经度:-83.555832
+
+所属国家:United States
+
+预设高度:689

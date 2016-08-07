@@ -1,0 +1,13 @@
+机场:Hat Yai International Airport
+
+国际航空运输协会编号:HDY
+
+民航组织编号:VTSS
+
+纬度:6.933206
+
+经度:100.392899
+
+所属国家:Thailand
+
+预设高度:90

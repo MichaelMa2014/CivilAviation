@@ -1,0 +1,13 @@
+机场:Providence Theodore Francis Green Airport
+
+国际航空运输协会编号:PVD
+
+民航组织编号:KPVD
+
+纬度:41.723991
+
+经度:-71.428200
+
+所属国家:United States
+
+预设高度:55

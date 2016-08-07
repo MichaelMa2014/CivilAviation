@@ -1,0 +1,13 @@
+机场:Ho Chi Minh City International Airport
+
+国际航空运输协会编号:SGN
+
+民航组织编号:VVTS
+
+纬度:10.818790
+
+经度:106.651802
+
+所属国家:Vietnam
+
+预设高度:33

@@ -1,0 +1,13 @@
+机场:Nanchang Changbei International Airport
+
+国际航空运输协会编号:KHN
+
+民航组织编号:ZSCN
+
+纬度:28.865000
+
+经度:115.900002
+
+所属国家:China
+
+预设高度:143

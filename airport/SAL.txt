@@ -1,0 +1,13 @@
+机场:San Salvador International Airport
+
+国际航空运输协会编号:SAL
+
+民航组织编号:MSLP
+
+纬度:13.440940
+
+经度:-89.055702
+
+所属国家:El Salvador
+
+预设高度:101

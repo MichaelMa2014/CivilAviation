@@ -1,0 +1,13 @@
+机场:Rota International Airport
+
+国际航空运输协会编号:ROP
+
+民航组织编号:PGRO
+
+纬度:14.174350
+
+经度:145.241104
+
+所属国家:Northern Mariana Islands
+
+预设高度:607

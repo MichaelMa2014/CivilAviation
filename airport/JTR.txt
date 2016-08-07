@@ -1,0 +1,13 @@
+机场:Santorini Thira National Airport
+
+国际航空运输协会编号:JTR
+
+民航组织编号:LGSR
+
+纬度:36.399158
+
+经度:25.479330
+
+所属国家:Greece
+
+预设高度:127

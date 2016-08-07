@@ -1,0 +1,13 @@
+机场:El Calafate International Airport
+
+国际航空运输协会编号:FTE
+
+民航组织编号:SAWC
+
+纬度:-50.280300
+
+经度:-72.053101
+
+所属国家:Argentina
+
+预设高度:669

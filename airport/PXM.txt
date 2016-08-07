@@ -1,0 +1,13 @@
+机场:Puerto Escondido International Airport
+
+国际航空运输协会编号:PXM
+
+民航组织编号:MMPS
+
+纬度:15.876860
+
+经度:-97.089104
+
+所属国家:Mexico
+
+预设高度:294

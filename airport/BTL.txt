@@ -1,0 +1,13 @@
+机场:Battle Creek Kalamazoo International Airport
+
+国际航空运输协会编号:BTL
+
+民航组织编号:KBTL
+
+纬度:42.307301
+
+经度:-85.251503
+
+所属国家:United States
+
+预设高度:952

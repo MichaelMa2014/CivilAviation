@@ -1,0 +1,13 @@
+机场:Katowice International Airport
+
+国际航空运输协会编号:KTW
+
+民航组织编号:EPKT
+
+纬度:50.474251
+
+经度:19.080009
+
+所属国家:Poland
+
+预设高度:995

@@ -1,0 +1,13 @@
+机场:Tunis Carthage International Airport
+
+国际航空运输协会编号:TUN
+
+民航组织编号:DTTA
+
+纬度:36.851028
+
+经度:10.227210
+
+所属国家:Tunisia
+
+预设高度:22

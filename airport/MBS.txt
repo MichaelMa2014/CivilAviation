@@ -1,0 +1,13 @@
+机场:Saginaw MBS International Airport
+
+国际航空运输协会编号:MBS
+
+民航组织编号:KMBS
+
+纬度:43.532909
+
+经度:-84.079597
+
+所属国家:United States
+
+预设高度:668

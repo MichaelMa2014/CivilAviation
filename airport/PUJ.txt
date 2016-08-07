@@ -1,0 +1,13 @@
+机场:Punta Cana International Airport
+
+国际航空运输协会编号:PUJ
+
+民航组织编号:MDPC
+
+纬度:18.567360
+
+经度:-68.363403
+
+所属国家:Dominican Republic
+
+预设高度:47

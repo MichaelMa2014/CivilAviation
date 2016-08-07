@@ -1,0 +1,13 @@
+机场:Sohag International Airport
+
+国际航空运输协会编号:HMB
+
+民航组织编号:HEMK
+
+纬度:26.339918
+
+经度:31.739330
+
+所属国家:Egypt
+
+预设高度:859

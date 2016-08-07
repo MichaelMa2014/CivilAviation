@@ -1,0 +1,13 @@
+机场:Cape Town International Airport
+
+国际航空运输协会编号:CPT
+
+民航组织编号:FACT
+
+纬度:-33.964802
+
+经度:18.601660
+
+所属国家:South Africa
+
+预设高度:151

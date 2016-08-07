@@ -1,0 +1,13 @@
+机场:Tegucigalpa Toncontin International Airport
+
+国际航空运输协会编号:TGU
+
+民航组织编号:MHTG
+
+纬度:14.060880
+
+经度:-87.217102
+
+所属国家:Honduras
+
+预设高度:3294

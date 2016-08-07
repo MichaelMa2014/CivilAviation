@@ -1,0 +1,13 @@
+机场:Bangalore Kempegowda International Airport
+
+国际航空运输协会编号:BLR
+
+民航组织编号:VOBL
+
+纬度:13.198889
+
+经度:77.705559
+
+所属国家:India
+
+预设高度:3002

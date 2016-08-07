@@ -1,0 +1,13 @@
+机场:Klamath Falls Airport
+
+国际航空运输协会编号:LMT
+
+民航组织编号:KLMT
+
+纬度:42.156132
+
+经度:-121.733002
+
+所属国家:United States
+
+预设高度:4095

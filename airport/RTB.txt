@@ -1,0 +1,13 @@
+机场:Roatan International Airport
+
+国际航空运输协会编号:RTB
+
+民航组织编号:MHRO
+
+纬度:16.316811
+
+经度:-86.522903
+
+所属国家:Honduras
+
+预设高度:18

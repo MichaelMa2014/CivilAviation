@@ -1,0 +1,13 @@
+机场:Beirut Rafic Hariri International Airport
+
+国际航空运输协会编号:BEY
+
+民航组织编号:OLBA
+
+纬度:33.820930
+
+经度:35.488380
+
+所属国家:Lebanon
+
+预设高度:87

@@ -1,0 +1,13 @@
+机场:Tagbilaran City Airport
+
+国际航空运输协会编号:TAG
+
+民航组织编号:RPVT
+
+纬度:9.664081
+
+经度:123.853203
+
+所属国家:Philippines
+
+预设高度:38

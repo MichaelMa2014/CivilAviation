@@ -1,0 +1,13 @@
+机场:Quepos La Managua Airport
+
+国际航空运输协会编号:XQP
+
+民航组织编号:MRQP
+
+纬度:9.443164
+
+经度:-84.129700
+
+所属国家:Costa Rica
+
+预设高度:85

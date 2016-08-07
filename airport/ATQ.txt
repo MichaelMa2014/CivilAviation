@@ -1,0 +1,13 @@
+机场:Amritsar International Airport
+
+国际航空运输协会编号:ATQ
+
+民航组织编号:VIAR
+
+纬度:31.709591
+
+经度:74.797256
+
+所属国家:India
+
+预设高度:756

@@ -1,0 +1,13 @@
+机场:Heraklion International Airport
+
+国际航空运输协会编号:HER
+
+民航组织编号:LGIR
+
+纬度:35.339710
+
+经度:25.180290
+
+所属国家:Greece
+
+预设高度:115

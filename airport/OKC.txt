@@ -1,0 +1,13 @@
+机场:Oklahoma City Will Rogers World Airport
+
+国际航空运输协会编号:OKC
+
+民航组织编号:KOKC
+
+纬度:35.393082
+
+经度:-97.600700
+
+所属国家:United States
+
+预设高度:1295

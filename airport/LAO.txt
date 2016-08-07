@@ -1,0 +1,13 @@
+机场:Laoag City International Airport
+
+国际航空运输协会编号:LAO
+
+民航组织编号:RPLI
+
+纬度:18.178057
+
+经度:120.531670
+
+所属国家:Philippines
+
+预设高度:16

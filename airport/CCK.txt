@@ -1,0 +1,13 @@
+机场:Cocos Islands Airport
+
+国际航空运输协会编号:CCK
+
+民航组织编号:YPCC
+
+纬度:-12.188611
+
+经度:96.830559
+
+所属国家:Cocos (Keeling) Islands
+
+预设高度:10

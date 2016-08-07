@@ -1,0 +1,13 @@
+机场:Matamoros International Airport
+
+国际航空运输协会编号:MAM
+
+民航组织编号:MMMA
+
+纬度:25.769890
+
+经度:-97.525299
+
+所属国家:Mexico
+
+预设高度:25

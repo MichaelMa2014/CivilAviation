@@ -1,0 +1,13 @@
+机场:Basseterre Robert L. Bradshaw International Airport
+
+国际航空运输协会编号:SKB
+
+民航组织编号:TKPK
+
+纬度:17.311190
+
+经度:-62.718601
+
+所属国家:Saint Kitts And Nevis
+
+预设高度:170

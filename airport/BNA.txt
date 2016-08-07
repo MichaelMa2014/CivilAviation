@@ -1,0 +1,13 @@
+机场:Nashville International Airport
+
+国际航空运输协会编号:BNA
+
+民航组织编号:KBNA
+
+纬度:36.124470
+
+经度:-86.678101
+
+所属国家:United States
+
+预设高度:599

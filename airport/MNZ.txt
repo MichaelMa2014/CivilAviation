@@ -1,0 +1,13 @@
+机场:Manassas Regional Airport
+
+国际航空运输协会编号:MNZ
+
+民航组织编号:KHEF
+
+纬度:38.721943
+
+经度:-77.518059
+
+所属国家:United States
+
+预设高度:179

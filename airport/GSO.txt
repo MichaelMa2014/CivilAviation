@@ -1,0 +1,13 @@
+机场:Greensboro Piedmont Triad International Airport
+
+国际航空运输协会编号:GSO
+
+民航组织编号:KGSO
+
+纬度:36.097752
+
+经度:-79.937302
+
+所属国家:United States
+
+预设高度:926

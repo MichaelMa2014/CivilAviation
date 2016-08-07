@@ -1,0 +1,13 @@
+机场:Cranbrook Canadian Rockies International Airport
+
+国际航空运输协会编号:YXC
+
+民航组织编号:CYXC
+
+纬度:49.612221
+
+经度:-115.780998
+
+所属国家:Canada
+
+预设高度:3084

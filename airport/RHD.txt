@@ -1,0 +1,13 @@
+机场:Termas de Rio Hondo Airport
+
+国际航空运输协会编号:RHD
+
+民航组织编号:SANH
+
+纬度:-27.450001
+
+经度:-64.879997
+
+所属国家:Argentina
+
+预设高度:-1

@@ -1,0 +1,13 @@
+机场:Kuwait International Airport
+
+国际航空运输协会编号:KWI
+
+民航组织编号:OKBK
+
+纬度:29.226561
+
+经度:47.968922
+
+所属国家:Kuwait
+
+预设高度:206

@@ -1,0 +1,13 @@
+机场:Eastsound Orcas Island Airport
+
+国际航空运输协会编号:ESD
+
+民航组织编号:KORS
+
+纬度:48.708332
+
+经度:-122.912498
+
+所属国家:United States
+
+预设高度:31

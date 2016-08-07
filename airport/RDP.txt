@@ -1,0 +1,13 @@
+机场:Andal Kazi Nazrul Islam Airport
+
+国际航空运输协会编号:RDP
+
+民航组织编号:VEDG
+
+纬度:23.621389
+
+经度:87.243332
+
+所属国家:India
+
+预设高度:289

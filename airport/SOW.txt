@@ -1,0 +1,13 @@
+机场:Show Low Regional Airport
+
+国际航空运输协会编号:SOW
+
+民航组织编号:KSOW
+
+纬度:34.265400
+
+经度:-110.005600
+
+所属国家:United States
+
+预设高度:6415

@@ -1,0 +1,13 @@
+机场:Bryansk International Airport
+
+国际航空运输协会编号:BZK
+
+民航组织编号:UUBP
+
+纬度:53.214191
+
+经度:34.176441
+
+所属国家:Russia
+
+预设高度:663

@@ -1,0 +1,13 @@
+机场:Macau International Airport
+
+国际航空运输协会编号:MFM
+
+民航组织编号:VMMC
+
+纬度:22.149549
+
+经度:113.591499
+
+所属国家:China
+
+预设高度:20

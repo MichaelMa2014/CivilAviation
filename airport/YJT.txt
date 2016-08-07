@@ -1,0 +1,13 @@
+机场:Stephenville International Airport
+
+国际航空运输协会编号:YJT
+
+民航组织编号:CYJT
+
+纬度:48.544159
+
+经度:-58.549900
+
+所属国家:Canada
+
+预设高度:80

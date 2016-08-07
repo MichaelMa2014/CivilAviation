@@ -1,0 +1,13 @@
+机场:Oxford Waterbury Airport
+
+国际航空运输协会编号:OXC
+
+民航组织编号:KOXC
+
+纬度:41.479168
+
+经度:-73.136391
+
+所属国家:United States
+
+预设高度:726

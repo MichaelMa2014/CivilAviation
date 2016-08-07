@@ -1,0 +1,13 @@
+机场:Campeche International Airport
+
+国际航空运输协会编号:CPE
+
+民航组织编号:MMCP
+
+纬度:19.816790
+
+经度:-90.500298
+
+所属国家:Mexico
+
+预设高度:34

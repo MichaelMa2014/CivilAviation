@@ -1,0 +1,13 @@
+机场:Samarkand International Airport
+
+国际航空运输协会编号:SKD
+
+民航组织编号:UTSS
+
+纬度:39.700539
+
+经度:66.983818
+
+所属国家:Uzbekistan
+
+预设高度:2224

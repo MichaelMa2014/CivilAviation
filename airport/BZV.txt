@@ -1,0 +1,13 @@
+机场:Brazzaville Maya Maya Airport
+
+国际航空运输协会编号:BZV
+
+民航组织编号:FCBB
+
+纬度:-4.251700
+
+经度:15.253030
+
+所属国家:Congo
+
+预设高度:1048

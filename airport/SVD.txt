@@ -1,0 +1,13 @@
+机场:Kingstown E. T. Joshua Airport
+
+国际航空运输协会编号:SVD
+
+民航组织编号:TVSV
+
+纬度:13.144300
+
+经度:-61.210800
+
+所属国家:Saint Vincent And The Grenadines
+
+预设高度:66

@@ -1,0 +1,13 @@
+机场:Olbia \u2013 Costa Smeralda Airport
+
+国际航空运输协会编号:OLB
+
+民航组织编号:LIEO
+
+纬度:40.898659
+
+经度:9.517628
+
+所属国家:Italy
+
+预设高度:37

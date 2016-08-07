@@ -1,0 +1,13 @@
+机场:Bangkok Suvarnabhumi Airport
+
+国际航空运输协会编号:BKK
+
+民航组织编号:VTBS
+
+纬度:13.681100
+
+经度:100.747200
+
+所属国家:Thailand
+
+预设高度:5

@@ -1,0 +1,13 @@
+机场:Cuiaba Marechal Rondon International Airport
+
+国际航空运输协会编号:CGB
+
+民航组织编号:SBCY
+
+纬度:-15.652900
+
+经度:-56.116699
+
+所属国家:Brazil
+
+预设高度:617

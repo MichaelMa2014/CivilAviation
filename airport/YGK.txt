@@ -1,0 +1,13 @@
+机场:Kingston Norman Rogers Airport
+
+国际航空运输协会编号:YGK
+
+民航组织编号:CYGK
+
+纬度:44.225269
+
+经度:-76.596901
+
+所属国家:Canada
+
+预设高度:305

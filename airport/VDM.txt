@@ -1,0 +1,13 @@
+机场:Viedma Gobernador Edgardo Castello Airport
+
+国际航空运输协会编号:VDM
+
+民航组织编号:SAVV
+
+纬度:-40.869202
+
+经度:-63.000301
+
+所属国家:Argentina
+
+预设高度:20

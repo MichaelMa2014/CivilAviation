@@ -1,0 +1,13 @@
+机场:Tianjin Binhai International Airport
+
+国际航空运输协会编号:TSN
+
+民航组织编号:ZBTJ
+
+纬度:39.124352
+
+经度:117.346100
+
+所属国家:China
+
+预设高度:33

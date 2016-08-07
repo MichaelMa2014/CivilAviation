@@ -1,0 +1,13 @@
+机场:Kangiqsualujjuaq Georges River Airport
+
+国际航空运输协会编号:XGR
+
+民航组织编号:CYLU
+
+纬度:58.709999
+
+经度:-65.989998
+
+所属国家:Canada
+
+预设高度:196

@@ -1,0 +1,13 @@
+机场:Male Ibrahim Nasir International Airport
+
+国际航空运输协会编号:MLE
+
+民航组织编号:VRMM
+
+纬度:4.191833
+
+经度:73.529121
+
+所属国家:Maldives
+
+预设高度:6

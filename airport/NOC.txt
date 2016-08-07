@@ -1,0 +1,13 @@
+机场:Knock Ireland West Airport
+
+国际航空运输协会编号:NOC
+
+民航组织编号:EIKN
+
+纬度:53.910290
+
+经度:-8.818490
+
+所属国家:Ireland
+
+预设高度:665

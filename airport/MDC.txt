@@ -1,0 +1,13 @@
+机场:Manado Sam Ratulangi International Airport
+
+国际航空运输协会编号:MDC
+
+民航组织编号:WAMM
+
+纬度:1.549447
+
+经度:124.925797
+
+所属国家:Indonesia
+
+预设高度:264

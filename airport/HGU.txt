@@ -1,0 +1,13 @@
+机场:Mount Hagen Airport
+
+国际航空运输协会编号:HGU
+
+民航组织编号:AYMH
+
+纬度:-5.826780
+
+经度:144.295807
+
+所属国家:Papua New Guinea
+
+预设高度:5388

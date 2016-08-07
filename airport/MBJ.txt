@@ -1,0 +1,13 @@
+机场:Montego Bay Sangster International Airport
+
+国际航空运输协会编号:MBJ
+
+民航组织编号:MKJS
+
+纬度:18.503710
+
+经度:-77.913300
+
+所属国家:Jamaica
+
+预设高度:4

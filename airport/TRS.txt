@@ -1,0 +1,13 @@
+机场:Trieste Friuli Venezia Giulia Airport
+
+国际航空运输协会编号:TRS
+
+民航组织编号:LIPQ
+
+纬度:45.827499
+
+经度:13.472220
+
+所属国家:Italy
+
+预设高度:37

@@ -1,0 +1,13 @@
+机场:Saipan International Airport
+
+国际航空运输协会编号:SPN
+
+民航组织编号:PGSN
+
+纬度:15.119000
+
+经度:145.729294
+
+所属国家:Northern Mariana Islands
+
+预设高度:211

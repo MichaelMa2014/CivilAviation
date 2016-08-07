@@ -1,0 +1,13 @@
+机场:Nausori International Airport
+
+国际航空运输协会编号:SUV
+
+民航组织编号:NFNA
+
+纬度:-18.043200
+
+经度:178.559204
+
+所属国家:Fiji
+
+预设高度:17

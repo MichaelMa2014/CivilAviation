@@ -1,0 +1,13 @@
+机场:Roanoke Regional Airport
+
+国际航空运输协会编号:ROA
+
+民航组织编号:KROA
+
+纬度:37.320000
+
+经度:-79.970001
+
+所属国家:United States
+
+预设高度:1175

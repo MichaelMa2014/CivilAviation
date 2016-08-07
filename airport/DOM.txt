@@ -1,0 +1,13 @@
+机场:Dominica Melville Hall Airport
+
+国际航空运输协会编号:DOM
+
+民航组织编号:TDPD
+
+纬度:15.547020
+
+经度:-61.299999
+
+所属国家:Dominica
+
+预设高度:73

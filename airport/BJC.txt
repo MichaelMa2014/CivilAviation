@@ -1,0 +1,13 @@
+机场:Denver Rocky Mountain Metropolitan Airport
+
+国际航空运输协会编号:BJC
+
+民航组织编号:KBJC
+
+纬度:39.900002
+
+经度:-105.110001
+
+所属国家:United States
+
+预设高度:5673

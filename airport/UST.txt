@@ -1,0 +1,13 @@
+机场:St. Augustine Northeast Florida Regional Airport
+
+国际航空运输协会编号:UST
+
+民航组织编号:KSGJ
+
+纬度:29.959324
+
+经度:-81.337852
+
+所属国家:United States
+
+预设高度:5

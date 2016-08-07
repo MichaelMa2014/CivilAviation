@@ -1,0 +1,13 @@
+机场:Lombok International Airport
+
+国际航空运输协会编号:LOP
+
+民航组织编号:WADL
+
+纬度:-8.757322
+
+经度:116.276672
+
+所属国家:Indonesia
+
+预设高度:319

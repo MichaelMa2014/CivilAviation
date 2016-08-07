@@ -1,0 +1,13 @@
+机场:Honiara International Airport
+
+国际航空运输协会编号:HIR
+
+民航组织编号:AGGH
+
+纬度:-9.428000
+
+经度:160.054703
+
+所属国家:Solomon Islands
+
+预设高度:28

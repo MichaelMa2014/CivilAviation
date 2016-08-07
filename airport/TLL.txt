@@ -1,0 +1,13 @@
+机场:Tallinn Lennart Meri Airport 
+
+国际航空运输协会编号:TLL
+
+民航组织编号:EETN
+
+纬度:59.413311
+
+经度:24.832840
+
+所属国家:Estonia
+
+预设高度:131

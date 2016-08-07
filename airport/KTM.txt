@@ -1,0 +1,13 @@
+机场:Kathmandu Tribhuvan International Airport
+
+国际航空运输协会编号:KTM
+
+民航组织编号:VNKT
+
+纬度:27.696581
+
+经度:85.359100
+
+所属国家:Nepal
+
+预设高度:4390

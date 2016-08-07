@@ -1,0 +1,13 @@
+机场:Bogota El Dorado International Airport
+
+国际航空运输协会编号:BOG
+
+民航组织编号:SKBO
+
+纬度:4.703056
+
+经度:-74.138298
+
+所属国家:Colombia
+
+预设高度:8361

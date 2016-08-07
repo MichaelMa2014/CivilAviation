@@ -1,0 +1,13 @@
+机场:Phosphate Hill The Monument Airport
+
+国际航空运输协会编号:PHQ
+
+民航组织编号:YTMO
+
+纬度:-21.811666
+
+经度:139.923340
+
+所属国家:Australia
+
+预设高度:960

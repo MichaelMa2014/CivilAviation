@@ -1,0 +1,13 @@
+机场:Alor Setar Sultan Abdul Halim Airport
+
+国际航空运输协会编号:AOR
+
+民航组织编号:WMKA
+
+纬度:6.189667
+
+经度:100.398102
+
+所属国家:Malaysia
+
+预设高度:15

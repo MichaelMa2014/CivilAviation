@@ -1,0 +1,13 @@
+机场:Brussels South Charleroi Airport
+
+国际航空运输协会编号:CRL
+
+民航组织编号:EBCI
+
+纬度:50.459999
+
+经度:4.452778
+
+所属国家:Belgium
+
+预设高度:614

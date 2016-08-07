@@ -1,0 +1,13 @@
+机场:Wenzhou Longwan International Airport
+
+国际航空运输协会编号:WNZ
+
+民航组织编号:ZSWZ
+
+纬度:27.912220
+
+经度:120.851898
+
+所属国家:China
+
+预设高度:7874

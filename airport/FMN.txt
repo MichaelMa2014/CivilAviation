@@ -1,0 +1,13 @@
+机场:Farmington Four Corners Regional Airport
+
+国际航空运输协会编号:FMN
+
+民航组织编号:KFMN
+
+纬度:36.741249
+
+经度:-108.228996
+
+所属国家:United States
+
+预设高度:5506

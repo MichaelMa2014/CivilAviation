@@ -1,0 +1,13 @@
+机场:Toowoomba Brisbane West Wellcamp Airport
+
+国际航空运输协会编号:WTB
+
+民航组织编号:YBWW
+
+纬度:-27.558332
+
+经度:151.793335
+
+所属国家:Australia
+
+预设高度:1509

@@ -1,0 +1,13 @@
+机场:Zacatecas International Airport
+
+国际航空运输协会编号:ZCL
+
+民航组织编号:MMZC
+
+纬度:22.897110
+
+经度:-102.685997
+
+所属国家:Mexico
+
+预设高度:7141

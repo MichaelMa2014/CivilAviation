@@ -1,0 +1,13 @@
+机场:Milan Bergamo Il Caravaggio International Airport
+
+国际航空运输协会编号:BGY
+
+民航组织编号:LIME
+
+纬度:45.673882
+
+经度:9.704166
+
+所属国家:Italy
+
+预设高度:782

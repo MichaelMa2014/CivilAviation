@@ -1,0 +1,13 @@
+机场:Victoria International Airport
+
+国际航空运输协会编号:YYJ
+
+民航组织编号:CYYJ
+
+纬度:48.646938
+
+经度:-123.425003
+
+所属国家:Canada
+
+预设高度:63

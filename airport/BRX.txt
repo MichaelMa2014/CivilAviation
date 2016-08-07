@@ -1,0 +1,13 @@
+机场:Barahona Maria Montez International Airport
+
+国际航空运输协会编号:BRX
+
+民航组织编号:MDBH
+
+纬度:18.251459
+
+经度:-71.120399
+
+所属国家:Dominican Republic
+
+预设高度:10

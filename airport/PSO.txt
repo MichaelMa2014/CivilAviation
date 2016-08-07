@@ -1,0 +1,13 @@
+机场:Pasto Antonio Narino Airport
+
+国际航空运输协会编号:PSO
+
+民航组织编号:SKPS
+
+纬度:1.396247
+
+经度:-77.291397
+
+所属国家:Colombia
+
+预设高度:5951

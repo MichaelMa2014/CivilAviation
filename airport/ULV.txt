@@ -1,0 +1,13 @@
+机场:Ulyanovsk Baratayevka Airport
+
+国际航空运输协会编号:ULV
+
+民航组织编号:UWLL
+
+纬度:54.275555
+
+经度:48.243057
+
+所属国家:Russia
+
+预设高度:463

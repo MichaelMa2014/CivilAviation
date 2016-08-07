@@ -1,0 +1,13 @@
+机场:Ghardaia Noumerate Airport
+
+国际航空运输协会编号:GHA
+
+民航组织编号:DAUG
+
+纬度:32.384102
+
+经度:3.794114
+
+所属国家:Algeria
+
+预设高度:1512

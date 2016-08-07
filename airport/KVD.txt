@@ -1,0 +1,13 @@
+机场:Ganja International Airport
+
+国际航空运输协会编号:KVD
+
+民航组织编号:UBBG
+
+纬度:40.737778
+
+经度:46.317501
+
+所属国家:Azerbaijan
+
+预设高度:1083

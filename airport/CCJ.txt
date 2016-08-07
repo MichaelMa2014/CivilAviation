@@ -1,0 +1,13 @@
+机场:Kozhikode Calicut International Airport
+
+国际航空运输协会编号:CCJ
+
+民航组织编号:VOCL
+
+纬度:11.136830
+
+经度:75.955299
+
+所属国家:India
+
+预设高度:342

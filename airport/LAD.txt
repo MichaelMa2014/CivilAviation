@@ -1,0 +1,13 @@
+机场:Luanda Quatro de Fevereiro Airport
+
+国际航空运输协会编号:LAD
+
+民航组织编号:FNLU
+
+纬度:-8.858370
+
+经度:13.231170
+
+所属国家:Angola
+
+预设高度:243

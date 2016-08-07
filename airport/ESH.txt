@@ -1,0 +1,13 @@
+机场:Brighton City Shoreham Airport
+
+国际航空运输协会编号:ESH
+
+民航组织编号:EGKA
+
+纬度:50.835548
+
+经度:-0.297220
+
+所属国家:United Kingdom
+
+预设高度:7

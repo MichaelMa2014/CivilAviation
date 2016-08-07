@@ -1,0 +1,13 @@
+机场:Thief River Falls Regional Airport
+
+国际航空运输协会编号:TVF
+
+民航组织编号:KTVF
+
+纬度:48.066113
+
+经度:-96.184998
+
+所属国家:United States
+
+预设高度:1116

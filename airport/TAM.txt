@@ -1,0 +1,13 @@
+机场:Tampico International Airport
+
+国际航空运输协会编号:TAM
+
+民航组织编号:MMTM
+
+纬度:22.296450
+
+经度:-97.865898
+
+所属国家:Mexico
+
+预设高度:80

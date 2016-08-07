@@ -1,0 +1,13 @@
+机场:Doha Hamad International Airport
+
+国际航空运输协会编号:DOH
+
+民航组织编号:OTHH
+
+纬度:25.273056
+
+经度:51.608055
+
+所属国家:Qatar
+
+预设高度:13

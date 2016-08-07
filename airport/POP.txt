@@ -1,0 +1,13 @@
+机场:Puerto Plata Gregorio Luperon International Airport
+
+国际航空运输协会编号:POP
+
+民航组织编号:MDPP
+
+纬度:19.757900
+
+经度:-70.570000
+
+所属国家:Dominican Republic
+
+预设高度:15

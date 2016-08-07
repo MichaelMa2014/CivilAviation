@@ -1,0 +1,13 @@
+机场:Toronto Buttonville Municipal Airport
+
+国际航空运输协会编号:YKZ
+
+民航组织编号:CYKZ
+
+纬度:43.862221
+
+经度:-79.370003
+
+所属国家:Canada
+
+预设高度:650

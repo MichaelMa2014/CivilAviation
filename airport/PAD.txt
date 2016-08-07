@@ -1,0 +1,13 @@
+机场:Paderborn Lippstadt Airport
+
+国际航空运输协会编号:PAD
+
+民航组织编号:EDLP
+
+纬度:51.614079
+
+经度:8.616317
+
+所属国家:Germany
+
+预设高度:699

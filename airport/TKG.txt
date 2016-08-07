@@ -1,0 +1,13 @@
+机场:Bandar Lampung Radin Inten II Airport
+
+国际航空运输协会编号:TKG
+
+民航组织编号:WICT
+
+纬度:-5.242500
+
+经度:105.178886
+
+所属国家:Indonesia
+
+预设高度:282

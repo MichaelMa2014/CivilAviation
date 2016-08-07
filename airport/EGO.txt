@@ -1,0 +1,13 @@
+机场:Belgorod International Airport
+
+国际航空运输协会编号:EGO
+
+民航组织编号:UUOB
+
+纬度:50.639999
+
+经度:36.590000
+
+所属国家:Russia
+
+预设高度:734

@@ -1,0 +1,13 @@
+机场:Corumba International Airport
+
+国际航空运输协会编号:CMG
+
+民航组织编号:SBCR
+
+纬度:-19.011900
+
+经度:-57.673000
+
+所属国家:Brazil
+
+预设高度:461

@@ -1,0 +1,13 @@
+机场:Huahine Fare Airport
+
+国际航空运输协会编号:HUH
+
+民航组织编号:NTTH
+
+纬度:-16.688000
+
+经度:-151.026001
+
+所属国家:French Polynesia
+
+预设高度:7

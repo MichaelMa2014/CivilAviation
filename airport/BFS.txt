@@ -1,0 +1,13 @@
+机场:Belfast International Airport
+
+国际航空运输协会编号:BFS
+
+民航组织编号:EGAA
+
+纬度:54.657501
+
+经度:-6.215830
+
+所属国家:United Kingdom
+
+预设高度:268

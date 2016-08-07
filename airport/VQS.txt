@@ -1,0 +1,13 @@
+机场:Vieques Antonio Rivera Rodriguez Airport
+
+国际航空运输协会编号:VQS
+
+民航组织编号:TJCG
+
+纬度:18.134809
+
+经度:-65.493599
+
+所属国家:Puerto Rico
+
+预设高度:49

@@ -1,0 +1,13 @@
+机场:State College University Park Airport
+
+国际航空运输协会编号:SCE
+
+民航组织编号:KUNV
+
+纬度:40.849270
+
+经度:-77.848602
+
+所属国家:United States
+
+预设高度:1239

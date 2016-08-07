@@ -1,0 +1,13 @@
+机场:Papa Westray Airport
+
+国际航空运输协会编号:PPW
+
+民航组织编号:EGEP
+
+纬度:59.351265
+
+经度:-2.898974
+
+所属国家:United Kingdom
+
+预设高度:91

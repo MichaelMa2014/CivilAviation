@@ -1,0 +1,13 @@
+机场:Kristiansand Kjevik Airport
+
+国际航空运输协会编号:KRS
+
+民航组织编号:ENCN
+
+纬度:58.204208
+
+经度:8.085369
+
+所属国家:Norway
+
+预设高度:57

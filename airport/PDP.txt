@@ -1,0 +1,13 @@
+机场:Punta del Este International Airport
+
+国际航空运输协会编号:PDP
+
+民航组织编号:SULS
+
+纬度:-34.855099
+
+经度:-55.094200
+
+所属国家:Uruguay
+
+预设高度:95

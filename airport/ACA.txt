@@ -1,0 +1,13 @@
+机场:Acapulco International Airport
+
+国际航空运输协会编号:ACA
+
+民航组织编号:MMAA
+
+纬度:16.757059
+
+经度:-99.753899
+
+所属国家:Mexico
+
+预设高度:16

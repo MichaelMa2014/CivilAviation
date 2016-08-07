@@ -1,0 +1,13 @@
+机场:Goiania Santa Genoveva Airport
+
+国际航空运输协会编号:GYN
+
+民航组织编号:SBGO
+
+纬度:-16.632000
+
+经度:-49.220600
+
+所属国家:Brazil
+
+预设高度:2450

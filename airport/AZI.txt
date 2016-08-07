@@ -1,0 +1,13 @@
+机场:Abu Dhabi Al Bateen Executive Airport
+
+国际航空运输协会编号:AZI
+
+民航组织编号:OMAD
+
+纬度:24.428329
+
+经度:54.458080
+
+所属国家:United Arab Emirates
+
+预设高度:16

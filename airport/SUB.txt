@@ -1,0 +1,13 @@
+机场:Surabaya Juanda International Airport
+
+国际航空运输协会编号:SUB
+
+民航组织编号:WARR
+
+纬度:-7.379830
+
+经度:112.786797
+
+所属国家:Indonesia
+
+预设高度:9

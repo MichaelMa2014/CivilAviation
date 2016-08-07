@@ -1,0 +1,13 @@
+机场:Buenos Aires Ministro Pistarini International Airport
+
+国际航空运输协会编号:EZE
+
+民航组织编号:SAEZ
+
+纬度:-34.822201
+
+经度:-58.535801
+
+所属国家:Argentina
+
+预设高度:67

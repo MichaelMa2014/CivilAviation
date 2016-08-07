@@ -1,0 +1,13 @@
+机场:New York John F. Kennedy International Airport
+
+国际航空运输协会编号:JFK
+
+民航组织编号:KJFK
+
+纬度:40.639751
+
+经度:-73.778900
+
+所属国家:United States
+
+预设高度:14

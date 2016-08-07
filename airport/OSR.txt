@@ -1,0 +1,13 @@
+机场:Ostrava Leos Janacek Airport
+
+国际航空运输协会编号:OSR
+
+民航组织编号:LKMT
+
+纬度:49.696289
+
+经度:18.111050
+
+所属国家:Czech Republic
+
+预设高度:844

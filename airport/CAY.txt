@@ -1,0 +1,13 @@
+机场:Cayenne Felix Eboue Airport
+
+国际航空运输协会编号:CAY
+
+民航组织编号:SOCA
+
+纬度:4.819722
+
+经度:-52.361900
+
+所属国家:French Guiana
+
+预设高度:26

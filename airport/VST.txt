@@ -1,0 +1,13 @@
+机场:Stockholm Vasteras Hasslo Airport
+
+国际航空运输协会编号:VST
+
+民航组织编号:ESOW
+
+纬度:59.589439
+
+经度:16.633610
+
+所属国家:Sweden
+
+预设高度:21

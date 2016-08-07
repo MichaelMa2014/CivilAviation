@@ -1,0 +1,13 @@
+机场:Mountain View Moffett Federal Airfield
+
+国际航空运输协会编号:NUQ
+
+民航组织编号:KNUQ
+
+纬度:37.416142
+
+经度:-122.049004
+
+所属国家:United States
+
+预设高度:37

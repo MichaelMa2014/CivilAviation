@@ -1,0 +1,13 @@
+机场:Laramie Regional Airport
+
+国际航空运输协会编号:LAR
+
+民航组织编号:KLAR
+
+纬度:41.313610
+
+经度:-105.673058
+
+所属国家:United States
+
+预设高度:7284

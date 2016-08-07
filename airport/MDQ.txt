@@ -1,0 +1,13 @@
+机场:Mar del Plata Astor Piazzolla International Airport
+
+国际航空运输协会编号:MDQ
+
+民航组织编号:SAZM
+
+纬度:-37.934101
+
+经度:-57.573299
+
+所属国家:Argentina
+
+预设高度:71

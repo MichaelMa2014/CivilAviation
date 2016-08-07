@@ -1,0 +1,13 @@
+机场:Chester Hawarden Airport
+
+国际航空运输协会编号:CEG
+
+民航组织编号:EGNR
+
+纬度:53.178051
+
+经度:-2.977770
+
+所属国家:United Kingdom
+
+预设高度:45

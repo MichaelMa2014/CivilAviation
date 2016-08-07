@@ -1,0 +1,13 @@
+机场:Luganville Santo-Pekoa International Airport
+
+国际航空运输协会编号:SON
+
+民航组织编号:NVSS
+
+纬度:-15.505700
+
+经度:167.221298
+
+所属国家:Vanuatu
+
+预设高度:184

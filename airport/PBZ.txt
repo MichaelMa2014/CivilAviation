@@ -1,0 +1,13 @@
+机场:Plettenberg Bay Airport
+
+国际航空运输协会编号:PBZ
+
+民航组织编号:KPBZ
+
+纬度:-34.088226
+
+经度:23.328588
+
+所属国家:South Africa
+
+预设高度:448

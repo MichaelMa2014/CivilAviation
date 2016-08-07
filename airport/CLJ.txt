@@ -1,0 +1,13 @@
+机场:Cluj-Napoca International Airport
+
+国际航空运输协会编号:CLJ
+
+民航组织编号:LRCL
+
+纬度:46.785091
+
+经度:23.686110
+
+所属国家:Romania
+
+预设高度:1035

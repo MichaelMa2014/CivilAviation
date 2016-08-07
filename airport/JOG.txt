@@ -1,0 +1,13 @@
+机场:Yogyakarta Adisucipto International Airport
+
+国际航空运输协会编号:JOG
+
+民航组织编号:WARJ
+
+纬度:-7.788180
+
+经度:110.431702
+
+所属国家:Indonesia
+
+预设高度:350

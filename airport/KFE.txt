@@ -1,0 +1,13 @@
+机场:Cloudbreak Fortescue Dave Forrest Airport
+
+国际航空运输协会编号:KFE
+
+民航组织编号:YFDF
+
+纬度:-22.292000
+
+经度:119.437225
+
+所属国家:Australia
+
+预设高度:1555

@@ -1,0 +1,13 @@
+机场:Rahim Yar Khan Shaikh Zayed International Airport
+
+国际航空运输协会编号:RYK
+
+民航组织编号:OPRK
+
+纬度:28.383900
+
+经度:70.279572
+
+所属国家:Pakistan
+
+预设高度:271

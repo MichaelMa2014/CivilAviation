@@ -1,0 +1,13 @@
+机场:Innsbruck Kranebitten Airport
+
+国际航空运输协会编号:INN
+
+民航组织编号:LOWI
+
+纬度:47.260208
+
+经度:11.343960
+
+所属国家:Austria
+
+预设高度:1906

@@ -1,0 +1,13 @@
+机场:Campos dos Goytacazes Bartolomeu Lysandro Airport
+
+国际航空运输协会编号:CAW
+
+民航组织编号:SBCP
+
+纬度:-21.698299
+
+经度:-41.301601
+
+所属国家:Brazil
+
+预设高度:57

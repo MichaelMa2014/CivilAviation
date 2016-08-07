@@ -1,0 +1,13 @@
+机场:Kansas City International Airport
+
+国际航空运输协会编号:MKC
+
+民航组织编号:KMKC
+
+纬度:39.123249
+
+经度:-94.592697
+
+所属国家:United States
+
+预设高度:756

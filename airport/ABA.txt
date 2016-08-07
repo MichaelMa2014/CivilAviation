@@ -1,0 +1,13 @@
+机场:Abakan International Airport
+
+国际航空运输协会编号:ABA
+
+民航组织编号:UNAA
+
+纬度:53.740002
+
+经度:91.385002
+
+所属国家:Russia
+
+预设高度:831

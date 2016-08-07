@@ -1,0 +1,13 @@
+机场:Kharkiv International Airport
+
+国际航空运输协会编号:HRK
+
+民航组织编号:UKHH
+
+纬度:49.924782
+
+经度:36.289982
+
+所属国家:Ukraine
+
+预设高度:508

@@ -1,0 +1,13 @@
+机场:Eureka Arcata Airport
+
+国际航空运输协会编号:ACV
+
+民航组织编号:KACV
+
+纬度:40.978111
+
+经度:-124.108002
+
+所属国家:United States
+
+预设高度:222

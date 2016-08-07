@@ -1,0 +1,13 @@
+机场:Guilin Liangjiang International Airport
+
+国际航空运输协会编号:KWL
+
+民航组织编号:ZGKL
+
+纬度:25.218100
+
+经度:110.039101
+
+所属国家:China
+
+预设高度:570

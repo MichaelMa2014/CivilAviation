@@ -1,0 +1,13 @@
+机场:Pontianak Supadio Airport
+
+国际航空运输协会编号:PNK
+
+民航组织编号:WIOO
+
+纬度:-0.150710
+
+经度:109.403801
+
+所属国家:Indonesia
+
+预设高度:10

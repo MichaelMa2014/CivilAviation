@@ -1,0 +1,13 @@
+机场:Kramfors Hoga Kusten Airport 
+
+国际航空运输协会编号:KRF
+
+民航组织编号:ESNK
+
+纬度:63.048592
+
+经度:17.768850
+
+所属国家:Sweden
+
+预设高度:34

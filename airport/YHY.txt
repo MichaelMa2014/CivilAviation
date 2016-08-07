@@ -1,0 +1,13 @@
+机场:Hay River Merlyn Carter Airport
+
+国际航空运输协会编号:YHY
+
+民航组织编号:CYHY
+
+纬度:60.839722
+
+经度:-115.781998
+
+所属国家:Canada
+
+预设高度:543

@@ -1,0 +1,13 @@
+机场:Antwerp International Airport
+
+国际航空运输协会编号:ANR
+
+民航组织编号:EBAW
+
+纬度:51.189442
+
+经度:4.460278
+
+所属国家:Belgium
+
+预设高度:39

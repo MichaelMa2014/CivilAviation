@@ -1,0 +1,13 @@
+机场:Siauliai International Airport
+
+国际航空运输协会编号:SQQ
+
+民航组织编号:EYSA
+
+纬度:55.893879
+
+经度:23.394970
+
+所属国家:Lithuania
+
+预设高度:443

@@ -1,0 +1,13 @@
+机场:Arkhangelsk Talagi Airport
+
+国际航空运输协会编号:ARH
+
+民航组织编号:ULAA
+
+纬度:64.600281
+
+经度:40.716660
+
+所属国家:Russia
+
+预设高度:62

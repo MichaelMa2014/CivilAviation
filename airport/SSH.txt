@@ -1,0 +1,13 @@
+机场:Sharm el-Sheikh International Airport
+
+国际航空运输协会编号:SSH
+
+民航组织编号:HESH
+
+纬度:27.977280
+
+经度:34.394951
+
+所属国家:Egypt
+
+预设高度:143

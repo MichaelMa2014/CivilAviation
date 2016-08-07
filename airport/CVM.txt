@@ -1,0 +1,13 @@
+机场:Ciudad Victoria International Airport
+
+国际航空运输协会编号:CVM
+
+民航组织编号:MMCV
+
+纬度:23.703329
+
+经度:-98.956398
+
+所属国家:Mexico
+
+预设高度:761

@@ -1,0 +1,13 @@
+机场:Stokmarknes Skagen Airport
+
+国际航空运输协会编号:SKN
+
+民航组织编号:ENSK
+
+纬度:68.580833
+
+经度:15.026110
+
+所属国家:Norway
+
+预设高度:11

@@ -1,0 +1,13 @@
+机场:Djibouti Ambouli International Airport
+
+国际航空运输协会编号:JIB
+
+民航组织编号:HDAM
+
+纬度:11.547330
+
+经度:43.159481
+
+所属国家:Djibouti
+
+预设高度:49

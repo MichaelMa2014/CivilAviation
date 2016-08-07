@@ -1,0 +1,13 @@
+机场:St. John's International Airport
+
+国际航空运输协会编号:YYT
+
+民航组织编号:CYYT
+
+纬度:47.618610
+
+经度:-52.751900
+
+所属国家:Canada
+
+预设高度:461

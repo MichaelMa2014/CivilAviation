@@ -1,0 +1,13 @@
+机场:Bima Sultan Muhammad Salahudin Airport
+
+国际航空运输协会编号:BMU
+
+民航组织编号:WADB
+
+纬度:-8.539640
+
+经度:118.687302
+
+所属国家:Indonesia
+
+预设高度:3

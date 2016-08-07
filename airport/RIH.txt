@@ -1,0 +1,13 @@
+机场:Rio Hato Scarlett Martinez International Airport
+
+国际航空运输协会编号:RIH
+
+民航组织编号:MPSM
+
+纬度:8.371162
+
+经度:-80.127876
+
+所属国家:Panama
+
+预设高度:82

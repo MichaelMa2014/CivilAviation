@@ -1,0 +1,13 @@
+机场:Gander International Airport
+
+国际航空运输协会编号:YQX
+
+民航组织编号:CYQX
+
+纬度:48.936939
+
+经度:-54.568001
+
+所属国家:Canada
+
+预设高度:496

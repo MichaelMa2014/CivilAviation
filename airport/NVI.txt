@@ -1,0 +1,13 @@
+机场:Navoi International Airport
+
+国际航空运输协会编号:NVI
+
+民航组织编号:UTSA
+
+纬度:40.117771
+
+经度:65.175003
+
+所属国家:Uzbekistan
+
+预设高度:98

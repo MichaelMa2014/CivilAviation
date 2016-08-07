@@ -1,0 +1,13 @@
+机场:Cusco Alejandro Velasco Astete International Airport
+
+国际航空运输协会编号:CUZ
+
+民航组织编号:SPZO
+
+纬度:-13.535700
+
+经度:-71.938698
+
+所属国家:Peru
+
+预设高度:10860

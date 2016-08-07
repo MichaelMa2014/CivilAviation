@@ -1,0 +1,13 @@
+机场:Tanjung Pinang Raja Haji Fisabilillah Airport
+
+国际航空运输协会编号:TNJ
+
+民航组织编号:WIKN
+
+纬度:0.922683
+
+经度:104.532303
+
+所属国家:Indonesia
+
+预设高度:52

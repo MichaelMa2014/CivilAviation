@@ -1,0 +1,13 @@
+机场:Pendleton Eastern Oregon Regional Airport
+
+国际航空运输协会编号:PDT
+
+民航组织编号:KPDT
+
+纬度:45.698334
+
+经度:-118.836113
+
+所属国家:United States
+
+预设高度:1497

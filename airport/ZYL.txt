@@ -1,0 +1,13 @@
+机场:Sylhet Osmani International Airport
+
+国际航空运输协会编号:ZYL
+
+民航组织编号:VGSY
+
+纬度:24.963240
+
+经度:91.866783
+
+所属国家:Bangladesh
+
+预设高度:50

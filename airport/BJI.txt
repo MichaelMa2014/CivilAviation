@@ -1,0 +1,13 @@
+机场:Bemidji Regional Airport
+
+国际航空运输协会编号:BJI
+
+民航组织编号:KBJI
+
+纬度:47.509998
+
+经度:-94.930000
+
+所属国家:United States
+
+预设高度:1391

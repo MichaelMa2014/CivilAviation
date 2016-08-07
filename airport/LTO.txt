@@ -1,0 +1,13 @@
+机场:Loreto International Airport
+
+国际航空运输协会编号:LTO
+
+民航组织编号:MMLT
+
+纬度:25.989189
+
+经度:-111.348000
+
+所属国家:Mexico
+
+预设高度:34

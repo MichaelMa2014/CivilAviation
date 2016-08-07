@@ -1,0 +1,13 @@
+机场:Larnaca International Airport
+
+国际航空运输协会编号:LCA
+
+民航组织编号:LCLK
+
+纬度:34.875111
+
+经度:33.624851
+
+所属国家:Cyprus
+
+预设高度:8

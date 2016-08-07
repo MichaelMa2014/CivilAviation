@@ -1,0 +1,13 @@
+机场:Nouakchott Oumtounsy International Airport
+
+国际航空运输协会编号:NKC
+
+民航组织编号:GQNO
+
+纬度:18.306103
+
+经度:-15.964665
+
+所属国家:Mauritania
+
+预设高度:7

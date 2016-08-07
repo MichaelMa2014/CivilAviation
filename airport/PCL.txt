@@ -1,0 +1,13 @@
+机场:Pucallpa International Airport
+
+国际航空运输协会编号:PCL
+
+民航组织编号:SPCL
+
+纬度:-8.377930
+
+经度:-74.574203
+
+所属国家:Peru
+
+预设高度:513

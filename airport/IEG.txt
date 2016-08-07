@@ -1,0 +1,13 @@
+机场:Zielona Gora Babimost Airport
+
+国际航空运输协会编号:IEG
+
+民航组织编号:EPZG
+
+纬度:52.138512
+
+经度:15.798550
+
+所属国家:Poland
+
+预设高度:194

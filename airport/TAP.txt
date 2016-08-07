@@ -1,0 +1,13 @@
+机场:Tapachula International Airport
+
+国际航空运输协会编号:TAP
+
+民航组织编号:MMTP
+
+纬度:14.794330
+
+经度:-92.370003
+
+所属国家:Mexico
+
+预设高度:97

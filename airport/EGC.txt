@@ -1,0 +1,13 @@
+机场:Bergerac Dordogne Perigord Airport
+
+国际航空运输协会编号:EGC
+
+民航组织编号:LFBE
+
+纬度:44.824429
+
+经度:0.520525
+
+所属国家:France
+
+预设高度:171

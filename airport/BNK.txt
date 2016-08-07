@@ -1,0 +1,13 @@
+机场:Ballina Byron Gateway Airport
+
+国际航空运输协会编号:BNK
+
+民航组织编号:YBNA
+
+纬度:-28.833799
+
+经度:153.562500
+
+所属国家:Australia
+
+预设高度:7

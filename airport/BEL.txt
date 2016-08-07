@@ -1,0 +1,13 @@
+机场:Belem Val de Cans International Airport
+
+国际航空运输协会编号:BEL
+
+民航组织编号:SBBE
+
+纬度:-1.379250
+
+经度:-48.476200
+
+所属国家:Brazil
+
+预设高度:54

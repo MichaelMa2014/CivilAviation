@@ -1,0 +1,13 @@
+机场:Muscle Shoals Northwest Alabama Regional Airport
+
+国际航空运输协会编号:MSL
+
+民航组织编号:KMSL
+
+纬度:34.740002
+
+经度:-87.610001
+
+所属国家:United States
+
+预设高度:550

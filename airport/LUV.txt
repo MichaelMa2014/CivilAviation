@@ -1,0 +1,13 @@
+机场:Langgur Dumatubin Airport
+
+国际航空运输协会编号:LUV
+
+民航组织编号:WAPL
+
+纬度:-5.661610
+
+经度:132.731400
+
+所属国家:Indonesia
+
+预设高度:10

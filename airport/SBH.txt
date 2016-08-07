@@ -1,0 +1,13 @@
+机场:St. Jean Gustaf III Airport
+
+国际航空运输协会编号:SBH
+
+民航组织编号:TFFJ
+
+纬度:17.904440
+
+经度:-62.843601
+
+所属国家:Guadeloupe
+
+预设高度:49

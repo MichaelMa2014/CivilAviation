@@ -1,0 +1,13 @@
+机场:Karaganda Sary-Arka Airport
+
+国际航空运输协会编号:KGF
+
+民航组织编号:UAKK
+
+纬度:49.670830
+
+经度:73.334442
+
+所属国家:Kazakhstan
+
+预设高度:1765

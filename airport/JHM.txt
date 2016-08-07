@@ -1,0 +1,13 @@
+机场:Lahaina Kapalua Airport
+
+国际航空运输协会编号:JHM
+
+民航组织编号:PHJH
+
+纬度:20.962931
+
+经度:-156.673004
+
+所属国家:United States
+
+预设高度:256

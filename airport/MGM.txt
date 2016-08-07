@@ -1,0 +1,13 @@
+机场:Montgomery Regional Airport
+
+国际航空运输协会编号:MGM
+
+民航组织编号:KMGM
+
+纬度:32.300629
+
+经度:-86.393898
+
+所属国家:United States
+
+预设高度:221

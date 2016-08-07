@@ -1,0 +1,13 @@
+机场:Vinnytsia Havryshivka International Airport
+
+国际航空运输协会编号:VIN
+
+民航组织编号:UKWW
+
+纬度:49.243427
+
+经度:28.611200
+
+所属国家:Ukraine
+
+预设高度:963

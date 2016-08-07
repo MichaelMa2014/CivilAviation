@@ -1,0 +1,13 @@
+机场:Tongatapu Fua\u02bbamotu International Airport
+
+国际航空运输协会编号:TBU
+
+民航组织编号:NFTF
+
+纬度:-21.238001
+
+经度:-175.136993
+
+所属国家:Tonga
+
+预设高度:126

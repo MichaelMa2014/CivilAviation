@@ -1,0 +1,13 @@
+机场:Nador International Airport
+
+国际航空运输协会编号:NDR
+
+民航组织编号:GMMW
+
+纬度:34.988888
+
+经度:-3.028333
+
+所属国家:Morocco
+
+预设高度:574

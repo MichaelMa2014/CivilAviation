@@ -1,0 +1,13 @@
+机场:Mexico City International Airport
+
+国际航空运输协会编号:TLC
+
+民航组织编号:MMTO
+
+纬度:19.337070
+
+经度:-99.566002
+
+所属国家:Mexico
+
+预设高度:8466

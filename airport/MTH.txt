@@ -1,0 +1,13 @@
+机场:Marathon Florida Keys Airport
+
+国际航空运输协会编号:MTH
+
+民航组织编号:KMTH
+
+纬度:24.726206
+
+经度:-81.050934
+
+所属国家:United States
+
+预设高度:4

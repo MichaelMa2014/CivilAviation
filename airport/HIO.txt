@@ -1,0 +1,13 @@
+机场:Portland Hillsboro Airport
+
+国际航空运输协会编号:HIO
+
+民航组织编号:KHIO
+
+纬度:45.540001
+
+经度:-122.949997
+
+所属国家:United States
+
+预设高度:208

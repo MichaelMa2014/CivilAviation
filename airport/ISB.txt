@@ -1,0 +1,13 @@
+机场:Islamabad Benazir Bhutto International Airport
+
+国际航空运输协会编号:ISB
+
+民航组织编号:OPRN
+
+纬度:33.616650
+
+经度:73.099228
+
+所属国家:Pakistan
+
+预设高度:1668

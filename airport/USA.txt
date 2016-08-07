@@ -1,0 +1,13 @@
+机场:Concord Regional Airport
+
+国际航空运输协会编号:USA
+
+民航组织编号:KJQF
+
+纬度:35.385139
+
+经度:-80.711189
+
+所属国家:United States
+
+预设高度:662

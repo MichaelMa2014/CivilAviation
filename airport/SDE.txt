@@ -1,0 +1,13 @@
+机场:Santiago del Estero Airport
+
+国际航空运输协会编号:SDE
+
+民航组织编号:SANE
+
+纬度:-27.765600
+
+经度:-64.310097
+
+所属国家:Argentina
+
+预设高度:656

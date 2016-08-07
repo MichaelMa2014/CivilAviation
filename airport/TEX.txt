@@ -1,0 +1,13 @@
+机场:Telluride Regional Airport
+
+国际航空运输协会编号:TEX
+
+民航组织编号:KTEX
+
+纬度:37.933334
+
+经度:-107.816666
+
+所属国家:United States
+
+预设高度:9078

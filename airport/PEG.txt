@@ -1,0 +1,13 @@
+机场:Perugia San Francesco d'Assisi \u2013 Umbria 
+
+国际航空运输协会编号:PEG
+
+民航组织编号:LIRZ
+
+纬度:43.095901
+
+经度:12.513220
+
+所属国家:Italy
+
+预设高度:693

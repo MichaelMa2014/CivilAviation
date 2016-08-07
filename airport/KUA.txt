@@ -1,0 +1,13 @@
+机场:Kuantan Sultan Haji Ahmad Shah Airport
+
+国际航空运输协会编号:KUA
+
+民航组织编号:WMKD
+
+纬度:3.775389
+
+经度:103.209000
+
+所属国家:Malaysia
+
+预设高度:58

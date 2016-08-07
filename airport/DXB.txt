@@ -1,0 +1,13 @@
+机场:Dubai International Airport
+
+国际航空运输协会编号:DXB
+
+民航组织编号:OMDB
+
+纬度:25.252769
+
+经度:55.364441
+
+所属国家:United Arab Emirates
+
+预设高度:62

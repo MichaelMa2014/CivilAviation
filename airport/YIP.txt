@@ -1,0 +1,13 @@
+机场:Detroit Willow Run Airport
+
+国际航空运输协会编号:YIP
+
+民航组织编号:KYIP
+
+纬度:42.237720
+
+经度:-83.529999
+
+所属国家:United States
+
+预设高度:716

@@ -1,0 +1,13 @@
+机场:Imperial County Airport
+
+国际航空运输协会编号:IPL
+
+民航组织编号:KIPL
+
+纬度:32.834209
+
+经度:-115.578003
+
+所属国家:United States
+
+预设高度:53

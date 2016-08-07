@@ -1,0 +1,13 @@
+机场:Kununurra East Kimberley Regional Airport
+
+国际航空运输协会编号:KNX
+
+民航组织编号:YPKU
+
+纬度:-15.778000
+
+经度:128.707504
+
+所属国家:Australia
+
+预设高度:145

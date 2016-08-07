@@ -1,0 +1,13 @@
+机场:Port Louis Sir Seewoosagur Ramgoolam Airport
+
+国际航空运输协会编号:MRU
+
+民航组织编号:FIMP
+
+纬度:-20.430201
+
+经度:57.683601
+
+所属国家:Mauritius
+
+预设高度:186

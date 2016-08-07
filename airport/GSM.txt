@@ -1,0 +1,13 @@
+机场:Dayrestan Qeshm Island Airport
+
+国际航空运输协会编号:GSM
+
+民航组织编号:OIKQ
+
+纬度:26.757778
+
+经度:55.905277
+
+所属国家:Iran
+
+预设高度:27

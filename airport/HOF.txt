@@ -1,0 +1,13 @@
+机场:Hofuf Al-Ahsa International Airport
+
+国际航空运输协会编号:HOF
+
+民航组织编号:OEAH
+
+纬度:25.294783
+
+经度:49.487461
+
+所属国家:Saudi Arabia
+
+预设高度:588

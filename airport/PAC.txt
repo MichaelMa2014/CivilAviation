@@ -1,0 +1,13 @@
+机场:Panama City International Airport
+
+国际航空运输协会编号:PAC
+
+民航组织编号:MPMG
+
+纬度:8.973339
+
+经度:-79.555496
+
+所属国家:Panama
+
+预设高度:31

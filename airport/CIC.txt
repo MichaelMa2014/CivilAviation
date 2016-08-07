@@ -1,0 +1,13 @@
+机场:Chico Municipal Airport
+
+国际航空运输协会编号:CIC
+
+民航组织编号:KCIC
+
+纬度:39.795380
+
+经度:-121.858002
+
+所属国家:United States
+
+预设高度:240
