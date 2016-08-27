@@ -68,7 +68,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			border-style: solid; 
 			border-width: 3px;
 			background-color: white;
-			border-radius: 20x;
+			border-radius: 20px;
 	}
 	
 	
@@ -354,6 +354,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                                         svg.selectAll(".location")
                                             .attr("transform", function(d) { // 投影到屏幕上地球的对应位置
+                                                console.log(d);
                                                 var coor = projection([d.lon, d.lat]);
                                                 return "translate(" + coor[0] + "," + coor[1] + ")";
                                             })
@@ -385,7 +386,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 													.append("div")
 													.attr("class","tooltip")
 													.style("opacity",0.0);
-
+/*
                                     d3.json("airport.geojson", function(error, airport) {
                                         if (error)
                                             return console.error(error);
@@ -470,7 +471,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                     .attr("xlink:href", "images/airport_1.svg");
 												tooltip.style("opacity",0.0);
                                             });
-                                    });
+                                    });*/
                                 </script>
                             </div>
                         </div>
@@ -492,6 +493,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     };
 
                                     var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
+                                    Microsoft.Maps.Events.addHandler(map, 'viewchangeend', function () {
+                                        var center = map.getBounds().center;
+                                        var s = projection([center.latitude,center.longitude]);
+                                        var t = projection.center();
+                                        projection.translate(s);
+                                        feature.selectAll("path").transition()
+                                                .duration(500)
+                                                .attr("d", path);
+                                        console.log(s);
+                                        console.log(t);
+//                                        projection.translate()
+                                        //path.projection(map.getBounds().getNorthwest()[0],map.getBounds().getNorthwest()[1])
+                                    })
                                 }
                             </script>
                         </div>
