@@ -321,9 +321,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     var zoom = d3.behavior.zoom()
                                         .translate([w / 2, h / 2])
                                         .scale(scale0)
-                                        .scaleExtent([scale0, 8 * scale0])
+                                        .scaleExtent([scale0, 7 * scale0])
                                         .on("zoom", zoomed);
-
 
                                     var path = d3.geo.path()
                                         .projection(projection);
@@ -345,6 +344,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         .call(zoom.event);
 
                                     function zoomed() {
+                                        console.log(projection.center());
 
                                         projection.translate(zoom.translate())
                                             .scale(zoom.scale());
@@ -354,7 +354,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                                         svg.selectAll(".location")
                                             .attr("transform", function(d) { // 投影到屏幕上地球的对应位置
-                                                console.log(d);
                                                 var coor = projection([d.lon, d.lat]);
                                                 return "translate(" + coor[0] + "," + coor[1] + ")";
                                             })
@@ -486,23 +485,43 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                                     var mapProp = {
                                         center: myCenter,
-                                        zoom: 5,
+                                        zoom: 1,
                                         mapTypeId: Microsoft.Maps.MapTypeId.aerial,
                                         credentials: 'Al3qJxrVEmMYhynjadXtSLXGl7S_JidYTxydqwa5hiKLMevOXvSRD1Nu71af40zl'
                                             // This key belongs to michaelma7864@outlook.com, for test purposes only
                                     };
 
                                     var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
+                                    map.setOptions({
+                                        maxZoom: 4,
+                                        minZoom: 1
+                                    });
+                                    function bingScaleToD3(bingScale){
+                                        if(bingScale == 1){
+                                            return scale0;
+                                        }
+                                        return scale0 * bingScale * 2;
+                                    };
                                     Microsoft.Maps.Events.addHandler(map, 'viewchangeend', function () {
                                         var center = map.getBounds().center;
+                                        var scale = map.getZoom();
                                         var s = projection([center.latitude,center.longitude]);
                                         var t = projection.center();
-                                        projection.translate(s);
+
+                                        //修改投影
+                                        projection.scale(bingScaleToD3(scale));
+                                        //修改zoom的scale参数，避免在平移时重置scale
+                                        zoom.scale(bingScaleToD3(scale));
                                         feature.selectAll("path").transition()
                                                 .duration(500)
                                                 .attr("d", path);
-                                        console.log(s);
-                                        console.log(t);
+
+                                        svg.selectAll(".location")
+                                                .attr("transform", function(d) { // 投影到屏幕上地球的对应位置
+                                                    var coor = projection([d.lon, d.lat]);
+                                                    return "translate(" + coor[0] + "," + coor[1] + ")";
+                                                });
+                                        console.log(zoom);
 //                                        projection.translate()
                                         //path.projection(map.getBounds().getNorthwest()[0],map.getBounds().getNorthwest()[1])
                                     })
