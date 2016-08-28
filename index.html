@@ -303,183 +303,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <!--主图-->
                     <div class="col-md-8 col_4">
                         <div class="map_container">
-                            <div id="vmap" style="padding: 10px; height: 600px;">
-                                <script type="text/javascript">
-                                    console.log("Drawing main map...");
-
-                                    var airport;
-                                    var airline;
-                                    var feature;
-
-                                    var w = document.getElementById("vmap").scrollWidth - 20;
-                                    var h = document.getElementById("vmap").scrollHeight - 20;
-
-                                    var scale0 = (w - 1) / 2 / Math.PI;
-
-                                    var projection = d3.geo.mercator();
-
-                                    var zoom = d3.behavior.zoom()
-                                        .translate([w / 2, h / 2])
-                                        .scale(scale0)
-                                        .scaleExtent([scale0, 7 * scale0])
-                                        .on("zoom", zoomed);
-
-                                    var path = d3.geo.path()
-                                        .projection(projection);
-
-
-                                    var svg = d3.select("#vmap").append("svg")
-                                        .attr("width", w)
-                                        .attr("height", h)
-                                        .append("g"); // 删掉此语句会导致主图超出左侧方块范围
-
-                                    feature = svg.append("g");
-
-                                    svg.append("rect")
-                                        .attr("class", "overlay")
-                                        .attr("width", w)
-                                        .attr("height", h);
-
-                                    svg.call(zoom)
-                                        .call(zoom.event);
-
-                                    function zoomed() {
-                                        console.log(projection.center());
-
-                                        projection.translate(zoom.translate())
-                                            .scale(zoom.scale());
-
-                                        feature.selectAll("path")
-                                            .attr("d", path);
-
-                                        svg.selectAll(".location")
-                                            .attr("transform", function(d) { // 投影到屏幕上地球的对应位置
-                                                var coor = projection([d.lon, d.lat]);
-                                                return "translate(" + coor[0] + "," + coor[1] + ")";
-                                            })
-                                    }
-
-
-
-                                    //    绘制世界地图
-                                    d3.json("worldmap.json", function(maproot) {
-                                        // var maproot = topojson.feature(collection,collection.objects.worldmap);
-                                        feature.selectAll("path")
-                                            .data(maproot.features)
-                                            .enter()
-                                            .append("path")
-                                            .attr("d", path);
-
-                                        feature.selectAll("title")
-                                            .data(maproot.features)
-                                            .enter()
-                                            .append("title")
-                                            .text(function(d) {
-                                                return d.properties.name;
-                                            });
-
-                                    });
-
-                                    var len = 20;
-									var tooltip = d3.select("body")
-													.append("div")
-													.attr("class","tooltip")
-													.style("opacity",0.0);
-/*
-                                    d3.json("airport.geojson", function(error, airport) {
-                                        if (error)
-                                            return console.error(error);
-
-                                        var airport = svg.selectAll(".location")
-                                            .data(airport.location)
-                                            .enter()
-                                            .append("g")
-                                            .attr("class", "location")
-                                            .attr("transform", function(d) {
-                                                var coor = projection([d.lon, d.lat]);
-                                                return "translate(" + coor[0] + "," + coor[1] + ")";
-                                            });
-
-                                        airport.append("image")
-                                            .attr("x", -len / 2)
-                                            .attr("y", -len / 2)
-                                            .attr("width", len)
-                                            .attr("height", len)
-                                            .attr("xlink:href", "images/airport_1.svg")
-                                            .on("mouseover", function(d, i) {
-                                                d3.select(this)
-                                                    .attr("xlink:href", "images/airport_2.svg");
-
-                                                d3.json("airlines/" + d.name + ".geojson", function(error, airline) {
-                                                    if (error) {
-                                                        // TODO 没有找到 geojson 时将机场图标改为红色
-                                                        return console.error(error);
-                                                    }
-
-                                                    var lines = svg.selectAll("line")
-                                                        .data(airline.location)
-                                                        .enter()
-                                                        .append("line")
-                                                        .attr("class", "route")
-                                                        .attr("x1", function(d) {
-                                                            var coor = projection([d.lon1, d.lat1]);
-                                                            return coor[0];
-                                                        })
-                                                        .attr("y1", function(d) {
-                                                            var coor = projection([d.lon1, d.lat1]);
-                                                            return coor[1];
-                                                        })
-                                                        .attr("x2", function(d) {
-                                                            var coor = projection([d.lon2, d.lat2]);
-                                                            return coor[0];
-                                                        })
-                                                        .attr("y2", function(d) {
-                                                            var coor = projection([d.lon2, d.lat2]);
-                                                            return coor[1];
-                                                        });
-
-                                                    lines.on("click", function(d) {
-                                                        svg.selectAll("#details").remove();
-
-                                                        d3.select("body").select("#data").selectAll(".details")
-                                                            .data(d.details)
-                                                            .enter()
-                                                            .append("p")
-                                                            .attr("class", "details")
-                                                            .text(function(d) {
-                                                                return "flight type : " + d.fltype + "registration : " + d.reg + "flight No. : " + d.fltno;
-                                                            });
-                                                        var myairline = svg.selectAll(".route");
-                                                        myairline.remove();
-                                                    });
-                                                });
-                                                var myairline = svg.selectAll(".route");
-                                                myairline.remove();
-												var x1 = d3.event.pageX;
-												var y1 = d3.event.pageY;
-												d3.text("airport/"+d.name+".txt",function(error,text){
-													temp = text;
-													tooltip.html(temp)
-															.style("left",x1+"px")
-															.style("top",y1+20 + "px")
-															.style("opacity",1.0);
-												});
-                                            })
-                                            .on("mouseout", function() {
-                                                d3.select(this)
-                                                    .attr("xlink:href", "images/airport_1.svg");
-												tooltip.style("opacity",0.0);
-                                            });
-                                    });*/
-                                </script>
-                            </div>
+                            <div id="vmap" style="padding: 10px; height: 600px;"></div>
                         </div>
-
                     </div>
                     <!-- Bing 地图 -->
                     <div class="col-md-4 col_5">
                         <div id="bingMap" style="width:100%;height:600px;">
                             <script type='text/javascript'>
+                                console.log("Drawing main map...");
+
+                                //加载bing地图
                                 function loadMapScenario() {
                                     var myCenter = new Microsoft.Maps.Location(51.508742, -0.120850);
 
@@ -488,7 +321,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         zoom: 1,
                                         mapTypeId: Microsoft.Maps.MapTypeId.aerial,
                                         credentials: 'Al3qJxrVEmMYhynjadXtSLXGl7S_JidYTxydqwa5hiKLMevOXvSRD1Nu71af40zl'
-                                            // This key belongs to michaelma7864@outlook.com, for test purposes only
+                                        // This key belongs to michaelma7864@outlook.com, for test purposes only
                                     };
 
                                     var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
@@ -502,6 +335,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         }
                                         return scale0 * bingScale * 2;
                                     };
+                                    //添加bing地图到D3地图的视图变化事件处理器
                                     Microsoft.Maps.Events.addHandler(map, 'viewchangeend', function () {
                                         var center = map.getBounds().center;
                                         var scale = map.getZoom();
@@ -516,16 +350,184 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                 .duration(500)
                                                 .attr("d", path);
 
+                                    });
+
+                                    //D3地图部分
+                                    var airport;
+                                    var airline;
+                                    var feature;
+
+                                    var w = document.getElementById("vmap").scrollWidth - 20;
+                                    var h = document.getElementById("vmap").scrollHeight - 20;
+
+                                    var scale0 = (w - 1) / 2 / Math.PI;
+
+                                    var projection = d3.geo.mercator();
+
+                                    var zoom = d3.behavior.zoom()
+                                            .translate([w / 2, h / 2])
+                                            .scale(scale0)
+                                            .scaleExtent([scale0, 7 * scale0])
+                                            .on("zoom", zoomed);
+
+                                    var path = d3.geo.path()
+                                            .projection(projection);
+
+
+                                    var svg = d3.select("#vmap").append("svg")
+                                            .attr("width", w)
+                                            .attr("height", h)
+                                            .append("g"); // 删掉此语句会导致主图超出左侧方块范围
+
+                                    feature = svg.append("g");
+
+                                    svg.append("rect")
+                                            .attr("class", "overlay")
+                                            .attr("width", w)
+                                            .attr("height", h);
+
+                                    svg.call(zoom)
+                                            .call(zoom.event);
+
+                                    function zoomed() {
+                                        console.log(projection.center());
+
+                                        projection.translate(zoom.translate())
+                                                .scale(zoom.scale());
+
+                                        feature.selectAll("path").transition()
+                                                .attr("d", path);
+                                        /*
+                                        这段代码没看懂
                                         svg.selectAll(".location")
                                                 .attr("transform", function(d) { // 投影到屏幕上地球的对应位置
                                                     var coor = projection([d.lon, d.lat]);
                                                     return "translate(" + coor[0] + "," + coor[1] + ")";
+                                                });*/
+                                        //实现与bing地图的缩放联动
+                                        map.setView({zoom:Math.floor(zoom.scale()/scale0 / 2) + 1});
+//                                    setBingScale(zoom.scale() / scale0);
+                                    }
+                                    //    绘制世界地图
+                                    d3.json("worldmap.json", function(maproot) {
+                                        // var maproot = topojson.feature(collection,collection.objects.worldmap);
+                                        feature.selectAll("path")
+                                                .data(maproot.features)
+                                                .enter()
+                                                .append("path")
+                                                .attr("d", path);
+
+                                        feature.selectAll("title")
+                                                .data(maproot.features)
+                                                .enter()
+                                                .append("title")
+                                                .text(function(d) {
+                                                    return d.properties.name;
                                                 });
-                                        console.log(zoom);
-//                                        projection.translate()
-                                        //path.projection(map.getBounds().getNorthwest()[0],map.getBounds().getNorthwest()[1])
+
+                                    });
+
+                                }
+
+                                function setBingScale(scale){
+                                    map.setView({
+                                        zoom: scale
                                     })
                                 }
+
+
+                                var len = 20;
+                                var tooltip = d3.select("body")
+                                        .append("div")
+                                        .attr("class","tooltip")
+                                        .style("opacity",0.0);
+                                /*
+                                 d3.json("airport.geojson", function(error, airport) {
+                                 if (error)
+                                 return console.error(error);
+
+                                 var airport = svg.selectAll(".location")
+                                 .data(airport.location)
+                                 .enter()
+                                 .append("g")
+                                 .attr("class", "location")
+                                 .attr("transform", function(d) {
+                                 var coor = projection([d.lon, d.lat]);
+                                 return "translate(" + coor[0] + "," + coor[1] + ")";
+                                 });
+
+                                 airport.append("image")
+                                 .attr("x", -len / 2)
+                                 .attr("y", -len / 2)
+                                 .attr("width", len)
+                                 .attr("height", len)
+                                 .attr("xlink:href", "images/airport_1.svg")
+                                 .on("mouseover", function(d, i) {
+                                 d3.select(this)
+                                 .attr("xlink:href", "images/airport_2.svg");
+
+                                 d3.json("airlines/" + d.name + ".geojson", function(error, airline) {
+                                 if (error) {
+                                 // TODO 没有找到 geojson 时将机场图标改为红色
+                                 return console.error(error);
+                                 }
+
+                                 var lines = svg.selectAll("line")
+                                 .data(airline.location)
+                                 .enter()
+                                 .append("line")
+                                 .attr("class", "route")
+                                 .attr("x1", function(d) {
+                                 var coor = projection([d.lon1, d.lat1]);
+                                 return coor[0];
+                                 })
+                                 .attr("y1", function(d) {
+                                 var coor = projection([d.lon1, d.lat1]);
+                                 return coor[1];
+                                 })
+                                 .attr("x2", function(d) {
+                                 var coor = projection([d.lon2, d.lat2]);
+                                 return coor[0];
+                                 })
+                                 .attr("y2", function(d) {
+                                 var coor = projection([d.lon2, d.lat2]);
+                                 return coor[1];
+                                 });
+
+                                 lines.on("click", function(d) {
+                                 svg.selectAll("#details").remove();
+
+                                 d3.select("body").select("#data").selectAll(".details")
+                                 .data(d.details)
+                                 .enter()
+                                 .append("p")
+                                 .attr("class", "details")
+                                 .text(function(d) {
+                                 return "flight type : " + d.fltype + "registration : " + d.reg + "flight No. : " + d.fltno;
+                                 });
+                                 var myairline = svg.selectAll(".route");
+                                 myairline.remove();
+                                 });
+                                 });
+                                 var myairline = svg.selectAll(".route");
+                                 myairline.remove();
+                                 var x1 = d3.event.pageX;
+                                 var y1 = d3.event.pageY;
+                                 d3.text("airport/"+d.name+".txt",function(error,text){
+                                 temp = text;
+                                 tooltip.html(temp)
+                                 .style("left",x1+"px")
+                                 .style("top",y1+20 + "px")
+                                 .style("opacity",1.0);
+                                 });
+                                 })
+                                 .on("mouseout", function() {
+                                 d3.select(this)
+                                 .attr("xlink:href", "images/airport_1.svg");
+                                 tooltip.style("opacity",0.0);
+                                 });
+                                 });*/
+
                             </script>
                         </div>
 
