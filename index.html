@@ -314,27 +314,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                                 //加载bing地图
                                 function loadMapScenario() {
+                                    //bing地图部分
                                     var myCenter = new Microsoft.Maps.Location(51.508742, -0.120850);
-
                                     var mapProp = {
                                         center: myCenter,
                                         zoom: 1,
                                         mapTypeId: Microsoft.Maps.MapTypeId.aerial,
+                                        maxZoom: 4,
+                                        minZoom: 1,
                                         credentials: 'Al3qJxrVEmMYhynjadXtSLXGl7S_JidYTxydqwa5hiKLMevOXvSRD1Nu71af40zl'
                                         // This key belongs to michaelma7864@outlook.com, for test purposes only
                                     };
-
                                     var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
-                                    map.setOptions({
-                                        maxZoom: 4,
-                                        minZoom: 1
-                                    });
                                     function bingScaleToD3(bingScale){
                                         if(bingScale == 1){
                                             return scale0;
                                         }
                                         return scale0 * bingScale * 2;
                                     };
+
                                     //添加bing地图到D3地图的视图变化事件处理器
                                     Microsoft.Maps.Events.addHandler(map, 'viewchangeend', function () {
                                         var center = map.getBounds().center;
@@ -342,15 +340,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         var s = projection([center.latitude,center.longitude]);
                                         var t = projection.center();
 
-                                        //修改投影
-                                        projection.scale(bingScaleToD3(scale));
-                                        //修改zoom的scale参数，避免在平移时重置scale
-                                        zoom.scale(bingScaleToD3(scale));
-                                        feature.selectAll("path").transition()
-                                                .duration(500)
-                                                .attr("d", path);
+                                        //防止在D3地图和bing地图缩放联动时循环缩放
+                                        if(scale != Math.floor(zoom.scale()/scale0 / 2) + 1)
+                                        {
+                                            //修改投影
+                                            projection.scale(bingScaleToD3(scale));
+                                            //修改zoom的scale参数，避免在平移时重置scale
+                                            zoom.scale(bingScaleToD3(scale));
+                                            feature.selectAll("path").transition()
+                                                    .duration(500)
+                                                    .attr("d", path);
+                                            console.log('bing:' + scale);
 
+                                        }
                                     });
+
 
                                     //D3地图部分
                                     var airport;
@@ -367,7 +371,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     var zoom = d3.behavior.zoom()
                                             .translate([w / 2, h / 2])
                                             .scale(scale0)
-                                            .scaleExtent([scale0, 7 * scale0])
+                                            .scaleExtent([scale0, 7*scale0])
                                             .on("zoom", zoomed);
 
                                     var path = d3.geo.path()
@@ -376,8 +380,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                                     var svg = d3.select("#vmap").append("svg")
                                             .attr("width", w)
-                                            .attr("height", h)
-                                            .append("g"); // 删掉此语句会导致主图超出左侧方块范围
+                                            .attr("height", h);
+//                                            .append("g"); // 删掉此语句会导致主图超出左侧方块范围
 
                                     feature = svg.append("g");
 
@@ -388,10 +392,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                                     svg.call(zoom)
                                             .call(zoom.event);
-
                                     function zoomed() {
-                                        console.log(projection.center());
-
                                         projection.translate(zoom.translate())
                                                 .scale(zoom.scale());
 
@@ -403,12 +404,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                 .attr("transform", function(d) { // 投影到屏幕上地球的对应位置
                                                     var coor = projection([d.lon, d.lat]);
                                                     return "translate(" + coor[0] + "," + coor[1] + ")";
-                                                });*/
+                                                });
+                                        */
+
                                         //实现与bing地图的缩放联动
                                         map.setView({zoom:Math.floor(zoom.scale()/scale0 / 2) + 1});
-//                                    setBingScale(zoom.scale() / scale0);
+
+                                        console.log(Math.floor(zoom.scale()/scale0 / 2) + 1);
                                     }
-                                    //    绘制世界地图
+
+                                    //绘制世界地图
                                     d3.json("worldmap.json", function(maproot) {
                                         // var maproot = topojson.feature(collection,collection.objects.worldmap);
                                         feature.selectAll("path")
@@ -428,13 +433,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     });
 
                                 }
-
-                                function setBingScale(scale){
-                                    map.setView({
-                                        zoom: scale
-                                    })
-                                }
-
 
                                 var len = 20;
                                 var tooltip = d3.select("body")
