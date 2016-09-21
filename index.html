@@ -56,6 +56,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         stroke-width: 1px;
         fill: black;
     }
+<<<<<<< HEAD
+
+    .tooltip {
+        position: absolute;
+        width: 300;
+        height: auto;
+        font-family: STKaiti;
+        font-size: 36px;
+        text-align: center;
+        border-style: solid;
+        border-width: 3px;
+        background-color: white;
+        border-radius: 20x;
+    }
+=======
 	
 	
 	.tooltip{
@@ -72,6 +87,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	}
 	
 	
+>>>>>>> master
 </style>
 
 <body>
@@ -262,22 +278,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <!-- 4 Buttons -->
                 <div class="col_3">
                     <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>机场</strong></h5>
-                                <span>机场分布信息</span>
+                        <a href="/index">
+                            <div class="r3_counter_box">
+                                <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
+                                <div class="stats">
+                                    <h5><strong>机场</strong></h5>
+                                    <span>机场分布信息</span>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-users user1 icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>航线</strong></h5>
-                                <span>航线分布信息</span>
+                        <a href="/airline">
+                            <div class="r3_counter_box">
+                                <i class="pull-left fa fa-users user1 icon-rounded"></i>
+                                <div class="stats">
+                                    <h5><strong>航线</strong></h5>
+                                    <span>航线分布信息</span>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-3 widget widget1">
                         <div class="r3_counter_box">
@@ -423,6 +443,107 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                 .attr("d", path);
 
                                         feature.selectAll("title")
+<<<<<<< HEAD
+                                            .data(maproot.features)
+                                            .enter()
+                                            .append("title")
+                                            .text(function(d) {
+                                                return d.properties.name;
+                                            });
+
+                                    });
+
+                                    var len = 20;
+                                    var tooltip = d3.select("body")
+                                        .append("div")
+                                        .attr("class", "tooltip")
+                                        .style("opacity", 0.0);
+
+                                    d3.json("airport.geojson", function(error, airport) {
+                                        if (error)
+                                            return console.error(error);
+
+                                        var airport = svg.selectAll(".location")
+                                            .data(airport.location)
+                                            .enter()
+                                            .append("g")
+                                            .attr("class", "location")
+                                            .attr("transform", function(d) {
+                                                var coor = projection([d.lon, d.lat]);
+                                                return "translate(" + coor[0] + "," + coor[1] + ")";
+                                            });
+
+                                        airport.append("image")
+                                            .attr("x", -len / 2)
+                                            .attr("y", -len / 2)
+                                            .attr("width", len)
+                                            .attr("height", len)
+                                            .attr("xlink:href", "images/airport_1.svg")
+                                            .on("mouseover", function(d, i) {
+                                                d3.select(this)
+                                                    .attr("xlink:href", "images/airport_2.svg");
+
+                                                d3.json("airlines/" + d.name + ".geojson", function(error, airline) {
+                                                    if (error) {
+                                                        // TODO 没有找到 geojson 时将机场图标改为红色
+                                                        return console.error(error);
+                                                    }
+
+                                                    var lines = svg.selectAll("line")
+                                                        .data(airline.location)
+                                                        .enter()
+                                                        .append("line")
+                                                        .attr("class", "route")
+                                                        .attr("x1", function(d) {
+                                                            var coor = projection([d.lon1, d.lat1]);
+                                                            return coor[0];
+                                                        })
+                                                        .attr("y1", function(d) {
+                                                            var coor = projection([d.lon1, d.lat1]);
+                                                            return coor[1];
+                                                        })
+                                                        .attr("x2", function(d) {
+                                                            var coor = projection([d.lon2, d.lat2]);
+                                                            return coor[0];
+                                                        })
+                                                        .attr("y2", function(d) {
+                                                            var coor = projection([d.lon2, d.lat2]);
+                                                            return coor[1];
+                                                        });
+
+                                                    lines.on("click", function(d) {
+                                                        svg.selectAll("#details").remove();
+
+                                                        d3.select("body").select("#data").selectAll(".details")
+                                                            .data(d.details)
+                                                            .enter()
+                                                            .append("p")
+                                                            .attr("class", "details")
+                                                            .text(function(d) {
+                                                                return "flight type : " + d.fltype + "registration : " + d.reg + "flight No. : " + d.fltno;
+                                                            });
+                                                        var myairline = svg.selectAll(".route");
+                                                        myairline.remove();
+                                                    });
+                                                });
+                                                var myairline = svg.selectAll(".route");
+                                                myairline.remove();
+                                                var x1 = d3.event.pageX;
+                                                var y1 = d3.event.pageY;
+                                                d3.text("airport/" + d.name + ".txt", function(error, text) {
+                                                    temp = text;
+                                                    tooltip.html(temp)
+                                                        .style("left", x1 + "px")
+                                                        .style("top", y1 + 20 + "px")
+                                                        .style("opacity", 1.0);
+                                                });
+                                            })
+                                            .on("mouseout", function() {
+                                                d3.select(this)
+                                                    .attr("xlink:href", "images/airport_1.svg");
+                                                tooltip.style("opacity", 0.0);
+                                            });
+=======
                                                 .data(maproot.features)
                                                 .enter()
                                                 .append("title")
@@ -430,6 +551,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                     return d.properties.name;
                                                 });
 
+>>>>>>> master
                                     });
 
                                 }
