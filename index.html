@@ -26,8 +26,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
     <!----webfonts--->
-    <link href='http://fonts.useso.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
-    <!---//webfonts--->
+    <!--<link href='http://fonts.useso.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>-->
     <!-- Nav CSS -->
     <link href="css/custom.css" rel="stylesheet">
     <!-- Metis Menu Plugin JavaScript -->
@@ -360,6 +359,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         var s = projection([center.latitude,center.longitude]);
                                         var t = projection.center();
 
+                                        console.log(map.tryLocationToPixel(center, Microsoft.Maps.PixelReference.control));
                                         //防止在D3地图和bing地图缩放联动时循环缩放
                                         if(scale != Math.floor(zoom.scale()/scale0 / 2) + 1)
                                         {
@@ -410,9 +410,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                             .attr("width", w)
                                             .attr("height", h);
 
-                                    svg.call(zoom)
-                                            .call(zoom.event);
+//                                    svg.call(zoom).call(zoom.event);
+                                    svg.call(zoom);
                                     function zoomed() {
+                                        console.log(zoom.translate());
                                         projection.translate(zoom.translate())
                                                 .scale(zoom.scale());
 
