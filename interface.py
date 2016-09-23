@@ -40,6 +40,7 @@ def date_trails():
 
     return json.dumps(results)
 
+
 @app.route('/airline')
 def airline_trails():
     date = request.args.get("date")
@@ -153,6 +154,115 @@ def dep_arr_trails_multi():
 
     return json.dumps(results)
 
+@app.route('/count')
+def date_trails_count():
+    date = request.args.get("date") # '2016-07-01'
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}}).count())
+
+
+
+@app.route('/airline-count')
+def airline_trails_count():
+    date = request.args.get("date")
+    airline_code1 = request.args.get("airline")
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "airline_code1": airline_code1}).count())
+
+
+
+@app.route('/flight-count')
+def flight_trails_count():
+    date = request.args.get("date")
+    fid = request.args.get("flight")
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "fid": fid}).count())
+
+
+
+@app.route('/dep-count')
+def dep_trails_count():
+    date = request.args.get("date")
+    dep = request.args.get("dep")
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "airport_dep": dep}).count())
+
+
+
+@app.route('/dep-flight-count')
+def dep_flight_trails_count():
+    date = request.args.get("date")
+    dep = request.args.get("dep")
+    fid = request.args.get("flight")
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "fid": fid, "airport_dep": dep}).count())
+
+
+@app.route('/arr-count')
+def arr_trails_count():
+    date = request.args.get("date")
+    arr = request.args.get("arr")
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "airport_arr": arr}).count())
+
+
+@app.route('/arr-flight-count')
+def arr_flight_trails_count():
+    date = request.args.get("date")
+    arr = request.args.get("arr")
+    fid = request.args.get("flight")
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "fid": fid, "airport_arr": arr}).count())
+
+
+@app.route('/dep-arr-count')
+def dep_arr_trails_count():
+    date = request.args.get("date")
+    dep = request.args.get("dep")
+    arr = request.args.get("arr")
+
+    results = []
+    f_second = date + ' 00:00:00'
+    l_second = date + ' 23:59:59'
+    return json.dumps(mongo[daily_collection_name_prefix + date.replace("-","")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "airport_dep": dep, "airport_arr": arr}).count())
+
+
+@app.route('/dep-arr-multi-count')
+def dep_arr_trails_multi_count():
+    dates = request.args.get("dates").split(",") # 2016-06-10,2016-06-11
+    dep = request.args.get("dep")
+    arr = request.args.get("arr")
+
+    results = 0
+    for date in dates:
+        f_second = date + ' 00:00:00'
+        l_second = date + ' 23:59:59'
+        daily_collection_name_prefix + date.replace("-", "")
+        results += mongo[daily_collection_name_prefix + date.replace("-", "")].find({"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "airport_dep": dep, "airport_arr": arr}).count()
+
+    return json.dumps(results)
+
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True)
+    app.run(host='0.0.0.0', port=5050, debug=True)
