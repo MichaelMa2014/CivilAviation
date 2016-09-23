@@ -16,6 +16,7 @@ IP地址／命令？参数名1＝参数值1&参数名2＝参数值2
 - arr-flight 指定到达机场和航班
 - dep-arr 指定出发机场和到达机场
 - dep-arr-multi 指定多个日期的出发机场和到达机场
+- <以上命令>-count 查询以上命令的结果的数量
 
 参数有
 
@@ -32,4 +33,3 @@ http://219.224.134.225:5050/dep-arr-multi?dates=2016-06-10,2016-06-11&dep=PEK&ar
 http://219.224.134.225:5050/dep-arr?date=2016-06-10&dep=PEK&arr=LAX
 http://219.224.134.225:5050/dep-flight?date=2016-06-10&dep=PEK&flight=9f79b0e
 ```
-
