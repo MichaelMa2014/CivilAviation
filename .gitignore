@@ -214,3 +214,5 @@ Temporary Items
 .idea/
 
 .DS_Store
+
+*.xml

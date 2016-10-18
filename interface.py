@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import time
+import datetime
 import json
 import pymongo
 from flask import Flask
@@ -290,14 +291,16 @@ def dep_arr_trails_multi_count():
     return json.dumps(results)
 
 
-@app.route('/current')
-def current():
-    results = []
-    f_second = int(time.time()) - 60
+@app.route('/real-time')
+def real_time():
+    f_second = int(time.time()) - 30
     l_second = int(time.time())
-    date = "20161017"
+    t = datetime.date.today().timetuple()
+    date = str(t[0])+'-'+str(t[1])+'-'+str(t[2]) # 2016-10-18
     cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].find(
         {"timestamp": {"$gte": f_second, "$lte": l_second}})
+
+    results = []
     results.extend([r for r in cursor])
     return json.dumps(results)
 
@@ -312,6 +315,7 @@ def test():
                 "XIY", "YNT", "TNA", "NAY", "TAO", "SJW", "WUX", "CGO", "TSN", "XNN", "KMG", "JJN", "CGQ", "LJG", "FOC",
                 "MFM", "CSX", "KHN", "HRB", "URC", "LHW", "ZUH", "BHY", "DLC", "XUZ", "HET", "HFE", "KWL", "SWA", "WUH",
                 "NGB", "DAT", "JUZ", "NNG"]
+
     results = []
     for dep in airports:
         results.append(mongo[daily_collection_name_prefix + date.replace("-", "")].find(
