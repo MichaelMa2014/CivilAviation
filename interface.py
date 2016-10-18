@@ -293,12 +293,12 @@ def dep_arr_trails_multi_count():
 
 @app.route('/real-time')
 def real_time():
-    f_second = int(time.time()) - 30
+    f_second = int(time.time()) - 300
     l_second = int(time.time())
     t = datetime.date.today().timetuple()
-    date = str(t[0])+'-'+str(t[1])+'-'+str(t[2]) # 2016-10-18
+    date = str(t[0]) + '-' + str(t[1]) + '-' + str(t[2])  # 2016-10-18
     cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].find(
-        {"timestamp": {"$gte": f_second, "$lte": l_second}})
+        {"timestamp": {"$gte": f_second, "$lte": l_second}}, {'lon': 1, 'lat': 1})
 
     results = []
     results.extend([r for r in cursor])
