@@ -298,7 +298,7 @@ def real_time():
     t = datetime.date.today().timetuple()
     date = str(t[0]) + '-' + str(t[1]) + '-' + str(t[2])  # 2016-10-18
     cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].find(
-        {"timestamp": {"$gte": f_second, "$lte": l_second}}, {'lon': 1, 'lat': 1})
+        {"timestamp": {"$gte": f_second, "$lte": l_second}})
 
     results = []
     results.extend([r for r in cursor])
