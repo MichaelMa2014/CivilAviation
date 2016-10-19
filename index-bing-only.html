@@ -5,17 +5,6 @@
     <title>Home</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="keywords" content="Modern Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-    <script type="application/x-javascript">
-        addEventListener("load", function() {
-            setTimeout(hideURLbar, 0);
-        }, false);
-
-        function hideURLbar() {
-            window.scrollTo(0, 1);
-        }
-    </script>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
     <!-- Custom CSS -->
@@ -34,42 +23,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <script src="js/custom.js"></script>
     <!-- Graph JavaScript -->
     <script src="js/d3.v3.js"></script>
-    <script src="js/rickshaw.js"></script>
+    <!-- Bing Map-->
     <script type='text/javascript' src='https://cn.bing.com/mapspreview/sdk/mapcontrol?branch=release&callback=loadMapScenario' async defer></script>
-    <script type="text/javascript" src="d3/d3.min.js"></script>
-    <script src="//d3js.org/topojson.v1.min.js"></script>
 </head>
-<style type="text/css">
-    path {
-        fill: #aaa;
-        stroke: #fff;
-    }
-
-    .overlay {
-        fill: none;
-        pointer-events: all;
-    }
-
-    .route {
-        stroke: black;
-        stroke-width: 1px;
-        fill: black;
-    }
-	.tooltip{
-			position: absolute;
-			width: 300;
-			height: auto;
-			font-family: STKaiti;
-			font-size: 36px;
-			text-align: center;
-			border-style: solid;
-			border-width: 3px;
-			background-color: white;
-			border-radius: 20px;
-	}
-
-
-</style>
 
 <body>
     <div id="wrapper">
@@ -325,9 +281,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(50, 120), {icon:'images/airplane_2.svg', anchor: new Microsoft.Maps.Point(25, 25)});
                                     map.entities.push(pushpin);
 
-                                    }
+                                    jQuery.ajax({
+                                        url: "http://219.224.134.225:5050/real-time",
+                                        success: function(data) {
+                                            console.log("success");
 
+                                            var pushpins = JSON.parse(data);
+//                                            console.log(pushpins);
+                                            for (var i in pushpins) {
+                                                console.log(pushpins[i]);
+                                                var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(pushpins[i]["lat"], pushpins[i]["lon"]), {icon:'images/airplane_2.svg', anchor: new Microsoft.Maps.Point(25, 25)});
+                                                map.entities.push(pushpin);
+                                            }
 
+                                        }
+                                    })
+
+                                }
                             </script>
                         </div>
 
