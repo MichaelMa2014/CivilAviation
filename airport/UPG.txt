@@ -1,0 +1,13 @@
+机场:Makassar Sultan Hasanuddin International Airport
+
+国际航空运输协会编号:UPG
+
+民航组织编号:WAAA
+
+纬度:-5.061630
+
+经度:119.554001
+
+所属国家:Indonesia
+
+预设高度:47

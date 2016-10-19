@@ -1,0 +1,13 @@
+机场:Valparaiso Northwest Florida Regional Airport
+
+国际航空运输协会编号:VPS
+
+民航组织编号:KVPS
+
+纬度:30.483330
+
+经度:-86.525299
+
+所属国家:United States
+
+预设高度:87

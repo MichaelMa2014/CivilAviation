@@ -1,0 +1,13 @@
+机场:Manta Eloy Alfaro International Airport
+
+国际航空运输协会编号:MEC
+
+民航组织编号:SEMT
+
+纬度:-0.946070
+
+经度:-80.678802
+
+所属国家:Ecuador
+
+预设高度:48

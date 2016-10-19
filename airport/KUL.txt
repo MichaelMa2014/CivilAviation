@@ -1,0 +1,13 @@
+机场:Kuala Lumpur International Airport
+
+国际航空运输协会编号:KUL
+
+民航组织编号:WMKK
+
+纬度:2.745578
+
+经度:101.709900
+
+所属国家:Malaysia
+
+预设高度:69

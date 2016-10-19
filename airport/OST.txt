@@ -1,0 +1,13 @@
+机场:Ostend Bruges International Airport
+
+国际航空运输协会编号:OST
+
+民航组织编号:EBOS
+
+纬度:51.198879
+
+经度:2.862222
+
+所属国家:Belgium
+
+预设高度:13

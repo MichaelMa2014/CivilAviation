@@ -1,0 +1,13 @@
+机场:Ciudad del Carmen International Airport
+
+国际航空运输协会编号:CME
+
+民航组织编号:MMCE
+
+纬度:18.653730
+
+经度:-91.799004
+
+所属国家:Mexico
+
+预设高度:10

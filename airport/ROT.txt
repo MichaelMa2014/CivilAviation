@@ -1,0 +1,13 @@
+机场:Rotorua International Airport
+
+国际航空运输协会编号:ROT
+
+民航组织编号:NZRO
+
+纬度:-38.109100
+
+经度:176.317200
+
+所属国家:New Zealand
+
+预设高度:938

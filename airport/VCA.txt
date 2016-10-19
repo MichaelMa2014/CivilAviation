@@ -1,0 +1,13 @@
+机场:Can Tho International Airport
+
+国际航空运输协会编号:VCA
+
+民航组织编号:VVCT
+
+纬度:10.080000
+
+经度:105.709999
+
+所属国家:Vietnam
+
+预设高度:9

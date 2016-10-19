@@ -1,0 +1,13 @@
+机场:Lord Howe Island Airport
+
+国际航空运输协会编号:LDH
+
+民航组织编号:YLHI
+
+纬度:-31.540808
+
+经度:159.078156
+
+所属国家:Australia
+
+预设高度:17

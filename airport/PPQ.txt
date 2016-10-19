@@ -1,0 +1,13 @@
+机场:Paraparaumu Kapiti Coast Airport
+
+国际航空运输协会编号:PPQ
+
+民航组织编号:NZPP
+
+纬度:-40.904701
+
+经度:174.989105
+
+所属国家:New Zealand
+
+预设高度:22

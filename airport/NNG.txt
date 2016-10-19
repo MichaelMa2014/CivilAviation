@@ -1,0 +1,13 @@
+机场:Nanning Wuxu International Airport
+
+国际航空运输协会编号:NNG
+
+民航组织编号:ZGNN
+
+纬度:22.608259
+
+经度:108.172401
+
+所属国家:China
+
+预设高度:421

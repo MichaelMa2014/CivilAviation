@@ -1,0 +1,13 @@
+机场:Armenia El Eden International Airport
+
+国际航空运输协会编号:AXM
+
+民航组织编号:SKAR
+
+纬度:4.453333
+
+经度:-75.765800
+
+所属国家:Colombia
+
+预设高度:3990

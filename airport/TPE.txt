@@ -1,0 +1,13 @@
+机场:Taiwan Taoyuan International Airport
+
+国际航空运输协会编号:TPE
+
+民航组织编号:RCTP
+
+纬度:25.077730
+
+经度:121.232803
+
+所属国家:Taiwan
+
+预设高度:106

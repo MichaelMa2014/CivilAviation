@@ -1,0 +1,13 @@
+机场:Gulfport Biloxi International Airport
+
+国际航空运输协会编号:GPT
+
+民航组织编号:KGPT
+
+纬度:30.407261
+
+经度:-89.070000
+
+所属国家:United States
+
+预设高度:28

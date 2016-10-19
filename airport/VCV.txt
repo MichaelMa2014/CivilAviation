@@ -1,0 +1,13 @@
+机场:Victorville Southern California Logistics Airport
+
+国际航空运输协会编号:VCV
+
+民航组织编号:KVCV
+
+纬度:34.597469
+
+经度:-117.383003
+
+所属国家:United States
+
+预设高度:2885

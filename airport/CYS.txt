@@ -1,0 +1,13 @@
+机场:Cheyenne Regional Airport
+
+国际航空运输协会编号:CYS
+
+民航组织编号:KCYS
+
+纬度:41.155628
+
+经度:-104.809998
+
+所属国家:United States
+
+预设高度:6159

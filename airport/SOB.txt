@@ -1,0 +1,13 @@
+机场:Sarmellek International Airport
+
+国际航空运输协会编号:SOB
+
+民航组织编号:LHSM
+
+纬度:46.686378
+
+经度:17.159050
+
+所属国家:Hungary
+
+预设高度:443

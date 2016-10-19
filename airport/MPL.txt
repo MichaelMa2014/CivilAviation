@@ -1,0 +1,13 @@
+机场:Montpellier Mediterranee Airport
+
+国际航空运输协会编号:MPL
+
+民航组织编号:LFMT
+
+纬度:43.583328
+
+经度:3.961389
+
+所属国家:France
+
+预设高度:17

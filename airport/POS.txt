@@ -1,0 +1,13 @@
+机场:Port of Spain Piarco International Airport
+
+国际航空运输协会编号:POS
+
+民航组织编号:TTPP
+
+纬度:10.595360
+
+经度:-61.337200
+
+所属国家:Trinidad And Tobago
+
+预设高度:58

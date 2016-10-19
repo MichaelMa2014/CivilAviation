@@ -1,0 +1,13 @@
+机场:Port-au-Prince Toussaint Louverture International Airport
+
+国际航空运输协会编号:PAP
+
+民航组织编号:MTPP
+
+纬度:18.580050
+
+经度:-72.292503
+
+所属国家:Haiti
+
+预设高度:122

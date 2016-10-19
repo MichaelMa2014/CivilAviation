@@ -1,0 +1,13 @@
+机场:Arequipa Rodriguez Ballon International Airport
+
+国际航空运输协会编号:AQP
+
+民航组织编号:SPQU
+
+纬度:-16.341000
+
+经度:-71.583000
+
+所属国家:Peru
+
+预设高度:8405

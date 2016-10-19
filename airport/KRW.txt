@@ -1,0 +1,13 @@
+机场:Turkmenbashi International Airport
+
+国际航空运输协会编号:KRW
+
+民航组织编号:UTAK
+
+纬度:40.063332
+
+经度:53.007221
+
+所属国家:Turkmenistan
+
+预设高度:279

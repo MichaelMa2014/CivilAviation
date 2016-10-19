@@ -1,0 +1,13 @@
+机场:Foz do Iguacu International Airport
+
+国际航空运输协会编号:IGU
+
+民航组织编号:SBFI
+
+纬度:-25.596100
+
+经度:-54.487202
+
+所属国家:Brazil
+
+预设高度:787

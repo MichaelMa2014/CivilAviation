@@ -1,0 +1,13 @@
+机场:Port Harcourt International Airport
+
+国际航空运输协会编号:PHC
+
+民航组织编号:DNPO
+
+纬度:5.015494
+
+经度:6.949594
+
+所属国家:Nigeria
+
+预设高度:87

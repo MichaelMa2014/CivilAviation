@@ -1,0 +1,13 @@
+机场:Misrata International Airport
+
+国际航空运输协会编号:MRA
+
+民航组织编号:HLMS
+
+纬度:32.325558
+
+经度:15.059722
+
+所属国家:Libya
+
+预设高度:60

@@ -1,0 +1,13 @@
+机场:Pereira Matecana International Airport
+
+国际航空运输协会编号:PEI
+
+民航组织编号:SKPE
+
+纬度:4.812778
+
+经度:-75.739403
+
+所属国家:Colombia
+
+预设高度:4418

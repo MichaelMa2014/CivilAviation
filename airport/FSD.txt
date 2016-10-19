@@ -1,0 +1,13 @@
+机场:Sioux Falls Regional Airport
+
+国际航空运输协会编号:FSD
+
+民航组织编号:KFSD
+
+纬度:43.582008
+
+经度:-96.741898
+
+所属国家:United States
+
+预设高度:1430

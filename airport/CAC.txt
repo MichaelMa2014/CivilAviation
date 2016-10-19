@@ -1,0 +1,13 @@
+机场:Cascavel Adalberto Mendes da Silva Airport
+
+国际航空运输协会编号:CAC
+
+民航组织编号:SBCA
+
+纬度:-25.000299
+
+经度:-53.500702
+
+所属国家:Brazil
+
+预设高度:2473

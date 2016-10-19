@@ -1,0 +1,13 @@
+机场:Tuzla International Airport
+
+国际航空运输协会编号:TZL
+
+民航组织编号:LQTZ
+
+纬度:44.458649
+
+经度:18.724779
+
+所属国家:Bosnia And Herzegovina
+
+预设高度:784

@@ -1,0 +1,13 @@
+机场:Kazan International Airport
+
+国际航空运输协会编号:KZN
+
+民航组织编号:UWKD
+
+纬度:55.606178
+
+经度:49.278721
+
+所属国家:Russia
+
+预设高度:411

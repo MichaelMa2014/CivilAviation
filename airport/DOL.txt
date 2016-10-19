@@ -1,0 +1,13 @@
+机场:Deauville Saint Gatien Airport
+
+国际航空运输协会编号:DOL
+
+民航组织编号:LFRG
+
+纬度:49.363331
+
+经度:0.160000
+
+所属国家:France
+
+预设高度:479

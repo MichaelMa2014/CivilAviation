@@ -1,0 +1,13 @@
+机场:Fernando de Noronha Airport
+
+国际航空运输协会编号:FEN
+
+民航组织编号:SBFN
+
+纬度:-3.854920
+
+经度:-32.423302
+
+所属国家:Brazil
+
+预设高度:193

@@ -1,0 +1,13 @@
+机场:Comodoro Rivadavia International Airport
+
+国际航空运输协会编号:CRD
+
+民航组织编号:SAVC
+
+纬度:-45.785301
+
+经度:-67.465500
+
+所属国家:Argentina
+
+预设高度:190

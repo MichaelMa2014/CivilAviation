@@ -1,0 +1,13 @@
+机场:Langkawi International Airport
+
+国际航空运输协会编号:LGK
+
+民航组织编号:WMKL
+
+纬度:6.329728
+
+经度:99.728661
+
+所属国家:Malaysia
+
+预设高度:29

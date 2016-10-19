@@ -1,0 +1,13 @@
+机场:Paris Charles de Gaulle Airport
+
+国际航空运输协会编号:CDG
+
+民航组织编号:LFPG
+
+纬度:49.011299
+
+经度:2.537000
+
+所属国家:France
+
+预设高度:392

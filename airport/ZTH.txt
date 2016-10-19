@@ -1,0 +1,13 @@
+机场:Zakynthos International Airport
+
+国际航空运输协会编号:ZTH
+
+民航组织编号:LGZA
+
+纬度:37.750851
+
+经度:20.884251
+
+所属国家:Greece
+
+预设高度:15

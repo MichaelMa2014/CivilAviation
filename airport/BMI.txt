@@ -1,0 +1,13 @@
+机场:Bloomington Central Illinois Regional Airport
+
+国际航空运输协会编号:BMI
+
+民航组织编号:KBMI
+
+纬度:40.477112
+
+经度:-88.915901
+
+所属国家:United States
+
+预设高度:871

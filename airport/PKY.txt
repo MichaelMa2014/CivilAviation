@@ -1,0 +1,13 @@
+机场:Palangkaraya Tjilik Riwut Airport
+
+国际航空运输协会编号:PKY
+
+民航组织编号:WRBP
+
+纬度:-2.225120
+
+经度:113.942596
+
+所属国家:Indonesia
+
+预设高度:82

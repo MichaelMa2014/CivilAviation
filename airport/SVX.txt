@@ -1,0 +1,13 @@
+机场:Yekaterinburg Koltsovo Airport
+
+国际航空运输协会编号:SVX
+
+民航组织编号:USSS
+
+纬度:56.743099
+
+经度:60.802719
+
+所属国家:Russia
+
+预设高度:764

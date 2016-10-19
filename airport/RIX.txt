@@ -1,0 +1,13 @@
+机场:Riga International Airport
+
+国际航空运输协会编号:RIX
+
+民航组织编号:EVRA
+
+纬度:56.923611
+
+经度:23.971109
+
+所属国家:Latvia
+
+预设高度:34

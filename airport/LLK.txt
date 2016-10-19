@@ -1,0 +1,13 @@
+机场:Lankaran International Airport
+
+国际航空运输协会编号:LLK
+
+民航组织编号:UBBL
+
+纬度:38.742031
+
+经度:48.824093
+
+所属国家:Azerbaijan
+
+预设高度:-50

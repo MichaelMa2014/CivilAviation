@@ -1,0 +1,13 @@
+机场:Orenburg Tsentralny Airport
+
+国际航空运输协会编号:REN
+
+民航组织编号:UWOO
+
+纬度:51.795780
+
+经度:55.456741
+
+所属国家:Russia
+
+预设高度:387

@@ -1,0 +1,13 @@
+机场:Sydney Kingsford Smith Airport
+
+国际航空运输协会编号:SYD
+
+民航组织编号:YSSY
+
+纬度:-33.946098
+
+经度:151.177200
+
+所属国家:Australia
+
+预设高度:21

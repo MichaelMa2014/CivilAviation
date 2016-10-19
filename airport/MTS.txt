@@ -1,0 +1,13 @@
+机场:Manzini Matsapha Airport
+
+国际航空运输协会编号:MTS
+
+民航组织编号:FDMS
+
+纬度:-26.528999
+
+经度:31.307510
+
+所属国家:Swaziland
+
+预设高度:2075

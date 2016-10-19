@@ -1,0 +1,13 @@
+机场:Chateauroux Centre Marcel Dassault Airport
+
+国际航空运输协会编号:CHR
+
+民航组织编号:LFLX
+
+纬度:46.860271
+
+经度:1.721111
+
+所属国家:France
+
+预设高度:529

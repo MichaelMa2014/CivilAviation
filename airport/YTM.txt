@@ -1,0 +1,13 @@
+机场:Mont Tremblant International Airport
+
+国际航空运输协会编号:YTM
+
+民航组织编号:CYFJ
+
+纬度:46.409168
+
+经度:-74.779999
+
+所属国家:Canada
+
+预设高度:825

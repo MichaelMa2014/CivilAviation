@@ -1,0 +1,13 @@
+机场:Hailey Friedman Memorial Airport
+
+国际航空运输协会编号:SUN
+
+民航组织编号:KSUN
+
+纬度:43.500000
+
+经度:-114.290001
+
+所属国家:United States
+
+预设高度:5320

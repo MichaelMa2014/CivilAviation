@@ -1,0 +1,13 @@
+机场:Singapore Changi Airport
+
+国际航空运输协会编号:SIN
+
+民航组织编号:WSSS
+
+纬度:1.350189
+
+经度:103.994400
+
+所属国家:Singapore
+
+预设高度:22

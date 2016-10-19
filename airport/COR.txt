@@ -1,0 +1,13 @@
+机场:Cordoba International Airport
+
+国际航空运输协会编号:COR
+
+民航组织编号:SACO
+
+纬度:-31.323601
+
+经度:-64.207901
+
+所属国家:Argentina
+
+预设高度:1604

@@ -1,0 +1,13 @@
+机场:Silver City Grant County Airport
+
+国际航空运输协会编号:SVC
+
+民航组织编号:KSVC
+
+纬度:32.631943
+
+经度:-108.153893
+
+所属国家:United States
+
+预设高度:5446

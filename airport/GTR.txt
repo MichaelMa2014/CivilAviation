@@ -1,0 +1,13 @@
+机场:Golden Triangle Regional Airport
+
+国际航空运输协会编号:GTR
+
+民航组织编号:KGTR
+
+纬度:33.450329
+
+经度:-88.591301
+
+所属国家:United States
+
+预设高度:264

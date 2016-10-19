@@ -1,0 +1,13 @@
+机场:Memphis International Airport
+
+国际航空运输协会编号:MEM
+
+民航组织编号:KMEM
+
+纬度:35.042412
+
+经度:-89.976601
+
+所属国家:United States
+
+预设高度:341

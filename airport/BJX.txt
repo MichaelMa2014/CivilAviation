@@ -1,0 +1,13 @@
+机场:Silao Del Bajio International Airport
+
+国际航空运输协会编号:BJX
+
+民航组织编号:MMLO
+
+纬度:20.993460
+
+经度:-101.480003
+
+所属国家:Mexico
+
+预设高度:5956

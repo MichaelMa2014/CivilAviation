@@ -1,0 +1,13 @@
+机场:Port Angeles Fairchild International Airport
+
+国际航空运输协会编号:CLM
+
+民航组织编号:KLCM
+
+纬度:48.121883
+
+经度:-123.495110
+
+所属国家:United States
+
+预设高度:291

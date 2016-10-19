@@ -1,0 +1,13 @@
+机场:Beijing Capital International Airport
+
+国际航空运输协会编号:PEK
+
+民航组织编号:ZBAA
+
+纬度:40.080109
+
+经度:116.584503
+
+所属国家:China
+
+预设高度:116

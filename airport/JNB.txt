@@ -1,0 +1,13 @@
+机场:Johannesburg OR Tambo International Airport
+
+国际航空运输协会编号:JNB
+
+民航组织编号:FAOR
+
+纬度:-26.139099
+
+经度:28.246000
+
+所属国家:South Africa
+
+预设高度:5558

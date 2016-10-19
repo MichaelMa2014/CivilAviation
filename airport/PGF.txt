@@ -1,0 +1,13 @@
+机场:Perpignan Rivesaltes Airport
+
+国际航空运输协会编号:PGF
+
+民航组织编号:LFMP
+
+纬度:42.740829
+
+经度:2.869722
+
+所属国家:France
+
+预设高度:144

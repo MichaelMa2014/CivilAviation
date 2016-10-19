@@ -1,0 +1,13 @@
+机场:Des Moines International Airport
+
+国际航空运输协会编号:DSM
+
+民航组织编号:KDSM
+
+纬度:41.533970
+
+经度:-93.663002
+
+所属国家:United States
+
+预设高度:958

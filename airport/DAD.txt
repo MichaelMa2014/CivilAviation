@@ -1,0 +1,13 @@
+机场:Da Nang International Airport
+
+国际航空运输协会编号:DAD
+
+民航组织编号:VVDN
+
+纬度:16.043909
+
+经度:108.199303
+
+所属国家:Vietnam
+
+预设高度:33

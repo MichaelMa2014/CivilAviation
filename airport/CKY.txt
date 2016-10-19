@@ -1,0 +1,13 @@
+机场:Conakry International Airport
+
+国际航空运输协会编号:CKY
+
+民航组织编号:GUCY
+
+纬度:9.576889
+
+经度:-13.611900
+
+所属国家:Guinea
+
+预设高度:72

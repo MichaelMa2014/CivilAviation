@@ -1,0 +1,13 @@
+机场:Philadelphia Northeast Airport
+
+国际航空运输协会编号:PNE
+
+民航组织编号:KPNE
+
+纬度:40.081940
+
+经度:-75.010498
+
+所属国家:United States
+
+预设高度:120

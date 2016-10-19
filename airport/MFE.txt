@@ -1,0 +1,13 @@
+机场:McAllen Miller International Airport
+
+国际航空运输协会编号:MFE
+
+民航组织编号:KMFE
+
+纬度:26.175831
+
+经度:-98.238602
+
+所属国家:United States
+
+预设高度:107

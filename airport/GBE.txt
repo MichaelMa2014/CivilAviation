@@ -1,0 +1,13 @@
+机场:Gaborone Sir Seretse Khama International Airport
+
+国际航空运输协会编号:GBE
+
+民航组织编号:FBSK
+
+纬度:-24.555201
+
+经度:25.918200
+
+所属国家:Botswana
+
+预设高度:3299

@@ -1,0 +1,13 @@
+机场:Pierre Regional Airport
+
+国际航空运输协会编号:PIR
+
+民航组织编号:KPIR
+
+纬度:44.382690
+
+经度:-100.285004
+
+所属国家:United States
+
+预设高度:1744

@@ -1,0 +1,13 @@
+机场:Trivandrum International Airport
+
+国际航空运输协会编号:TRV
+
+民航组织编号:VOTV
+
+纬度:8.482122
+
+经度:76.920113
+
+所属国家:India
+
+预设高度:15

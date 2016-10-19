@@ -1,0 +1,13 @@
+机场:Dusseldorf Monchengladbach Airport
+
+国际航空运输协会编号:MGL
+
+民航组织编号:EDLN
+
+纬度:51.230350
+
+经度:6.504494
+
+所属国家:Germany
+
+预设高度:125

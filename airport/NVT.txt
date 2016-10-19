@@ -1,0 +1,13 @@
+机场:Navegantes Victor Konder International Airport
+
+国际航空运输协会编号:NVT
+
+民航组织编号:SBNF
+
+纬度:-26.879900
+
+经度:-48.651299
+
+所属国家:Brazil
+
+预设高度:18

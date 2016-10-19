@@ -1,0 +1,13 @@
+机场:Delhi Indira Gandhi International Airport
+
+国际航空运输协会编号:DEL
+
+民航组织编号:VIDP
+
+纬度:28.566500
+
+经度:77.103081
+
+所属国家:India
+
+预设高度:777

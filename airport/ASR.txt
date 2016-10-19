@@ -1,0 +1,13 @@
+机场:Kayseri Erkilet International Airport
+
+国际航空运输协会编号:ASR
+
+民航组织编号:LTAU
+
+纬度:38.770378
+
+经度:35.495419
+
+所属国家:Turkey
+
+预设高度:3463

@@ -1,0 +1,13 @@
+机场:Bowling Green Warren County Regional Airport
+
+国际航空运输协会编号:BWG
+
+民航组织编号:KBWG
+
+纬度:36.962223
+
+经度:-86.422218
+
+所属国家:United States
+
+预设高度:547

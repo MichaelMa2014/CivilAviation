@@ -1,0 +1,13 @@
+机场:Santo Domingo Las Americas International Airport
+
+国际航空运输协会编号:SDQ
+
+民航组织编号:MDSD
+
+纬度:18.429661
+
+经度:-69.668900
+
+所属国家:Dominican Republic
+
+预设高度:59

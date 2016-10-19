@@ -1,0 +1,13 @@
+机场:Amman Queen Alia International Airport
+
+国际航空运输协会编号:AMM
+
+民航组织编号:OJAI
+
+纬度:31.722549
+
+经度:35.993210
+
+所属国家:Jordan
+
+预设高度:2395

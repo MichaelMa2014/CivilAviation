@@ -1,0 +1,13 @@
+机场:Mayaguez Eugenio Mar\u00eda de Hostos
+
+国际航空运输协会编号:MAZ
+
+民航组织编号:TJMZ
+
+纬度:18.255690
+
+经度:-67.148399
+
+所属国家:Puerto Rico
+
+预设高度:28

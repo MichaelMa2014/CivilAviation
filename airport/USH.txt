@@ -1,0 +1,13 @@
+机场:Ushuaia Malvinas Argentinas International Airport
+
+国际航空运输协会编号:USH
+
+民航组织编号:SAWH
+
+纬度:-54.843201
+
+经度:-68.295700
+
+所属国家:Argentina
+
+预设高度:71

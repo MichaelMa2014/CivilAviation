@@ -1,0 +1,13 @@
+机场:Osaka Kansai International Airport
+
+国际航空运输协会编号:KIX
+
+民航组织编号:RJBB
+
+纬度:34.427299
+
+经度:135.244003
+
+所属国家:Japan
+
+预设高度:26

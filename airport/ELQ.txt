@@ -1,0 +1,13 @@
+机场:Al-Qassim Regional Airport
+
+国际航空运输协会编号:ELQ
+
+民航组织编号:OEGS
+
+纬度:26.302820
+
+经度:43.773911
+
+所属国家:Saudi Arabia
+
+预设高度:2126

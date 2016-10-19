@@ -1,0 +1,13 @@
+机场:Rio Branco International Airport
+
+国际航空运输协会编号:RBR
+
+民航组织编号:SBRB
+
+纬度:-9.869150
+
+经度:-67.893997
+
+所属国家:Brazil
+
+预设高度:633

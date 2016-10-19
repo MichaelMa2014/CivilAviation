@@ -1,0 +1,13 @@
+机场:Basel Mulhouse-Freiburg EuroAirport
+
+国际航空运输协会编号:BSL
+
+民航组织编号:LFSB
+
+纬度:47.598900
+
+经度:7.528300
+
+所属国家:France
+
+预设高度:885

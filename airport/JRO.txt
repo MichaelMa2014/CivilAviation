@@ -1,0 +1,13 @@
+机场:Kilimanjaro International Airport
+
+国际航空运输协会编号:JRO
+
+民航组织编号:HTKJ
+
+纬度:-3.429400
+
+经度:37.074459
+
+所属国家:Tanzania
+
+预设高度:2932

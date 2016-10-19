@@ -1,0 +1,13 @@
+机场:Wuhan Tianhe International Airport
+
+国际航空运输协会编号:WUH
+
+民航组织编号:ZHHH
+
+纬度:30.783751
+
+经度:114.208099
+
+所属国家:China
+
+预设高度:113

@@ -1,0 +1,13 @@
+机场:Arad International Airport
+
+国际航空运输协会编号:ARW
+
+民航组织编号:LRAR
+
+纬度:46.176552
+
+经度:21.262020
+
+所属国家:Romania
+
+预设高度:352

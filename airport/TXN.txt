@@ -1,0 +1,13 @@
+机场:Huangshan Tunxi International Airport
+
+国际航空运输协会编号:TXN
+
+民航组织编号:ZSTX
+
+纬度:29.733330
+
+经度:118.255798
+
+所属国家:China
+
+预设高度:131

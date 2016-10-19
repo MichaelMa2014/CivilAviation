@@ -1,0 +1,13 @@
+机场:Jinghong Xishuangbanna Gasa Airport
+
+国际航空运输协会编号:JHG
+
+民航组织编号:ZPJH
+
+纬度:21.973421
+
+经度:100.766457
+
+所属国家:China
+
+预设高度:1815

@@ -1,0 +1,13 @@
+机场:Accra Kotoka International Airport
+
+国际航空运输协会编号:ACC
+
+民航组织编号:DGAA
+
+纬度:5.605186
+
+经度:-0.166780
+
+所属国家:Ghana
+
+预设高度:205

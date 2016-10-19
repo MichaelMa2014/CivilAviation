@@ -1,0 +1,13 @@
+机场:Barquisimeto Jacinto Lara International Airport
+
+国际航空运输协会编号:BRM
+
+民航组织编号:SVBM
+
+纬度:10.042740
+
+经度:-69.358597
+
+所属国家:Venezuela
+
+预设高度:2042

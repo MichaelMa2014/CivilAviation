@@ -1,0 +1,13 @@
+机场:Dallas Addison Airport
+
+国际航空运输协会编号:ADS
+
+民航组织编号:KADS
+
+纬度:32.959999
+
+经度:-96.830002
+
+所属国家:United States
+
+预设高度:644

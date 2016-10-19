@@ -1,0 +1,13 @@
+机场:Ciudad del Este Guarani International Airport
+
+国际航空运输协会编号:AGT
+
+民航组织编号:SGES
+
+纬度:-25.455278
+
+经度:-54.843334
+
+所属国家:Paraguay
+
+预设高度:846

@@ -1,0 +1,13 @@
+机场:Lodz Wladyslaw Reymont Airport
+
+国际航空运输协会编号:LCJ
+
+民航组织编号:EPLL
+
+纬度:51.721882
+
+经度:19.398130
+
+所属国家:Poland
+
+预设高度:604

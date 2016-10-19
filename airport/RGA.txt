@@ -1,0 +1,13 @@
+机场:Rio Grande International Airport
+
+国际航空运输协会编号:RGA
+
+民航组织编号:SAWE
+
+纬度:-53.777599
+
+经度:-67.749298
+
+所属国家:Argentina
+
+预设高度:65

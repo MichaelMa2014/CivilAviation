@@ -1,0 +1,13 @@
+机场:Pointe-a-Pitre International Airport
+
+国际航空运输协会编号:PTP
+
+民航组织编号:TFFR
+
+纬度:16.264160
+
+经度:-61.525799
+
+所属国家:Guadeloupe
+
+预设高度:35

@@ -1,0 +1,13 @@
+机场:Chiang Mai International Airport
+
+国际航空运输协会编号:CNX
+
+民航组织编号:VTCC
+
+纬度:18.766840
+
+经度:98.962639
+
+所属国家:Thailand
+
+预设高度:1036

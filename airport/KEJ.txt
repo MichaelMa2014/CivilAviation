@@ -1,0 +1,13 @@
+机场:Kemerovo International Airport
+
+国际航空运输协会编号:KEJ
+
+民航组织编号:UNEE
+
+纬度:55.270088
+
+经度:86.107201
+
+所属国家:Russia
+
+预设高度:863

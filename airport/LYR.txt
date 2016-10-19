@@ -1,0 +1,13 @@
+机场:Longyearbyen Svalbard Airport
+
+国际航空运输协会编号:LYR
+
+民航组织编号:ENSB
+
+纬度:78.246109
+
+经度:15.465550
+
+所属国家:Norway
+
+预设高度:88

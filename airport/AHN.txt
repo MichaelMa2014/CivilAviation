@@ -1,0 +1,13 @@
+机场:Athens Ben Epps Airport
+
+国际航空运输协会编号:AHN
+
+民航组织编号:KAHN
+
+纬度:33.951950
+
+经度:-83.324722
+
+所属国家:United States
+
+预设高度:808

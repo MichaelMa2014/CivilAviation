@@ -1,0 +1,13 @@
+机场:Palanga International Airport
+
+国际航空运输协会编号:PLQ
+
+民航组织编号:EYPA
+
+纬度:55.973221
+
+经度:21.093849
+
+所属国家:Lithuania
+
+预设高度:33

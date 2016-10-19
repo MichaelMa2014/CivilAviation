@@ -1,0 +1,13 @@
+机场:Dayong Zhangjiajie Hehua Airport
+
+国际航空运输协会编号:DYG
+
+民航组织编号:ZGDY
+
+纬度:29.107121
+
+经度:110.445686
+
+所属国家:China
+
+预设高度:692

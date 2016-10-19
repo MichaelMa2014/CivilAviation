@@ -1,0 +1,13 @@
+机场:Kendari Haluoleo Airport
+
+国际航空运输协会编号:KDI
+
+民航组织编号:WAWW
+
+纬度:-4.081600
+
+经度:122.418198
+
+所属国家:Indonesia
+
+预设高度:538

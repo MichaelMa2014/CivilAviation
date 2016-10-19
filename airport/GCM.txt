@@ -1,0 +1,13 @@
+机场:George Town Owen Roberts International Airport
+
+国际航空运输协会编号:GCM
+
+民航组织编号:MWCR
+
+纬度:19.292770
+
+经度:-81.357697
+
+所属国家:Cayman Islands
+
+预设高度:8

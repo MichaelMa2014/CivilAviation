@@ -1,0 +1,13 @@
+机场:Lanzhou Zhongchuan International Airport
+
+国际航空运输协会编号:LHW
+
+民航组织编号:ZLLL
+
+纬度:36.515240
+
+经度:103.620697
+
+所属国家:China
+
+预设高度:6388

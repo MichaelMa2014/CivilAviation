@@ -1,0 +1,13 @@
+机场:Thessaloniki International Airport
+
+国际航空运输协会编号:SKG
+
+民航组织编号:LGTS
+
+纬度:40.519718
+
+经度:22.970949
+
+所属国家:Greece
+
+预设高度:22

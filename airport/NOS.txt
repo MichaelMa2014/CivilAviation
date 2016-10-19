@@ -1,0 +1,13 @@
+机场:Nosy Be Fascene Airport
+
+国际航空运输协会编号:NOS
+
+民航组织编号:FMNN
+
+纬度:-13.312000
+
+经度:48.314819
+
+所属国家:Madagascar
+
+预设高度:36

@@ -1,0 +1,13 @@
+机场:Majuro Marshall Islands International Airport
+
+国际航空运输协会编号:MAJ
+
+民航组织编号:PKMJ
+
+纬度:7.064980
+
+经度:171.272003
+
+所属国家:Marshall Islands
+
+预设高度:6

@@ -1,0 +1,13 @@
+机场:Portsmouth International Airport
+
+国际航空运输协会编号:PSM
+
+民航组织编号:KPSM
+
+纬度:43.078056
+
+经度:-70.823334
+
+所属国家:United States
+
+预设高度:100

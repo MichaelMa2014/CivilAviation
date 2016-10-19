@@ -1,0 +1,13 @@
+机场:Tirana International Airport
+
+国际航空运输协会编号:TIA
+
+民航组织编号:LATI
+
+纬度:41.414742
+
+经度:19.720560
+
+所属国家:Albania
+
+预设高度:126

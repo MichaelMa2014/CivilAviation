@@ -1,0 +1,13 @@
+机场:Tarbes-Lourdes-Pyrenees Airport
+
+国际航空运输协会编号:LDE
+
+民航组织编号:LFBT
+
+纬度:43.185551
+
+经度:-0.002770
+
+所属国家:France
+
+预设高度:1260

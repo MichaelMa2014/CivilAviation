@@ -1,0 +1,13 @@
+机场:San Jose International Airport
+
+国际航空运输协会编号:SJC
+
+民航组织编号:KSJC
+
+纬度:37.362659
+
+经度:-121.929001
+
+所属国家:United States
+
+预设高度:62

@@ -1,0 +1,13 @@
+机场:Billings Logan International Airport
+
+国际航空运输协会编号:BIL
+
+民航组织编号:KBIL
+
+纬度:45.807659
+
+经度:-108.542000
+
+所属国家:United States
+
+预设高度:3652

@@ -1,0 +1,13 @@
+机场:Criciuma Diomicio Freitas Airport
+
+国际航空运输协会编号:CCM
+
+民航组织编号:SBCM
+
+纬度:-28.725834
+
+经度:-49.424721
+
+所属国家:Brazil
+
+预设高度:93

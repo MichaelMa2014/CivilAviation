@@ -1,0 +1,13 @@
+机场:Saguenay Bagotville Airport
+
+国际航空运输协会编号:YBG
+
+民航组织编号:CYBG
+
+纬度:48.330551
+
+经度:-70.996300
+
+所属国家:Canada
+
+预设高度:522

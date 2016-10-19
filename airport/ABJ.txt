@@ -1,0 +1,13 @@
+机场:Abidjan Port Bouet Airport
+
+国际航空运输协会编号:ABJ
+
+民航组织编号:DIAP
+
+纬度:5.261386
+
+经度:-3.926290
+
+所属国家:Cote D'ivoire (Ivory Coast)
+
+预设高度:21

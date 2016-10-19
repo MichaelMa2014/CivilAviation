@@ -1,0 +1,13 @@
+机场:La Ronge Barber Field Airport
+
+国际航空运输协会编号:YVC
+
+民航组织编号:CYVC
+
+纬度:55.151390
+
+经度:-105.261002
+
+所属国家:Canada
+
+预设高度:1242

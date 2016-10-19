@@ -1,0 +1,13 @@
+机场:Skyros Island National Airport
+
+国际航空运输协会编号:SKU
+
+民航组织编号:LGSY
+
+纬度:38.967548
+
+经度:24.487221
+
+所属国家:Greece
+
+预设高度:44

@@ -1,0 +1,13 @@
+机场:Vilnius International Airport
+
+国际航空运输协会编号:VNO
+
+民航组织编号:EYVI
+
+纬度:54.637070
+
+经度:25.287800
+
+所属国家:Lithuania
+
+预设高度:646

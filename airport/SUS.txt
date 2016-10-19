@@ -1,0 +1,13 @@
+机场:Spirit of St. Louis Airport
+
+国际航空运输协会编号:SUS
+
+民航组织编号:KSUS
+
+纬度:38.660000
+
+经度:-90.650002
+
+所属国家:United States
+
+预设高度:463

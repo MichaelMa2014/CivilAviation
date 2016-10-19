@@ -1,0 +1,13 @@
+机场:Puerto Iguazu International Airport
+
+国际航空运输协会编号:IGR
+
+民航组织编号:SARI
+
+纬度:-25.737200
+
+经度:-54.473400
+
+所属国家:Argentina
+
+预设高度:916

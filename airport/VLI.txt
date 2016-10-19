@@ -1,0 +1,13 @@
+机场:Port Vila Bauerfield International Airport
+
+国际航空运输协会编号:VLI
+
+民航组织编号:NVVV
+
+纬度:-17.699301
+
+经度:168.319702
+
+所属国家:Vanuatu
+
+预设高度:69

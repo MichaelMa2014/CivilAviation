@@ -1,0 +1,13 @@
+机场:Munster Osnabruck International \u00a0Airport
+
+国际航空运输协会编号:FMO
+
+民航组织编号:EDDG
+
+纬度:52.134640
+
+经度:7.684831
+
+所属国家:Germany
+
+预设高度:160

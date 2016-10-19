@@ -1,0 +1,13 @@
+机场:Kalamata International Airport
+
+国际航空运输协会编号:KLX
+
+民航组织编号:LGKL
+
+纬度:37.068310
+
+经度:22.025520
+
+所属国家:Greece
+
+预设高度:26

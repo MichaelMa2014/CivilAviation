@@ -1,0 +1,13 @@
+机场:Busselton Regional Airport
+
+国际航空运输协会编号:BQB
+
+民航组织编号:YBLN
+
+纬度:-33.687222
+
+经度:115.400276
+
+所属国家:Australia
+
+预设高度:-1

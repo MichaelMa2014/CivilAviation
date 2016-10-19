@@ -1,0 +1,13 @@
+机场:Waterloo International Airport
+
+国际航空运输协会编号:YKF
+
+民航组织编号:CYKF
+
+纬度:43.460831
+
+经度:-80.378601
+
+所属国家:Canada
+
+预设高度:1054

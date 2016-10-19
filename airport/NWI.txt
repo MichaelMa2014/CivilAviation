@@ -1,0 +1,13 @@
+机场:Norwich International Airport
+
+国际航空运输协会编号:NWI
+
+民航组织编号:EGSH
+
+纬度:52.675831
+
+经度:1.282778
+
+所属国家:United Kingdom
+
+预设高度:117

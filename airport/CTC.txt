@@ -1,0 +1,13 @@
+机场:Catamarca International Airport
+
+国际航空运输协会编号:CTC
+
+民航组织编号:SANC
+
+纬度:-28.593201
+
+经度:-65.750900
+
+所属国家:Argentina
+
+预设高度:1522

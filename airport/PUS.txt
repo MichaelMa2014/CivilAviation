@@ -1,0 +1,13 @@
+机场:Busan Gimhae International Airport
+
+国际航空运输协会编号:PUS
+
+民航组织编号:RKPK
+
+纬度:35.179520
+
+经度:128.938202
+
+所属国家:South Korea
+
+预设高度:6

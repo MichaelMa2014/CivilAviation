@@ -1,0 +1,13 @@
+机场:Stavropol Shpakovskoye Airport
+
+国际航空运输协会编号:STW
+
+民航组织编号:URMT
+
+纬度:45.109161
+
+经度:42.112770
+
+所属国家:Russia
+
+预设高度:1486

@@ -1,0 +1,13 @@
+机场:Ironwood Gogebic Iron County Airport
+
+国际航空运输协会编号:IWD
+
+民航组织编号:KIWD
+
+纬度:46.525555
+
+经度:-90.131668
+
+所属国家:United States
+
+预设高度:1230

@@ -1,0 +1,13 @@
+机场:Espargos Amilcar Cabral International Airport
+
+国际航空运输协会编号:SID
+
+民航组织编号:GVAC
+
+纬度:16.741381
+
+经度:-22.949400
+
+所属国家:Cape Verde
+
+预设高度:177

@@ -1,0 +1,13 @@
+机场:Hilo International Airport
+
+国际航空运输协会编号:ITO
+
+民航组织编号:PHTO
+
+纬度:19.720261
+
+经度:-155.048004
+
+所属国家:United States
+
+预设高度:38

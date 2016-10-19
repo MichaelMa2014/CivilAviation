@@ -1,0 +1,13 @@
+机场:Urgench International Airport
+
+国际航空运输协会编号:UGC
+
+民航组织编号:UTNU
+
+纬度:41.584835
+
+经度:60.633030
+
+所属国家:Uzbekistan
+
+预设高度:320

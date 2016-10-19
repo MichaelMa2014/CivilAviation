@@ -1,0 +1,13 @@
+机场:Khudzhand Khujand Airport
+
+国际航空运输协会编号:LBD
+
+民航组织编号:UTDL
+
+纬度:40.215279
+
+经度:69.694725
+
+所属国家:Tajikistan
+
+预设高度:1450

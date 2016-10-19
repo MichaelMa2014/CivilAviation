@@ -1,0 +1,13 @@
+机场:Sibolga Ferdinand Lumban Tobing Airport
+
+国际航空运输协会编号:FLZ
+
+民航组织编号:WIMS
+
+纬度:1.555833
+
+经度:98.888885
+
+所属国家:Indonesia
+
+预设高度:32

@@ -1,0 +1,13 @@
+机场:City of Derry Airport
+
+国际航空运输协会编号:LDY
+
+民航组织编号:EGAE
+
+纬度:55.042770
+
+经度:-7.161110
+
+所属国家:United Kingdom
+
+预设高度:22

@@ -1,0 +1,13 @@
+机场:Bisha Domestic Airport
+
+国际航空运输协会编号:BHH
+
+民航组织编号:OEBH
+
+纬度:19.984350
+
+经度:42.620880
+
+所属国家:Saudi Arabia
+
+预设高度:3887

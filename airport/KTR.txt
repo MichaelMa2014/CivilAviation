@@ -1,0 +1,13 @@
+机场:Katherine Tindal Airport
+
+国际航空运输协会编号:KTR
+
+民航组织编号:YPTN
+
+纬度:-14.521100
+
+经度:132.378006
+
+所属国家:Australia
+
+预设高度:443

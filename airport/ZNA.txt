@@ -1,0 +1,13 @@
+机场:Nanaimo Harbour Water Airport
+
+国际航空运输协会编号:ZNA
+
+民航组织编号:CAC8
+
+纬度:49.183300
+
+经度:-123.949997
+
+所属国家:Canada
+
+预设高度:-1

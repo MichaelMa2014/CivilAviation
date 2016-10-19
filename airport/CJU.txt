@@ -1,0 +1,13 @@
+机场:Jeju International Airport
+
+国际航空运输协会编号:CJU
+
+民航组织编号:RKPC
+
+纬度:33.511299
+
+经度:126.492996
+
+所属国家:South Korea
+
+预设高度:118

@@ -1,0 +1,13 @@
+机场:Chattanooga Metropolitan Airport
+
+国际航空运输协会编号:CHA
+
+民航组织编号:KCHA
+
+纬度:35.035191
+
+经度:-85.203499
+
+所属国家:United States
+
+预设高度:682

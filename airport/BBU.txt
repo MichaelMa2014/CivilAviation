@@ -1,0 +1,13 @@
+机场:Bucharest Aurel Vlaicu Airport
+
+国际航空运输协会编号:BBU
+
+民航组织编号:LRBS
+
+纬度:44.503189
+
+经度:26.102110
+
+所属国家:Romania
+
+预设高度:297

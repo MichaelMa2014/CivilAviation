@@ -1,0 +1,13 @@
+机场:Luang Prabang International Airport
+
+国际航空运输协会编号:LPQ
+
+民航组织编号:VLLB
+
+纬度:19.897909
+
+经度:102.160698
+
+所属国家:Laos
+
+预设高度:955

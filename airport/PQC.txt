@@ -1,0 +1,13 @@
+机场:Phu Quoc International Airport
+
+国际航空运输协会编号:PQC
+
+民航组织编号:VVPQ
+
+纬度:10.171667
+
+经度:103.991112
+
+所属国家:Vietnam
+
+预设高度:37

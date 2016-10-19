@@ -1,0 +1,13 @@
+机场:Nha Trang Cam Ranh International Airport
+
+国际航空运输协会编号:CXR
+
+民航组织编号:VVCR
+
+纬度:11.993611
+
+经度:109.224998
+
+所属国家:Vietnam
+
+预设高度:40

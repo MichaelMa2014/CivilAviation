@@ -1,0 +1,13 @@
+机场:Sharurah Domestic Airport
+
+国际航空运输协会编号:SHW
+
+民航组织编号:OESH
+
+纬度:17.466869
+
+经度:47.121429
+
+所属国家:Saudi Arabia
+
+预设高度:2363

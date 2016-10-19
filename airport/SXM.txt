@@ -1,0 +1,13 @@
+机场:Sint Maarten Princess Juliana International Airport
+
+国际航空运输协会编号:SXM
+
+民航组织编号:TNCM
+
+纬度:18.040951
+
+经度:-63.108898
+
+所属国家:Netherlands
+
+预设高度:14

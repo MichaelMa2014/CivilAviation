@@ -1,0 +1,13 @@
+机场:Nanjing Lukou International Airport
+
+国际航空运输协会编号:NKG
+
+民航组织编号:ZSNJ
+
+纬度:31.742041
+
+经度:118.862000
+
+所属国家:China
+
+预设高度:49

@@ -1,0 +1,13 @@
+机场:Pyongyang Sunan International Airport
+
+国际航空运输协会编号:FNJ
+
+民航组织编号:ZKPY
+
+纬度:39.224060
+
+经度:125.670097
+
+所属国家:North Korea
+
+预设高度:117

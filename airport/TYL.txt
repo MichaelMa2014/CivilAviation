@@ -1,0 +1,13 @@
+机场:Talara International Airport
+
+国际航空运输协会编号:TYL
+
+民航组织编号:SPYL
+
+纬度:-4.576630
+
+经度:-81.254097
+
+所属国家:Peru
+
+预设高度:282

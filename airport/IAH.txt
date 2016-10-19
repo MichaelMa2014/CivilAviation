@@ -1,0 +1,13 @@
+机场:Houston George Bush Intercontinental Airport
+
+国际航空运输协会编号:IAH
+
+民航组织编号:KIAH
+
+纬度:29.984430
+
+经度:-95.341400
+
+所属国家:United States
+
+预设高度:96

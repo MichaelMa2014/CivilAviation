@@ -1,0 +1,13 @@
+机场:Sfax\u2013Thyna International Airport
+
+国际航空运输协会编号:SFA
+
+民航组织编号:DTTX
+
+纬度:34.717949
+
+经度:10.690970
+
+所属国家:Tunisia
+
+预设高度:85

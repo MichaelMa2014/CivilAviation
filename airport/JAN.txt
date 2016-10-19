@@ -1,0 +1,13 @@
+机场:Jackson Evers International Airport
+
+国际航空运输协会编号:JAN
+
+民航组织编号:KJAN
+
+纬度:32.311161
+
+经度:-90.075798
+
+所属国家:United States
+
+预设高度:346

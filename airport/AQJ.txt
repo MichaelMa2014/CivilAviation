@@ -1,0 +1,13 @@
+机场:Aqaba King Hussein International Airport
+
+国际航空运输协会编号:AQJ
+
+民航组织编号:OJAQ
+
+纬度:29.611610
+
+经度:35.018059
+
+所属国家:Jordan
+
+预设高度:175

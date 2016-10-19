@@ -1,0 +1,13 @@
+机场:Belgrade Nikola Tesla Airport
+
+国际航空运输协会编号:BEG
+
+民航组织编号:LYBE
+
+纬度:44.818439
+
+经度:20.309130
+
+所属国家:Serbia
+
+预设高度:335

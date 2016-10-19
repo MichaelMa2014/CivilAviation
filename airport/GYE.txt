@@ -1,0 +1,13 @@
+机场:Guayaquil International Airport
+
+国际航空运输协会编号:GYE
+
+民航组织编号:SEGU
+
+纬度:-2.157410
+
+经度:-79.883499
+
+所属国家:Ecuador
+
+预设高度:19

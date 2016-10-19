@@ -1,0 +1,13 @@
+机场:Malang Abdul Rachman Saleh Airport
+
+国际航空运输协会编号:MLG
+
+民航组织编号:WARA
+
+纬度:-7.926550
+
+经度:112.714500
+
+所属国家:Indonesia
+
+预设高度:1726

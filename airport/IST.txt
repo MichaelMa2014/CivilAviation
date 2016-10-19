@@ -1,0 +1,13 @@
+机场:Istanbul Ataturk International Airport
+
+国际航空运输协会编号:IST
+
+民航组织编号:LTBA
+
+纬度:40.976921
+
+经度:28.814600
+
+所属国家:Turkey
+
+预设高度:163

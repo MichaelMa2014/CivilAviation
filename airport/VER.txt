@@ -1,0 +1,13 @@
+机场:Veracruz International Airport
+
+国际航空运输协会编号:VER
+
+民航组织编号:MMVR
+
+纬度:19.145929
+
+经度:-96.187202
+
+所属国家:Mexico
+
+预设高度:90

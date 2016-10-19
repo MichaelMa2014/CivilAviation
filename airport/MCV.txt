@@ -1,0 +1,13 @@
+机场:McArthur River Mine Airport
+
+国际航空运输协会编号:MCV
+
+民航组织编号:YMHU
+
+纬度:-16.466667
+
+经度:136.095001
+
+所属国家:Australia
+
+预设高度:131

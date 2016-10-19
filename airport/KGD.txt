@@ -1,0 +1,13 @@
+机场:Kaliningrad Khrabrovo Airport
+
+国际航空运输协会编号:KGD
+
+民航组织编号:UMKK
+
+纬度:54.890049
+
+经度:20.592630
+
+所属国家:Russia
+
+预设高度:42

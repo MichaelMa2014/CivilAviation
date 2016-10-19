@@ -1,0 +1,13 @@
+机场:Labuan Bajo Komodo Airport
+
+国际航空运输协会编号:LBJ
+
+民航组织编号:WRKO
+
+纬度:-8.486650
+
+经度:119.889000
+
+所属国家:Indonesia
+
+预设高度:66

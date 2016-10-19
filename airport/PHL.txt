@@ -1,0 +1,13 @@
+机场:Philadelphia International Airport
+
+国际航空运输协会编号:PHL
+
+民航组织编号:KPHL
+
+纬度:39.871941
+
+经度:-75.241096
+
+所属国家:United States
+
+预设高度:36

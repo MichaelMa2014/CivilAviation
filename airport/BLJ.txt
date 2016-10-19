@@ -1,0 +1,13 @@
+机场:Batna International Airport
+
+国际航空运输协会编号:BLJ
+
+民航组织编号:DABT
+
+纬度:35.759167
+
+经度:6.322500
+
+所属国家:Algeria
+
+预设高度:2697

@@ -1,0 +1,13 @@
+机场:Karlovy Vary Airport
+
+国际航空运输协会编号:KLV
+
+民航组织编号:LKKV
+
+纬度:50.202969
+
+经度:12.914980
+
+所属国家:Czech Republic
+
+预设高度:1989

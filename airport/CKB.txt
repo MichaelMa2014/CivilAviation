@@ -1,0 +1,13 @@
+机场:Clarksburg North Central West Virginia Airport
+
+国际航空运输协会编号:CKB
+
+民航组织编号:KCKB
+
+纬度:39.295555
+
+经度:-80.229446
+
+所属国家:United States
+
+预设高度:1217

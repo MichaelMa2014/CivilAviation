@@ -1,0 +1,13 @@
+机场:Volgograd International Airport
+
+国际航空运输协会编号:VOG
+
+民航组织编号:URWW
+
+纬度:48.782520
+
+经度:44.345539
+
+所属国家:Russia
+
+预设高度:482

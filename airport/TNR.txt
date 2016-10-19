@@ -1,0 +1,13 @@
+机场:Antananarivo Ivato International Airport
+
+国际航空运输协会编号:TNR
+
+民航组织编号:FMMI
+
+纬度:-18.796900
+
+经度:47.478802
+
+所属国家:Madagascar
+
+预设高度:4198

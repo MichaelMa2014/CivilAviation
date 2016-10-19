@@ -1,0 +1,13 @@
+机场:Phoenix Goodyear Airport
+
+国际航空运输协会编号:GYR
+
+民航组织编号:KGYR
+
+纬度:33.426838
+
+经度:-112.367081
+
+所属国家:United States
+
+预设高度:958

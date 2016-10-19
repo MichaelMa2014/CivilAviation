@@ -1,0 +1,13 @@
+机场:Naxos Island National Airport
+
+国际航空运输协会编号:JNX
+
+民航组织编号:LGNX
+
+纬度:37.080551
+
+经度:25.368050
+
+所属国家:Greece
+
+预设高度:10

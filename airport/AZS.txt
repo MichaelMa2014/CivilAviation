@@ -1,0 +1,13 @@
+机场:Samana El Catey International Airport
+
+国际航空运输协会编号:AZS
+
+民航组织编号:MDCY
+
+纬度:19.267000
+
+经度:-69.741997
+
+所属国家:Dominican Republic
+
+预设高度:148

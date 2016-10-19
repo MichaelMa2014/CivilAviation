@@ -1,0 +1,13 @@
+机场:Macapa International Airport
+
+国际航空运输协会编号:MCP
+
+民航组织编号:SBMQ
+
+纬度:0.050664
+
+经度:-51.072102
+
+所属国家:Brazil
+
+预设高度:56

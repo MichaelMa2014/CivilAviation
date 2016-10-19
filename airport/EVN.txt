@@ -1,0 +1,13 @@
+机场:Yerevan Zvartnots International Airport
+
+国际航空运输协会编号:EVN
+
+民航组织编号:UDYZ
+
+纬度:40.147270
+
+经度:44.395882
+
+所属国家:Armenia
+
+预设高度:2838

@@ -1,0 +1,13 @@
+机场:Vienna International Airport
+
+国际航空运输协会编号:VIE
+
+民航组织编号:LOWW
+
+纬度:48.110271
+
+经度:16.569719
+
+所属国家:Austria
+
+预设高度:600

@@ -1,0 +1,13 @@
+机场:Alexandroupolis International Airport
+
+国际航空运输协会编号:AXD
+
+民航组织编号:LGAL
+
+纬度:40.855862
+
+经度:25.956261
+
+所属国家:Greece
+
+预设高度:24

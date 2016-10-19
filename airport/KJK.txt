@@ -1,0 +1,13 @@
+机场:Kortrijk Wevelgem International Airport
+
+国际航空运输协会编号:KJK
+
+民航组织编号:EBKT
+
+纬度:50.817200
+
+经度:3.204720
+
+所属国家:Belgium
+
+预设高度:64

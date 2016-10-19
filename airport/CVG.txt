@@ -1,0 +1,13 @@
+机场:Cincinnati Northern Kentucky International Airport
+
+国际航空运输协会编号:CVG
+
+民航组织编号:KCVG
+
+纬度:39.048828
+
+经度:-84.667801
+
+所属国家:United States
+
+预设高度:896

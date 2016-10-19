@@ -1,0 +1,13 @@
+机场:Bamaga Northern Peninsula Airport
+
+国际航空运输协会编号:ABM
+
+民航组织编号:YNPE
+
+纬度:-10.950800
+
+经度:142.459396
+
+所属国家:Australia
+
+预设高度:34

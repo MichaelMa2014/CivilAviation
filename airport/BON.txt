@@ -1,0 +1,13 @@
+机场:Bonaire Flamingo International Airport
+
+国际航空运输协会编号:BON
+
+民航组织编号:TNCB
+
+纬度:12.131040
+
+经度:-68.268501
+
+所属国家:Netherlands
+
+预设高度:20

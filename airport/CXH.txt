@@ -1,0 +1,13 @@
+机场:Vancouver Harbour Water Airport
+
+国际航空运输协会编号:CXH
+
+民航组织编号:CYHC
+
+纬度:49.290829
+
+经度:-123.117966
+
+所属国家:Canada
+
+预设高度:-1

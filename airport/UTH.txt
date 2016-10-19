@@ -1,0 +1,13 @@
+机场:Udon Thani International Airport
+
+国际航空运输协会编号:UTH
+
+民航组织编号:VTUD
+
+纬度:17.386431
+
+经度:102.788200
+
+所属国家:Thailand
+
+预设高度:579

@@ -1,0 +1,13 @@
+机场:Moscow Domodedovo International Airport
+
+国际航空运输协会编号:DME
+
+民航组织编号:UUDD
+
+纬度:55.408779
+
+经度:37.906311
+
+所属国家:Russia
+
+预设高度:588

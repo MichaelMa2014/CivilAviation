@@ -1,0 +1,13 @@
+机场:Urumqi Diwopu International Airport
+
+国际航空运输协会编号:URC
+
+民航组织编号:ZWWW
+
+纬度:43.907101
+
+经度:87.474243
+
+所属国家:China
+
+预设高度:2125

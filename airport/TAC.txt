@@ -1,0 +1,13 @@
+机场:Tacloban Daniel Z. Romualdez Airport
+
+国际航空运输协会编号:TAC
+
+民航组织编号:RPVA
+
+纬度:11.227620
+
+经度:125.027702
+
+所属国家:Philippines
+
+预设高度:10

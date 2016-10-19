@@ -1,0 +1,13 @@
+机场:Niamey Diori Hamani International Airport
+
+国际航空运输协会编号:NIM
+
+民航组织编号:DRRN
+
+纬度:13.481540
+
+经度:2.183614
+
+所属国家:Niger
+
+预设高度:732

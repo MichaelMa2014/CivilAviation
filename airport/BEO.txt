@@ -1,0 +1,13 @@
+机场:Pelican Lake Macquarie Airport
+
+国际航空运输协会编号:BEO
+
+民航组织编号:YPEC
+
+纬度:-33.066700
+
+经度:151.647995
+
+所属国家:Australia
+
+预设高度:2

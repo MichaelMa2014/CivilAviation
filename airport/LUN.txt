@@ -1,0 +1,13 @@
+机场:Lusaka Kenneth Kaunda International Airport
+
+国际航空运输协会编号:LUN
+
+民航组织编号:FLLS
+
+纬度:-15.330800
+
+经度:28.452620
+
+所属国家:Zambia
+
+预设高度:3779

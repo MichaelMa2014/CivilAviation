@@ -1,0 +1,13 @@
+机场:Port Moresby Jacksons International Airport
+
+国际航空运输协会编号:POM
+
+民航组织编号:AYPY
+
+纬度:-9.443380
+
+经度:147.220001
+
+所属国家:Papua New Guinea
+
+预设高度:146

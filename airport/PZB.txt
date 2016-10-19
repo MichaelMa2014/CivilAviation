@@ -1,0 +1,13 @@
+机场:Pietermaritzburg Airport
+
+国际航空运输协会编号:PZB
+
+民航组织编号:FAPM
+
+纬度:-29.648899
+
+经度:30.398661
+
+所属国家:South Africa
+
+预设高度:2423

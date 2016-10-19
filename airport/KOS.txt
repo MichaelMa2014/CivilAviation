@@ -1,0 +1,13 @@
+机场:Sihanoukville International Airport
+
+国际航空运输协会编号:KOS
+
+民航组织编号:VDSV
+
+纬度:10.579680
+
+经度:103.636803
+
+所属国家:Cambodia
+
+预设高度:33

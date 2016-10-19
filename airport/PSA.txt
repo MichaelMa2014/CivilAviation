@@ -1,0 +1,13 @@
+机场:Pisa Galileo Galilei Airport
+
+国际航空运输协会编号:PSA
+
+民航组织编号:LIRP
+
+纬度:43.683910
+
+经度:10.392750
+
+所属国家:Italy
+
+预设高度:6

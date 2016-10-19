@@ -1,0 +1,13 @@
+机场:Kelowna International Airport
+
+国际航空运输协会编号:YLW
+
+民航组织编号:CYLW
+
+纬度:49.956108
+
+经度:-119.376999
+
+所属国家:Canada
+
+预设高度:1409

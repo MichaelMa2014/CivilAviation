@@ -1,0 +1,13 @@
+机场:Saint Etienne Boutheon Airport
+
+国际航空运输协会编号:EBU
+
+民航组织编号:LFMH
+
+纬度:45.534050
+
+经度:4.297311
+
+所属国家:France
+
+预设高度:1325

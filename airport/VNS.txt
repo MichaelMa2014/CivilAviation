@@ -1,0 +1,13 @@
+机场:Varanasi International Airport
+
+国际航空运输协会编号:VNS
+
+民航组织编号:VIBN
+
+纬度:25.452351
+
+经度:82.859337
+
+所属国家:India
+
+预设高度:266

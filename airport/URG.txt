@@ -1,0 +1,13 @@
+机场:Uruguaiana Ruben Berta International Airport
+
+国际航空运输协会编号:URG
+
+民航组织编号:SBUG
+
+纬度:-29.782101
+
+经度:-57.038101
+
+所属国家:Brazil
+
+预设高度:256

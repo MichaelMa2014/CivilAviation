@@ -1,0 +1,13 @@
+机场:Vojens Skrydstrup Airport
+
+国际航空运输协会编号:SKS
+
+民航组织编号:EKSP
+
+纬度:55.225552
+
+经度:9.263931
+
+所属国家:Denmark
+
+预设高度:141

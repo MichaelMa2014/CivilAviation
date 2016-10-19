@@ -1,0 +1,13 @@
+机场:Iasi International Airport
+
+国际航空运输协会编号:IAS
+
+民航组织编号:LRIA
+
+纬度:47.178490
+
+经度:27.620630
+
+所属国家:Romania
+
+预设高度:397

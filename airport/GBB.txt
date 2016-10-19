@@ -1,0 +1,13 @@
+机场:Qabala International Airport
+
+国际航空运输协会编号:GBB
+
+民航组织编号:UBBQ
+
+纬度:40.799999
+
+经度:47.720001
+
+所属国家:Azerbaijan
+
+预设高度:1109

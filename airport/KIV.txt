@@ -1,0 +1,13 @@
+机场:Chisinau International Airport
+
+国际航空运输协会编号:KIV
+
+民航组织编号:LUKK
+
+纬度:46.927738
+
+经度:28.930969
+
+所属国家:Moldova
+
+预设高度:399

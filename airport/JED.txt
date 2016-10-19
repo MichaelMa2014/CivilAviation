@@ -1,0 +1,13 @@
+机场:Jeddah King Abdulaziz International Airport
+
+国际航空运输协会编号:JED
+
+民航组织编号:OEJN
+
+纬度:21.679560
+
+经度:39.156528
+
+所属国家:Saudi Arabia
+
+预设高度:48

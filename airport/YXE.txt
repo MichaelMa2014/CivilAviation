@@ -1,0 +1,13 @@
+机场:Saskatoon John G. Diefenbaker International Airport
+
+国际航空运输协会编号:YXE
+
+民航组织编号:CYXE
+
+纬度:52.170830
+
+经度:-106.698997
+
+所属国家:Canada
+
+预设高度:1653

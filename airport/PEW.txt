@@ -1,0 +1,13 @@
+机场:Peshawar Bacha Khan International Airport
+
+国际航空运输协会编号:PEW
+
+民航组织编号:OPPS
+
+纬度:33.993912
+
+经度:71.514580
+
+所属国家:Pakistan
+
+预设高度:1158

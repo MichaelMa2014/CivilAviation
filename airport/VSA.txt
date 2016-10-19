@@ -1,0 +1,13 @@
+机场:Villahermosa International Airport
+
+国际航空运输协会编号:VSA
+
+民航组织编号:MMVA
+
+纬度:17.997000
+
+经度:-92.817299
+
+所属国家:Mexico
+
+预设高度:46

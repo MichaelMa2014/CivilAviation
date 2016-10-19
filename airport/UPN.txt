@@ -1,0 +1,13 @@
+机场:Uruapan International Airport
+
+国际航空运输协会编号:UPN
+
+民航组织编号:MMPN
+
+纬度:19.396690
+
+经度:-102.039001
+
+所属国家:Mexico
+
+预设高度:5258

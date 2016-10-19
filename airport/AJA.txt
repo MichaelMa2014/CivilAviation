@@ -1,0 +1,13 @@
+机场:Ajaccio Napoleon Bonaparte Airport
+
+国际航空运输协会编号:AJA
+
+民航组织编号:LFKJ
+
+纬度:41.923882
+
+经度:8.802500
+
+所属国家:France
+
+预设高度:16

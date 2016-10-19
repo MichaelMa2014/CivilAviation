@@ -1,0 +1,13 @@
+机场:Skiathos Island National Airport
+
+国际航空运输协会编号:JSI
+
+民航组织编号:LGSK
+
+纬度:39.177101
+
+经度:23.503670
+
+所属国家:Greece
+
+预设高度:54

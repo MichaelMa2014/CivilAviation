@@ -1,0 +1,13 @@
+机场:Camaguey Ignacio Agramonte International Airport
+
+国际航空运输协会编号:CMW
+
+民航组织编号:MUCM
+
+纬度:21.420420
+
+经度:-77.847397
+
+所属国家:Cuba
+
+预设高度:413

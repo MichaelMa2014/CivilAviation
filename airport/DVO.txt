@@ -1,0 +1,13 @@
+机场:Davao City Francisco Bangoy International Airport
+
+国际航空运输协会编号:DVO
+
+民航组织编号:RPMD
+
+纬度:7.125522
+
+经度:125.645699
+
+所属国家:Philippines
+
+预设高度:96

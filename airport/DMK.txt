@@ -1,0 +1,13 @@
+机场:Bangkok Don Mueang International Airport
+
+国际航空运输协会编号:DMK
+
+民航组织编号:VTBD
+
+纬度:13.912500
+
+经度:100.606697
+
+所属国家:Thailand
+
+预设高度:9

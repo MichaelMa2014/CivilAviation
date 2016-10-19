@@ -1,0 +1,13 @@
+机场:Kutaisi International Airport
+
+国际航空运输协会编号:KUT
+
+民航组织编号:UGKO
+
+纬度:42.169998
+
+经度:42.480000
+
+所属国家:Georgia
+
+预设高度:223

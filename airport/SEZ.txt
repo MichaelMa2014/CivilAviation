@@ -1,0 +1,13 @@
+机场:Seychelles International Airport
+
+国际航空运输协会编号:SEZ
+
+民航组织编号:FSIA
+
+纬度:-4.674340
+
+经度:55.521832
+
+所属国家:Seychelles
+
+预设高度:10

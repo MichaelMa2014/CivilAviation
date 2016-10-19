@@ -1,0 +1,13 @@
+机场:Manizales La Nubia Airport
+
+国际航空运输协会编号:MZL
+
+民航组织编号:SKMZ
+
+纬度:5.029992
+
+经度:-75.465103
+
+所属国家:Colombia
+
+预设高度:6871

@@ -1,0 +1,13 @@
+机场:Kolkata International Airport
+
+国际航空运输协会编号:CCU
+
+民航组织编号:VECC
+
+纬度:22.654730
+
+经度:88.446716
+
+所属国家:India
+
+预设高度:16

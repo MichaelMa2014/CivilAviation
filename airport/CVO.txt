@@ -1,0 +1,13 @@
+机场:Corvallis Municipal Airport
+
+国际航空运输协会编号:CVO
+
+民航组织编号:KCVO
+
+纬度:44.501186
+
+经度:-123.285698
+
+所属国家:United States
+
+预设高度:243

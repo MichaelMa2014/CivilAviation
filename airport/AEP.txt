@@ -1,0 +1,13 @@
+机场:Buenos Aires Jorge Newbery Airport
+
+国际航空运输协会编号:AEP
+
+民航组织编号:SABE
+
+纬度:-34.559101
+
+经度:-58.415600
+
+所属国家:Argentina
+
+预设高度:18

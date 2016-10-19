@@ -1,0 +1,13 @@
+机场:Samarinda Temindung Airport
+
+国际航空运输协会编号:SRI
+
+民航组织编号:WRLS
+
+纬度:-0.484530
+
+经度:117.157097
+
+所属国家:Indonesia
+
+预设高度:33

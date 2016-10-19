@@ -1,0 +1,13 @@
+机场:Hurghada International Airport
+
+国际航空运输协会编号:HRG
+
+民航组织编号:HEGN
+
+纬度:27.178310
+
+经度:33.799431
+
+所属国家:Egypt
+
+预设高度:52

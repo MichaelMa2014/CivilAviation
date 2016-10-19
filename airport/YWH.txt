@@ -1,0 +1,13 @@
+机场:Victoria Inner Harbour Airport
+
+国际航空运输协会编号:YWH
+
+民航组织编号:CYWH
+
+纬度:48.424988
+
+经度:-123.388870
+
+所属国家:Canada
+
+预设高度:-1

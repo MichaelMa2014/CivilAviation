@@ -1,0 +1,13 @@
+机场:Ponce Mercedita Airport
+
+国际航空运输协会编号:PSE
+
+民航组织编号:TJPS
+
+纬度:18.008301
+
+经度:-66.563004
+
+所属国家:Puerto Rico
+
+预设高度:28

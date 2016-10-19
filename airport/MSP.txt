@@ -1,0 +1,13 @@
+机场:Minneapolis Saint Paul International Airport
+
+国际航空运输协会编号:MSP
+
+民航组织编号:KMSP
+
+纬度:44.881950
+
+经度:-93.221703
+
+所属国家:United States
+
+预设高度:841

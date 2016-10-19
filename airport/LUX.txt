@@ -1,0 +1,13 @@
+机场:Luxembourg Findel Airport
+
+国际航空运输协会编号:LUX
+
+民航组织编号:ELLX
+
+纬度:49.623329
+
+经度:6.204444
+
+所属国家:Luxembourg
+
+预设高度:1234

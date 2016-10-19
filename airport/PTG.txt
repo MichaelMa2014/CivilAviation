@@ -1,0 +1,13 @@
+机场:Polokwane International Airport
+
+国际航空运输协会编号:PTG
+
+民航组织编号:FAPI
+
+纬度:-23.845301
+
+经度:29.458611
+
+所属国家:South Africa
+
+预设高度:4076

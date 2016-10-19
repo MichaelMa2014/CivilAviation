@@ -1,0 +1,13 @@
+机场:La Paz El Alto International Airport
+
+国际航空运输协会编号:LPB
+
+民航组织编号:SLLP
+
+纬度:-16.513300
+
+经度:-68.192200
+
+所属国家:Bolivia
+
+预设高度:13325

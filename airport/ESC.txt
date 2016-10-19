@@ -1,0 +1,13 @@
+机场:Escanaba Delta County Airport
+
+国际航空运输协会编号:ESC
+
+民航组织编号:KESC
+
+纬度:45.722660
+
+经度:-87.093697
+
+所属国家:United States
+
+预设高度:609

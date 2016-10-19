@@ -1,0 +1,13 @@
+机场:Rhinelander Oneida County Airport
+
+国际航空运输协会编号:RHI
+
+民航组织编号:KRHI
+
+纬度:45.631191
+
+经度:-89.467400
+
+所属国家:United States
+
+预设高度:1624

@@ -1,0 +1,13 @@
+机场:Moses Lake Grant County International Airport
+
+国际航空运输协会编号:MWH
+
+民航组织编号:KMWH
+
+纬度:47.208580
+
+经度:-119.319000
+
+所属国家:United States
+
+预设高度:1189

@@ -1,0 +1,13 @@
+机场:Hangzhou Xiaoshan International Airport
+
+国际航空运输协会编号:HGH
+
+民航组织编号:ZSHC
+
+纬度:30.229500
+
+经度:120.434402
+
+所属国家:China
+
+预设高度:23

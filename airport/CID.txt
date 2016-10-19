@@ -1,0 +1,13 @@
+机场:Cedar Rapids Eastern Iowa Airport
+
+国际航空运输协会编号:CID
+
+民航组织编号:KCID
+
+纬度:41.884682
+
+经度:-91.710701
+
+所属国家:United States
+
+预设高度:869

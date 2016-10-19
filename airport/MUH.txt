@@ -1,0 +1,13 @@
+机场:Marsa Matruh International Airport
+
+国际航空运输协会编号:MUH
+
+民航组织编号:HEMM
+
+纬度:31.325350
+
+经度:27.221680
+
+所属国家:Egypt
+
+预设高度:94

@@ -1,0 +1,13 @@
+机场:Saint Nazaire Montoir Airport
+
+国际航空运输协会编号:SNR
+
+民航组织编号:LFRZ
+
+纬度:47.310551
+
+经度:-2.156660
+
+所属国家:France
+
+预设高度:13

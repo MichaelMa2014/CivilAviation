@@ -1,0 +1,13 @@
+机场:Nuevo Laredo Quetzalcoatl International Airport
+
+国际航空运输协会编号:NLD
+
+民航组织编号:MMNL
+
+纬度:27.443911
+
+经度:-99.570396
+
+所属国家:Mexico
+
+预设高度:484

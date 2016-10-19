@@ -1,0 +1,13 @@
+机场:Bismarck Municipal Airport
+
+国际航空运输协会编号:BIS
+
+民航组织编号:KBIS
+
+纬度:46.774479
+
+经度:-100.758209
+
+所属国家:United States
+
+预设高度:1661

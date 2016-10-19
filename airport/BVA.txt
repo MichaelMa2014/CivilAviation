@@ -1,0 +1,13 @@
+机场:Paris Beauvais-Tille Airport
+
+国际航空运输协会编号:BVA
+
+民航组织编号:LFOB
+
+纬度:49.454441
+
+经度:2.112778
+
+所属国家:France
+
+预设高度:359

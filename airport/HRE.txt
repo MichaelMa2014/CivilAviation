@@ -1,0 +1,13 @@
+机场:Harare International Airport
+
+国际航空运输协会编号:HRE
+
+民航组织编号:FVHA
+
+纬度:-17.931801
+
+经度:31.092840
+
+所属国家:Zimbabwe
+
+预设高度:4887

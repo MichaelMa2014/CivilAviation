@@ -1,0 +1,13 @@
+机场:Bermuda L.F. Wade International Airport
+
+国际航空运输协会编号:BDA
+
+民航组织编号:TXKF
+
+纬度:32.364040
+
+经度:-64.678703
+
+所属国家:Bermuda
+
+预设高度:18

@@ -1,0 +1,13 @@
+机场:Ketchikan International Airport
+
+国际航空运输协会编号:KTN
+
+民航组织编号:PAKT
+
+纬度:55.354069
+
+经度:-131.710999
+
+所属国家:United States
+
+预设高度:92

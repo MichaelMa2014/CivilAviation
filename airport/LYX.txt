@@ -1,0 +1,13 @@
+机场:Lydd Ashford Airport
+
+国际航空运输协会编号:LYX
+
+民航组织编号:EGMD
+
+纬度:50.956108
+
+经度:0.939167
+
+所属国家:United Kingdom
+
+预设高度:13

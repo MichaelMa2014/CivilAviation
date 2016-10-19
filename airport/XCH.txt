@@ -1,0 +1,13 @@
+机场:Christmas Island Airport
+
+国际航空运输协会编号:XCH
+
+民航组织编号:YPXM
+
+纬度:-10.450556
+
+经度:105.690277
+
+所属国家:Australia
+
+预设高度:916

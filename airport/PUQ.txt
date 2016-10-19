@@ -1,0 +1,13 @@
+机场:Punta Arenas International Airport
+
+国际航空运输协会编号:PUQ
+
+民航组织编号:SCCI
+
+纬度:-53.002602
+
+经度:-70.854500
+
+所属国家:Chile
+
+预设高度:139

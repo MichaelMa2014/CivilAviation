@@ -1,0 +1,13 @@
+机场:Cape Girardeau Regional Airport
+
+国际航空运输协会编号:CGI
+
+民航组织编号:KCGI
+
+纬度:37.225311
+
+经度:-89.570702
+
+所属国家:United States
+
+预设高度:341

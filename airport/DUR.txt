@@ -1,0 +1,13 @@
+机场:Durban King Shaka International Airport
+
+国际航空运输协会编号:DUR
+
+民航组织编号:FALE
+
+纬度:-29.616667
+
+经度:31.108334
+
+所属国家:South Africa
+
+预设高度:304

@@ -1,0 +1,13 @@
+机场:Rennes Saint-Jacques Airport
+
+国际航空运输协会编号:RNS
+
+民航组织编号:LFRN
+
+纬度:48.071941
+
+经度:-1.732220
+
+所属国家:France
+
+预设高度:124

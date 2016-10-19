@@ -1,0 +1,13 @@
+机场:Providenciales International Airport
+
+国际航空运输协会编号:PLS
+
+民航组织编号:MBPV
+
+纬度:21.773621
+
+经度:-72.265800
+
+所属国家:Turks And Caicos Islands
+
+预设高度:28

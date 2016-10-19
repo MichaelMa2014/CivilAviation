@@ -1,0 +1,13 @@
+机场:Vitoria da Conquista Airport
+
+国际航空运输协会编号:VDC
+
+民航组织编号:SBQV
+
+纬度:-14.860000
+
+经度:-40.860001
+
+所属国家:Brazil
+
+预设高度:2998

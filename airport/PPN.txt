@@ -1,0 +1,13 @@
+机场:Popayan Guillermo Leon Valencia Airport
+
+国际航空运输协会编号:PPN
+
+民航组织编号:SKPP
+
+纬度:2.454550
+
+经度:-76.609001
+
+所属国家:Colombia
+
+预设高度:5687

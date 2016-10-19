@@ -1,0 +1,13 @@
+机场:Lifou Ouanaham Airport
+
+国际航空运输协会编号:LIF
+
+民航组织编号:NWWL
+
+纬度:-20.775000
+
+经度:167.239700
+
+所属国家:New Caledonia
+
+预设高度:92

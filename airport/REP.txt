@@ -1,0 +1,13 @@
+机场:Siem Reap International Airport
+
+国际航空运输协会编号:REP
+
+民航组织编号:VDSR
+
+纬度:13.410660
+
+经度:103.812798
+
+所属国家:Cambodia
+
+预设高度:60

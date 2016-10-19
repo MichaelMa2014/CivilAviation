@@ -1,0 +1,13 @@
+机场:Kitaakita Odate Noshiro Airport
+
+国际航空运输协会编号:ONJ
+
+民航组织编号:RJSR
+
+纬度:40.196415
+
+经度:140.373825
+
+所属国家:Japan
+
+预设高度:292

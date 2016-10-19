@@ -1,0 +1,13 @@
+机场:Greenville Pitt Airport
+
+国际航空运输协会编号:PGV
+
+民航组织编号:KPGV
+
+纬度:35.635250
+
+经度:-77.385300
+
+所属国家:United States
+
+预设高度:26

@@ -1,0 +1,13 @@
+机场:Hamilton John C. Munro International Airport
+
+国际航空运输协会编号:YHM
+
+民航组织编号:CYHM
+
+纬度:43.173611
+
+经度:-79.934998
+
+所属国家:Canada
+
+预设高度:780

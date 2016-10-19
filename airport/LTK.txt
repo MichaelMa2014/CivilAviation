@@ -1,0 +1,13 @@
+机场:Latakia Bassel al Assad International Airport
+
+国际航空运输协会编号:LTK
+
+民航组织编号:OSLK
+
+纬度:35.401089
+
+经度:35.948681
+
+所属国家:Syria
+
+预设高度:157

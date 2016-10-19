@@ -1,0 +1,13 @@
+机场:Charleston Executive Airport
+
+国际航空运输协会编号:JZI
+
+民航组织编号:KJZI
+
+纬度:32.700001
+
+经度:-80.000000
+
+所属国家:United States
+
+预设高度:18

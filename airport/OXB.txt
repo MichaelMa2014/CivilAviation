@@ -1,0 +1,13 @@
+机场:Bissau Osvaldo Vieira International Airport
+
+国际航空运输协会编号:OXB
+
+民航组织编号:GGOV
+
+纬度:11.894700
+
+经度:-15.653600
+
+所属国家:Guinea-Bissau
+
+预设高度:129

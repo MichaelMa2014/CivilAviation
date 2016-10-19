@@ -1,0 +1,13 @@
+机场:Laredo International Airport
+
+国际航空运输协会编号:LRD
+
+民航组织编号:KLRD
+
+纬度:27.543791
+
+经度:-99.461502
+
+所属国家:United States
+
+预设高度:508

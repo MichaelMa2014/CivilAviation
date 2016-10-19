@@ -1,0 +1,13 @@
+机场:Traverse City Cherry Capital Airport
+
+国际航空运输协会编号:TVC
+
+民航组织编号:KTVC
+
+纬度:44.741390
+
+经度:-85.582222
+
+所属国家:United States
+
+预设高度:624

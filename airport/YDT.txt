@@ -1,0 +1,13 @@
+机场:Vancouver Boundary Bay Airport
+
+国际航空运输协会编号:YDT
+
+民航组织编号:CZBB
+
+纬度:49.077572
+
+经度:-123.006126
+
+所属国家:Canada
+
+预设高度:12

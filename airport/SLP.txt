@@ -1,0 +1,13 @@
+机场:San Luis Potosi Ponciano Arriaga International Airport
+
+国际航空运输协会编号:SLP
+
+民航组织编号:MMSP
+
+纬度:22.254299
+
+经度:-100.930000
+
+所属国家:Mexico
+
+预设高度:6035

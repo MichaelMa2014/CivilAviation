@@ -1,0 +1,13 @@
+机场:Del Rio International Airport
+
+国际航空运输协会编号:DRT
+
+民航组织编号:KDRT
+
+纬度:29.374201
+
+经度:-100.927002
+
+所属国家:United States
+
+预设高度:1002

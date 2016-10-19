@@ -1,0 +1,13 @@
+机场:Tokyo Haneda International Airport
+
+国际航空运输协会编号:HND
+
+民航组织编号:RJTT
+
+纬度:35.552250
+
+经度:139.779602
+
+所属国家:Japan
+
+预设高度:21

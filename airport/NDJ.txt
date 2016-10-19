@@ -1,0 +1,13 @@
+机场:N'Djamena International Airport
+
+国际航空运输协会编号:NDJ
+
+民航组织编号:FTTJ
+
+纬度:12.133680
+
+经度:15.034010
+
+所属国家:Chad
+
+预设高度:968

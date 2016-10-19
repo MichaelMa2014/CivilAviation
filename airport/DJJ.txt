@@ -1,0 +1,13 @@
+机场:Jayapura Sentani Airport
+
+国际航空运输协会编号:DJJ
+
+民航组织编号:WAJJ
+
+纬度:-2.576950
+
+经度:140.516296
+
+所属国家:Indonesia
+
+预设高度:289

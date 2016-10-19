@@ -1,0 +1,13 @@
+机场:Latrobe Arnold Palmer Regional Airport
+
+国际航空运输协会编号:LBE
+
+民航组织编号:KLBE
+
+纬度:40.274601
+
+经度:-79.406700
+
+所属国家:United States
+
+预设高度:1199

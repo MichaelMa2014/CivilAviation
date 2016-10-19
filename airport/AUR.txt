@@ -1,0 +1,13 @@
+机场:Aurillac Tronquieres Airport
+
+国际航空运输协会编号:AUR
+
+民航组织编号:LFLW
+
+纬度:44.897579
+
+经度:2.416719
+
+所属国家:France
+
+预设高度:2096

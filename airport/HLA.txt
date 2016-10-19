@@ -1,0 +1,13 @@
+机场:Johannesburg Lanseria International Airport
+
+国际航空运输协会编号:HLA
+
+民航组织编号:FALA
+
+纬度:-25.938499
+
+经度:27.926130
+
+所属国家:South Africa
+
+预设高度:4517

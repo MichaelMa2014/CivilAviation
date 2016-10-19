@@ -1,0 +1,13 @@
+机场:Balboa Panama Pacifico International Airport
+
+国际航空运输协会编号:BLB
+
+民航组织编号:MPPA
+
+纬度:8.914011
+
+经度:-79.598091
+
+所属国家:Panama
+
+预设高度:33

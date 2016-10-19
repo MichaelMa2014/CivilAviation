@@ -1,0 +1,13 @@
+机场:Sucre Juana Azurduy de Padilla International Airport
+
+国际航空运输协会编号:SRE
+
+民航组织编号:SLSU
+
+纬度:-19.007000
+
+经度:-65.288696
+
+所属国家:Bolivia
+
+预设高度:9527

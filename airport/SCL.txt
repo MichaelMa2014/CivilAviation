@@ -1,0 +1,13 @@
+机场:Santiago International Airport
+
+国际航空运输协会编号:SCL
+
+民航组织编号:SCEL
+
+纬度:-33.392899
+
+经度:-70.785797
+
+所属国家:Chile
+
+预设高度:1555

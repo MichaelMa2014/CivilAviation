@@ -1,0 +1,13 @@
+机场:Chania International Airport
+
+国际航空运输协会编号:CHQ
+
+民航组织编号:LGSA
+
+纬度:35.531738
+
+经度:24.149670
+
+所属国家:Greece
+
+预设高度:490

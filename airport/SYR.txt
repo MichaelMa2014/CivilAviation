@@ -1,0 +1,13 @@
+机场:Syracuse Hancock International Airport
+
+国际航空运输协会编号:SYR
+
+民航组织编号:KSYR
+
+纬度:43.111179
+
+经度:-76.106300
+
+所属国家:United States
+
+预设高度:421

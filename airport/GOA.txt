@@ -1,0 +1,13 @@
+机场:Genoa Cristoforo Colombo Airport
+
+国际航空运输协会编号:GOA
+
+民航组织编号:LIMJ
+
+纬度:44.413330
+
+经度:8.837500
+
+所属国家:Italy
+
+预设高度:13

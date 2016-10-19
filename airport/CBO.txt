@@ -1,0 +1,13 @@
+机场:Cotabato Awang Airport
+
+国际航空运输协会编号:CBO
+
+民航组织编号:RPWC
+
+纬度:7.165242
+
+经度:124.209602
+
+所属国家:Philippines
+
+预设高度:189

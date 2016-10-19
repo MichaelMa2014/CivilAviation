@@ -1,0 +1,13 @@
+机场:Flensburg Schaferhaus Airport
+
+国际航空运输协会编号:FLF
+
+民航组织编号:EDXF
+
+纬度:54.773335
+
+经度:9.378889
+
+所属国家:Germany
+
+预设高度:131

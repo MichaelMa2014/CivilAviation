@@ -1,0 +1,13 @@
+机场:Hobart International Airport
+
+国际航空运输协会编号:HBA
+
+民航组织编号:YMHB
+
+纬度:-42.836102
+
+经度:147.510193
+
+所属国家:Australia
+
+预设高度:13

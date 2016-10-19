@@ -1,0 +1,13 @@
+机场:Quimper Cornouaille Airport
+
+国际航空运输协会编号:UIP
+
+民航组织编号:LFRQ
+
+纬度:47.974998
+
+经度:-4.167770
+
+所属国家:France
+
+预设高度:297

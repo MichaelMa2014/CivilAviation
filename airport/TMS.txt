@@ -1,0 +1,13 @@
+机场:Sao Tome International Airport
+
+国际航空运输协会编号:TMS
+
+民航组织编号:FPST
+
+纬度:0.378175
+
+经度:6.712153
+
+所属国家:Sao Tome And Principe
+
+预设高度:33

@@ -1,0 +1,13 @@
+机场:Flinders Island Airport
+
+国际航空运输协会编号:FLS
+
+民航组织编号:YFLI
+
+纬度:-40.095001
+
+经度:147.996674
+
+所属国家:Australia
+
+预设高度:34

@@ -1,0 +1,13 @@
+机场:Miami International Airport
+
+国际航空运输协会编号:MIA
+
+民航组织编号:KMIA
+
+纬度:25.793249
+
+经度:-80.290497
+
+所属国家:United States
+
+预设高度:8

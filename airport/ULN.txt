@@ -1,0 +1,13 @@
+机场:Ulan Bator Chinggis Khaan International Airport
+
+国际航空运输协会编号:ULN
+
+民航组织编号:ZMUB
+
+纬度:47.843048
+
+经度:106.766602
+
+所属国家:Mongolia
+
+预设高度:4364

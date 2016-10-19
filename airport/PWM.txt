@@ -1,0 +1,13 @@
+机场:Portland International Jetport
+
+国际航空运输协会编号:PWM
+
+民航组织编号:KPWM
+
+纬度:43.646160
+
+经度:-70.309196
+
+所属国家:United States
+
+预设高度:76

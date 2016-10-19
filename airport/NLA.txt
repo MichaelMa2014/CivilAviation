@@ -1,0 +1,13 @@
+机场:Ndola International Airport
+
+国际航空运输协会编号:NLA
+
+民航组织编号:FLND
+
+纬度:-12.998100
+
+经度:28.664940
+
+所属国家:Zambia
+
+预设高度:4167

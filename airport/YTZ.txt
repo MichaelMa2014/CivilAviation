@@ -1,0 +1,13 @@
+机场:Toronto City Billy Bishop Airport
+
+国际航空运输协会编号:YTZ
+
+民航组织编号:CYTZ
+
+纬度:43.627491
+
+经度:-79.396103
+
+所属国家:Canada
+
+预设高度:251

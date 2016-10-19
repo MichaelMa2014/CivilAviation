@@ -1,0 +1,13 @@
+机场:San Jose del Cabo Los Cabos International Airport
+
+国际航空运输协会编号:SJD
+
+民航组织编号:MMSD
+
+纬度:23.151850
+
+经度:-109.721001
+
+所属国家:Mexico
+
+预设高度:374

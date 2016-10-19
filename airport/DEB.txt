@@ -1,0 +1,13 @@
+机场:Debrecen International Airport
+
+国际航空运输协会编号:DEB
+
+民航组织编号:LHDC
+
+纬度:47.488911
+
+经度:21.615330
+
+所属国家:Hungary
+
+预设高度:359

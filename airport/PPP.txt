@@ -1,0 +1,13 @@
+机场:Proserpine Whitsunday Coast Airport
+
+国际航空运输协会编号:PPP
+
+民航组织编号:YBPN
+
+纬度:-20.495001
+
+经度:148.552200
+
+所属国家:Australia
+
+预设高度:82

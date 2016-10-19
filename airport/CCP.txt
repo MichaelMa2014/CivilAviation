@@ -1,0 +1,13 @@
+机场:Concepcion Carriel Sur International Airport
+
+国际航空运输协会编号:CCP
+
+民航组织编号:SCIE
+
+纬度:-36.772598
+
+经度:-73.063103
+
+所属国家:Chile
+
+预设高度:26

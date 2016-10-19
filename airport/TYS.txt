@@ -1,0 +1,13 @@
+机场:Knoxville McGhee Tyson Airport
+
+国际航空运输协会编号:TYS
+
+民航组织编号:KTYS
+
+纬度:35.810970
+
+经度:-83.994003
+
+所属国家:United States
+
+预设高度:981

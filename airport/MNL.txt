@@ -1,0 +1,13 @@
+机场:Manila Ninoy Aquino International Airport
+
+国际航空运输协会编号:MNL
+
+民航组织编号:RPLL
+
+纬度:14.508640
+
+经度:121.019501
+
+所属国家:Philippines
+
+预设高度:75

@@ -1,0 +1,13 @@
+机场:Sioux Gateway Airport
+
+国际航空运输协会编号:SUX
+
+民航组织编号:KSUX
+
+纬度:42.402599
+
+经度:-96.384300
+
+所属国家:United States
+
+预设高度:1098

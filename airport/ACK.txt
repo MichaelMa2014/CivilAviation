@@ -1,0 +1,13 @@
+机场:Nantucket Memorial Airport
+
+国际航空运输协会编号:ACK
+
+民航组织编号:KACK
+
+纬度:41.253052
+
+经度:-70.060097
+
+所属国家:United States
+
+预设高度:47

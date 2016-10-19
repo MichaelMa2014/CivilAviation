@@ -1,0 +1,13 @@
+机场:Banjarmasin Syamsudin Noor Airport
+
+国际航空运输协会编号:BDJ
+
+民航组织编号:WRBB
+
+纬度:-3.442350
+
+经度:114.762497
+
+所属国家:Indonesia
+
+预设高度:66

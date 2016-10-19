@@ -1,0 +1,13 @@
+机场:Kisumu International Airport
+
+国际航空运输协会编号:KIS
+
+民航组织编号:HKKI
+
+纬度:-0.086130
+
+经度:34.728889
+
+所属国家:Kenya
+
+预设高度:3796

@@ -1,0 +1,13 @@
+机场:Bandung Husein Sastranegara International Airport
+
+国际航空运输协会编号:BDO
+
+民航组织编号:WIIB
+
+纬度:-6.900620
+
+经度:107.576202
+
+所属国家:Indonesia
+
+预设高度:2436

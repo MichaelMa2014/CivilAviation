@@ -1,0 +1,13 @@
+机场:High Wycombe Booker Airfield
+
+国际航空运输协会编号:HYC
+
+民航组织编号:EGTB
+
+纬度:51.611698
+
+经度:-0.808333
+
+所属国家:United Kingdom
+
+预设高度:515

@@ -1,0 +1,13 @@
+机场:Annaba Rabah Bitat Airport
+
+国际航空运输协会编号:AAE
+
+民航组织编号:DABB
+
+纬度:36.822220
+
+经度:7.809167
+
+所属国家:Algeria
+
+预设高度:16

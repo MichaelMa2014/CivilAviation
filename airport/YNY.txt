@@ -1,0 +1,13 @@
+机场:Yangyang International Airport
+
+国际航空运输协会编号:YNY
+
+民航组织编号:RKNY
+
+纬度:38.061310
+
+经度:128.669098
+
+所属国家:South Korea
+
+预设高度:241

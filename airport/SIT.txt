@@ -1,0 +1,13 @@
+机场:Sitka Rocky Gutierrez Airport
+
+国际航空运输协会编号:SIT
+
+民航组织编号:PASI
+
+纬度:57.047131
+
+经度:-135.360992
+
+所属国家:United States
+
+预设高度:26

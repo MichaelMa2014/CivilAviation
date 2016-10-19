@@ -1,0 +1,13 @@
+机场:Seattle Tacoma International Airport
+
+国际航空运输协会编号:SEA
+
+民航组织编号:KSEA
+
+纬度:47.448200
+
+经度:-122.311203
+
+所属国家:United States
+
+预设高度:433

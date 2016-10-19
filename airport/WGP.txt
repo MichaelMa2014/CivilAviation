@@ -1,0 +1,13 @@
+机场:Waingapu Mau Hau Airport
+
+国际航空运输协会编号:WGP
+
+民航组织编号:WRRW
+
+纬度:-9.669210
+
+经度:120.302002
+
+所属国家:Indonesia
+
+预设高度:33

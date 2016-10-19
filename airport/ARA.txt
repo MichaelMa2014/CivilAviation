@@ -1,0 +1,13 @@
+机场:New Iberia Acadiana Regional Airport
+
+国际航空运输协会编号:ARA
+
+民航组织编号:KARA
+
+纬度:30.037750
+
+经度:-91.883797
+
+所属国家:United States
+
+预设高度:24

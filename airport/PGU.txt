@@ -1,0 +1,13 @@
+机场:Assaluyeh Persian Gulf Airport
+
+国际航空运输协会编号:PGU
+
+民航组织编号:OIBP
+
+纬度:27.383959
+
+经度:52.735516
+
+所属国家:Iran
+
+预设高度:40

@@ -1,0 +1,13 @@
+机场:Puerto Vallarta International Airport
+
+国际航空运输协会编号:PVR
+
+民航组织编号:MMPR
+
+纬度:20.680080
+
+经度:-105.253998
+
+所属国家:Mexico
+
+预设高度:23

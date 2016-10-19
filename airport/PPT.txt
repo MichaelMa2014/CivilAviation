@@ -1,0 +1,13 @@
+机场:Papeete Tahiti Faa'a International Airport
+
+国际航空运输协会编号:PPT
+
+民航组织编号:NTAA
+
+纬度:-17.556601
+
+经度:-149.610992
+
+所属国家:French Polynesia
+
+预设高度:7

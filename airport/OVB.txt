@@ -1,0 +1,13 @@
+机场:Novosibirsk Tolmachevo Airport
+
+国际航空运输协会编号:OVB
+
+民航组织编号:UNNT
+
+纬度:55.012619
+
+经度:82.650650
+
+所属国家:Russia
+
+预设高度:365

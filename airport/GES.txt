@@ -1,0 +1,13 @@
+机场:General Santos International Airport
+
+国际航空运输协会编号:GES
+
+民航组织编号:RPMR
+
+纬度:6.058056
+
+经度:125.096107
+
+所属国家:Philippines
+
+预设高度:505

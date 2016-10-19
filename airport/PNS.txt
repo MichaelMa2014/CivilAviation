@@ -1,0 +1,13 @@
+机场:Pensacola International Airport
+
+国际航空运输协会编号:PNS
+
+民航组织编号:KPNS
+
+纬度:30.473419
+
+经度:-87.186600
+
+所属国家:United States
+
+预设高度:121

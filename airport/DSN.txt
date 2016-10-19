@@ -1,0 +1,13 @@
+机场:Dongsheng Ordos Ejin Horo Airport
+
+国际航空运输协会编号:DSN
+
+民航组织编号:ZBDS
+
+纬度:39.849998
+
+经度:110.033333
+
+所属国家:China
+
+预设高度:213

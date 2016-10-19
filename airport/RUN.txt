@@ -1,0 +1,13 @@
+机场:Saint-Denis Roland Garros Airport
+
+国际航空运输协会编号:RUN
+
+民航组织编号:FMEE
+
+纬度:-20.889999
+
+经度:55.516380
+
+所属国家:Reunion
+
+预设高度:66

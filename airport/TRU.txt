@@ -1,0 +1,13 @@
+机场:Trujillo International Airport
+
+国际航空运输协会编号:TRU
+
+民航组织编号:SPRU
+
+纬度:-8.081410
+
+经度:-79.108704
+
+所属国家:Peru
+
+预设高度:106

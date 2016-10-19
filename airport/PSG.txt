@@ -1,0 +1,13 @@
+机场:Petersburg James A. Johnson Airport
+
+国际航空运输协会编号:PSG
+
+民航组织编号:PAPG
+
+纬度:56.801666
+
+经度:-132.945267
+
+所属国家:United States
+
+预设高度:113

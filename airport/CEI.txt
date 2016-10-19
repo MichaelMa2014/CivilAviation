@@ -1,0 +1,13 @@
+机场:Chiang Rai International Airport
+
+国际航空运输协会编号:CEI
+
+民航组织编号:VTCT
+
+纬度:19.952339
+
+经度:99.882919
+
+所属国家:Thailand
+
+预设高度:1280

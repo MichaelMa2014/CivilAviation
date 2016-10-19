@@ -1,0 +1,13 @@
+机场:Santa Cruz Viru Viru International Airport
+
+国际航空运输协会编号:VVI
+
+民航组织编号:SLVR
+
+纬度:-17.644699
+
+经度:-63.135300
+
+所属国家:Bolivia
+
+预设高度:1225

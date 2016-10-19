@@ -1,0 +1,13 @@
+机场:Flint Bishop International Airport
+
+国际航空运输协会编号:FNT
+
+民航组织编号:KFNT
+
+纬度:42.965420
+
+经度:-83.743599
+
+所属国家:United States
+
+预设高度:782

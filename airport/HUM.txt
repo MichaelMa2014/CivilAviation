@@ -1,0 +1,13 @@
+机场:Houma Terrebonne Airport
+
+国际航空运输协会编号:HUM
+
+民航组织编号:KHUM
+
+纬度:29.566944
+
+经度:-90.660835
+
+所属国家:United States
+
+预设高度:10

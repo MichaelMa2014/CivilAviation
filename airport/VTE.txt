@@ -1,0 +1,13 @@
+机场:Vientiane Wattay International Airport
+
+国际航空运输协会编号:VTE
+
+民航组织编号:VLVT
+
+纬度:17.988319
+
+经度:102.563202
+
+所属国家:Laos
+
+预设高度:564

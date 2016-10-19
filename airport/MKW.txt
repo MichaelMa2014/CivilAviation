@@ -1,0 +1,13 @@
+机场:Manokwari Rendani Airport
+
+国际航空运输协会编号:MKW
+
+民航组织编号:WASR
+
+纬度:-0.891830
+
+经度:134.049103
+
+所属国家:Indonesia
+
+预设高度:23

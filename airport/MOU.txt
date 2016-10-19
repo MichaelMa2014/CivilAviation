@@ -1,0 +1,13 @@
+机场:Mountain Village Airport
+
+国际航空运输协会编号:MOU
+
+民航组织编号:PAMO
+
+纬度:62.095402
+
+经度:-163.682007
+
+所属国家:United States
+
+预设高度:337

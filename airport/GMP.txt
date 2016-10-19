@@ -1,0 +1,13 @@
+机场:Seoul Gimpo International Airport
+
+国际航空运输协会编号:GMP
+
+民航组织编号:RKSS
+
+纬度:37.558311
+
+经度:126.790497
+
+所属国家:South Korea
+
+预设高度:58

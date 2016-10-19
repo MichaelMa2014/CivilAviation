@@ -1,0 +1,13 @@
+机场:San Jose Juan Santamaria International Airport
+
+国际航空运输协会编号:SJO
+
+民航组织编号:MROC
+
+纬度:9.993903
+
+经度:-84.208801
+
+所属国家:Costa Rica
+
+预设高度:3021

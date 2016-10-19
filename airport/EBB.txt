@@ -1,0 +1,13 @@
+机场:Entebbe International Airport
+
+国际航空运输协会编号:EBB
+
+民航组织编号:HUEN
+
+纬度:0.042386
+
+经度:32.443501
+
+所属国家:Uganda
+
+预设高度:3782

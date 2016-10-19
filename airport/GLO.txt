@@ -1,0 +1,13 @@
+机场:Gloucester Gloucestershire Airport
+
+国际航空运输协会编号:GLO
+
+民航组织编号:EGBJ
+
+纬度:51.894161
+
+经度:-2.167220
+
+所属国家:United Kingdom
+
+预设高度:101

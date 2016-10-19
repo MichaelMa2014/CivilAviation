@@ -1,0 +1,13 @@
+机场:Juliaca Inca Manco Capac International Airport
+
+国际航空运输协会编号:JUL
+
+民航组织编号:SPJL
+
+纬度:-15.467100
+
+经度:-70.158096
+
+所属国家:Peru
+
+预设高度:12552

@@ -1,0 +1,13 @@
+机场:Colombo Bandaranaike International Airport
+
+国际航空运输协会编号:CMB
+
+民航组织编号:VCBI
+
+纬度:7.180756
+
+经度:79.884109
+
+所属国家:Sri Lanka
+
+预设高度:30

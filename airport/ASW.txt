@@ -1,0 +1,13 @@
+机场:Aswan International Airport
+
+国际航空运输协会编号:ASW
+
+民航组织编号:HESN
+
+纬度:23.964350
+
+经度:32.819969
+
+所属国家:Egypt
+
+预设高度:662

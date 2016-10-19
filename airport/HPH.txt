@@ -1,0 +1,13 @@
+机场:Haiphong Cat Bi International Airport
+
+国际航空运输协会编号:HPH
+
+民航组织编号:VVCI
+
+纬度:20.823315
+
+经度:106.727325
+
+所属国家:Vietnam
+
+预设高度:6

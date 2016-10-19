@@ -1,0 +1,13 @@
+机场:Dumaguete City Sibulan Airport
+
+国际航空运输协会编号:DGT
+
+民航组织编号:RPVD
+
+纬度:9.333714
+
+经度:123.300400
+
+所属国家:Philippines
+
+预设高度:15

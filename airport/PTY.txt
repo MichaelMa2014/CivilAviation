@@ -1,0 +1,13 @@
+机场:Panama City Tocumen International Airport
+
+国际航空运输协会编号:PTY
+
+民航组织编号:MPTO
+
+纬度:9.071364
+
+经度:-79.383400
+
+所属国家:Panama
+
+预设高度:135

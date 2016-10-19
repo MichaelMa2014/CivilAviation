@@ -1,0 +1,13 @@
+机场:Mojave Air and Space Port
+
+国际航空运输协会编号:MHV
+
+民航组织编号:KMHV
+
+纬度:35.066666
+
+经度:-118.150002
+
+所属国家:United States
+
+预设高度:2791

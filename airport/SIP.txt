@@ -1,0 +1,13 @@
+机场:Simferopol International Airport
+
+国际航空运输协会编号:SIP
+
+民航组织编号:UKFF
+
+纬度:45.052219
+
+经度:33.975128
+
+所属国家:Ukraine
+
+预设高度:639

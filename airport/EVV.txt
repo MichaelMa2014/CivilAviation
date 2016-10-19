@@ -1,0 +1,13 @@
+机场:Evansville Regional Airport
+
+国际航空运输协会编号:EVV
+
+民航组织编号:KEVV
+
+纬度:38.036991
+
+经度:-87.532303
+
+所属国家:United States
+
+预设高度:418

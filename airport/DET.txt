@@ -1,0 +1,13 @@
+机场:Detroit Coleman A. Young International Airport
+
+国际航空运输协会编号:DET
+
+民航组织编号:KDET
+
+纬度:42.409191
+
+经度:-83.009804
+
+所属国家:United States
+
+预设高度:626

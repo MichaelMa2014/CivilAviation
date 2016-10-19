@@ -1,0 +1,13 @@
+机场:Donetsk Sergey Prokofiev International Airport
+
+国际航空运输协会编号:DOK
+
+民航组织编号:UKCC
+
+纬度:48.073608
+
+经度:37.739719
+
+所属国家:Ukraine
+
+预设高度:791

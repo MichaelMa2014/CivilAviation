@@ -1,0 +1,13 @@
+机场:Joao Pessoa Castro Pinto International Airport
+
+国际航空运输协会编号:JPA
+
+民航组织编号:SBJP
+
+纬度:-7.148380
+
+经度:-34.950600
+
+所属国家:Brazil
+
+预设高度:215

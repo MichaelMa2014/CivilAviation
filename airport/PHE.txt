@@ -1,0 +1,13 @@
+机场:Port Hedland International Airport
+
+国际航空运输协会编号:PHE
+
+民航组织编号:YPPD
+
+纬度:-20.377701
+
+经度:118.626297
+
+所属国家:Australia
+
+预设高度:33

@@ -1,0 +1,13 @@
+机场:Orlando International Airport
+
+国际航空运输协会编号:MCO
+
+民航组织编号:KMCO
+
+纬度:28.429390
+
+经度:-81.308899
+
+所属国家:United States
+
+预设高度:96

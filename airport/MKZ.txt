@@ -1,0 +1,13 @@
+机场:Malacca International Airport
+
+国际航空运输协会编号:MKZ
+
+民航组织编号:WMKM
+
+纬度:2.263361
+
+经度:102.251503
+
+所属国家:Malaysia
+
+预设高度:35

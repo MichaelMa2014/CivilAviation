@@ -1,0 +1,13 @@
+机场:Budapest Ferenc Liszt International Airport
+
+国际航空运输协会编号:BUD
+
+民航组织编号:LHBP
+
+纬度:47.436932
+
+经度:19.255590
+
+所属国家:Hungary
+
+预设高度:495

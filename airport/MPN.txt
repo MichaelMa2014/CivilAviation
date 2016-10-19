@@ -1,0 +1,13 @@
+机场:Mount Pleasant Airport
+
+国际航空运输协会编号:MPN
+
+民航组织编号:EGYP
+
+纬度:-51.822701
+
+经度:-58.447201
+
+所属国家:Falkland Islands (Malvinas)
+
+预设高度:244

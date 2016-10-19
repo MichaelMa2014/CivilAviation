@@ -1,0 +1,13 @@
+机场:Maastricht Aachen Airport
+
+国际航空运输协会编号:MST
+
+民航组织编号:EHBK
+
+纬度:50.911652
+
+经度:5.770144
+
+所属国家:Netherlands
+
+预设高度:375

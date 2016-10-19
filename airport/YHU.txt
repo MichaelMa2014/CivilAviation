@@ -1,0 +1,13 @@
+机场:Montreal Saint-Hubert Airport
+
+国际航空运输协会编号:YHU
+
+民航组织编号:CYHU
+
+纬度:45.517502
+
+经度:-73.416901
+
+所属国家:Canada
+
+预设高度:90

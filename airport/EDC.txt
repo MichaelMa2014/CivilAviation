@@ -1,0 +1,13 @@
+机场:Austin Executive Airport
+
+国际航空运输协会编号:EDC
+
+民航组织编号:KEDC
+
+纬度:30.389999
+
+经度:-97.559998
+
+所属国家:United States
+
+预设高度:620

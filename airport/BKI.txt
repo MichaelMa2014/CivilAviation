@@ -1,0 +1,13 @@
+机场:Kota Kinabalu International Airport
+
+国际航空运输协会编号:BKI
+
+民航组织编号:WBKK
+
+纬度:5.937208
+
+经度:116.051102
+
+所属国家:Malaysia
+
+预设高度:10

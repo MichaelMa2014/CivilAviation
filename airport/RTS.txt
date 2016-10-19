@@ -1,0 +1,13 @@
+机场:Rottnest Island Airport
+
+国际航空运输协会编号:RTS
+
+民航组织编号:YRTI
+
+纬度:-32.006699
+
+经度:115.540001
+
+所属国家:Australia
+
+预设高度:12

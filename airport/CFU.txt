@@ -1,0 +1,13 @@
+机场:Corfu International Airport
+
+国际航空运输协会编号:CFU
+
+民航组织编号:LGKR
+
+纬度:39.601940
+
+经度:19.911659
+
+所属国家:Greece
+
+预设高度:6

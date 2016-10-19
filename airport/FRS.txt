@@ -1,0 +1,13 @@
+机场:Flores Santa Elena Airport
+
+国际航空运输协会编号:FRS
+
+民航组织编号:MGFL
+
+纬度:16.913811
+
+经度:-89.866302
+
+所属国家:Guatemala
+
+预设高度:427

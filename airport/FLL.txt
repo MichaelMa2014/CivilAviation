@@ -1,0 +1,13 @@
+机场:Fort Lauderdale Hollywood International Airport
+
+国际航空运输协会编号:FLL
+
+民航组织编号:KFLL
+
+纬度:26.072580
+
+经度:-80.152702
+
+所属国家:United States
+
+预设高度:9

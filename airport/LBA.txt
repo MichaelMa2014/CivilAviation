@@ -1,0 +1,13 @@
+机场:Leeds Bradford International Airport
+
+国际航空运输协会编号:LBA
+
+民航组织编号:EGNM
+
+纬度:53.865891
+
+经度:-1.660560
+
+所属国家:United Kingdom
+
+预设高度:681

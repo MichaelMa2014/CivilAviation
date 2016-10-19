@@ -1,0 +1,13 @@
+机场:Jieyang Chaoshan International Airport
+
+国际航空运输协会编号:SWA
+
+民航组织编号:ZGOW
+
+纬度:23.552500
+
+经度:116.505836
+
+所属国家:China
+
+预设高度:180

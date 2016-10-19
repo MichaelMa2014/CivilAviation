@@ -1,0 +1,13 @@
+机场:Manzanillo Playa de Oro International Airport
+
+国际航空运输协会编号:ZLO
+
+民航组织编号:MMZO
+
+纬度:19.144770
+
+经度:-104.557999
+
+所属国家:Mexico
+
+预设高度:30

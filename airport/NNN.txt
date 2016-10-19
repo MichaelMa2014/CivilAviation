@@ -1,0 +1,13 @@
+机场:Ny-Alesund Hamnerabben Airport
+
+国际航空运输协会编号:NNN
+
+民航组织编号:ENAS
+
+纬度:78.927780
+
+经度:11.874722
+
+所属国家:Norway
+
+预设高度:131

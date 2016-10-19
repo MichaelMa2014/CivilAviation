@@ -1,0 +1,13 @@
+机场:Ljubljana Joze Pucnik Airport
+
+国际航空运输协会编号:LJU
+
+民航组织编号:LJLJ
+
+纬度:46.223679
+
+经度:14.457610
+
+所属国家:Slovenia
+
+预设高度:1273

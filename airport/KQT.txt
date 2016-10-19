@@ -1,0 +1,13 @@
+机场:Kurgan Tyube Qurghonteppa International Airport
+
+国际航空运输协会编号:KQT
+
+民航组织编号:UTDT
+
+纬度:37.859612
+
+经度:68.861168
+
+所属国家:Tajikistan
+
+预设高度:-1

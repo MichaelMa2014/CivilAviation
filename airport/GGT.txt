@@ -1,0 +1,13 @@
+机场:George Town Exuma International Airport
+
+国际航空运输协会编号:GGT
+
+民航组织编号:MYEF
+
+纬度:23.562630
+
+经度:-75.877899
+
+所属国家:Bahamas
+
+预设高度:9

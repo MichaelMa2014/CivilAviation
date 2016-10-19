@@ -1,0 +1,13 @@
+机场:Nouadhibou International Airport
+
+国际航空运输协会编号:NDB
+
+民航组织编号:GQPP
+
+纬度:20.933060
+
+经度:-17.029900
+
+所属国家:Mauritania
+
+预设高度:16

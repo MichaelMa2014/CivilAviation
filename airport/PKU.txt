@@ -1,0 +1,13 @@
+机场:Pekanbaru Sultan Syarif Kasim II Airport
+
+国际航空运输协会编号:PKU
+
+民航组织编号:WIBB
+
+纬度:0.460786
+
+经度:101.444504
+
+所属国家:Indonesia
+
+预设高度:102

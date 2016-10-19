@@ -1,0 +1,13 @@
+机场:Freetown Lungi International Airport
+
+国际航空运输协会编号:FNA
+
+民航组织编号:GFLL
+
+纬度:8.616444
+
+经度:-13.195400
+
+所属国家:Sierra Leone
+
+预设高度:84

@@ -1,0 +1,13 @@
+机场:Cap-Haitien International Airport
+
+国际航空运输协会编号:CAP
+
+民航组织编号:MTCH
+
+纬度:19.732981
+
+经度:-72.194702
+
+所属国家:Haiti
+
+预设高度:10
