@@ -26,8 +26,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
     <!----webfonts--->
-    <link href='http://fonts.useso.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
-    <!---//webfonts--->
+    <!--<link href='http://fonts.useso.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>-->
     <!-- Nav CSS -->
     <link href="css/custom.css" rel="stylesheet">
     <!-- Metis Menu Plugin JavaScript -->
@@ -56,8 +55,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         stroke-width: 1px;
         fill: black;
     }
-	
-	
 	.tooltip{
 			position: absolute;
 			width: 300;
@@ -65,13 +62,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			font-family: STKaiti;
 			font-size: 36px;
 			text-align: center;
-			border-style: solid; 
+			border-style: solid;
 			border-width: 3px;
 			background-color: white;
 			border-radius: 20px;
 	}
-	
-	
+
+
 </style>
 
 <body>
@@ -262,22 +259,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <!-- 4 Buttons -->
                 <div class="col_3">
                     <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>机场</strong></h5>
-                                <span>机场分布信息</span>
+                        <a href="/index">
+                            <div class="r3_counter_box">
+                                <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
+                                <div class="stats">
+                                    <h5><strong>机场</strong></h5>
+                                    <span>机场分布信息</span>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-users user1 icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>航线</strong></h5>
-                                <span>航线分布信息</span>
+                        <a href="/airline">
+                            <div class="r3_counter_box">
+                                <i class="pull-left fa fa-users user1 icon-rounded"></i>
+                                <div class="stats">
+                                    <h5><strong>航线</strong></h5>
+                                    <span>航线分布信息</span>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-3 widget widget1">
                         <div class="r3_counter_box">
@@ -339,6 +340,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         var s = projection([center.latitude,center.longitude]);
                                         var t = projection.center();
 
+                                        console.log(map.tryLocationToPixel(center, Microsoft.Maps.PixelReference.control));
                                         //防止在D3地图和bing地图缩放联动时循环缩放
                                         if(scale != Math.floor(zoom.scale()/scale0 / 2) + 1)
                                         {
@@ -359,7 +361,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         }
                                     });
 
-
                                     //D3地图部分
                                     var airport;
                                     var airline;
@@ -378,8 +379,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                             .projection(projection);
                                     var svg = d3.select("#vmap").append("svg")
                                             .attr("width", w)
-                                            .attr("height", h);
-//                                            .append("g"); // 删掉此语句会导致主图超出左侧方块范围
+                                            .attr("height", h)
+                                            .append("g"); // 删掉此语句会导致主图超出左侧方块范围
                                     //绘制机场及航线信息
                                     function drawInfo()
                                     {
@@ -471,15 +472,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         });
                                     }
                                     feature = svg.append("g");
-
                                     svg.append("rect")
                                             .attr("class", "overlay")
                                             .attr("width", w)
                                             .attr("height", h);
-
-                                    svg.call(zoom)
-                                            .call(zoom.event);
+                                    svg.call(zoom);
                                     function zoomed() {
+                                        console.log(zoom.translate());
                                         projection.translate(zoom.translate())
                                                 .scale(zoom.scale());
 
@@ -497,7 +496,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                                         console.log(Math.floor(zoom.scale()/scale0 / 2) + 1);
                                     }
-
                                     //绘制世界地图
                                     d3.json("worldmap.json", function(maproot) {
                                         // var maproot = topojson.feature(collection,collection.objects.worldmap);
@@ -508,22 +506,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                 .attr("d", path);
 
                                         feature.selectAll("title")
-                                                .data(maproot.features)
-                                                .enter()
-                                                .append("title")
-                                                .text(function(d) {
-                                                    return d.properties.name;
-                                                });
+                                            .data(maproot.features)
+                                            .enter()
+                                            .append("title")
+                                            .text(function(d) {
+                                                return d.properties.name;
+                                            });
 
                                     });
                                     //绘制机场及航线信息
-                                    drawInfo()
-                                }
+                                    drawInfo();
+                                };
                                 var tooltip = d3.select("body")
                                         .append("div")
                                         .attr("class","tooltip")
                                         .style("opacity",0.0);
-
                             </script>
                         </div>
 
