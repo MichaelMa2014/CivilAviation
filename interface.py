@@ -357,7 +357,13 @@ def real_time():
     f_second = int(time.time()) - 300
     l_second = int(time.time())
     t = datetime.date.today().timetuple()
-    date = str(t[0]) + '-' + str(t[1]) + '-' + str(t[2])  # 2016-10-18
+    month = str(t[1])
+    date = str(t[2])
+    if t[1] < 10:
+        month = '0' + month
+    if t[2] < 10:
+        date = '0' + date
+    date = str(t[0]) + '-' + month + '-' + date # 2016-10-18
     cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].find(
         {"timestamp": {"$gte": f_second, "$lte": l_second}})
 
