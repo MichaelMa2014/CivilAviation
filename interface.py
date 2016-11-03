@@ -8,6 +8,7 @@ import pymongo
 from flask import Flask
 from flask import request, make_response, current_app
 from functools import update_wrapper
+from bson.code import Code
 
 app = Flask(__name__)
 
@@ -364,8 +365,22 @@ def real_time():
     if t[2] < 10:
         date = '0' + date
     date = str(t[0]) + '-' + month + '-' + date # 2016-10-18
-    cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].find(
-        {"timestamp": {"$gte": f_second, "$lte": l_second}})
+    mapper = Code("""
+                        function() {
+                            if (this.timestamp >= """ + str(f_second) + """ && this.timestamp <=""" + str(l_second) + """ ) {
+                                emit(this.fid, {timestamp: this.timestamp, lon: this.lon, lat: this.lat, num1: this.num1});
+                            }
+                        }
+                     """)
+    reducer = Code("""
+                        function(key, values) {
+                            var result = {};
+                            values.sort(function(a, b) {return - a.timestamp + b.timestamp});
+                            result = values[0];
+                            return result;
+                        }
+                      """)
+    cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].inline_map_reduce(mapper, reducer)
 
     results = []
     results.extend([r for r in cursor])
