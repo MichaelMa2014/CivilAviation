@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>GeoJSON from live realtime data</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='mapbox.js'></script>
+<link href='mapbox.css' rel='stylesheet' />
+<script src="jquery.js"></script>
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+// L.mapbox.accessToken = 'pk.eyJ1IjoiZHVvbGsiLCJhIjoiY2l0eHc0dm43MDNjMTJ6cW0xNnRtcmFvZCJ9.Vl03Fr0t0YDfOUSEz5J3Dg';
+L.mapbox.accessToken = 'pk.eyJ1IjoiZHVvbGsiLCJhIjoiY2l1MDhsOHUzMDFxcTJ5cWhweXkwMGVlZCJ9.oIjlaJObVo6QEjG8Gt-Dsw';
+var map;
+map = L.mapbox.map('map')
+			    .setView([39.9, 115.0])
+			    .setZoom(5);
+// $.ajax({
+// 	    type: "POST",  
+// 	    url: "map/style.json",
+// 	    dataType: "text",
+// 	    success: function(data) {
+// 	    	var mapjson = JSON.parse(data);
+	    	
+// 	    },
+// 	    error: function(msg) {
+// 	        alert("can't load the map!");
+// 	    }
+// 	});
+
+
+L.mapbox.styleLayer('mapbox://styles/duolk/civ0j62b4001w2jo3pgaebonj').addTo(map);
+
+
+
+var featureLayer = L.mapbox.featureLayer()
+    .addTo(map);
+
+// var marker = L.marker([-53, 40], {
+//     icon: L.mapbox.marker.icon({
+//       iconUrl: 'my-icon.png'
+//     })
+// });
+// marker.addTo(featureLayer);
+// var t = 0;
+var x,y;
+var marker;
+var oldmarkers = new Array();
+var old_num = 0;
+var new_num = 0;
+// var p = 30;
+// var q = 120;
+function draw() {
+
+	$.ajax({
+	    type: "POST",  
+	    // url: "http://219.224.134.225:5050/real-time-box?llat=30&llon=120&rlat=40&rlon=130",
+	    url: "data-example.txt",
+	    dataType: "text",
+	    success: function(data) {
+	    		// console.log("load");
+	    		// alert("ok");
+	    		if(map.getZoom()>0){
+	    			// var markers = eval('(' + data + ')');
+	    			var markers = JSON.parse(data);
+	    			for (var i in markers) {
+	    				// x = markers.features[i].geometry.coordinates[1];
+	    				// y = markers.features[i].geometry.coordinates[0];
+	    				x = markers[i].lat;
+	    				y = markers[i].lon;
+
+	    					if(map.getBounds().contains(L.latLng(x,y))){
+		    					marker = L.marker([x,y],{icon: L.icon({iconUrl: 'airplane_2.svg' })});
+		    					
+		                    	marker.addTo(featureLayer);
+		                    	if(old_num!=0){
+		                    		map.removeLayer(oldmarkers.shift());
+		                    		old_num--;
+		                    	}
+		                    	oldmarkers.push(marker);
+		                    	new_num++;
+		    				}
+					}
+	                while(old_num!=0){
+						map.removeLayer(oldmarkers.shift());
+						old_num--;
+					}
+	                old_num = new_num;
+	                new_num = 0;
+	    		}
+                
+	    },
+	    error: function(msg) {
+	        alert("can't receive the data!");
+	    }
+	});
+
+
+}
+draw();
+window.setInterval(function(){
+	// while(oldmarkers.length!=0){
+	// 	map.removeLayer(oldmarkers.pop());
+	// }
+	draw();
+}, 4000);
+
+
+
+</script>
+
+</body>
+</html>
+
