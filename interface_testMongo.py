@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import time
+import json
 import pymongo
 from flask import Flask
 from bson.code import Code
@@ -29,7 +30,7 @@ daily_collection_name_prefix = "trails_"
 
 print("test start....")
 date = "2016-06-10"
-f_second = date + ' 22:00:00'
+f_second = date + ' 23:50:00'
 l_second = date + ' 23:59:59'
 
 first = str(HMS2ts(f_second))
@@ -67,7 +68,7 @@ reducer = Code("""
 mapper_rt = Code("""
                     function() {
                         if (this.timestamp >= """ + first + """ && this.timestamp <=""" + second + """ ) {
-                            emit(this.fid, {timestamp: this.timestamp, lon: this.lon, lat: this.lat});
+                            emit(this.fid, this);
                         }
                     }
                  """)
@@ -81,7 +82,10 @@ reducer_rt = Code("""
                   """)
 
 
+cursor = mongo["trails_20160610"].inline_map_reduce(mapper_rt, reducer_rt)
+results = []
 
-result = mongo["trails_20160610"].inline_map_reduce(mapper_rt, reducer_rt)
-print(result)
-print("end")
+print cursor
+
+results.extend([r[u'value'] for r in cursor])
+print json.dumps(results)

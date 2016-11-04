@@ -368,7 +368,7 @@ def real_time():
     mapper = Code("""
                         function() {
                             if (this.timestamp >= """ + str(f_second) + """ && this.timestamp <=""" + str(l_second) + """ ) {
-                                emit(this.fid, {timestamp: this.timestamp, lon: this.lon, lat: this.lat, num1: this.num1});
+                                emit(this.flight, this);
                             }
                         }
                      """)
@@ -383,7 +383,7 @@ def real_time():
     cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].inline_map_reduce(mapper, reducer)
 
     results = []
-    results.extend([r for r in cursor])
+    results.extend([r[u'value'] for r in cursor])
     return json.dumps(results)
 
 
