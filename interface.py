@@ -15,6 +15,7 @@ app = Flask(__name__)
 MONGOD_HOST = '219.224.134.213'
 MONGOD_PORT = 27017
 
+
 def crossdomain(origin=None, methods=None, headers=None,
                 max_age=21600, attach_to_all=True,
                 automatic_options=True):
@@ -54,7 +55,9 @@ def crossdomain(origin=None, methods=None, headers=None,
 
         f.provide_automatic_options = False
         return update_wrapper(wrapped_function, f)
+
     return decorator
+
 
 def _default_mongo(host=MONGOD_HOST, port=MONGOD_PORT, usedb='test'):
     # 强制写journal，并强制safe
@@ -355,7 +358,7 @@ def dep_arr_trails_multi_count():
 @app.route('/real-time')
 @crossdomain(origin='*')
 def real_time():
-    f_second = int(time.time()) - 300
+    f_second = int(time.time()) - 600
     l_second = int(time.time())
     t = datetime.date.today().timetuple()
     month = str(t[1])
@@ -364,22 +367,22 @@ def real_time():
         month = '0' + month
     if t[2] < 10:
         date = '0' + date
-    date = str(t[0]) + '-' + month + '-' + date # 2016-10-18
+    date = str(t[0]) + '-' + month + '-' + date  # 2016-10-18
     mapper = Code("""
-                        function() {
-                            if (this.timestamp >= """ + str(f_second) + """ && this.timestamp <=""" + str(l_second) + """ ) {
-                                emit(this.flight, this);
-                            }
+                    function() {
+                        if (this.timestamp >= """ + str(f_second) + """ && this.timestamp <=""" + str(l_second) + """ ) {
+                            emit(this.flight, this);
                         }
-                     """)
+                    }
+                 """)
     reducer = Code("""
-                        function(key, values) {
-                            var result = {};
-                            values.sort(function(a, b) {return - a.timestamp + b.timestamp});
-                            result = values[0];
-                            return result;
-                        }
-                      """)
+                    function(key, values) {
+                        var result = {};
+                        values.sort(function(a, b) {return - a.timestamp + b.timestamp});
+                        result = values[0];
+                        return result;
+                    }
+                  """)
     cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].inline_map_reduce(mapper, reducer)
 
     results = []
@@ -387,24 +390,44 @@ def real_time():
     return json.dumps(results)
 
 
-@app.route('/test')
+@app.route('/real-time-box')
 @crossdomain(origin='*')
-def test():
-    date = "2016-06-10"
-    f_second = date + ' 00:00:00'
-    l_second = date + ' 23:59:59'
-
-    airports = ["PVG", "PEK", "SHA", "CTU", "XMN", "SYX", "HGH", "CAN", "SZX", "HAK", "CKG", "NKG", "TYN", "SHE", "KWE",
-                "XIY", "YNT", "TNA", "NAY", "TAO", "SJW", "WUX", "CGO", "TSN", "XNN", "KMG", "JJN", "CGQ", "LJG", "FOC",
-                "MFM", "CSX", "KHN", "HRB", "URC", "LHW", "ZUH", "BHY", "DLC", "XUZ", "HET", "HFE", "KWL", "SWA", "WUH",
-                "NGB", "DAT", "JUZ", "NNG"]
+def real_time_box():
+    llon = request.args.get("llon")  # 左下角
+    llat = request.args.get("llat")
+    rlon = request.args.get("rlon")  # 右上角
+    rlat = request.args.get("rlon")
+    f_second = int(time.time()) - 600
+    l_second = int(time.time())
+    t = datetime.date.today().timetuple()
+    month = str(t[1])
+    date = str(t[2])
+    if t[1] < 10:
+        month = '0' + month
+    if t[2] < 10:
+        date = '0' + date
+    date = str(t[0]) + '-' + month + '-' + date  # 2016-10-18
+    mapper = Code("""
+                    function() {
+                        if (this.timestamp >= """ + str(f_second) + """ && this.timestamp <=""" + str(l_second) +
+                  """&& this.lat >=""" + str(llat) + """&& this.lat <=""" + str(rlat) +
+                  """&& this.lon >=""" + str(llon) + """&& this.lon <=""" + str(rlon) + """) {
+                            emit(this.flight, this);
+                        }
+                    }
+                 """)
+    reducer = Code("""
+                    function(key, values) {
+                        var result = {};
+                        values.sort(function(a, b) {return - a.timestamp + b.timestamp});
+                        result = values[0];
+                        return result;
+                    }
+                  """)
+    cursor = mongo[daily_collection_name_prefix + date.replace("-", "")].inline_map_reduce(mapper, reducer)
 
     results = []
-    for dep in airports:
-        results.append(mongo[daily_collection_name_prefix + date.replace("-", "")].find(
-            {"timestamp": {"$gte": HMS2ts(f_second), "$lte": HMS2ts(l_second)}, "airport_dep": dep,
-             "airport_arr": "LAX"}).count())
-
+    results.extend([r[u'value'] for r in cursor])
     return json.dumps(results)
 
 
