@@ -407,6 +407,7 @@ def real_time_box():
     if t[2] < 10:
         date = '0' + date
     date = str(t[0]) + '-' + month + '-' + date  # 2016-10-18
+    # TODO 本初子午线
     mapper = Code("""
                     function() {
                         if (this.timestamp >= """ + str(f_second) + """ && this.timestamp <=""" + str(l_second) +
