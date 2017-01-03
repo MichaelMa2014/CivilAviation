@@ -99,20 +99,22 @@
                         <div id="bingMap" style="width:100%;height:600px;">
                             <script type='text/javascript'>
                                 console.log("Drawing main map...");
+                                var map;
+                                var pushpins;
 
                                 function loadMapScenario() {
                                     // Bing 地图部分
                                     var myCenter = new Microsoft.Maps.Location(40, 120);
                                     var mapProp = {
                                         center: myCenter,
-                                        zoom: 5,
+                                        zoom: 3,
                                         mapTypeId: Microsoft.Maps.MapTypeId.aerial,
                                         maxZoom: 18,
-                                        minZoom: 3,
+                                        minZoom: 1,
                                         credentials: 'Al3qJxrVEmMYhynjadXtSLXGl7S_JidYTxydqwa5hiKLMevOXvSRD1Nu71af40zl'
                                         // This key belongs to michaelma7864@outlook.com, for test purposes only
                                     };
-                                    var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
+                                    map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
 
                                     // This pushpin is for test 测试用
                                     var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40, 120), {icon:'images/airplane_2.svg', anchor: new Microsoft.Maps.Point(25, 25)});
@@ -130,7 +132,7 @@
 
                                                 console.log("Successfully load data from API server.");
 
-                                                var pushpins = JSON.parse(data);
+                                                pushpins = JSON.parse(data);
                                                 for (var i in pushpins) {
                                                     var location = new Microsoft.Maps.Location(pushpins[i]["lat"], pushpins[i]["lon"]);
                                                     // num1 is the direction of the flight, this number is passed to createPushpin to create a icon with right direction
