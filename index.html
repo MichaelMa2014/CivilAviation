@@ -123,7 +123,7 @@
                                     // Use jQuery to access API, returned data is stored in variable data
                                     // 使用 jQuery 访问 API 服务器，返回的数据保存在变量 data 中
                                     drawPushpins();
-                                    var intervalID = window.setInterval(drawPushpins,10000);
+//                                    var intervalID = window.setInterval(drawPushpins,10000);
                                     function drawPushpins() {
                                         jQuery.ajax({
 //                                            url: "http://219.224.134.225:5050/real-time",
@@ -171,6 +171,28 @@
                                             $("#arr").html(current["airport_arr"]);
                                             $('#fid').html(current["fid"]);
                                             $('#flight').html(current["flight"]);
+
+                                            jQuery.ajax({
+                                                url: "http://219.224.134.225:5050/flight?date=2017-01-03&flight=" + current["fid"],
+                                                success: function (data) {
+                                                    map.entities.clear();
+
+                                                    var location = new Microsoft.Maps.Location(current["lat"], current["lon"]);
+                                                    var pushpin = createPushpin(location, current["num1"]);
+                                                    map.entities.push(pushpin);
+                                                    console.log("Successfully load line from API server.");
+
+                                                    points = JSON.parse(data);
+                                                    var line = new Array();
+                                                    for (var i in points) {
+                                                        var location = new Microsoft.Maps.Location(points[i]["lat"], points[i]["lon"]);
+                                                        line.push(location);
+                                                    }
+                                                    var map_line = new Microsoft.Maps.Polyline(line);
+                                                    map.entities.push(map_line);
+                                                    console.log("Successfully draw lines")
+                                                }
+                                            });
                                         }
                                     }
                                 }
