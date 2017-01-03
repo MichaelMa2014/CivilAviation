@@ -34,13 +34,84 @@
             </div>
             <!-- /.navbar-header -->
 
-            <div class="navbar-default sidebar" role="navigation">
-                <div class="sidebar-nav navbar-collapse">
-                    <ul class="nav" id="side-menu">
-                        <li>
-                            <a href="index.html"><i class="fa fa-dashboard fa-fw nav_icon"></i>Dashboard</a>
-                        </li>
-                    </ul>
+            <div class="sidebar">
+                <div>
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Key</th>
+                            <th>Value</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr class="active">
+                            <th scope="row">1</th>
+                            <td>航班号</td>
+                            <td id="airline"></td>
+                        </tr>
+                        <tr class="danger">
+                            <th scope="row">2</th>
+                            <td>起飞机场</td>
+                            <td id="dep"></td>
+                        </tr>
+                        <tr class="success">
+                            <th scope="row">3</th>
+                            <td>降落机场</td>
+                            <td id="arr"></td>
+                        </tr>
+                        <tr class="danger">
+                            <th scope="row">4</th>
+                            <td>飞机号</td>
+                            <td id="fid"></td>
+                        </tr>
+                        <tr class="info">
+                            <th scope="row">5</th>
+                            <td>机型</td>
+                            <td id="flight"></td>
+                        </tr>
+                        <!--<tr>-->
+                        <!--<th scope="row">6</th>-->
+                        <!--<td>载客量：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        <!--<tr class="warning">-->
+                        <!--<th scope="row">7</th>-->
+                        <!--<td>最大商载：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        <!--<tr>-->
+                        <!--<th scope="row">8</th>-->
+                        <!--<td>货舱容积：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        <!--<tr>-->
+                        <!--<th scope="row">9</th>-->
+                        <!--<td>最大油箱容量：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        <!--<tr>-->
+                        <!--<th scope="row">10</th>-->
+                        <!--<td>最大起飞重量：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        <!--<tr>-->
+                        <!--<th scope="row">11</th>-->
+                        <!--<td>最大航程：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        <!--<tr>-->
+                        <!--<th scope="row">12</th>-->
+                        <!--<td>动力配置：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        <!--<tr>-->
+                        <!--<th scope="row">13</th>-->
+                        <!--<td>发动机型号：</td>-->
+                        <!--<td></td>-->
+                        <!--</tr>-->
+                        </tbody>
+                    </table>
                 </div>
                 <!-- /.sidebar-collapse -->
             </div>
@@ -173,7 +244,7 @@
                                             $('#flight').html(current["flight"]);
 
                                             jQuery.ajax({
-                                                url: "http://219.224.134.225:5050/flight?date=2017-01-03&flight=" + current["fid"],
+                                                url: "http://25.54.131.151:5050/flight?date=2017-01-03&flight=" + current["fid"],
                                                 success: function (data) {
                                                     map.entities.clear();
 
@@ -209,82 +280,6 @@
             <div class="content_bottom">
                 <div class="col-md-12 span_3">
                     <div class="bs-example1" data-example-id="contextual-table">
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>#</th>
-                                    <th>Key</th>
-                                    <th>Value</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="active">
-                                    <th scope="row">1</th>
-                                    <td>航班号</td>
-                                    <td id="airline"></td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">2</th>
-                                    <td>起飞机场</td>
-                                    <td id="dep"></td>
-                                </tr>
-                                <tr class="success">
-                                    <th scope="row">3</th>
-                                    <td>降落机场</td>
-                                    <td id="arr"></td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">4</th>
-                                    <td>飞机号</td>
-                                    <td id="fid"></td>
-                                </tr>
-                                <tr class="info">
-                                    <th scope="row">5</th>
-                                    <td>机型</td>
-                                    <td id="flight"></td>
-                                </tr>
-                                <!--<tr>-->
-                                    <!--<th scope="row">6</th>-->
-                                    <!--<td>载客量：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                                <!--<tr class="warning">-->
-                                    <!--<th scope="row">7</th>-->
-                                    <!--<td>最大商载：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                                <!--<tr>-->
-                                    <!--<th scope="row">8</th>-->
-                                    <!--<td>货舱容积：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                                <!--<tr>-->
-                                    <!--<th scope="row">9</th>-->
-                                    <!--<td>最大油箱容量：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                                <!--<tr>-->
-                                    <!--<th scope="row">10</th>-->
-                                    <!--<td>最大起飞重量：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                                <!--<tr>-->
-                                    <!--<th scope="row">11</th>-->
-                                    <!--<td>最大航程：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                                <!--<tr>-->
-                                    <!--<th scope="row">12</th>-->
-                                    <!--<td>动力配置：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                                <!--<tr>-->
-                                    <!--<th scope="row">13</th>-->
-                                    <!--<td>发动机型号：</td>-->
-                                    <!--<td></td>-->
-                                <!--</tr>-->
-                            </tbody>
-                        </table>
                     </div>
                 </div>
                 <div class="clearfix"> </div>
