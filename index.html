@@ -126,7 +126,10 @@
                                     var intervalID = window.setInterval(drawPushpins,10000);
                                     function drawPushpins() {
                                         jQuery.ajax({
-                                            url: "http://219.224.134.225:5050/real-time",
+//                                            url: "http://219.224.134.225:5050/real-time",
+                                            // Use txt as local cache so that ajax will not parse it
+                                            // 使用 txt 文件作为本地缓存
+                                            url: "./real-time.txt",
                                             success: function (data) {
                                                 map.entities.clear();
 
