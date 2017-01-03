@@ -139,6 +139,8 @@
                                                     // num1 是飞机的方向，把此数值传给 createPushpin 来生成不同朝向的图标
                                                     var pushpin = createPushpin(location, pushpins[i]["num1"]);
                                                     map.entities.push(pushpin);
+                                                    pushpin.title = String(i);
+                                                    Microsoft.Maps.Events.addHandler(pushpin, 'click', displayLine);
                                                 }
 
                                                 console.log("Successfully draw pushpins")
@@ -155,7 +157,22 @@
                                             anchor: new Microsoft.Maps.Point(0, 0)
                                         });
                                     }
+
+                                    function displayLine(e) {
+                                        if (e.targetType == "pushpin") {
+                                            var pushpin = e.target;
+                                            var current = pushpins[pushpin.title];
+
+                                            $("#airline").html(current["airline_code1"]);
+                                            $("#dep").html(current["airport_dep"]);
+                                            $("#arr").html(current["airport_arr"]);
+                                            $('#fid').html(current["fid"]);
+                                            $('#flight').html(current["flight"]);
+                                        }
+                                    }
                                 }
+
+
                             </script>
                         </div>
 
@@ -171,76 +188,76 @@
                             <thead>
                                 <tr>
                                     <th>#</th>
-                                    <th>Column heading</th>
-                                    <th>Column heading</th>
+                                    <th>Key</th>
+                                    <th>Value</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr class="active">
                                     <th scope="row">1</th>
-                                    <td>机型：</td>
-                                    <td>Column content</td>
+                                    <td>航班号</td>
+                                    <td id="airline"></td>
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>代码：</td>
-                                    <td>Column content</td>
+                                    <td>起飞机场</td>
+                                    <td id="dep"></td>
                                 </tr>
                                 <tr class="success">
                                     <th scope="row">3</th>
-                                    <td>长度：</td>
-                                    <td>Column content</td>
+                                    <td>降落机场</td>
+                                    <td id="arr"></td>
                                 </tr>
                                 <tr>
                                     <th scope="row">4</th>
-                                    <td>翼展：</td>
-                                    <td>Column content</td>
+                                    <td>飞机号</td>
+                                    <td id="fid"></td>
                                 </tr>
                                 <tr class="info">
                                     <th scope="row">5</th>
-                                    <td>高度：</td>
-                                    <td>Column content</td>
+                                    <td>机型</td>
+                                    <td id="flight"></td>
                                 </tr>
-                                <tr>
-                                    <th scope="row">6</th>
-                                    <td>载客量：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr class="warning">
-                                    <th scope="row">7</th>
-                                    <td>最大商载：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">8</th>
-                                    <td>货舱容积：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">9</th>
-                                    <td>最大油箱容量：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">10</th>
-                                    <td>最大起飞重量：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">11</th>
-                                    <td>最大航程：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">12</th>
-                                    <td>动力配置：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">13</th>
-                                    <td>发动机型号：</td>
-                                    <td>Column content</td>
-                                </tr>
+                                <!--<tr>-->
+                                    <!--<th scope="row">6</th>-->
+                                    <!--<td>载客量：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
+                                <!--<tr class="warning">-->
+                                    <!--<th scope="row">7</th>-->
+                                    <!--<td>最大商载：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
+                                <!--<tr>-->
+                                    <!--<th scope="row">8</th>-->
+                                    <!--<td>货舱容积：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
+                                <!--<tr>-->
+                                    <!--<th scope="row">9</th>-->
+                                    <!--<td>最大油箱容量：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
+                                <!--<tr>-->
+                                    <!--<th scope="row">10</th>-->
+                                    <!--<td>最大起飞重量：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
+                                <!--<tr>-->
+                                    <!--<th scope="row">11</th>-->
+                                    <!--<td>最大航程：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
+                                <!--<tr>-->
+                                    <!--<th scope="row">12</th>-->
+                                    <!--<td>动力配置：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
+                                <!--<tr>-->
+                                    <!--<th scope="row">13</th>-->
+                                    <!--<td>发动机型号：</td>-->
+                                    <!--<td></td>-->
+                                <!--</tr>-->
                             </tbody>
                         </table>
                     </div>
