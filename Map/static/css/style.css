@@ -6,7 +6,7 @@ p {margin: 0;}
 html, body{
   	font-family: 'Roboto', sans-serif;
     font-size: 100%;
-  	background:#000;
+  	background:#fff;
   	overflow-x: hidden;
 }
 body a{
@@ -220,7 +220,7 @@ body a{
   min-width: 0;
 }
 .navbar-default.sidebar {
-  background-color: #000;
+  background-color: #FFFFFF;
   font-family: 'Roboto', sans-serif;
 }
 nav.top1.navbar.navbar-default.navbar-static-top {

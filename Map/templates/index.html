@@ -6,15 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+    <link href="../static/css/bootstrap.css" rel='stylesheet' type='text/css' />
     <!-- Custom CSS -->
-    <link href="css/style.css" rel='stylesheet' type='text/css' />
-    <!-- jQuery -->
-    <script src="js/jquery.min.js"></script>
+    <link href="../static/css/style.css" rel='stylesheet' type='text/css' />
     <!-- Nav CSS -->
-    <link href="css/custom.css" rel="stylesheet">
+    <link href="../static/css/custom.css" rel="stylesheet">
+    <!-- jQuery -->
+    <script src="../static/js/jquery.min.js"></script>
     <!-- Graph JavaScript -->
-    <script src="js/d3.v3.js"></script>
+    <script src="../static/js/d3.v3.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../static/js/bootstrap.js"></script>
     <!-- Bing Map-->
     <script type='text/javascript' src='https://cn.bing.com/mapspreview/sdk/mapcontrol?branch=release&callback=loadMapScenario' async defer></script>
 </head>
@@ -30,16 +32,42 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">民航大数据</a>
+                <a class="navbar-brand" href="/">民航大数据</a>
             </div>
             <!-- /.navbar-header -->
 
             <div class="navbar-default sidebar" role="navigation">
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
-                        <li>
-                            <a href="index.html"><i class="fa fa-dashboard fa-fw nav_icon"></i>Dashboard</a>
-                        </li>
+                        <table class="table">
+                            <tbody>
+                            <tr>
+                                <th>#</th>
+                                <th>Column heading</th>
+                                <th>Column heading</th>
+                            </tr>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>机型：</td>
+                                <td>Column content</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>代码：</td>
+                                <td>Column content</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>高度：</td>
+                                <td>Column content</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td>发动机型号：</td>
+                                <td>Column content</td>
+                            </tr>
+                            </tbody>
+                        </table>
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->
@@ -51,18 +79,16 @@
                 <!-- 4 Buttons -->
                 <div class="col_3">
                     <div class="col-md-3 widget widget1">
-                        <a href="./index.html">
-                            <div class="r3_counter_box">
-                                <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
-                                <div class="stats">
-                                    <h5><strong>机场</strong></h5>
-                                    <span>机场分布信息</span>
-                                </div>
+                        <div class="r3_counter_box">
+                            <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
+                            <div class="stats">
+                                <h5><strong>机场</strong></h5>
+                                <span>机场分布信息</span>
                             </div>
-                        </a>
+                        </div>
                     </div>
                     <div class="col-md-3 widget widget1">
-                        <a href="./airline.html">
+                        <a href="/airline">
                             <div class="r3_counter_box">
                                 <i class="pull-left fa fa-users user1 icon-rounded"></i>
                                 <div class="stats">
@@ -102,7 +128,7 @@
 
                                 function loadMapScenario() {
                                     // Bing 地图部分
-                                    var myCenter = new Microsoft.Maps.Location(40, 120);
+                                    var myCenter = new Microsoft.Maps.Location(35, 110);
                                     var mapProp = {
                                         center: myCenter,
                                         zoom: 5,
@@ -115,8 +141,8 @@
                                     var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
 
                                     // This pushpin is for test 测试用
-                                    var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40, 120), {icon:'images/airplane_2.svg', anchor: new Microsoft.Maps.Point(25, 25)});
-                                    map.entities.push(pushpin);
+//                                    var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40, 120), {icon:'../static/images/airplane_2.svg', anchor: new Microsoft.Maps.Point(25, 25)});
+//                                    map.entities.push(pushpin);
 
                                     // Use jQuery to access API, returned data is stored in variable data
                                     // 使用 jQuery 访问 API 服务器，返回的数据保存在变量 data 中
@@ -249,8 +275,6 @@
         </div>
     </div>
     <!-- /#page-wrapper -->
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
 </body>
 
 </html>
