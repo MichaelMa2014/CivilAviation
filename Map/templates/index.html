@@ -37,9 +37,37 @@
             <div class="navbar-default sidebar" role="navigation">
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
-                        <li>
-                            <a href="index.html"><i class="fa fa-dashboard fa-fw nav_icon"></i>Dashboard</a>
-                        </li>
+                        <table class="table">
+                            <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Column heading</th>
+                                <th>Column heading</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>机型：</td>
+                                <td>Column content</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>代码：</td>
+                                <td>Column content</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td>高度：</td>
+                                <td>Column content</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">13</th>
+                                <td>发动机型号：</td>
+                                <td>Column content</td>
+                            </tr>
+                            </tbody>
+                        </table>
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->
@@ -100,7 +128,7 @@
 
                                 function loadMapScenario() {
                                     // Bing 地图部分
-                                    var myCenter = new Microsoft.Maps.Location(40, 120);
+                                    var myCenter = new Microsoft.Maps.Location(35, 110);
                                     var mapProp = {
                                         center: myCenter,
                                         zoom: 5,
