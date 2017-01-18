@@ -20,4 +20,5 @@ from Map import views as map_views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', map_views.index),
+    url(r'^airline$', map_views.airline, name='airline')
 ]
