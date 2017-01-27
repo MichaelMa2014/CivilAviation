@@ -236,18 +236,21 @@
 
             // Use jQuery to access API, returned data is stored in variable data
             // 使用 jQuery 访问 API 服务器，返回的数据保存在变量 data 中
-//            drawPushpins();
-
-            var intervalID = window.setInterval(drawPushpins,10000);
+            drawPushpins();
+            console.log(new Date().getSeconds());
+//            test()
+//            var intervalID = window.setInterval(drawPushpins,10000);
             function drawPushpins() {
                 jQuery.ajax({
                     url: "http://219.224.134.225:5050/real-time",
                     success: function (data) {
+                        console.log(new Date().getSeconds());
                         map.entities.clear();
 
                         console.log("Successfully load data from API server.");
-
+                        console.log(data);
                         var pushpins = JSON.parse(data);
+                        console.log(pushpins)
                         for (var i in pushpins) {
                             var location = new Microsoft.Maps.Location(pushpins[i]["lat"], pushpins[i]["lon"]);
                             // num1 is the direction of the flight, this number is passed to createPushpin to create a icon with right direction
@@ -262,13 +265,13 @@
             }
             function test() {
                 jQuery.ajax({
-                    url: "/getDataByDate/2016",
+                    url: "/getDataByDate/2017-01-23",
                     success: function (data) {
+                        console.log(new Date().getSeconds())
                         map.entities.clear();
+                        pushpins = data;
 
                         console.log("Successfully load data from API server.");
-
-                        var pushpins = JSON.parse(data);
                         for (var i in pushpins) {
                             var location = new Microsoft.Maps.Location(pushpins[i]["lat"], pushpins[i]["lon"]);
                             // num1 is the direction of the flight, this number is passed to createPushpin to create a icon with right direction

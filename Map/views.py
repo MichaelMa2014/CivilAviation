@@ -22,14 +22,20 @@ def HMS2ts(date):
 
 # 数据请求接口
 def getDataByDate(request, date):
+    print('function is called ',date)
     f_second = date + ' 00:00:00'
     l_second = date + ' 23:59:59'
-#    cursor = Record.objects.filter(timestamp_gte=HMS2ts(f_second)).filter(timestamp_lte=HMS2ts(f_second)).distinct()
+    print(HMS2ts(f_second))
+    pass
+    cursor = Record.objects.filter(timestamp__gte=HMS2ts(f_second)).filter(timestamp__lte=HMS2ts(l_second)).distinct()
     #测试用
-    cursor = Record.objects.filter(timestamp_gte=10000000).filter(timestamp_lte=1495103103).distinct()
+#    cursor = Record.objects.all().distinct()
     ret = []
     for record in cursor:
-        ret.append(record)
+        d = {}
+        for attr in ['airline_code2', 'lon', '_id', 'airport_icao_code', 'num5', 'typecode', 'first_in', 'airline_code1', 'lat', 'flight', 'height', 'num3', 'airport_dep', 'timestamp', 'idshex', 'str1', 'num2', 'last_modify', 'zone_range', 'airport_arr', 'num1', 'num4', 'fid']:
+            d.update({attr:record.__dict__[attr]})
+        ret.append(d)
     return HttpResponse(dumps(ret),content_type='application/json')
 
 
@@ -46,5 +52,3 @@ def getrealtime():
         except:
             print("A Record failed to be saved")
     print(str(cnt) + " Record(s) has been saved")
-
-getrealtime()
