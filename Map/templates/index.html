@@ -234,17 +234,35 @@
             };
             var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
 
-            // This pushpin is for test 测试用
-//                                    var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40, 120), {icon:'../static/images/airplane_2.svg', anchor: new Microsoft.Maps.Point(25, 25)});
-//                                    map.entities.push(pushpin);
-
             // Use jQuery to access API, returned data is stored in variable data
             // 使用 jQuery 访问 API 服务器，返回的数据保存在变量 data 中
 //            drawPushpins();
+
             var intervalID = window.setInterval(drawPushpins,10000);
             function drawPushpins() {
                 jQuery.ajax({
                     url: "http://219.224.134.225:5050/real-time",
+                    success: function (data) {
+                        map.entities.clear();
+
+                        console.log("Successfully load data from API server.");
+
+                        var pushpins = JSON.parse(data);
+                        for (var i in pushpins) {
+                            var location = new Microsoft.Maps.Location(pushpins[i]["lat"], pushpins[i]["lon"]);
+                            // num1 is the direction of the flight, this number is passed to createPushpin to create a icon with right direction
+                            // num1 是飞机的方向，把此数值传给 createPushpin 来生成不同朝向的图标
+                            var pushpin = createPushpin(location, pushpins[i]["num1"]);
+                            map.entities.push(pushpin);
+                        }
+
+                        console.log("Successfully draw pushpins")
+                    }
+                })
+            }
+            function test() {
+                jQuery.ajax({
+                    url: "/getDataByDate/2016",
                     success: function (data) {
                         map.entities.clear();
 

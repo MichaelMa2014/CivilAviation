@@ -71,7 +71,14 @@ class Record(models.Model):
         attrs = ['airline_code2','lon','_id','airport_icao_code','num5','typecode','first_in','airline_code1','lat','flight','height','num3','airport_dep','timestamp','idshex','str1','num2','last_modify','zone_range','airport_arr','num1','num4','fid']
         for attr in [x for x in dir(self) if x in attrs]:
             # 利用record中的数据初始化属性值
-            print('now is ' + attr)
             self.__dict__[attr] = record[attr]
 
 
+    def from_db(cls, db, field_names, values):
+        record = dict()
+        for index in range(0,len(field_names)):
+            record.update({field_names[index]:values[index]})
+        new = cls(record)
+        new._state.adding = False
+        new._state.db = db
+        return new
