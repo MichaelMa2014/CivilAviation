@@ -19,3 +19,7 @@
 修改为如下代码：
 
 	obj = model_cls.from_db(model_cls,db, init_list, row[model_fields_start:model_fields_end])
+
+##V1.5.2说明
+尝试使用django-crontab库完成定时更新数据库的任务，但由于这个库无法在windows上使用，所以暂时放弃这个方案，考虑使用celery完成定时任务。
+另外添加了自定义命令`getrealtimedata`来实现获取实时数据并插入到数据库，现在只需要运行`python manage.py getrealtimedata`就可实现数据的更新。
