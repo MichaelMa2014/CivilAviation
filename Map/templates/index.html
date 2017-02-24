@@ -10,7 +10,7 @@
     <!-- Custom CSS -->
     <link href="../static/css/style.css" rel='stylesheet' type='text/css' />
     <!-- Nav CSS -->
-    <link href="../static/css/custom.css" rel="stylesheet">
+    <link href="../static/css/custom.css" rel="stylesheet" />
     <!-- jQuery -->
     <script src="../static/js/jquery.min.js"></script>
     <!-- Graph JavaScript -->
@@ -19,6 +19,9 @@
     <script src="../static/js/bootstrap.js"></script>
     <!-- Bing Map-->
     <script type='text/javascript' src='https://cn.bing.com/mapspreview/sdk/mapcontrol?branch=release&callback=loadMapScenario' async defer></script>
+    <!-- Mapbox GL -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.css' rel='stylesheet' />
 </head>
 
 <body>
@@ -119,14 +122,8 @@
                     <div class="clearfix"> </div>
                 </div>
                 <div class="span_11">
-
                     <!-- Bing 地图 -->
-                    <div>
-                        <div id="bingMap" style="width:100%;height:600px;">
-                        </div>
-
-                    </div>
-
+                    <div id="map" style="width:100%;height:600px;">
                 </div>
                 <div class="clearfix"> </div>
             </div>
@@ -136,6 +133,7 @@
     <script type='text/javascript'>
         console.log("Drawing main map...");
 
+        // Bing地图函数
         function loadMapScenario() {
             // Bing 地图部分
             var myCenter = new Microsoft.Maps.Location(35, 110);
@@ -210,6 +208,16 @@
                 });
             }
         }
+
+        //mapbox GL地图函数
+        mapboxgl.accessToken = 'pk.eyJ1Ijoic3R1cGlnIiwiYSI6ImNpanV2c211bTBoaGp0c204cDFhNGltMW8ifQ.i2d7l3ljIr4GvyLWj6Hh3w';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v9',
+            zoom: 5,
+            center: [116.46, 39.92],
+            
+        });
     </script>
 
 </body>
