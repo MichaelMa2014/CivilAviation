@@ -68,9 +68,10 @@ class Record(models.Model):
 
     def __init__(self,record):
         super(Record, self).__init__()
-        attrs = ['airline_code2','lon','_id','airport_icao_code','num5','typecode','first_in','airline_code1','lat','flight','height','num3','airport_dep','timestamp','idshex','str1','num2','last_modify','zone_range','airport_arr','num1','num4','fid']
-        for attr in [x for x in dir(self) if x in attrs]:
-            # 利用record中的数据初始化属性值
+        #record的所有属性
+        #attrs = ['airline_code2','lon','_id','airport_icao_code','num5','typecode','first_in','airline_code1','lat','flight','height','num3','airport_dep','timestamp','idshex','str1','num2','last_modify','zone_range','airport_arr','num1','num4','fid']
+        for attr in [x for x in dir(self) if x in record.keys()]:
+            # 利用record中有的数据初始化属性值
             self.__dict__[attr] = record[attr]
 
 

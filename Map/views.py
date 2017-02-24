@@ -25,16 +25,13 @@ def getDataByDate(request, date):
     print('function is called ',date)
     f_second = date + ' 00:00:00'
     l_second = date + ' 23:59:59'
-    print(HMS2ts(f_second))
-    pass
-    cursor = Record.objects.filter(timestamp__gte=HMS2ts(f_second)).filter(timestamp__lte=HMS2ts(l_second)).distinct()
-    #测试用
-#    cursor = Record.objects.all().distinct()
+    cursor = Record.objects.filter(timestamp__gte=HMS2ts(f_second)).filter(timestamp__lte=HMS2ts(l_second)).only('lat','lon','num1').distinct()
     ret = []
     for record in cursor:
         d = {}
         for attr in ['airline_code2', 'lon', '_id', 'airport_icao_code', 'num5', 'typecode', 'first_in', 'airline_code1', 'lat', 'flight', 'height', 'num3', 'airport_dep', 'timestamp', 'idshex', 'str1', 'num2', 'last_modify', 'zone_range', 'airport_arr', 'num1', 'num4', 'fid']:
-            d.update({attr:record.__dict__[attr]})
+            if record.__dict__[attr]:
+                d.update({attr:record.__dict__[attr]})
         ret.append(d)
     return HttpResponse(dumps(ret),content_type='application/json')
 
