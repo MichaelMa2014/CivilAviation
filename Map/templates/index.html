@@ -17,14 +17,23 @@
     <script src="../static/js/d3.v3.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="../static/js/bootstrap.js"></script>
-    <!-- Bing Map-->
-    <script type='text/javascript' src='https://cn.bing.com/mapspreview/sdk/mapcontrol?branch=release&callback=loadMapScenario' async defer></script>
+    <!-- Vue.js -->
+    <script src="../static/js/vue.js"></script>
     <!-- Mapbox GL -->
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.css' rel='stylesheet' />
 </head>
 
 <body>
+<style>
+.marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}
+</style>
     <div id="wrapper">
         <!-- Navigation -->
         <nav class="top1 navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
@@ -77,62 +86,63 @@
             </div>
             <!-- /.navbar-static-side -->
         </nav>
-        <div id="page-wrapper">
-            <div class="graphs">
-                <!-- 4 Buttons -->
-                <div class="col_3">
-                    <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>机场</strong></h5>
-                                <span>机场分布信息</span>
-                            </div>
+    </div>
+    <div id="page-wrapper">
+        <div class="graphs">
+            <!-- 4 Buttons -->
+            <div class="col_3">
+                <div class="col-md-3 widget widget1">
+                    <div class="r3_counter_box">
+                        <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
+                        <div class="stats">
+                            <h5><strong>机场</strong></h5>
+                            <span>机场分布信息</span>
                         </div>
                     </div>
-                    <div class="col-md-3 widget widget1">
-                        <a href="/airline">
-                            <div class="r3_counter_box">
-                                <i class="pull-left fa fa-users user1 icon-rounded"></i>
-                                <div class="stats">
-                                    <h5><strong>航线</strong></h5>
-                                    <span>航线分布信息</span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-comment user2 icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>航班</strong></h5>
-                                <span>实时航班数据</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 widget">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-dollar dollar1 icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>航区</strong></h5>
-                                <span>航区分布信息</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clearfix"> </div>
                 </div>
-                <div class="span_11">
-                    <!-- Bing 地图 -->
-                    <div id="map" style="width:100%;height:600px;">
+                <div class="col-md-3 widget widget1">
+                    <a href="/airline">
+                        <div class="r3_counter_box">
+                            <i class="pull-left fa fa-users user1 icon-rounded"></i>
+                            <div class="stats">
+                                <h5><strong>航线</strong></h5>
+                                <span>航线分布信息</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-3 widget widget1">
+                    <div class="r3_counter_box">
+                        <i class="pull-left fa fa-comment user2 icon-rounded"></i>
+                        <div class="stats">
+                            <h5><strong>航班</strong></h5>
+                            <span>实时航班数据</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 widget">
+                    <div class="r3_counter_box">
+                        <i class="pull-left fa fa-dollar dollar1 icon-rounded"></i>
+                        <div class="stats">
+                            <h5><strong>航区</strong></h5>
+                            <span>航区分布信息</span>
+                        </div>
+                    </div>
                 </div>
                 <div class="clearfix"> </div>
             </div>
+            <div class="span_11">
+                <!-- Bing 地图 -->
+                <div id="map" style="width:100%;height:600px;">
+            </div>
+            <div class="clearfix"> </div>
         </div>
     </div>
-    <!-- /#page-wrapper -->
+</div>
     <script type='text/javascript'>
         console.log("Drawing main map...");
 
+        /*
         // Bing地图函数
         function loadMapScenario() {
             // Bing 地图部分
@@ -208,6 +218,7 @@
                 });
             }
         }
+        */
 
         //mapbox GL地图函数
         mapboxgl.accessToken = 'pk.eyJ1Ijoic3R1cGlnIiwiYSI6ImNpanV2c211bTBoaGp0c204cDFhNGltMW8ifQ.i2d7l3ljIr4GvyLWj6Hh3w';
@@ -216,8 +227,42 @@
             style: 'mapbox://styles/mapbox/streets-v9',
             zoom: 5,
             center: [116.46, 39.92],
-            
+            renderWorldCopies: false,
         });
+        function test() {
+            jQuery.ajax({
+                url: "/getDataByDate/2017-01-23",
+                success: function (data) {
+                    console.log(new Date().getSeconds())
+                    pushpins = data;
+                    console.log("Successfully load data from API server.");
+
+                    for(var i in pushpins) {
+                        console.log(pushpins[i]);
+                            var el = document.createElement('div');
+                                el.id = pushpins[i].flight;
+                                el.className = 'marker';
+{#                                el.style.height = '40px';#}
+{#                                el.style.width = '40px';#}
+                                img = document.createElement('img');
+                                var svg = ['<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200"><g class="transform-group"><g transform="scale(0.01953125, 0.01953125) rotate(',pushpins[i].num1,',500,500)"><path d="M730.214 877.238l50.625-42.662-47.408-484.26c125.086-132.575 169.91-189.211 152.455-212.15-22.94-17.456-79.576 27.316-212.15 152.455l-484.261-47.461-42.662 50.625 368.982 150.979-184.148 185.731-116.016-30.955-81.105 56.32 144.756 59.958c-4.115 3.375-34.964 39.393-37.283 62.279-0.106 1.213 0.738 1.793 1.793 2.109 0.317 1.055 0.949 1.952 2.109 1.793 22.887-2.32 58.904-33.17 62.279-37.283l59.958 144.756 56.32-81.106-30.955-116.016 185.73-184.148 150.979 369.036z" fill="#ea8010"></path></g></g></svg>'];
+                                img.src = svg.join('');
+                                img.style.width = '40px';
+                                img.style.height = '40px';
+                                el.appendChild(img);
+                                // add marker to map
+                                var m = new mapboxgl.Marker(el)
+                                    .setLngLat([pushpins[i].lon, pushpins[i].lat])
+                                    .addTo(map);
+                                console.log(m.getElement());
+
+                    }
+                    console.log(new Date().getSeconds())
+                    console.log("Successfully draw pushpins")
+                }
+            })
+        }
+        test();
     </script>
 
 </body>
