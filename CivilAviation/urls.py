@@ -21,6 +21,6 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', map_views.index),
     url(r'^airline$', map_views.airline, name='airline'),
-    url(r'^getDataByDate/(\d+-\d+-\d+)', map_views.getDataByDate, name = 'getdata'),
-    
+    url(r'^getDataByDate/(\d+-\d+-\d+)', map_views.getDataByDate, name = 'getdatabydate'),
+    url(r'^getDataByLngLat/([-]?\d+,[-]?\d+,[-]?\d+,[-]?\d+,\d+)', map_views.getDataByLngLat, name='getdatabylnglat')
 ]

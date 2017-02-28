@@ -21,11 +21,12 @@ def HMS2ts(date):
 
 
 # 数据请求接口
+# 根据日期获取数据
 def getDataByDate(request, date):
-    print('function is called ',date)
+    print('fetching data by data ',date)
     f_second = date + ' 00:00:00'
     l_second = date + ' 23:59:59'
-    cursor = Record.objects.filter(timestamp__gte=HMS2ts(f_second)).filter(timestamp__lte=HMS2ts(l_second)).only('lat','lon','num1', 'flight').distinct()
+    cursor = Record.objects.filter(timestamp__gte=HMS2ts(f_second)).filter(timestamp__lte=HMS2ts(l_second)).only('lat','lon').distinct()
     ret = []
     for record in cursor:
         d = {}
@@ -33,8 +34,24 @@ def getDataByDate(request, date):
             if record.__dict__[attr]:
                 d.update({attr:record.__dict__[attr]})
         ret.append(d)
-    ret = ret[:10]
     return HttpResponse(dumps(ret),content_type='application/json')
+
+
+# 根据经纬度以及缩放等级返回矩形框内的数据
+# lngslats分别为sw,ne点的经纬度
+def getDataByLngLat(request, lngslats):
+    lngslats = lngslats.split(sep=',')
+    swlng,swlat,nelng,nelat,zoom = int(lngslats[0]),int(lngslats[1]),int(lngslats[2]),int(lngslats[3]),int(lngslats[3])
+    print(swlng,swlat,nelng,nelat)
+    cursor = Record.objects.filter(lat__gte=swlat, lon__gte=swlng, lat__lte=nelat, lon__lte=nelng).only('lat','lon').distinct()[:300]
+    print(cursor.count())
+    ret = []
+    for record in cursor:
+        d = {}
+        d.update({'lat':record.lat})
+        d.update({'lon':record.lon})
+        ret.append(d)
+    return HttpResponse(dumps(ret), content_type='application/json')
 
 
 # 获取实时数据并存入数据库

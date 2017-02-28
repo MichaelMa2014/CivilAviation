@@ -226,43 +226,77 @@
             container: 'map',
             style: 'mapbox://styles/mapbox/streets-v9',
             zoom: 5,
+            minZoom: 2,
             center: [116.46, 39.92],
-            renderWorldCopies: false,
+            renderWorldCopies: true,
         });
+        map.on('zoomend',function () {
+            test1();
+        })
+        map.on('moveend',function(){
+            test1();
+        })
+        function stdlnglat(lnglats){
+            s = []
+            lnglats.forEach(function (array) {
+                array.forEach(function (num) {
+                    s.push(Math.ceil(num))
+                })
+            })
+            return s;
+        }
         function test() {
             jQuery.ajax({
                 url: "/getDataByDate/2017-01-23",
                 success: function (data) {
                     console.log(new Date().getSeconds())
-                    pushpins = data;
                     console.log("Successfully load data from API server.");
 
-                    for(var i in pushpins) {
-                        console.log(pushpins[i]);
-                            var el = document.createElement('div');
-                                el.id = pushpins[i].flight;
-                                el.className = 'marker';
-{#                                el.style.height = '40px';#}
-{#                                el.style.width = '40px';#}
-                                img = document.createElement('img');
-                                var svg = ['<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200"><g class="transform-group"><g transform="scale(0.01953125, 0.01953125) rotate(',pushpins[i].num1,',500,500)"><path d="M730.214 877.238l50.625-42.662-47.408-484.26c125.086-132.575 169.91-189.211 152.455-212.15-22.94-17.456-79.576 27.316-212.15 152.455l-484.261-47.461-42.662 50.625 368.982 150.979-184.148 185.731-116.016-30.955-81.105 56.32 144.756 59.958c-4.115 3.375-34.964 39.393-37.283 62.279-0.106 1.213 0.738 1.793 1.793 2.109 0.317 1.055 0.949 1.952 2.109 1.793 22.887-2.32 58.904-33.17 62.279-37.283l59.958 144.756 56.32-81.106-30.955-116.016 185.73-184.148 150.979 369.036z" fill="#ea8010"></path></g></g></svg>'];
-                                img.src = svg.join('');
-                                img.style.width = '40px';
-                                img.style.height = '40px';
-                                el.appendChild(img);
-                                // add marker to map
-                                var m = new mapboxgl.Marker(el)
-                                    .setLngLat([pushpins[i].lon, pushpins[i].lat])
-                                    .addTo(map);
-                                console.log(m.getElement());
+                    for(var i in data) {
+                        var img = document.createElement('img');
+                            img.src = '../static/images/airplane_2.svg'
+                            img.style.width = '30px';
+                            img.style.height = '30px';
 
+                            // add marker to map
+                            var m = new mapboxgl.Marker(img)
+                                .setLngLat([data[i].lon,data[i].lat])
+                                .addTo(map);
                     }
-                    console.log(new Date().getSeconds())
-                    console.log("Successfully draw pushpins")
+                    console.log(new Date().getSeconds());
+                    console.log("Successfully draw pushpins");
                 }
             })
         }
-        test();
+        function test1() {
+            jQuery.ajax({
+                url: "/getDataByLngLat/"+stdlnglat(map.getBounds().toArray())+','+Math.ceil(map.getZoom()),
+                success: function (data) {
+                    console.log(new Date().getSeconds())
+                    console.log("Successfully load data from API server.");
+                    parent = document.getElementsByClassName('mapboxgl-canvas-container mapboxgl-interactive')[0];
+                    while(parent.childNodes.length > 1)
+                    {
+                        parent.removeChild(parent.lastChild);
+                    }
+                    for(var i in data) {
+                        var img = document.createElement('img');
+                            img.src = '../static/images/airplane_2.svg'
+                            img.style.width = '30px';
+                            img.style.height = '30px';
+
+                            // add marker to map
+                            var m = new mapboxgl.Marker(img)
+                                .setLngLat([data[i].lon,data[i].lat])
+                                .addTo(map);
+                    }
+                    console.log(new Date().getSeconds());
+                    console.log("Successfully draw pushpins");
+                    console.log(parent.childNodes.length)
+                }
+            })
+        }
+        test1();
     </script>
 
 </body>

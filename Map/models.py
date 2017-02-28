@@ -83,3 +83,4 @@ class Record(models.Model):
         new._state.adding = False
         new._state.db = db
         return new
+
