@@ -54,6 +54,7 @@ def getDataByRect(request, lngslats):
         if not record._id:
             cnt += 1
         ret.append(d)
+    print(len(ret))
     return HttpResponse(dumps(ret), content_type='application/json')
 
 

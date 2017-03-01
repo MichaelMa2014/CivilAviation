@@ -22,6 +22,9 @@
     <!-- Mapbox GL -->
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.css' rel='stylesheet' />
+    <!-- Mapbox GL Draw Tool -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.16.0/mapbox-gl-draw.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.16.0/mapbox-gl-draw.css' type='text/css' />
 </head>
 
 <body>
@@ -50,36 +53,16 @@
 
             <div class="navbar-default sidebar" role="navigation">
                 <div class="sidebar-nav navbar-collapse">
-                    <ul class="nav" id="side-menu">
+                    <ul class="nav" id="side-menu" v-if="flightinfo">
                         <table class="table">
-                            <tbody>
-                            <tr>
-                                <th>#</th>
-                                <th>Column heading</th>
-                                <th>Column heading</th>
-                            </tr>
-                            <tr>
-                                <th scope="row">1</th>
-                                <td>机型：</td>
-                                <td>Column content</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">2</th>
-                                <td>代码：</td>
-                                <td>Column content</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">3</th>
-                                <td>高度：</td>
-                                <td>Column content</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">4</th>
-                                <td>发动机型号：</td>
-                                <td>Column content</td>
-                            </tr>
-                            </tbody>
+
                         </table>
+                    </ul>
+                    <ul id="repeat-object">
+                        <li v-for="value in object">
+                            object:{{ object }}
+                            value:{{ value }}
+                        </li>
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->
@@ -141,6 +124,21 @@
 </div>
     <script type='text/javascript'>
         console.log("Drawing main map...");
+        var flightInfo = {
+            FirstName: 'John',
+            LastName: 'Doe',
+            Age: 30
+        };
+
+        //Vue
+        var v = new Vue({
+            el: '#repeat-object',
+            data: {
+            object: flightInfo,
+            flightinfo:false,
+          }
+        })
+        console.log(v._data);
 
         //mapbox GL地图函数
         mapboxgl.accessToken = 'pk.eyJ1Ijoic3R1cGlnIiwiYSI6ImNpanV2c211bTBoaGp0c204cDFhNGltMW8ifQ.i2d7l3ljIr4GvyLWj6Hh3w';
@@ -153,40 +151,36 @@
             renderWorldCopies: true,
         });
         map.on('zoomend',function () {
-            test1();
+            getdatabyrect();
         })
         map.on('moveend',function(){
-            test1();
+            getdatabyrect();
         })
-
         map.on('click', function (e) {
             if(e.originalEvent.target.id.match('flight_marker'))
             {
-                document.getElementsByClassName('table')[0].innerHTML = '这是table'
                 id = e.originalEvent.target.id.replace('flight_marker_','')
+                document.getElementsByClassName('table')[0].innerHTML = '这是table_'+id;
                 jQuery.ajax({
                     url: "/getDataByID/" + id,
                     success: function (data) {
+                        draw.add({ type: 'LineString', coordinates: [[116.46, 39.92], [data.lon, data.lat]] });
                         console.log(data);
                     }
-            })
-
-
+                })
                 console.log(e.originalEvent.target.id);
             }
 
         })
 
+        //MapboxDraw Tool
+        var draw = new MapboxDraw({displayControlsDefault:false});
+        map.addControl(draw);
         function stdlnglat(lnglats){
-            s = []
-            lnglats.forEach(function (array) {
-                array.forEach(function (num) {
-                    s.push(Math.ceil(num))
-                })
-            })
+            s = [Math.floor(lnglats[0][0]), Math.floor(lnglats[0][1]), Math.ceil(lnglats[1][0]), Math.ceil(lnglats[1][1])]
             return s;
         }
-        function test() {
+        function getdatabydate() {
             jQuery.ajax({
                 url: "/getDataByDate/2017-01-23",
                 success: function (data) {
@@ -209,7 +203,7 @@
                 }
             })
         }
-        function test1() {
+        function getdatabyrect() {
             jQuery.ajax({
                 url: "/getDataByRect/"+stdlnglat(map.getBounds().toArray())+','+Math.ceil(map.getZoom()),
                 success: function (data) {
@@ -236,7 +230,7 @@
         function getTableHTML() {
 
         }
-        test1();
+        getdatabyrect();
     </script>
 
 </body>
