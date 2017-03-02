@@ -44,18 +44,28 @@ def getDataByDate(request, date):
 def getDataByRect(request, lngslats):
     lngslats = lngslats.split(sep=',')
     swlng,swlat,nelng,nelat,zoom = int(lngslats[0]),int(lngslats[1]),int(lngslats[2]),int(lngslats[3]),int(lngslats[4])
-    print('request:getDataByRect:',swlng,swlat,nelng,nelat,zoom)
-    cursor = Record.objects.filter(lat__gte=swlat, lon__gte=swlng, lat__lte=nelat, lon__lte=nelng).only('lat','lon','fid').distinct()[:300]
+    clng = (swlng + nelng) / 2
+    clat = (swlat + nelat) / 2
+    print(swlng,swlat,clng,clat,nelng,nelat);
     ret = []
-    cnt = 0
-    for record in cursor:
-        d = {}
-        d.update({'lat':record.lat})
-        d.update({'lon':record.lon})
-        d.update({'id':record.fid})
-        if not record._id:
-            cnt += 1
-        ret.append(d)
+    # 查询矩形框内的数据
+    def querybyrect(llat, llng, glat, glng):
+        cursor = Record.objects.filter(lat__gte=llat, lon__gte=llng, lat__lte=glat, lon__lte=glng).only('lat', 'lon','fid').distinct()[:70]
+        for record in cursor:
+            d = {}
+            d.update({'lat': record.lat})
+            d.update({'lon': record.lon})
+            d.update({'id': record.fid})
+            ret.append(d)
+
+    # 左上
+    querybyrect(clat, swlng, nelat, clng)
+    # 右上
+    querybyrect(clat, clng, nelat, nelng)
+    # 左下
+    querybyrect(swlat, swlng, clat, clng)
+    # 右下
+    querybyrect(swlat, clng, clat, nelng)
     print(len(ret))
     return HttpResponse(dumps(ret), content_type='application/json')
 
