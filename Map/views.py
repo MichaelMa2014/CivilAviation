@@ -6,14 +6,16 @@ from json import dumps
 from Map.models import Record
 import time
 
-# Create your views here.
+
 # 渲染index主页
 def index(request):
     return render(request, 'index.html')
 
+
 # 渲染航线页
 def airline(request):
     return render(request, 'airline.html')
+
 
 # 将时分秒时间转为timestamp
 def HMS2ts(date):
@@ -73,17 +75,58 @@ def getDataByID(request, fid):
     return HttpResponse(dumps(ret), content_type='application/json')
 
 
-# 根据航班id和时间戳返回航班的轨迹信息
+# 根据航班id返回航班的轨迹信息
 # fid为航班数据中的fid
 def getRouteByID(request, fid):
-    cursor = Record.objects.filter(fid__exact='9f79b0e')
-    # cursor = Record.objects.filter(fid__exact=fid)
+    # 根据时间戳排序是为了保证绘制轨迹的点是有序的
+    cursor = Record.objects.filter(fid__exact=fid).order_by('timestamp')
     ret = []
     route = []
     for record in cursor:
-        if len(route) != 0 and (float(route[-1][0])*float(record.lon) < 0):
-            ret.append(route)
-            route = []
+        if len(route) != 0:
+            olng = float(route[-1][0])
+            olat = float(route[-1][1])
+            dlng = float(record.lon)
+            dlat = float(record.lat)
+            if olng * dlng < 0 and abs(olng) + abs(dlng) > 180:
+                # 跨越东西半球的轨迹
+                # 计算两点间的精度差和纬度差
+                difflng = 360 - (abs(olng) + abs(dlng))
+                difflat = abs(olat - dlat)
+                # 计算两点连线的以及经纬线构成的三角形的正切值
+                tan = difflat / difflng
+                if olng < 0:
+                    # 从西半球飞往东半球
+                    difflng = 180 - dlng
+                    tanlat = tan * difflng
+                    if olat > dlat:
+                        # 从上往下飞
+                        route.append([-180, dlat + tanlat])
+                        ret.append(route)
+                        route = []
+                        route.append([180, dlat + tanlat])
+                    else:
+                        # 从下网上飞
+                        route.append([-180, dlat - tanlat])
+                        ret.append(route)
+                        route = []
+                        route.append([180, dlat - tanlat])
+                else:
+                    # 从东半球飞往西半球
+                    difflng = 180 - olng
+                    tanlat = tan * difflng
+                    if olat > dlat:
+                        # 从上往下飞
+                        route.append([180, olat - tanlat])
+                        ret.append(route)
+                        route = []
+                        route.append([-180, olat - tanlat])
+                    else:
+                        # 从下往上飞
+                        route.append([180, olat + tanlat])
+                        ret.append(route)
+                        route = []
+                        route.append([-180, olat + tanlat])
         route.append([record.lon, record.lat])
     ret.append(route)
     return HttpResponse(dumps(ret), content_type='application/json')

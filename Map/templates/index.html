@@ -189,16 +189,16 @@
                     }
                 })
                 jQuery.ajax({
-                    url: "/getRouteByID/9f79b0e",
+                    url: "/getRouteByID/" + id,
                     success: function (data) {
-{#                        data.push([116.46, 39.92]);#}
                         data.forEach(function (route) {
-                            draw.add({ type: 'LineString', coordinates: route});
+                            if(route.length > 1)
+                            {
+                                draw.add({ type: 'LineString', coordinates: route});
+                            }
                         })
-                        console.log(data);
                     }
                 })
-                console.log(e.originalEvent.target.id);
             }
 
         })
