@@ -58,23 +58,57 @@ def getDataByRect(request, lngslats):
     return HttpResponse(dumps(ret), content_type='application/json')
 
 
-
+# 根据航班id返回航班数据
+# fid为航班数据中的fid
 def getDataByID(request, fid):
     print(fid)
     cursor = Record.objects.filter(fid__exact=fid)
     ret = []
-    d = [123]
     for record in cursor:
         d = {}
         for attr in ['airline_code2', 'lon', '_id', 'airport_icao_code', 'num5', 'typecode', 'first_in',
                      'airline_code1', 'lat', 'flight', 'height', 'num3', 'airport_dep', 'timestamp', 'idshex', 'str1','num2', 'last_modify', 'zone_range', 'airport_arr', 'num1', 'num4', 'fid']:
             d.update({attr: record.__dict__[attr]})
-    return HttpResponse(dumps(d), content_type='application/json')
+        ret.append(d)
+    return HttpResponse(dumps(ret), content_type='application/json')
+
+
+# 根据航班id和时间戳返回航班的轨迹信息
+# fid为航班数据中的fid
+def getRouteByID(request, fid):
+    cursor = Record.objects.filter(fid__exact='9f79b0e')
+    # cursor = Record.objects.filter(fid__exact=fid)
+    ret = []
+    route = []
+    for record in cursor:
+        if len(route) != 0 and (float(route[-1][0])*float(record.lon) < 0):
+            ret.append(route)
+            route = []
+        route.append([record.lon, record.lat])
+    ret.append(route)
+    return HttpResponse(dumps(ret), content_type='application/json')
 
 
 # 获取实时数据并存入数据库
 def getrealtime():
     data = request.urlopen(url='http://219.224.134.225:5050/real-time')
+    dataList = loads(data.read().decode('utf-8'))
+    cnt = 1
+    for item in dataList:
+        newRecord = Record(item)
+        try:
+            newRecord.save()
+            cnt += 1
+        except:
+            print("A Record failed to be saved")
+    print(str(cnt) + " Record(s) has been saved")
+
+
+# 根据航班id和时间获取数据并存入数据库
+def getroutebyid(id, date):
+    data = request.urlopen(url='http://219.224.134.225:5050/flight?date=2016-06-09&dep=PEK&flight=9f79b0e')
+
+    # data = request.urlopen(url='http://219.224.134.225:5050/flight?date='+date+'&flight='+id)
     dataList = loads(data.read().decode('utf-8'))
     cnt = 1
     for item in dataList:

@@ -138,7 +138,6 @@
             flightinfo:false,
           }
         })
-        console.log(v._data);
 
         //mapbox GL地图函数
         mapboxgl.accessToken = 'pk.eyJ1Ijoic3R1cGlnIiwiYSI6ImNpanV2c211bTBoaGp0c204cDFhNGltMW8ifQ.i2d7l3ljIr4GvyLWj6Hh3w';
@@ -150,6 +149,28 @@
             center: [116.46, 39.92],
             renderWorldCopies: true,
         });
+        //MapboxDraw Tool
+        var draw = new MapboxDraw({
+            displayControlsDefault:false,
+            styles: [
+                // line stroke
+                {
+                    "id": "gl-draw-line",
+                    "type": "line",
+                    "filter": ["all", ["==", "$type", "LineString"], ["!=", "mode", "static"]],
+                    "layout": {
+                      "line-cap": "round",
+                      "line-join": "round"
+                    },
+                    "paint": {
+                      "line-color": "#D20C0C",
+                      "line-width": 4
+                    }
+                },
+            ]
+        });
+        map.addControl(draw);
+
         map.on('zoomend',function () {
             getdatabyrect();
         })
@@ -160,11 +181,20 @@
             if(e.originalEvent.target.id.match('flight_marker'))
             {
                 id = e.originalEvent.target.id.replace('flight_marker_','')
-                document.getElementsByClassName('table')[0].innerHTML = '这是table_'+id;
                 jQuery.ajax({
                     url: "/getDataByID/" + id,
                     success: function (data) {
-                        draw.add({ type: 'LineString', coordinates: [[116.46, 39.92], [data.lon, data.lat]] });
+                        document.getElementsByClassName('table')[0].innerHTML = '这是table_'+id+'<br>'+data;
+                        console.log(data);
+                    }
+                })
+                jQuery.ajax({
+                    url: "/getRouteByID/9f79b0e",
+                    success: function (data) {
+{#                        data.push([116.46, 39.92]);#}
+                        data.forEach(function (route) {
+                            draw.add({ type: 'LineString', coordinates: route});
+                        })
                         console.log(data);
                     }
                 })
@@ -173,9 +203,6 @@
 
         })
 
-        //MapboxDraw Tool
-        var draw = new MapboxDraw({displayControlsDefault:false});
-        map.addControl(draw);
         function stdlnglat(lnglats){
             s = [Math.floor(lnglats[0][0]), Math.floor(lnglats[0][1]), Math.ceil(lnglats[1][0]), Math.ceil(lnglats[1][1])]
             return s;
@@ -219,10 +246,10 @@
                             img.style.width = '30px';
                             img.style.height = '30px';
 
-                            // add marker to map
-                            var m = new mapboxgl.Marker(img)
-                                    .setLngLat([data[i].lon,data[i].lat])
-                                    .addTo(map);
+                        // add marker to map
+                        var m = new mapboxgl.Marker(img)
+                                .setLngLat([data[i].lon,data[i].lat])
+                                .addTo(map);
                     }
                 }
             })

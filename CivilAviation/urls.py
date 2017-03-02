@@ -23,5 +23,6 @@ urlpatterns = [
     url(r'^airline$', map_views.airline, name='airline'),
     url(r'^getDataByDate/(\d+-\d+-\d+)', map_views.getDataByDate, name = 'getdatabydate'),
     url(r'^getDataByRect/([-]?\d+,[-]?\d+,[-]?\d+,[-]?\d+,\d+)', map_views.getDataByRect, name='getdatabyrect'),
-    url(r'^getDataByID/(.*)', map_views.getDataByID, name = 'getdatabyid')
+    url(r'^getDataByID/(.*)', map_views.getDataByID, name = 'getdatabyid'),
+    url(r'^getRouteByID/(.*)',map_views.getRouteByID, name = 'getroutebyid'),
 ]
