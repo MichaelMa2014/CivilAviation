@@ -25,4 +25,5 @@ urlpatterns = [
     url(r'^getDataByRect/([-]?\d+,[-]?\d+,[-]?\d+,[-]?\d+,\d+)', map_views.getDataByRect, name='getdatabyrect'),
     url(r'^getDataByID/(.*)', map_views.getDataByID, name = 'getdatabyid'),
     url(r'^getRouteByID/(.*)',map_views.getRouteByID, name = 'getroutebyid'),
+    url(r'^getInfoByID/(.*)', map_views.getInfoByID, name='getinfobyid'),
 ]

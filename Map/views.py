@@ -46,7 +46,7 @@ def getDataByRect(request, lngslats):
     swlng,swlat,nelng,nelat,zoom = int(lngslats[0]),int(lngslats[1]),int(lngslats[2]),int(lngslats[3]),int(lngslats[4])
     clng = (swlng + nelng) / 2
     clat = (swlat + nelat) / 2
-    print(swlng,swlat,clng,clat,nelng,nelat);
+    print(swlng,swlat,clng,clat,nelng,nelat)
     ret = []
     # 查询矩形框内的数据
     def querybyrect(llat, llng, glat, glng):
@@ -73,7 +73,6 @@ def getDataByRect(request, lngslats):
 # 根据航班id返回航班数据
 # fid为航班数据中的fid
 def getDataByID(request, fid):
-    print(fid)
     cursor = Record.objects.filter(fid__exact=fid)
     ret = []
     for record in cursor:
@@ -84,11 +83,24 @@ def getDataByID(request, fid):
         ret.append(d)
     return HttpResponse(dumps(ret), content_type='application/json')
 
+# 根据航班id返回航班信息用于展示
+# fid为航班数据中的fid
+def getInfoByID(request, fid):
+    cursor = Record.objects.filter(fid__exact=fid)
+    ret = []
+    d = {}
+    record = cursor[0]
+    for attr in ['airline_code2', 'lon','airport_icao_code', 'airline_code1', 'lat', 'flight','airport_dep', 'timestamp', 'airport_arr', 'fid']:
+        d.update({attr: record.__dict__[attr]})
+    ret.append(d)
+    return HttpResponse(dumps(ret), content_type='application/json')
+
 
 # 根据航班id返回航班的轨迹信息
 # fid为航班数据中的fid
 def getRouteByID(request, fid):
     # 根据时间戳排序是为了保证绘制轨迹的点是有序的
+    # fid = '9f79b0e'
     cursor = Record.objects.filter(fid__exact=fid).order_by('timestamp')
     ret = []
     route = []
