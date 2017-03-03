@@ -28,15 +28,6 @@
 </head>
 
 <body>
-<style>
-.marker {
-    display: block;
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-    padding: 0;
-}
-</style>
     <div id="wrapper">
         <!-- Navigation -->
         <nav class="top1 navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
@@ -52,18 +43,21 @@
             <!-- /.navbar-header -->
 
             <div class="navbar-default sidebar" role="navigation">
-                <div class="sidebar-nav navbar-collapse">
-                    <ul class="nav" id="side-menu" v-if="flightinfo">
-                        <table class="table">
-
-                        </table>
-                    </ul>
-                    <ul id="repeat-object">
-                        <li v-for="value in object">
-                            object:{{ object }}
-                            value:{{ value }}
-                        </li>
-                    </ul>
+                <div id="info" class="sidebar-nav navbar-collapse">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th width="100%">Attr</th>
+                                <th>Value</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr v-for="(value, key) in flightInfo">
+                                <td>{%  templatetag openvariable %} key {% templatetag closevariable %}</td>
+                                <td>{%  templatetag openvariable %} value {% templatetag closevariable %}</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
                 <!-- /.sidebar-collapse -->
             </div>
@@ -124,20 +118,13 @@
 </div>
     <script type='text/javascript'>
         console.log("Drawing main map...");
-        var flightInfo = {
-            FirstName: 'John',
-            LastName: 'Doe',
-            Age: 30
-        };
-
         //Vue
         var v = new Vue({
-            el: '#repeat-object',
+            el: '#info',
             data: {
-            object: flightInfo,
-            flightinfo:false,
-          }
-        })
+                flightInfo: [],
+            },
+        });
 
         //mapbox GL地图函数
         mapboxgl.accessToken = 'pk.eyJ1Ijoic3R1cGlnIiwiYSI6ImNpanV2c211bTBoaGp0c204cDFhNGltMW8ifQ.i2d7l3ljIr4GvyLWj6Hh3w';
@@ -145,10 +132,11 @@
             container: 'map',
             style: 'mapbox://styles/mapbox/streets-v9',
             zoom: 5,
-            minZoom: 2,
+            minZoom: 3,
             center: [116.46, 39.92],
-            renderWorldCopies: true,
+            renderWorldCopies: false,
         });
+
         //MapboxDraw Tool
         var draw = new MapboxDraw({
             displayControlsDefault:false,
@@ -169,25 +157,26 @@
                 },
             ]
         });
-        map.addControl(draw);
 
+        map.addControl(draw);
         map.on('zoomend',function () {
             getdatabyrect();
-        })
+        });
         map.on('moveend',function(){
             getdatabyrect();
-        })
+        });
         map.on('click', function (e) {
             if(e.originalEvent.target.id.match('flight_marker'))
             {
-                id = e.originalEvent.target.id.replace('flight_marker_','')
+                draw = draw.deleteAll();
+                id = e.originalEvent.target.id.replace('flight_marker_','');
                 jQuery.ajax({
-                    url: "/getDataByID/" + id,
+                    url: "/getInfoByID/" + id,
                     success: function (data) {
-                        document.getElementsByClassName('table')[0].innerHTML = '这是table_'+id+'<br>'+data;
-                        console.log(data);
+                        v.flightInfo = data[0];
+
                     }
-                })
+                });
                 jQuery.ajax({
                     url: "/getRouteByID/" + id,
                     success: function (data) {
@@ -201,10 +190,10 @@
                 })
             }
 
-        })
+        });
 
         function stdlnglat(lnglats){
-            s = [Math.floor(lnglats[0][0]), Math.floor(lnglats[0][1]), Math.ceil(lnglats[1][0]), Math.ceil(lnglats[1][1])]
+            s = [Math.floor(lnglats[0][0]), Math.floor(lnglats[0][1]), Math.ceil(lnglats[1][0]), Math.ceil(lnglats[1][1])];
             return s;
         }
         function getdatabydate() {
@@ -254,9 +243,7 @@
                 }
             })
         }
-        function getTableHTML() {
 
-        }
         getdatabyrect();
     </script>
 
