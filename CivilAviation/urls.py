@@ -20,5 +20,10 @@ from Map import views as map_views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', map_views.index),
-    url(r'^airline$', map_views.airline, name='airline')
+    url(r'^airline$', map_views.airline, name='airline'),
+    url(r'^getDataByDate/(\d+-\d+-\d+)', map_views.getDataByDate, name = 'getdatabydate'),
+    url(r'^getDataByRect/([-]?\d+,[-]?\d+,[-]?\d+,[-]?\d+,\d+)', map_views.getDataByRect, name='getdatabyrect'),
+    url(r'^getDataByID/(.*)', map_views.getDataByID, name = 'getdatabyid'),
+    url(r'^getRouteByID/(.*)',map_views.getRouteByID, name = 'getroutebyid'),
+    url(r'^getInfoByID/(.*)', map_views.getInfoByID, name='getinfobyid'),
 ]

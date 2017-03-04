@@ -10,15 +10,21 @@
     <!-- Custom CSS -->
     <link href="../static/css/style.css" rel='stylesheet' type='text/css' />
     <!-- Nav CSS -->
-    <link href="../static/css/custom.css" rel="stylesheet">
+    <link href="../static/css/custom.css" rel="stylesheet" />
     <!-- jQuery -->
     <script src="../static/js/jquery.min.js"></script>
     <!-- Graph JavaScript -->
     <script src="../static/js/d3.v3.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="../static/js/bootstrap.js"></script>
-    <!-- Bing Map-->
-    <script type='text/javascript' src='https://cn.bing.com/mapspreview/sdk/mapcontrol?branch=release&callback=loadMapScenario' async defer></script>
+    <!-- Vue.js -->
+    <script src="../static/js/vue.js"></script>
+    <!-- Mapbox GL -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.css' rel='stylesheet' />
+    <!-- Mapbox GL Draw Tool -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.16.0/mapbox-gl-draw.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.16.0/mapbox-gl-draw.css' type='text/css' />
 </head>
 
 <body>
@@ -37,244 +43,210 @@
             <!-- /.navbar-header -->
 
             <div class="navbar-default sidebar" role="navigation">
-                <div class="sidebar-nav navbar-collapse">
-                    <ul class="nav" id="side-menu">
-                        <table class="table">
-                            <tbody>
+                <div id="info" class="sidebar-nav navbar-collapse">
+                    <table class="table">
+                        <thead>
                             <tr>
-                                <th>#</th>
-                                <th>Column heading</th>
-                                <th>Column heading</th>
+                                <th width="100%">Attr</th>
+                                <th>Value</th>
                             </tr>
-                            <tr>
-                                <th scope="row">1</th>
-                                <td>机型：</td>
-                                <td>Column content</td>
+                        </thead>
+                        <tbody>
+                            <tr v-for="(value, key) in flightInfo">
+                                <td>{%  templatetag openvariable %} key {% templatetag closevariable %}</td>
+                                <td>{%  templatetag openvariable %} value {% templatetag closevariable %}</td>
                             </tr>
-                            <tr>
-                                <th scope="row">2</th>
-                                <td>代码：</td>
-                                <td>Column content</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">3</th>
-                                <td>高度：</td>
-                                <td>Column content</td>
-                            </tr>
-                            <tr>
-                                <th scope="row">4</th>
-                                <td>发动机型号：</td>
-                                <td>Column content</td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </ul>
+                        </tbody>
+                    </table>
                 </div>
                 <!-- /.sidebar-collapse -->
             </div>
             <!-- /.navbar-static-side -->
         </nav>
-        <div id="page-wrapper">
-            <div class="graphs">
-                <!-- 4 Buttons -->
-                <div class="col_3">
-                    <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>机场</strong></h5>
-                                <span>机场分布信息</span>
-                            </div>
+    </div>
+    <div id="page-wrapper">
+        <div class="graphs">
+            <!-- 4 Buttons -->
+            <div class="col_3">
+                <div class="col-md-3 widget widget1">
+                    <div class="r3_counter_box">
+                        <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
+                        <div class="stats">
+                            <h5><strong>机场</strong></h5>
+                            <span>机场分布信息</span>
                         </div>
                     </div>
-                    <div class="col-md-3 widget widget1">
-                        <a href="/airline">
-                            <div class="r3_counter_box">
-                                <i class="pull-left fa fa-users user1 icon-rounded"></i>
-                                <div class="stats">
-                                    <h5><strong>航线</strong></h5>
-                                    <span>航线分布信息</span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 widget widget1">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-comment user2 icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>航班</strong></h5>
-                                <span>实时航班数据</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 widget">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-dollar dollar1 icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>航区</strong></h5>
-                                <span>航区分布信息</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clearfix"> </div>
                 </div>
-                <div class="span_11">
-
-                    <!-- Bing 地图 -->
-                    <div>
-                        <div id="bingMap" style="width:100%;height:600px;">
-                            <script type='text/javascript'>
-                                console.log("Drawing main map...");
-
-                                function loadMapScenario() {
-                                    // Bing 地图部分
-                                    var myCenter = new Microsoft.Maps.Location(35, 110);
-                                    var mapProp = {
-                                        center: myCenter,
-                                        zoom: 5,
-                                        mapTypeId: Microsoft.Maps.MapTypeId.aerial,
-                                        maxZoom: 18,
-                                        minZoom: 3,
-                                        credentials: 'Al3qJxrVEmMYhynjadXtSLXGl7S_JidYTxydqwa5hiKLMevOXvSRD1Nu71af40zl'
-                                        // This key belongs to michaelma7864@outlook.com, for test purposes only
-                                    };
-                                    var map = new Microsoft.Maps.Map(document.getElementById("bingMap"), mapProp);
-
-                                    // This pushpin is for test 测试用
-//                                    var pushpin = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40, 120), {icon:'../static/images/airplane_2.svg', anchor: new Microsoft.Maps.Point(25, 25)});
-//                                    map.entities.push(pushpin);
-
-                                    // Use jQuery to access API, returned data is stored in variable data
-                                    // 使用 jQuery 访问 API 服务器，返回的数据保存在变量 data 中
-                                    drawPushpins();
-                                    var intervalID = window.setInterval(drawPushpins,10000);
-                                    function drawPushpins() {
-                                        jQuery.ajax({
-                                            url: "http://219.224.134.225:5050/real-time",
-                                            success: function (data) {
-                                                map.entities.clear();
-
-                                                console.log("Successfully load data from API server.");
-
-                                                var pushpins = JSON.parse(data);
-                                                for (var i in pushpins) {
-                                                    var location = new Microsoft.Maps.Location(pushpins[i]["lat"], pushpins[i]["lon"]);
-                                                    // num1 is the direction of the flight, this number is passed to createPushpin to create a icon with right direction
-                                                    // num1 是飞机的方向，把此数值传给 createPushpin 来生成不同朝向的图标
-                                                    var pushpin = createPushpin(location, pushpins[i]["num1"]);
-                                                    map.entities.push(pushpin);
-                                                }
-
-                                                console.log("Successfully draw pushpins")
-                                            }
-                                        })
-                                    }
-
-                                    function createPushpin(location, rotate) {
-                                        var svg = ['<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200"><g class="transform-group"><g transform="scale(0.01953125, 0.01953125) rotate(',rotate,',500,500)"><path d="M730.214 877.238l50.625-42.662-47.408-484.26c125.086-132.575 169.91-189.211 152.455-212.15-22.94-17.456-79.576 27.316-212.15 152.455l-484.261-47.461-42.662 50.625 368.982 150.979-184.148 185.731-116.016-30.955-81.105 56.32 144.756 59.958c-4.115 3.375-34.964 39.393-37.283 62.279-0.106 1.213 0.738 1.793 1.793 2.109 0.317 1.055 0.949 1.952 2.109 1.793 22.887-2.32 58.904-33.17 62.279-37.283l59.958 144.756 56.32-81.106-30.955-116.016 185.73-184.148 150.979 369.036z" fill="#ea8010"></path></g></g></svg>'];
-
-                                        //Create a pushpin from the SVG.
-                                        return new Microsoft.Maps.Pushpin(location, {
-                                            icon: svg.join(''),
-                                            anchor: new Microsoft.Maps.Point(0, 0)
-                                        });
-                                    }
-                                }
-                            </script>
+                <div class="col-md-3 widget widget1">
+                    <a href="/airline">
+                        <div class="r3_counter_box">
+                            <i class="pull-left fa fa-users user1 icon-rounded"></i>
+                            <div class="stats">
+                                <h5><strong>航线</strong></h5>
+                                <span>航线分布信息</span>
+                            </div>
                         </div>
-
-                    </div>
-
+                    </a>
                 </div>
-                <div class="clearfix"> </div>
-            </div>
-            <div class="content_bottom">
-                <div class="col-md-12 span_3">
-                    <div class="bs-example1" data-example-id="contextual-table">
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>#</th>
-                                    <th>Column heading</th>
-                                    <th>Column heading</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="active">
-                                    <th scope="row">1</th>
-                                    <td>机型：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">2</th>
-                                    <td>代码：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr class="success">
-                                    <th scope="row">3</th>
-                                    <td>长度：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">4</th>
-                                    <td>翼展：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr class="info">
-                                    <th scope="row">5</th>
-                                    <td>高度：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">6</th>
-                                    <td>载客量：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr class="warning">
-                                    <th scope="row">7</th>
-                                    <td>最大商载：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">8</th>
-                                    <td>货舱容积：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">9</th>
-                                    <td>最大油箱容量：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">10</th>
-                                    <td>最大起飞重量：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">11</th>
-                                    <td>最大航程：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">12</th>
-                                    <td>动力配置：</td>
-                                    <td>Column content</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">13</th>
-                                    <td>发动机型号：</td>
-                                    <td>Column content</td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <div class="col-md-3 widget widget1">
+                    <div class="r3_counter_box">
+                        <i class="pull-left fa fa-comment user2 icon-rounded"></i>
+                        <div class="stats">
+                            <h5><strong>航班</strong></h5>
+                            <span>实时航班数据</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 widget">
+                    <div class="r3_counter_box">
+                        <i class="pull-left fa fa-dollar dollar1 icon-rounded"></i>
+                        <div class="stats">
+                            <h5><strong>航区</strong></h5>
+                            <span>航区分布信息</span>
+                        </div>
                     </div>
                 </div>
                 <div class="clearfix"> </div>
             </div>
-
+            <div class="span_11">
+                <!-- Bing 地图 -->
+                <div id="map" style="width:100%;height:600px;">
+            </div>
+            <div class="clearfix"> </div>
         </div>
     </div>
-    <!-- /#page-wrapper -->
+</div>
+    <script type='text/javascript'>
+        console.log("Drawing main map...");
+        //Vue
+        var v = new Vue({
+            el: '#info',
+            data: {
+                flightInfo: [],
+            },
+        });
+
+        //mapbox GL地图函数
+        mapboxgl.accessToken = 'pk.eyJ1Ijoic3R1cGlnIiwiYSI6ImNpanV2c211bTBoaGp0c204cDFhNGltMW8ifQ.i2d7l3ljIr4GvyLWj6Hh3w';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v9',
+            zoom: 5,
+            minZoom: 3,
+            center: [116.46, 39.92],
+            renderWorldCopies: false,
+        });
+
+        //MapboxDraw Tool
+        var draw = new MapboxDraw({
+            displayControlsDefault:false,
+            styles: [
+                // line stroke
+                {
+                    "id": "gl-draw-line",
+                    "type": "line",
+                    "filter": ["all", ["==", "$type", "LineString"], ["!=", "mode", "static"]],
+                    "layout": {
+                      "line-cap": "round",
+                      "line-join": "round"
+                    },
+                    "paint": {
+                      "line-color": "#D20C0C",
+                      "line-width": 4
+                    }
+                },
+            ]
+        });
+
+        map.addControl(draw);
+        map.on('zoomend',function () {
+            getdatabyrect();
+        });
+        map.on('moveend',function(){
+            getdatabyrect();
+        });
+        map.on('click', function (e) {
+            if(e.originalEvent.target.id.match('flight_marker'))
+            {
+                draw = draw.deleteAll();
+                id = e.originalEvent.target.id.replace('flight_marker_','');
+                jQuery.ajax({
+                    url: "/getInfoByID/" + id,
+                    success: function (data) {
+                        v.flightInfo = data[0];
+
+                    }
+                });
+                jQuery.ajax({
+                    url: "/getRouteByID/" + id,
+                    success: function (data) {
+                        data.forEach(function (route) {
+                            if(route.length > 1)
+                            {
+                                draw.add({ type: 'LineString', coordinates: route});
+                            }
+                        })
+                    }
+                })
+            }
+
+        });
+
+        function stdlnglat(lnglats){
+            s = [Math.floor(lnglats[0][0]), Math.floor(lnglats[0][1]), Math.ceil(lnglats[1][0]), Math.ceil(lnglats[1][1])];
+            return s;
+        }
+        function getdatabydate() {
+            jQuery.ajax({
+                url: "/getDataByDate/2017-01-23",
+                success: function (data) {
+                    console.log(new Date().getSeconds())
+                    console.log("Successfully load data from API server.");
+
+                    for(var i in data) {
+                        var img = document.createElement('img');
+                            img.src = '../static/images/airplane_2.svg'
+                            img.style.width = '30px';
+                            img.style.height = '30px';
+
+                            // add marker to map
+                            var m = new mapboxgl.Marker(img)
+                                .setLngLat([data[i].lon,data[i].lat])
+                                .addTo(map);
+                    }
+                    console.log(new Date().getSeconds());
+                    console.log("Successfully draw pushpins");
+                }
+            })
+        }
+        function getdatabyrect() {
+            jQuery.ajax({
+                url: "/getDataByRect/"+stdlnglat(map.getBounds().toArray())+','+Math.ceil(map.getZoom()),
+                success: function (data) {
+                    parent = document.getElementsByClassName('mapboxgl-canvas-container mapboxgl-interactive')[0];
+                    while(parent.childNodes.length > 1)
+                    {
+                        parent.removeChild(parent.lastChild);
+                    }
+                    for(var i in data) {
+                        var img = document.createElement('img');
+                            img.src = '../static/images/airplane_2.svg';
+                            img.id = 'flight_marker_' + data[i].id;
+                            img.style.width = '30px';
+                            img.style.height = '30px';
+
+                        // add marker to map
+                        var m = new mapboxgl.Marker(img)
+                                .setLngLat([data[i].lon,data[i].lat])
+                                .addTo(map);
+                    }
+                }
+            })
+        }
+
+        getdatabyrect();
+    </script>
+
 </body>
 
 </html>
