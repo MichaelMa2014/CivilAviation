@@ -23,3 +23,6 @@ MapboxDraw工具就是能够解析geojson格式的数据并将其绘制在mapbox
 
 # V1.4更新说明
 开始修改前端的文件结构，准备利用django的模板引擎将html文件进行重构
+
+# V1.4.1更新说明
+完成了html文件的重构，引入base.html文件作为html页面的基本页面，包括了对顶端导航和侧边栏的定义。新的页面只需要扩展改文件并重写sidebar、main以及bottom部分即可。

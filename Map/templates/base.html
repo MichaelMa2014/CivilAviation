@@ -4,15 +4,59 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>{% block title %} 民航大数据 {% endblock %}</title>
-    <!-- jQuery -->
+    <!-- jQuery.js -->
     <script src="../static/js/jquery.min.js"></script>
-    <!-- Vue.js -->
-    <script src="../static/js/vue.js"></script>
-
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../static/js/bootstrap.js"></script>
+    <!-- Bootstrap core CSS -->
+    <link href="../static/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../static/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../static/js/ie10-viewport-bug-workaround.js"></script>
+    <!-- Custom styles for this template -->
+    <link href="../static/css/dashboard.css" rel="stylesheet">
 
     {% block extralinks %}{% endblock %}
 </head>
+<style>
+    {% block extrastyles %}{% endblock %}
+</style>
 <body>
-    {% block body %}{% endblock %}
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">民航大数据</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/">机场</a></li>
+            <li><a href="airline">航线</a></li>
+            <li><a href="/">航班</a></li>
+            <li><a href="/">航区</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+            {% block sidebar %}{% endblock %}
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+            {% block main %}{% endblock %}
+            {% block bottom %}{% include 'bottom.html' %}{% endblock %}
+        </div>
+      </div>
+    </div>
+
+
 </body>
 </html>

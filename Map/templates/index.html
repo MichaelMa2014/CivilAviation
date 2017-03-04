@@ -1,16 +1,6 @@
 {% extends 'base.html' %}
 {% block title %}Home{% endblock %}
 {% block extralinks %}
-    <!-- Bootstrap Core CSS -->
-    <link href="../static/css/bootstrap.css" rel='stylesheet' type='text/css' />
-    <!-- Custom CSS -->
-    <link href="../static/css/style.css" rel='stylesheet' type='text/css' />
-    <!-- Nav CSS -->
-    <link href="../static/css/custom.css" rel="stylesheet" />
-    <!-- jQuery -->
-    <script src="../static/js/jquery.min.js"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="../static/js/bootstrap.js"></script>
     <!-- Vue.js -->
     <script src="../static/js/vue.js"></script>
     <!-- Mapbox GL -->
@@ -20,96 +10,32 @@
     <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.16.0/mapbox-gl-draw.js'></script>
     <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.16.0/mapbox-gl-draw.css' type='text/css' />
 {% endblock %}
-
-{% block body %}
-    <div id="wrapper">
-        <!-- Navigation -->
-        <nav class="top1 navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/">民航大数据</a>
-            </div>
-            <!-- /.navbar-header -->
-
-            <div class="navbar-default sidebar" role="navigation">
-                <div id="info" class="sidebar-nav navbar-collapse">
-                    <table class="table">
-                        <thead>
-                            <tr>
-                                <th width="100%">Attr</th>
-                                <th>Value</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr v-for="(value, key) in flightInfo">
-                                <td>{%  templatetag openvariable %} key {% templatetag closevariable %}</td>
-                                <td>{%  templatetag openvariable %} value {% templatetag closevariable %}</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-                <!-- /.sidebar-collapse -->
-            </div>
-            <!-- /.navbar-static-side -->
-        </nav>
+{% block extrastyles %}
+{% endblock %}
+{% block sidebar %}
+    <div id="info" class="sidebar-nav navbar-collapse">
+        <table class="table" style="table-layout: fixed; text-align: center">
+            <thead>
+                <tr>
+                    <th style="text-align: center">Attr</th>
+                    <th style="text-align: center">Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="(value, key) in flightInfo">
+                    <td style="word-break:break-all">{%  templatetag openvariable %} key {% templatetag closevariable %}</td>
+                    <td style="word-break:break-all">{%  templatetag openvariable %} value {% templatetag closevariable %}</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
-    <div id="page-wrapper">
-        <div class="graphs">
-            <!-- 4 Buttons -->
-            <div class="col_3">
-                <div class="col-md-3 widget widget1">
-                    <div class="r3_counter_box">
-                        <i class="pull-left fa fa-thumbs-up icon-rounded"></i>
-                        <div class="stats">
-                            <h5><strong>机场</strong></h5>
-                            <span>机场分布信息</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 widget widget1">
-                    <a href="/airline">
-                        <div class="r3_counter_box">
-                            <i class="pull-left fa fa-users user1 icon-rounded"></i>
-                            <div class="stats">
-                                <h5><strong>航线</strong></h5>
-                                <span>航线分布信息</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 widget widget1">
-                    <div class="r3_counter_box">
-                        <i class="pull-left fa fa-comment user2 icon-rounded"></i>
-                        <div class="stats">
-                            <h5><strong>航班</strong></h5>
-                            <span>实时航班数据</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 widget">
-                    <div class="r3_counter_box">
-                        <i class="pull-left fa fa-dollar dollar1 icon-rounded"></i>
-                        <div class="stats">
-                            <h5><strong>航区</strong></h5>
-                            <span>航区分布信息</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="clearfix"> </div>
-            </div>
-            <div class="span_11">
-                <!-- Bing 地图 -->
-                <div id="map" style="width:100%;height:600px;">
-            </div>
-            <div class="clearfix"> </div>
+{% endblock %}
+{% block main %}
+    <div class="span_11" style="height: 100%">
+        <!-- Bing 地图 -->
+        <div id="map" style="width:100%;height:100%;">
         </div>
     </div>
-</div>
     <script type='text/javascript'>
         console.log("Drawing main map...");
         //Vue
@@ -240,5 +166,10 @@
 
         getdatabyrect();
     </script>
-
 {% endblock %}
+
+{% block bottom %}
+<div style="text-align: center">This is the bottom from index.html</div>
+{% endblock %}
+
+
